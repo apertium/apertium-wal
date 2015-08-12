@@ -133,9 +133,9 @@ VERB-impInt ;
 VERB-imprNegDec ;
 VERB-imprNegIntr ;
 VERB-pass ;
-LEXICON VERB-cau ;
-LEXICON VERB-com ;
-LEXICON VERB-rel ;
+VERB-cau ;
+VERB-com ;
+VERB-rel ;
 
 LEXICON VERB-PfDec
 
@@ -220,27 +220,27 @@ LEXICON VERB-imprNegIntr
 
 LEXICON VERB-pass
 
-%<pass%>:ett.#.;
+%<pass%>:ett # ;
 
 LEXICON VERB-cau
 
-%<cau%>:iss.#.;
+%<cau%>:iss # ;
 
 LEXICON VERB-com
 
-%<sg%>%<neg%>%<impr%>%<com%>:a.#.;
-%<pl%>%<neg%>%<impr%>%<com%>:iite.#.;
-%<sg%>%<neg%>%<impr%>%<com%>:ooppa.#.;
-%<pl%>%<neg%>%<impr%>%<com%>:ooppa.#.;
+%<sg%>%<neg%>%<impr%>%<com%>:a # ;
+%<pl%>%<neg%>%<impr%>%<com%>:iite # ;
+%<sg%>%<neg%>%<impr%>%<com%>:ooppa # ;
+%<pl%>%<neg%>%<impr%>%<com%>:ooppa # ;
 
 LEXICON VERB-rel
 
-%<rel%>%<fm%>:ra.#.;
-%<rel%>%<ms%>:ge.#.;
-%<rel%>%<impr%>%<subj%>:iya.#.;
-%<rel%>%<pr%>%<subj%>:ida.#.;
-%<rel%>%<impr%>%<obj%>%:ido.#.;
-%<rel%>%<impr%>%<obj%>:iyo.#.;
+%<rel%>%<fm%>:ra # ;
+%<rel%>%<ms%>:ge # ;
+%<rel%>%<impr%>%<subj%>:iya # ;
+%<rel%>%<pr%>%<subj%>:ida # ;
+%<rel%>%<impr%>%<obj%>%:ido # ;
+%<rel%>%<impr%>%<obj%>:iyo # ;
 
 
 

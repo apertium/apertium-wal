@@ -13,7 +13,7 @@ Cns = K T
 
 Rules
 
-"s conversion for making verbs transitive"
+!"s conversion for making verbs transitive"
 !Cns:s <=> _ [ Cns: ]*/[ %{h%}: | %>: ]* %{tv%}:0 ;
 !      where Cns in ( K k T t ) ;
 
