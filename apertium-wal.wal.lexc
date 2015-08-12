@@ -1,0 +1,257 @@
+! Morphological Transducer for Wolaytta
+
+Multichar_Symbols
+
+! Part of speech categories
+%<n%>  ! Noun
+%<ind%>  ! Indefinite
+%<abs%>  ! Absolutive
+%<v%>  ! Verb
+%<pl%> ! Plural
+%<sg%> ! Singular
+%<pr%> ! Perfective
+%<pas%> ! Past
+%<pre%>.!.Present
+%<dec%> ! Declarative
+%<tv%> ! Transitive Verb
+%<iv%> ! Intransitive Verb
+%<fm%> ! Feminine
+%<ms%> ! Masculine
+%<neg%> ! Negative
+%<impr%> ! Imperfective
+%<pass%> ! Passive
+%<intr%> ! Introgetive
+%<cau%> ! Causative
+%<imp%> ! Imperative
+%<sub%> ! Subjective
+%<obj%> ! Objective
+%<rel%> ! Relative
+%<def%> ! Definite
+
+%{tv%} ! triggers change to s
+%{h%}  ! becomes h to make "sh" clusters
+%>     ! morpheme boundary
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                       M O R P H O T A C T I C S                         !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON Root
+
+NounRoot ;
+VerbRoot ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                          L E X I C O N                                  !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON NounRoot
+
+ketta RegNounInfl ; ! 
+kana RegNounInfl ; !
+
+LEXICON VerbRoot
+
+m:m V-TV ; ! "to eat"
+cay:cay V-TV ; ! "to insult"
+door:door V-TV ; ! "to chose"
+7anc:7anc V-TV ; ! "to mince"
+sham:sham V-TV ; ! "to buy"
+buucc:buucc V-TV ; ! "to mow"
+cim:cim V-TV ; ! "to become old"
+7agg:7agg V-TV ; ! "to cease"
+7ag:7ag V-TV ; ! "to brew"
+7all:7all V-TV ; ! "to go funeral ceremony"
+7al: 7al V-IV ; ! "to become quenched"
+pent:pent V-TV ;! "to boil"
+7imm:7imm V-TV ; ! "to give"
+aakk:aakk V-IV ; ! "become wide"
+b:b V-TV ; ! "to go"
+g:g V-TV ; ! "to say"
+m:m V-TV ; ! "to eat"
+y:y V-TV ; ! "to come"
+d:d V-IV ; ! "to exist, live"
+7eh:7eh V-TV ; ! "to bring"
+7ep:7ep V-TV ; ! "to take"
+7aakk:7aakk V-IV ; ! "to become wide"
+7aduKK:7aduKK V-IV ; ! "to become long"
+be7:be7 V-TV ; ! "to see"
+kiy:kiy V-TV ; ! "to go out"
+7att:7att V-IV ; ! "to heal, to be saved"
+bay:bay V-TV ; ! "to be lost"
+geey:geey V-TV ; ! "to become clean"
+gooy:gooy V-TV ; ! "to become mad"
+yayy:yayy V-TV ; ! "to fear"
+pa7:pa7 V-TV ; ! "to spend the day"
+wur:wur V-IV ; ! "to finish"
+daapur:daapur V-IV ; ! "to tire"
+dummat:dummat V-TV ; ! "to be different"
+Coratt:Coratt V-IV ; ! "to become many"
+7aLL:7aLL V-IV ; ! "to become expensive"
+boLL:boLL V-IV ; ! "to become hot"
+bal:bal V-TV ; ! "to make a mistake"
+7uNN:7uNN V-IV ; ! "to become narrow"
+Ceegg:Ceegg V-IV ; ! "to become old"
+7aaDD:7aaDD V-TV ; ! "to pass"
+7oíKK:7oíKK V-TV ; ! "to seize"
+gakk:gakk V-TV ; ! "to reach"
+lo77:lo77 V-IV ; ! "to become good"
+7amman:7amman V-TV ; ! "to believe"
+pinn:pinn V-TV ; ! "to cross"
+dend:dend V-TV ; ! "to rise up"
+me77:me77 V-IV ; ! "to break"
+diCC:diCC V-TV ; ! "to grow"
+7eeTT:7eeTT V-IV ; ! "to burn"
+paT:paT V-IV ; ! "to heal"
+
+
+att:at%{h%}t%{h%} V-IV ; ! ""
+
+LEXICON RegNounInfl
+
+%<n%>%<sg%>:   # ;
+%<n%>%<pl%>:ta   # ;
+
+LEXICON V-TV
+
+%<v%>%<tv%>:%> VERB-INFL ;
+
+LEXICON V-IV
+
+%<v%>%<iv%>:%> VERB-INFL ;
+%<v%>%<tv%>:%>%{tv%} VERB-INFL ;
+
+
+LEXICON VERB-INFL
+
+VERB-PfDec ;
+VERB-PfNegDec ;
+VERB-PfIntr ;
+VERB-PfNegIntr ;
+VERB-imprDec ;
+VERB-impInt ;
+VERB-imprNegDec ;
+VERB-imprNegIntr ;
+VERB-pass ;
+LEXICON VERB-cau ;
+LEXICON VERB-com ;
+LEXICON VERB-rel ;
+
+LEXICON VERB-PfDec
+
+%<p1%>%<sg%>%<pr%>%<pas%>%<dec%>:aas # ;
+%<p1%>%<pl%>%<pr%>%<pas%>%<dec%>:iida # ;
+%<p2%>%<sg%>%<pr%>%<pas%>%<dec%>:aadasa # ;
+%<p2%>%<pl%>%<pr%>%<pas%>%<dec%>:iideta # ;
+%<p3%>%<sg%>%<pr%>%<pas%>%<fm%>%<dec%>:aasu # ;
+%<p3%>%<sg%>%<pr%>%<pas%>%<ms%>%<dec%>:iis # ;
+%<p3%>%<pl%>%<pr%>%<pas%>%<dec%>:iidosona # ;
+
+LEXICON VERB-PfNegDec
+
+%<p1%>%<sg%>%<neg%>%<pr%>%<pas%>%<dec%>:abeykke # ;
+%<p1%>%<pl%>%<neg%>%<pr%>%<pas%>%<dec%>:iibookko # ;
+%<p2%>%<sg%>%<neg%>%<pr%>%<pas%>%<dec%>:abaakka # ;
+%<p2%>%<pl%>%<neg%>%<pr%>%<pas%>%<dec%>:iibeekketa # ;
+%<p3%>%<sg%>%<neg%>%<pr%>%<pas%>%<fm%>%<dec%>:abeykku # ;
+%<p3%>%<sg%>%<neg%>%<pr%>%<pas%>%<ms%>%<dec%>:ibbeenna # ;
+%<p3%>%<pl%>%<neg%>%<pr%>%<pas%>%<dec%>:ibookkona # ;
+
+LEXICON VERB-PfIntr
+
+%<p1%>%<sg%>%<pr%>%<pas%>%<int%>:iidanaa # ;
+%<p1%>%<pl%>%<pr%>%<pas%>%<int%>:iidoo # ;
+%<p2%>%<sg%>%<pr%>%<pas%>%<int%>:aadii # ;
+%<p2%>%<pl%>%<pr%>%<pas%>%<int%>:iidetii # ;
+%<p3%>%<sg%>%<pr%>%<pas%>%<fm%>%<int%>:aadee # ;
+%<p3%>%<sg%>%<pr%>%<pas%>%<ms%>%<int%>:iidee # ;
+%<p3%>%<pl%>%<pr%>%<pas%>%<int%>:iidonaa # ;
+
+LEXICON VERB-PfNegIntr
+
+%<p1%>%<sg%>%<pr%>%<pas%>%<int%>:abeykkinaa # ;
+%<p1%>%<pl%>%<pr%>%<pas%>%<int%>:iibookkoo # ;
+%<p2%>%<sg%>%<pr%>%<pas%>%<int%>:abeykkii # ;
+%<p2%>%<pl%>%<pr%>%<pas%>%<int%>:iibeeketii # ;
+%<p3%>%<sg%>%<pr%>%<pas%>%<fm%>%<int%>:abeykkee # ;
+%<p3%>%<sg%>%<pr%>%<pas%>%<ms%>%<int%>:ibbeennee # ;
+%<p3%>%<pl%>%<pr%>%<pas%>%<int%>:ibookkonaa # ;
+
+LEXICON VERB-imprDec
+
+%<p1%>%<sg%>%<impr%>%<pre%>%<dec%>:ays # ;
+%<p1%>%<pl%>%<impr%>%<pre%>%<dec%>:eettees # ;
+%<p2%>%<sg%>%<impr%>%<pre%>%<dec%>:aasa # ;
+%<p2%>%<pl%>%<impr%>%<pre%>%<dec%>:eeta # ;
+%<p3%>%<sg%>%<impr%>%<pre%>%<fm%>%<dec%>:awus # ;
+%<p3%>%<sg%>%<impr%>%<pre%>%<ms%>%<dec%>:ees # ;
+%<p3%>%<pl%>%<impr%>%<pre%>%<dec%>:oosona # ;
+%<p3%>%<pl%>%<impr%>%<pre%>%<dec%>:oosona # ;
+
+LEXICON VERB-imprInt
+
+%<p1%>%<sg%>%<impr%>%<pre%>%<int%>:iyanaa # ;
+%<p1%>%<pl%>%<impr%>%<pre%>%<int%>:iyonii # ;
+%<p2%>%<sg%>%<impr%>%<pre%>%<int%>:ay # ;
+%<p2%>%<pl%>%<impr%>%<pre%>%<int%>:eetii # ;
+%<p3%>%<sg%>%<impr%>%<pre%>%<ms%>%<int%>:ay # ;
+%<p3%>%<sg%>%<impr%>%<pre%>%<fm%>%<int%>:ii # ;
+%<p3%>%<sg%>%<impr%>%<pre%>%<ms%>%<int%>:iyonaa # ;
+
+LEXICON VERB-imprNegDec
+
+%<p1%>%<sg%>%<impr%>%<pre%>%<dec%>:iikke # ;
+%<p1%>%<pl%>%<impr%>%<pre%>%<dec%>:ookko # ;
+%<p2%>%<sg%>%<impr%>%<pre%>%<dec%>:aakka # ;
+%<p2%>%<pl%>%<impr%>%<pre%>%<dec%>:eekketa # ;
+%<p3%>%<sg%>%<impdr%>%<pre%>%<ms%>%<dec%>:uukku # ;
+%<p3%>%<sg%>%<impr%>%<pre%>%<ms%>%<dec%>:eenna # ;
+%<p3%>%<pl%>%<impr%>%<pre%>%<dec%>:ookkona # ;
+
+LEXICON VERB-imprNegIntr
+
+%<p1%>%<sg%>%<impr%>%<prs%>%<int%>:iikkinaa # ;
+%<p1%>%<pl%>%<impr%>%<prs%>%<int%>:ookkomii # ;
+%<p2%>%<sg%>%<impr%>%<prs%>%<int%>:iikkii # ;
+%<p2%>%<pl%>%<impr%>%<prs%>%<int%>:eekketii # ;
+%<p3%>%<sg%>%<impr%>%<prs%>%<fm%>%<int%>:eekkee # ;
+%<p3%>%<sg%>%<impr%>%<prs%>%<ms%>%<int%>:eekkee # ;
+%<p3%>%<pl%>%<impr%>%<prs%>%<int%>:eekketii # ;
+
+LEXICON VERB-pass
+
+%<pass%>:ett.#.;
+
+LEXICON VERB-cau
+
+%<cau%>:iss.#.;
+
+LEXICON VERB-com
+
+%<sg%>%<neg%>%<impr%>%<com%>:a.#.;
+%<pl%>%<neg%>%<impr%>%<com%>:iite.#.;
+%<sg%>%<neg%>%<impr%>%<com%>:ooppa.#.;
+%<pl%>%<neg%>%<impr%>%<com%>:ooppa.#.;
+
+LEXICON VERB-rel
+
+%<rel%>%<fm%>:ra.#.;
+%<rel%>%<ms%>:ge.#.;
+%<rel%>%<impr%>%<subj%>:iya.#.;
+%<rel%>%<pr%>%<subj%>:ida.#.;
+%<rel%>%<impr%>%<obj%>%:ido.#.;
+%<rel%>%<impr%>%<obj%>:iyo.#.;
+
+
+
+
+
+! Resources:
+! http://wiki.apertium.org/wiki/Starting_a_new_language_with_HFST#Lexicon
+! http://wiki.apertium.org/wiki/Lttoolbox_and_lexc
+! http://wiki.apertium.org/wiki/Apertium-specific_conventions_for_lexc
+! https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstHome
+! http://hfst.sourceforge.net/
+! http://www.cis.upenn.edu/~cis639/docs/lexc.html
+! http://wiki.apertium.org/wiki/Hfst
+
