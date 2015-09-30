@@ -13,4 +13,6 @@
 /autogen.sh -text
 /configure.ac -text
 /modes.xml -text
+tests/cases.yaml -text
+tests/verbs.yaml -text
 /wal.prob -text svneol=unset#unset
