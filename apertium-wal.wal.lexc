@@ -105,8 +105,8 @@ att:at%{h%}t%{h%} V-IV ; ! ""
 
 LEXICON RegNounInfl
 
-%<n%>%<sg%>:   # ;
-%<n%>%<pl%>:ta   # ;
+%<n%>%<sing%>:   # ;
+%<n%>%<plr%>:ta   # ;
 
 LEXICON V-TV
 
@@ -120,98 +120,106 @@ LEXICON V-IV
 
 LEXICON VERB-INFL
 
+VERB-Imfr ;
+VERB-NegImf ;
+VERB-IntrImf ;
+VERB-NegIntrImf ;
 VERB-Prf ;
-VERB-PrfNeg ;
-VERB-PrfIntr ;
-VERB-PfNegIntr ;
-VERB-Impr ;
-VERB-ImpNeg ;
-VERB-ImprIntr ;
-VERB-ImprNegIntr ;
+VERB-NegPrf ;
+VERB-IntrPrf ;
+VERB-NegIntrPrf ;
 VERB-Pass ;
 VERB-Cau ;
 
+LEXICON VERB-Imfr
+
+%<1%>%<sing%>%<imfr%>:ays # ;
+%<1%>%<plr%>%<imfr%>:eettees # ;
+%<1%>%<plr%>%<imfr%>:oos # ;
+%<2%>%<sing%>%<imfr%>:aasa # ;
+%<2%>%<plr%>%<imfr%>:eeta # ;
+%<3%>%<sing%>%<fem%>%<imfr%>:awsu # ;
+%<3%>%<sing%>%<masc%>%<imfr%>:ees # ;
+%<3%>%<plr%>%<imfr%>:oosona # ;
+
+LEXICON VERB-NegImf
+
+%<1%>%<sing%>%<neg%>%<imfr%>:ikke # ;
+%<1%>%<plr%>%<neg%>%<imfr%>:okko # ;
+%<1%>%<plr%>%<neg%>%<imfr%>:ettenna # ;
+%<2%>%<sing%>%<neg%>%<imfr%>:akka # ;
+%<2%>%<plr%>%<neg%>%<imfr%>:ekketa # ;
+%<3%>%<sing%>%<fem%>%<neg%>%<imfr%>:ukku # ;
+%<3%>%<sing%>%<masc%>%<neg%>%<imfr%>:enna # ;
+%<3%>%<plr%>%<neg%>%<imfr%>:okkona # ;
+
+LEXICON VERB-IntrImf
+
+%<1%>%<sing%>%<intr%>%<imfr%>:iyanaa # ;
+%<1%>%<plr%>%<intr%>%<imfr%>:iyo # ;
+%<1%>%<plr%>%<intr%>%<imfr%>:iyonii # ;
+%<2%>%<sing%>%<intr%>%<imfr%>:ay # ;
+%<2%>%<plr%>%<intr%>%<imfr%>:eetii # ;
+%<3%>%<sing%>%<fem%>%<intr%>%<imfr%>:ay # ;
+%<3%>%<sing%>%<masc%>%<intr%>%<imfr%>:ii # ;
+%<3%>%<plr%>%<intr%>%<imfr%>:iyonaa # ;
+
+
+LEXICON VERB-NegIntrImf
+
+%<1%>%<sing%>%<neg%>%<intr%>%<imfr%>:ikkinaa # ;
+%<1%>%<plr%>%<neg%>%<intr%>%<imfr%>:okkonii # ;
+%<1%>%<plr%>%<neg%>%<intr%>%<imfr%>:ettennee # ;
+%<2%>%<sing%>%<neg%>%<intr%>%<imfr%>:ikkii # ;
+%<2%>%<plr%>%<neg%>%<intr%>%<imfr%>:ekketii # ;
+%<3%>%<sing%>%<fem%>%<neg%>%<intr%>%<imfr%>:ekkee # ;
+%<3%>%<sing%>%<masc%>%<neg%>%<intr%>%<imfr%>:ennee # ;
+%<3%>%<plr%>%<neg%>%<intr%>%<imfr%>:okkonaa # ;
 
 LEXICON VERB-Prf
 
-%<p1%>%<sg%>%<pr%>%<pas%>%<dec%>:aas # ;
-%<p1%>%<pl%>%<pr%>%<pas%>%<dec%>:iida # ;
-%<p2%>%<sg%>%<pr%>%<pas%>%<dec%>:aadasa # ;
-%<p2%>%<pl%>%<pr%>%<pas%>%<dec%>:iideta # ;
-%<p3%>%<sg%>%<pr%>%<pas%>%<fm%>%<dec%>:aasu # ;
-%<p3%>%<sg%>%<pr%>%<pas%>%<ms%>%<dec%>:iis # ;
-%<p3%>%<pl%>%<pr%>%<pas%>%<dec%>:iidosona # ;
+%<1%>%<sing%>%<prf%>:aas # ;
+%<1%>%<sing%>%<prf%>:aasi # ;
+%<1%>%<plr%>%<prf%>:ida # ;
+%<2%>%<sing%>%<prf%>:adasa # ;
+%<2%>%<plr%>%<prf%>:ideta # ;
+%<3%>%<sing%>%<fem%>%<prf%>%:aasu # ;
+%<3%>%<sing%>%<masc%>%<prf%>:iis # ;
+%<3%>%<sing%>%<masc%>%<prf%>:iisi # ;
+%<3%>%<plr%>%<prf%>:idosona # ;
 
-LEXICON VERB-PrfNeg
+LEXICON VERB-NegPrf
 
-%<p1%>%<sg%>%<neg%>%<pr%>%<pas%>%<dec%>:abeykke # ;
-%<p1%>%<pl%>%<neg%>%<pr%>%<pas%>%<dec%>:iibookko # ;
-%<p2%>%<sg%>%<neg%>%<pr%>%<pas%>%<dec%>:abaakka # ;
-%<p2%>%<pl%>%<neg%>%<pr%>%<pas%>%<dec%>:iibeekketa # ;
-%<p3%>%<sg%>%<neg%>%<pr%>%<pas%>%<fm%>%<dec%>:abeykku # ;
-%<p3%>%<sg%>%<neg%>%<pr%>%<pas%>%<ms%>%<dec%>:ibbeenna # ;
-%<p3%>%<pl%>%<neg%>%<pr%>%<pas%>%<dec%>:ibookkona # ;
+%<1%>%<sing%>%<neg%>%<prf%>:abeikke # ;
+%<1%>%<plr%>%<neg%>%<prf%>:ibeokko # ;
+%<1%>%<plr%>%<neg%>%<prf%>:ibeettenna # ;
+%<2%>%<sing%>%<neg%>%<prf%>:abeakka # ;
+%<2%>%<plr%>%<neg%>%<prf%>:ibeekketa # ;
+%<3%>%<sing%>%<neg%>%<fem%>%<prf%>:abeukku # ;
+%<3%>%<sing%>%<masc%>%<neg%>%<prf%>:ibeenna # ;
+%<3%>%<plr%>%<neg%>%<prf%>:ibeokkona # ;
 
-LEXICON VERB-PrfIntr
+LEXICON VERB-IntrPrf
 
-%<p1%>%<sg%>%<pr%>%<pas%>%<int%>:iidanaa # ;
-%<p1%>%<pl%>%<pr%>%<pas%>%<int%>:iidoo # ;
-%<p2%>%<sg%>%<pr%>%<pas%>%<int%>:aadii # ;
-%<p2%>%<pl%>%<pr%>%<pas%>%<int%>:iidetii # ;
-%<p3%>%<sg%>%<pr%>%<pas%>%<fm%>%<int%>:aadee # ;
-%<p3%>%<sg%>%<pr%>%<pas%>%<ms%>%<int%>:iidee # ;
-%<p3%>%<pl%>%<pr%>%<pas%>%<int%>:iidonaa # ;
+%<1%>%<sing%>%<intr%>%<prf%>:idanaa # ;
+%<1%>%<plr%>%<intr%>%<prf%>:ido # ;
+%<1%>%<plr%>%<intr%>%<prf%>:idonii # ;
+%<2%>%<sing%>%<intr%>%<prf%>:adii # ;
+%<2%>%<plr%>%<intr%>%<prf%>:idetii # ;
+%<3%>%<sing%>%<fem%>%<intr%>%<prf%>:adee # ;
+%<3%>%<sing%>%<masc%>%<intr%>%<prf%>:idee # ;
+%<3%>%<plr%>%<intr%>%<prf%>:idonaa # ;
 
-LEXICON VERB-PfNegIntr
+LEXICON VERB-NegIntrPrf
 
-%<p1%>%<sg%>%<pr%>%<pas%>%<int%>:abeykkinaa # ;
-%<p1%>%<pl%>%<pr%>%<pas%>%<int%>:iibookkoo # ;
-%<p2%>%<sg%>%<pr%>%<pas%>%<int%>:abeykkii # ;
-%<p2%>%<pl%>%<pr%>%<pas%>%<int%>:iibeeketii # ;
-%<p3%>%<sg%>%<pr%>%<pas%>%<fm%>%<int%>:abeykkee # ;
-%<p3%>%<sg%>%<pr%>%<pas%>%<ms%>%<int%>:ibbeennee # ;
-%<p3%>%<pl%>%<pr%>%<pas%>%<int%>:ibookkonaa # ;
-
-LEXICON VERB-Impr
-
-%<p1%>%<sg%>%<impr%>%<pre%>%<dec%>:ays # ;
-%<p1%>%<pl%>%<impr%>%<pre%>%<dec%>:eettees # ;
-%<p2%>%<sg%>%<impr%>%<pre%>%<dec%>:aasa # ;
-%<p2%>%<pl%>%<impr%>%<pre%>%<dec%>:eeta # ;
-%<p3%>%<sg%>%<impr%>%<pre%>%<fm%>%<dec%>:awus # ;
-%<p3%>%<sg%>%<impr%>%<pre%>%<ms%>%<dec%>:ees # ;
-%<p3%>%<pl%>%<impr%>%<pre%>%<dec%>:oosona # ;
-%<p3%>%<pl%>%<impr%>%<pre%>%<dec%>:oosona # ;
-
-LEXICON VERB-ImpNeg
-
-%<p1%>%<sg%>%<impr%>%<pre%>%<int%>:iyanaa # ;
-%<p1%>%<pl%>%<impr%>%<pre%>%<int%>:iyonii # ;
-%<p2%>%<sg%>%<impr%>%<pre%>%<int%>:ay # ;
-%<p2%>%<pl%>%<impr%>%<pre%>%<int%>:eetii # ;
-%<p3%>%<sg%>%<impr%>%<pre%>%<ms%>%<int%>:ay # ;
-%<p3%>%<sg%>%<impr%>%<pre%>%<fm%>%<int%>:ii # ;
-%<p3%>%<sg%>%<impr%>%<pre%>%<ms%>%<int%>:iyonaa # ;
-
-LEXICON VERB-ImprIntr
-
-%<p1%>%<sg%>%<impr%>%<pre%>%<dec%>:iikke # ;
-%<p1%>%<pl%>%<impr%>%<pre%>%<dec%>:ookko # ;
-%<p2%>%<sg%>%<impr%>%<pre%>%<dec%>:aakka # ;
-%<p2%>%<pl%>%<impr%>%<pre%>%<dec%>:eekketa # ;
-%<p3%>%<sg%>%<impdr%>%<pre%>%<ms%>%<dec%>:uukku # ;
-%<p3%>%<sg%>%<impr%>%<pre%>%<ms%>%<dec%>:eenna # ;
-%<p3%>%<pl%>%<impr%>%<pre%>%<dec%>:ookkona # ;
-
-LEXICON VERB-ImprNegIntr
-
-%<p1%>%<sg%>%<impr%>%<prs%>%<int%>:iikkinaa # ;
-%<p1%>%<pl%>%<impr%>%<prs%>%<int%>:ookkomii # ;
-%<p2%>%<sg%>%<impr%>%<prs%>%<int%>:iikkii # ;
-%<p2%>%<pl%>%<impr%>%<prs%>%<int%>:eekketii # ;
-%<p3%>%<sg%>%<impr%>%<prs%>%<fm%>%<int%>:eekkee # ;
-%<p3%>%<sg%>%<impr%>%<prs%>%<ms%>%<int%>:eekkee # ;
-%<p3%>%<pl%>%<impr%>%<prs%>%<int%>:eekketii # ;
+%<1%>%<sing%>%<intr%>%<prf%>:abeikkinaa # ;
+%<1%>%<plr%>%<intr%>%<prf%>:ibeokkonii # ;
+%<1%>%<plr%>%<intr%>%<prf%>:ibeettennee # ;
+%<2%>%<sing%>%<intr%>%<prf%>:abeikkii # ;
+%<2%>%<plr%>%<intr%>%<prf%>:ibeekketii # ;
+%<3%>%<sing%>%<fem%>%<intr%>%<prf%>:abeekkee # ;
+%<3%>%<sing%>%<masc%>%<intr%>%<prf%>:ibeennee # ;
+%<3%>%<plr%>%<intr%>%<prf%>:ibeokkonaa # ;
 
 LEXICON VERB-Pass
 
@@ -219,8 +227,8 @@ LEXICON VERB-Pass
 
 LEXICON VERB-pass-endings
 
-VERB-imprInt ;
-VERB-imprNegIntr ;
+VERB-imfInt ;
+VERB-NegIntrImf ;
 
 LEXICON VERB-Cau
 
@@ -228,19 +236,19 @@ LEXICON VERB-Cau
 
 LEXICON VERB-com
 
-%<sg%>%<neg%>%<impr%>%<com%>:a # ;
-%<pl%>%<neg%>%<impr%>%<com%>:iite # ;
-%<sg%>%<neg%>%<impr%>%<com%>:ooppa # ;
-%<pl%>%<neg%>%<impr%>%<com%>:ooppa # ;
+%<sing%>%<neg%>%<imfr%>%<com%>:a # ;
+%<plr%>%<neg%>%<imfr%>%<com%>:iite # ;
+%<sing%>%<neg%>%<imfr%>%<com%>:ooppa # ;
+%<plr%>%<neg%>%<imfr%>%<com%>:ooppa # ;
 
 LEXICON VERB-rel
 
-%<rel%>%<fm%>:ra # ;
-%<rel%>%<ms%>:ge # ;
-%<rel%>%<impr%>%<subj%>:iya # ;
-%<rel%>%<pr%>%<subj%>:ida # ;
-%<rel%>%<impr%>%<obj%>%:ido # ;
-%<rel%>%<impr%>%<obj%>:iyo # ;
+%<rel%>%<fem%>:ra # ;
+%<rel%>%<masc%>:ge # ;
+%<rel%>%<imfr%>%<subj%>:iya # ;
+%<rel%>%<prf%>%<subj%>:ida # ;
+%<rel%>%<imfr%>%<obj%>%:ido # ;
+%<rel%>%<imfr%>%<obj%>:iyo # ;
 
 
 
