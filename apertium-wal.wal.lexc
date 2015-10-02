@@ -4,29 +4,25 @@ Multichar_Symbols
 
 ! Part of speech categories
 %<n%>  ! Noun
-%<ind%>  ! Indefinite
-%<abs%>  ! Absolutive
 %<v%>  ! Verb
-%<pl%> ! Plural
-%<sg%> ! Singular
-%<pr%> ! Perfective
-%<pas%> ! Past
-%<pre%>.!.Present
-%<dec%> ! Declarative
+%<plr%> ! Plural
+%<sing%> ! Singular
+%<fem%> ! Feminine
+%<masc%> ! Masculine
+%<prf%> ! Perfective
+%<imf%> ! Imperfective
+%<neg%> ! Negative
+%<past%> ! Past
 %<tv%> ! Transitive Verb
 %<iv%> ! Intransitive Verb
-%<fm%> ! Feminine
-%<ms%> ! Masculine
-%<neg%> ! Negative
-%<impr%> ! Imperfective
+%<caus%> ! Causative
 %<pass%> ! Passive
 %<intr%> ! Introgetive
-%<cau%> ! Causative
-%<imp%> ! Imperative
-%<sub%> ! Subjective
-%<obj%> ! Objective
-%<rel%> ! Relative
-%<def%> ! Definite
+%<decl%> ! Declarative
+%<pass%> ! Past tense
+%<ind%>  ! Indefinite
+%<abs%>  ! Absolutive
+
 
 %{tv%} ! triggers change to s
 %{h%}  ! becomes h to make "sh" clusters
@@ -124,20 +120,19 @@ LEXICON V-IV
 
 LEXICON VERB-INFL
 
-VERB-PfDec ;
-VERB-PfNegDec ;
-VERB-PfIntr ;
+VERB-Prf ;
+VERB-PrfNeg ;
+VERB-PrfIntr ;
 VERB-PfNegIntr ;
-VERB-imprDec ;
-VERB-impInt ;
-VERB-imprNegDec ;
-VERB-imprNegIntr ;
-VERB-pass ;
-VERB-cau ;
-VERB-com ;
-VERB-rel ;
+VERB-Impr ;
+VERB-ImpNeg ;
+VERB-ImprIntr ;
+VERB-ImprNegIntr ;
+VERB-Pass ;
+VERB-Cau ;
 
-LEXICON VERB-PfDec
+
+LEXICON VERB-Prf
 
 %<p1%>%<sg%>%<pr%>%<pas%>%<dec%>:aas # ;
 %<p1%>%<pl%>%<pr%>%<pas%>%<dec%>:iida # ;
@@ -147,7 +142,7 @@ LEXICON VERB-PfDec
 %<p3%>%<sg%>%<pr%>%<pas%>%<ms%>%<dec%>:iis # ;
 %<p3%>%<pl%>%<pr%>%<pas%>%<dec%>:iidosona # ;
 
-LEXICON VERB-PfNegDec
+LEXICON VERB-PrfNeg
 
 %<p1%>%<sg%>%<neg%>%<pr%>%<pas%>%<dec%>:abeykke # ;
 %<p1%>%<pl%>%<neg%>%<pr%>%<pas%>%<dec%>:iibookko # ;
@@ -157,7 +152,7 @@ LEXICON VERB-PfNegDec
 %<p3%>%<sg%>%<neg%>%<pr%>%<pas%>%<ms%>%<dec%>:ibbeenna # ;
 %<p3%>%<pl%>%<neg%>%<pr%>%<pas%>%<dec%>:ibookkona # ;
 
-LEXICON VERB-PfIntr
+LEXICON VERB-PrfIntr
 
 %<p1%>%<sg%>%<pr%>%<pas%>%<int%>:iidanaa # ;
 %<p1%>%<pl%>%<pr%>%<pas%>%<int%>:iidoo # ;
@@ -177,7 +172,7 @@ LEXICON VERB-PfNegIntr
 %<p3%>%<sg%>%<pr%>%<pas%>%<ms%>%<int%>:ibbeennee # ;
 %<p3%>%<pl%>%<pr%>%<pas%>%<int%>:ibookkonaa # ;
 
-LEXICON VERB-imprDec
+LEXICON VERB-Impr
 
 %<p1%>%<sg%>%<impr%>%<pre%>%<dec%>:ays # ;
 %<p1%>%<pl%>%<impr%>%<pre%>%<dec%>:eettees # ;
@@ -188,7 +183,7 @@ LEXICON VERB-imprDec
 %<p3%>%<pl%>%<impr%>%<pre%>%<dec%>:oosona # ;
 %<p3%>%<pl%>%<impr%>%<pre%>%<dec%>:oosona # ;
 
-LEXICON VERB-imprInt
+LEXICON VERB-ImpNeg
 
 %<p1%>%<sg%>%<impr%>%<pre%>%<int%>:iyanaa # ;
 %<p1%>%<pl%>%<impr%>%<pre%>%<int%>:iyonii # ;
@@ -198,7 +193,7 @@ LEXICON VERB-imprInt
 %<p3%>%<sg%>%<impr%>%<pre%>%<fm%>%<int%>:ii # ;
 %<p3%>%<sg%>%<impr%>%<pre%>%<ms%>%<int%>:iyonaa # ;
 
-LEXICON VERB-imprNegDec
+LEXICON VERB-ImprIntr
 
 %<p1%>%<sg%>%<impr%>%<pre%>%<dec%>:iikke # ;
 %<p1%>%<pl%>%<impr%>%<pre%>%<dec%>:ookko # ;
@@ -208,7 +203,7 @@ LEXICON VERB-imprNegDec
 %<p3%>%<sg%>%<impr%>%<pre%>%<ms%>%<dec%>:eenna # ;
 %<p3%>%<pl%>%<impr%>%<pre%>%<dec%>:ookkona # ;
 
-LEXICON VERB-imprNegIntr
+LEXICON VERB-ImprNegIntr
 
 %<p1%>%<sg%>%<impr%>%<prs%>%<int%>:iikkinaa # ;
 %<p1%>%<pl%>%<impr%>%<prs%>%<int%>:ookkomii # ;
@@ -218,11 +213,16 @@ LEXICON VERB-imprNegIntr
 %<p3%>%<sg%>%<impr%>%<prs%>%<ms%>%<int%>:eekkee # ;
 %<p3%>%<pl%>%<impr%>%<prs%>%<int%>:eekketii # ;
 
-LEXICON VERB-pass
+LEXICON VERB-Pass
 
-%<pass%>:ett # ;
+%<pass%>:ett VERB-pass-endings ;
 
-LEXICON VERB-cau
+LEXICON VERB-pass-endings
+
+VERB-imprInt ;
+VERB-imprNegIntr ;
+
+LEXICON VERB-Cau
 
 %<cau%>:iss # ;
 
