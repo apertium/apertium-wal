@@ -13,7 +13,7 @@ Multichar_Symbols
 %<fem%> ! Feminine
 %<masc%> ! Masculine
 %<prf%> ! Perfective
-%<imf%> ! Imperfective
+%<imfr%> !Imperfective
 %<neg%> ! Negative
 %<past%> ! Past
 %<tv%> ! Transitive Verb
@@ -21,10 +21,6 @@ Multichar_Symbols
 %<caus%> ! Causative
 %<pass%> ! Passive
 %<intr%> ! Introgetive
-%<decl%> ! Declarative
-%<pass%> ! Past tense
-%<ind%>  ! Indefinite
-%<abs%>  ! Absolutive
 
 
 %{tv%} ! triggers change to s
@@ -124,15 +120,24 @@ LEXICON V-IV
 LEXICON VERB-INFL
 
 VERB-Imfr ;
-VERB-NegImf ;
-VERB-IntrImf ;
-VERB-NegIntrImf ;
+VERB-NegImfr ;
+VERB-IntrImfr ;
+VERB-NegIntrImfr ;
 VERB-Prf ;
 VERB-NegPrf ;
 VERB-IntrPrf ;
 VERB-NegIntrPrf ;
+VERB-Fut ;
+VERB-IntFut ;
+VERB-Opt ;
+VERB-NegOpt ;
+VERB-IntrEnding ;
+VERB-Conv ;
+VERB-Simu ;
+VERB-Rel ;
 VERB-Pass ;
 VERB-Cau ;
+VERB-rel ;
 
 LEXICON VERB-Imfr
 
@@ -145,7 +150,7 @@ LEXICON VERB-Imfr
 %<p3%>%<sing%>%<masc%>%<imfr%>:ees # ;
 %<p3%>%<plr%>%<imfr%>:oosona # ;
 
-LEXICON VERB-NegImf
+LEXICON VERB-NegImfr
 
 %<p1%>%<sing%>%<neg%>%<imfr%>:ikke # ;
 %<p1%>%<plr%>%<neg%>%<imfr%>:okko # ;
@@ -156,7 +161,7 @@ LEXICON VERB-NegImf
 %<p3%>%<sing%>%<masc%>%<neg%>%<imfr%>:enna # ;
 %<p3%>%<plr%>%<neg%>%<imfr%>:okkona # ;
 
-LEXICON VERB-IntrImf
+LEXICON VERB-IntrImfr
 
 %<p1%>%<sing%>%<intr%>%<imfr%>:iyanaa # ;
 %<p1%>%<plr%>%<intr%>%<imfr%>:iyo # ;
@@ -168,7 +173,7 @@ LEXICON VERB-IntrImf
 %<p3%>%<plr%>%<intr%>%<imfr%>:iyonaa # ;
 
 
-LEXICON VERB-NegIntrImf
+LEXICON VERB-NegIntrImfr
 
 %<p1%>%<sing%>%<neg%>%<intr%>%<imfr%>:ikkinaa # ;
 %<p1%>%<plr%>%<neg%>%<intr%>%<imfr%>:okkonii # ;
@@ -186,7 +191,7 @@ LEXICON VERB-Prf
 %<p1%>%<plr%>%<prf%>:ida # ;
 %<p2%>%<sing%>%<prf%>:adasa # ;
 %<p2%>%<plr%>%<prf%>:ideta # ;
-%<p3%>%<sing%>%<fem%>%<prf%>%:aasu # ;
+%<p3%>%<sing%>%<fem%>%<prf%>:aasu # ;
 %<p3%>%<sing%>%<masc%>%<prf%>:iis # ;
 %<p3%>%<sing%>%<masc%>%<prf%>:iisi # ;
 %<p3%>%<plr%>%<prf%>:idosona # ;
@@ -278,15 +283,24 @@ LEXICON VERB-Simu
 %<simu%>%<p3%>%<sing%>%<masc%>:iiddi # ;
 %<simu%>%<p3%>%<plr%>:iiddi # ;
 
+LEXICON VERB-Rel
+
+%<rel%>%<impf%>%<sub%>:iya # ;
+%<rel%>%<impf%>:iyo # ;
+%<rel%>%<prf%>:a # ;
+%<rel%>%<prf%>:ida # ;
+%<rel%>%<prf%>%<sub%>:o # ;
+%<rel%>%<prf%>%<sub%>:ido # ;
+
 LEXICON VERB-Pass
 
 %<pass%>:ett VERB-pass-endings ;
 
 LEXICON VERB-pass-endings
 
-VERB-imfInt ;
-VERB-NegIntrImf ;
-
+VERB-Imfr ;
+VERB-NegImfr ;
+	
 LEXICON VERB-Cau
 
 %<cau%>:iss # ;
@@ -304,7 +318,7 @@ LEXICON VERB-rel
 %<rel%>%<masc%>:ge # ;
 %<rel%>%<imfr%>%<subj%>:iya # ;
 %<rel%>%<prf%>%<subj%>:ida # ;
-%<rel%>%<imfr%>%<obj%>%:ido # ;
+%<rel%>%<imfr%>%<obj%>:ido # ;
 %<rel%>%<imfr%>%<obj%>:iyo # ;
 
 
