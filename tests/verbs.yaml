@@ -6,9 +6,32 @@ Config:
 
 Tests:
 
- "Verb 7agg":
-    7agg<v><tv><p3><sg><pr><pas><ms><dec> : 7aggiis
+ "Verb aac":
+    aac<v><iv><pass><cnvb><p1><sing> : aacetta
 
- "Verb att":
-    att<v><tv><p3><sg><pr><pas><ms><dec> : attiis
+ "Verb arggaac":
+    arggaac<v><iv><cau><fut> : arggaacissana
 
+ "Verb doom":
+    <v><iv><p1><sing><neg><imfr> : doomikke
+
+ "Verb doom":
+    <v><iv><p1><sing><neg><intr><imfr> : doomikkinaa
+
+ "Verb doom":
+    <v><iv><p1><sing><intr><imfr> : doomiyanaa
+
+ "Verb doom":
+     <v><iv><p1><plr><neg><imfr> : doomokko
+
+ "Verb han":
+    <v><tv><p3><sing><fem><neg><imfr> : hanukku
+
+ "Verb han":
+    <v><tv><p3><sing><fem><neg><opt> : hanuppu
+
+ "Verb han":
+    <v><tv><p3><sing><fem><neg><imfr> : hanuukku
+
+ "Verb ham":
+    <v><tv><p2><plr><intr><prf> : hemiidetii

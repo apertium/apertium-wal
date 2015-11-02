@@ -1,27 +1,43 @@
 Alphabet
- A B C D E Ä F G H I J Ž K L M N Ň O Ö P R S Ş T U Ü W Y Ý Z
- a b c d e ä f g h i j ž k l m n ň o ö p r s ş t u ü w y ý z
- %{tv%}:0 %{h%}:0 %>:0  ;
+
+ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z CH DH NH NY PH SH TS ZH 
+ a b c d e f g h i j k l m n o p q r s t u v w x y z ch dh nh ny ph sh ts zh cc '
+ %{tv%}:0 %{h%}:0 %>:0 %{ %} ;
 
 Sets
 
-Vowel = A E Ä I O Ö U Ü Y Ý 
-        a e ä i o ö u ü y ý ;
+Vowel = A E I O U
+        a e i o u;
 
-Cns = K T
-      k t ;
+Cns = B C D F G H J K L M N P Q R S T V W X Y Z CH DH NH NY PH SH TS ZH 
+      b c d f g h j k l m n p q r s t v w x y z ch dh nh ny ph sh ts zh ' ;
 
 Rules
+
+!"change cc to ccsh"
+!iss:sh=>cc_:;
+
+"change c to j"
+d:XXX =>i_:;
 
 !"s conversion for making verbs transitive"
 !Cns:s <=> _ [ Cns: ]*/[ %{h%}: | %>: ]* %{tv%}:0 ;
 !      where Cns in ( K k T t ) ;
 
-"insert h to make sh"
-%{h%}:h <=> :s _ ;
+!"insert h to make sh"
+!%{h%}:h <=> :s _ ;
 
 "don't insert h to make sh"
 %{h%}:0 <=> :t _ ;
+
+!cc + iss → shiss
+!CnsCns + iss → Cnsiss Exceptions: 7azall, harumm, Cimm
+!ak + iss → aiss
+!CnsCns + ett → Cnsett Exceptions: onakk
+!kacc + ett → kashett
+!medd + ett → merett
+!shaakk + ett →shaahett 
+!ott + ett → ashett
 
 
 
@@ -31,4 +47,4 @@ Rules
 ! http://hfst.sourceforge.net/
 ! http://wiki.apertium.org/wiki/Twol
 ! http://wiki.apertium.org/wiki/Hfst
-
+                                                                                               
