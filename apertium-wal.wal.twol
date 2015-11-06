@@ -7,15 +7,16 @@ Alphabet
 Sets
 
 Vow = A E I O U
-      a e i o u;
+      a e i o u ;
 
 Cns = B C D F G H J K L M N P Q R S T V W X Y Z CH DH NH NY PH SH TS ZH 
       b c d f g h j k l m n p q r s t v w x y z ch dh nh ny ph sh ts zh ' ;
 
 Rules
 
-!"Remove morpheme boundary"
-!%>:0 <=> _ ;
+! You need a default rule to make it compile
+"Remove morpheme boundary"
+%>:0 <=> _ ;
 
 !"{e} to y after vowel"
 !%{e%}:y <=> :Vow :0* _ ;
@@ -25,15 +26,6 @@ Rules
 
 !"change c to j"
 !d:XXX =>i_:;
-
-!"Consonant voicing in verb stems"
-!Cx:Cy <=>  _ %>: [ :Vow ]/[ :0 ] ;
-!        where
-!            Cx in ( %{t%} ) 
-!            Cy in (   d   ) 
-!        matched ; 
-!
-! e{t}>iyor          = ediyor
 
 
 !cc + iss → shiss
