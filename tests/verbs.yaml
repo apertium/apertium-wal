@@ -6,6 +6,12 @@ Config:
 
 Tests:
 
+ "Verb 7agg":
+    7agg<v><tv><p3><sing><pr><pas><ms><dec> : 7aggiis
+
+ "Verb att":
+    att<v><tv><p3><sing><pr><pas><ms><dec> : attiis
+
  "Verb aac":
     aac<v><iv><pass><cnvb><p1><sing> : aacetta
 
