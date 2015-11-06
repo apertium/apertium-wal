@@ -2,33 +2,39 @@ Alphabet
 
  A B C D E F G H I J K L M N O P Q R S T U V W X Y Z CH DH NH NY PH SH TS ZH 
  a b c d e f g h i j k l m n o p q r s t u v w x y z ch dh nh ny ph sh ts zh cc '
- %{tv%}:0 %{h%}:0 %>:0 %{ %} ;
+ %{tv%}:0 ;
 
 Sets
 
-Vowel = A E I O U
-        a e i o u;
+Vow = A E I O U
+      a e i o u;
 
 Cns = B C D F G H J K L M N P Q R S T V W X Y Z CH DH NH NY PH SH TS ZH 
       b c d f g h j k l m n p q r s t v w x y z ch dh nh ny ph sh ts zh ' ;
 
 Rules
 
+!"Remove morpheme boundary"
+!%>:0 <=> _ ;
+
+!"{e} to y after vowel"
+!%{e%}:y <=> :Vow :0* _ ;
+
 !"change cc to ccsh"
-!iss:sh=>cc_:;
+!%{iss%}:sh <=> :cc :0* _ ;
 
-"change c to j"
-d:XXX =>i_:;
+!"change c to j"
+!d:XXX =>i_:;
 
-!"s conversion for making verbs transitive"
-!Cns:s <=> _ [ Cns: ]*/[ %{h%}: | %>: ]* %{tv%}:0 ;
-!      where Cns in ( K k T t ) ;
+!"Consonant voicing in verb stems"
+!Cx:Cy <=>  _ %>: [ :Vow ]/[ :0 ] ;
+!        where
+!            Cx in ( %{t%} ) 
+!            Cy in (   d   ) 
+!        matched ; 
+!
+! e{t}>iyor          = ediyor
 
-!"insert h to make sh"
-!%{h%}:h <=> :s _ ;
-
-"don't insert h to make sh"
-%{h%}:0 <=> :t _ ;
 
 !cc + iss → shiss
 !CnsCns + iss → Cnsiss Exceptions: 7azall, harumm, Cimm
