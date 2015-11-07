@@ -66,9 +66,9 @@ kana RegNounInfl ; !
 
 LEXICON VerbRoot
 
-aac:aac V-IV ; ! "sprout"
-aad:aad V-IV ; ! "be tame"
-aafot:aafot V-IV ; ! "erode, crack"
+aac:aac V-IV ; 		! "sprout"
+aad:aad V-IV ; 		! "be tame"
+aafot:aafot V-IV ; 	! "erode, crack"
 aakk:aakk V-IV ; ! "be wide"
 aal:aal V-IV ; ! "fly,fly here and there"
 aallantt:aallantt V-IV ; ! "fly"
@@ -2649,28 +2649,34 @@ zuuzumm:zuuzumm V-TV ; ! "grumble grouse"
 
 LEXICON MonoConsVerbs
 
-b:b V-IV ; ! "to go"
-g:g V-IV ; ! "to say"
-m:m V-TV ; ! "to eat"
-d:d V-TV ; ! "to exist, live"
-eh:eh V-TV ; ! "to bring"
-ep:ep V-IV ; ! "to take"
+b:b Vm-IV ; ! "to go"
+g:g Vm-IV ; ! "to say"
+m:m Vm-TV ; ! "to eat"
+d:d Vm-TV ; ! "to exist, live"
+eh:eh Vm-TV ; ! "to bring"
+ep:ep Vm-IV ; ! "to take"
 
 LEXICON RegNounInfl
 
 %<n%>%<sing%>:   # ;
 %<n%>%<plr%>:ta   # ;
 
+LEXICON Vm-TV
+
+%<v%>%<tv%>:%> MonoConsVerbs-INFL ;
+
+LEXICON Vm-IV
+
+%<v%>%<iv%>:%> MonoConsVerbs-INFL ;
+
 LEXICON V-TV
 
 %<v%>%<tv%>:%> VERB-INFL ;
-%<v%>%<tv%>:%> MonoConsVerbs-INFL ;
 !%<v%>%<tv%>:%>%{tv%} VERB-INFL ;
 
 LEXICON V-IV
 
 %<v%>%<iv%>:%> VERB-INFL ;
-%<v%>%<iv%>:%> MonoConsVerbs-INFL ;
 !%<v%>%<iv%>:%>%{iv%} VERB-INFL ;
 
 LEXICON MonoConsVerbs-INFL
