@@ -15,5 +15,6 @@
 /modes.xml -text
 tests/verbs.yaml -text
 texts/scan0001.txt -text
+texts/scan0002.txt -text
 texts/wol[!!-~]new.txt -text
 /wal.prob -text svneol=unset#unset
