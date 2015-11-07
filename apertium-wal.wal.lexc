@@ -41,6 +41,7 @@ Multichar_Symbols
 %{V%}  ! placeholder for vowel gemination
 %{tv%} ! triggers change to s
 %{h%}  ! becomes h to make "sh" clusters
+%{‼%}  ! blocks phonology from applying, so that we can have exceptions
 
 %>                        ! Morpheme boundary
 %-
@@ -124,7 +125,7 @@ ayf:ayf V-IV ; ! "yield, bear fruit"
 ayllet:ayllet V-IV ; ! "be enslaved"
 aysaar:aysaar V-IV ; ! "tuft, cluster"
 ayy:ayy V-IV ; ! "be haughty"
-azall:azall V-IV ; ! "be weak"
+azall:azall%{‼%} V-IV ; ! "be weak"
 azzan:azzan V-IV ; ! "sorrow, grieve"
 baad:baad V-IV ; ! "search eagerly"
 baaliget:baaliget V-IV ; ! "be rude"
@@ -1652,7 +1653,7 @@ hardd:hardd V-TV ; ! "hasten speed"
 hargg:hargg V-TV ; ! "nurse take"
 harqq:harqq V-TV ; ! "sift winnow"
 harshshuush:harshshuush V-TV ; ! "hate resent"
-harumm:harumm V-TV ; ! "weed hoe"
+harumm:harumm%{‼%} V-TV ; ! "weed hoe"
 harxx:harxx V-TV ; ! "granulate pulverize"
 has:has V-TV ; ! "scavenge Kanay"
 hashekk:hashekk V-TV ; ! "shoulder carry"
@@ -2874,7 +2875,6 @@ LEXICON MonoConsVerbs-Cau
 
 LEXICON MonoConsVerbs-Cau-endings
 
-# ;
 MonoConsVerbs-Imfr ;
 MonoConsVerbs-NegImfr ;
 MonoConsVerbs-IntrImfr ;
@@ -3103,7 +3103,7 @@ LEXICON VERB-Rel
 
 LEXICON VERB-Cau
 
-%<cau%>:iss VERB-Cau-endings ;
+%<cau%>:iss%> VERB-Cau-endings ;
 
 LEXICON VERB-Cau-endings
 

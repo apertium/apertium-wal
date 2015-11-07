@@ -4,6 +4,7 @@ Alphabet
  a b c d e f g h i j k l m n o p q r s t u v w x y z ' ! ch dh nh ny ph sh ts zh cc
  %{tv%}:0 
  %{V%}:0
+ %{‼%}:0  ! blocks phonology from applying, so that we can have exceptions
 
  ;
 
@@ -39,7 +40,22 @@ Rules
 
 "degeminate consonant before -iss"
 Cx:0 <=> _ :Cx :0* :i :s :s ;
+     except
+         _ :Cx %{‼%}: ;
+         _ :c ;  ! avoid conflict with cc > sh
      where Cx in Cns ;
+
+!! another way to write the above environment is like this:
+!!Cx:0 <=> _ :Cx [ :0 - %{‼%}: ]* :i :s :s ;
+
+"first c>s when cc > sh before -iss"
+c:s <=> _ c: :0* :i :s :s ;
+    except
+        _ c:0 ;  ! avoid conflict with degemination, etc.
+
+"second c>h when cc > sh before -iss"
+c:h <=> c: _ :0* :i :s :s ;
+
 
 !"insert h to make sh"
 !%{h%}:h <=> :s _ ;
