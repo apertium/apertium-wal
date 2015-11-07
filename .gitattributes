@@ -15,6 +15,7 @@
 /modes.xml -text
 tests/verbs.yaml -text
 texts/comm.txt -text
+texts/comm2.txt -text
 texts/scan0001.txt -text
 texts/scan0002.txt -text
 texts/scan0003.txt -text
