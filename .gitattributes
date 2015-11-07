@@ -12,6 +12,9 @@
 /apertium-wal.wal.twol -text
 /autogen.sh -text
 /configure.ac -text
+dev/coverage.sh -text
+dev/makeparade.sh -text
+dev/new-parade.sh -text
 /modes.xml -text
 tests/verbs.yaml -text
 texts/comm.txt -text
