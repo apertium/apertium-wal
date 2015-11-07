@@ -2874,6 +2874,7 @@ LEXICON MonoConsVerbs-Cau
 
 LEXICON MonoConsVerbs-Cau-endings
 
+# ;
 MonoConsVerbs-Imfr ;
 MonoConsVerbs-NegImfr ;
 MonoConsVerbs-IntrImfr ;
