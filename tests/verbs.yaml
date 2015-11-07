@@ -6,38 +6,27 @@ Config:
 
 Tests:
 
- "Verb 7agg":
-    7agg<v><tv><p3><sing><pr><pas><ms><dec> : 7aggiis
+ "Verb ag":
+    ag<v><tv><p3><sing><masc><prf> : agiis
 
  "Verb att":
-    att<v><tv><p3><sing><pr><pas><ms><dec> : attiis
+    att<v><tv><p3><sing><masc><prf> : attiis
 
  "Verb aac":
-    aac<v><iv><pass><cnvb><p1><sing> : aacetta
+    aac<v><iv><pass><shortcnvb><p1><sing> : aacetta
 
  "Verb arggaac":
     arggaac<v><iv><cau><fut> : arggaacissana
 
  "Verb doom":
-    <v><iv><p1><sing><neg><imfr> : doomikke
-
- "Verb doom":
-    <v><iv><p1><sing><neg><intr><imfr> : doomikkinaa
-
- "Verb doom":
-    <v><iv><p1><sing><intr><imfr> : doomiyanaa
-
- "Verb doom":
-     <v><iv><p1><plr><neg><imfr> : doomokko
+    doom<v><iv><p1><sing><neg><imfr> : doomikke
+    doom<v><iv><p1><sing><neg><intr><imfr> : doomikkinaa
+    doom<v><iv><p1><sing><intr><imfr> : doomiyanaa
+    doom<v><iv><p1><plr><neg><imfr> : doomokko
 
  "Verb han":
-    <v><tv><p3><sing><fem><neg><imfr> : hanukku
+    han<v><tv><p3><sing><fem><neg><imfr> : hanukku
+    han<v><tv><p3><sing><fem><neg><opt> : hanuppu
 
- "Verb han":
-    <v><tv><p3><sing><fem><neg><opt> : hanuppu
-
- "Verb han":
-    <v><tv><p3><sing><fem><neg><imfr> : hanuukku
-
- "Verb ham":
-    <v><tv><p2><plr><intr><prf> : hemiidetii
+ "Verb hem":
+    hem<v><tv><p2><plr><intr><prf> : hemidetii
