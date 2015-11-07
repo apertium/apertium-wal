@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Usage:  APERTIUMPATH=/path/to/apertium ./coverage.sh corpus
-# Example: APERTIUMPATH=~/src/apertium/ ./coverage.sh ../wal\ text.txt
+# Usage:  LANGPATH=/path/to/apertium-wal ./coverage.sh corpus
+# Example: APERTIUMPATH=~/Desktop/apertium-wal ./coverage.sh ../texts/wol-new.txt
 
 #LNG=`echo $1 | sed -r 's/^[\.\/]*([a-z][a-z][a-z])\.([^\.]*?)\..*/\1/'`
 #CORP=`echo $1 | sed -r 's/^[\.\/]*([a-z][a-z][a-z])\.([^\.]*?)\..*/\2/'`
