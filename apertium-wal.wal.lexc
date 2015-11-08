@@ -28,6 +28,14 @@ Multichar_Symbols
 %<simu%> 		! Simultaneous
 %>     			! morpheme boundary
 
+%<noncon%>     ! non-concrete noun form
+%<con%>        ! concrete noun form
+%<nom%>        ! nominative case
+%<abs%>        ! absolutive case
+%<obl%>        ! oblique case
+%<inter%>      ! interrogative case
+%<voc%>        ! vocative case
+
 %<percent%>             ! Percent
 %<sent%>                ! Sentence marker
 %<guio%>                ! Hyphen
@@ -67,7 +75,7 @@ MonoConsVerbs ;
 LEXICON NounRoot
 
 ketta RegNounInfl ; ! 
-kana RegNounInfl ; !
+kan:kan N-M-A ; ! "dog"
 
 LEXICON VerbRoot
 
@@ -2677,6 +2685,28 @@ LEXICON RegNounInfl
 
 %<n%>%<sing%>:   # ;
 %<n%>%<plr%>:ta   # ;
+
+LEXICON N-M-A  ! Masculine class A nouns
+
+%<n%>%<masc%>: N-M-A-INFL ;
+
+LEXICON N-M-A-INFL
+
+%<noncon%>%<abs%>:a # ;
+%<noncon%>%<obl%>:a # ;
+%<noncon%>%<nom%>:i # ;
+%<noncon%>%<inter%>:ee # ;
+%<noncon%>%<voc%>:oo # ;
+%<con%>%<sing%>%<abs%>:aa # ;
+%<con%>%<sing%>%<obl%>:aa # ;
+%<con%>%<sing%>%<nom%>:ai # ;
+%<con%>%<sing%>%<inter%>:ai # ;
+%<con%>%<sing%>%<voc%>:au # ;
+%<con%>%<plr%>%<abs%>:ata # ;
+%<con%>%<plr%>%<obl%>:atu # ;
+%<con%>%<plr%>%<nom%>:ati # ;
+%<con%>%<plr%>%<inter%>:atee # ;
+%<con%>%<plr%>%<voc%>:atoo # ;
 
 LEXICON V-TV
 

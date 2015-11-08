@@ -7,19 +7,19 @@ Config:
 Tests:
 
  "noun kan":
-    kan<n><m><noncon><abs> : kana
-    kan<n><m><noncon><obl> : kana
-    kan<n><m><noncon><nom> : kani
-    kan<n><m><noncon><inter> : kanee
-    kan<n><m><noncon><voc> : kanoo
-    kan<n><m><con><sg><abs> : kanaa
-    kan<n><m><con><sg><obl> : kanaa
-    kan<n><m><con><sg><nom> : kanai
-    kan<n><m><con><sg><inter> : kanai
-    kan<n><m><con><sg><voc> : kanau
-    kan<n><m><con><pl><abs> : kanata
-    kan<n><m><con><pl><obl> : kanatu
-    kan<n><m><con><pl><nom> : kanati
-    kan<n><m><con><pl><inter> : kanatee
-    kan<n><m><con><pl><voc> : kanatoo
+    kan<n><masc><noncon><abs> : kana
+    kan<n><masc><noncon><obl> : kana
+    kan<n><masc><noncon><nom> : kani
+    kan<n><masc><noncon><inter> : kanee
+    kan<n><masc><noncon><voc> : kanoo
+    kan<n><masc><con><sing><abs> : kanaa
+    kan<n><masc><con><sing><obl> : kanaa
+    kan<n><masc><con><sing><nom> : kanai
+    kan<n><masc><con><sing><inter> : kanai
+    kan<n><masc><con><sing><voc> : kanau
+    kan<n><masc><con><plr><abs> : kanata
+    kan<n><masc><con><plr><obl> : kanatu
+    kan<n><masc><con><plr><nom> : kanati
+    kan<n><masc><con><plr><inter> : kanatee
+    kan<n><masc><con><plr><voc> : kanatoo
 
