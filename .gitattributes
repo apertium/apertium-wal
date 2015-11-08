@@ -24,6 +24,10 @@ speller/editdist.default.txt -text
 speller/index.xml -text
 speller/strings.default.txt -text
 speller/words.default.txt -text
+tests/nouns.yaml -text
+tests/verbs-iss.yaml -text
+tests/verbs-ivtv.yaml -text
+tests/verbs-ms.yaml -text
 tests/verbs.yaml -text
 texts/comm.txt -text
 texts/comm2.txt -text

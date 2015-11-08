@@ -1,0 +1,25 @@
+Config:
+  hfst:
+      App: hfst-lookup
+      Gen: ../wal.autogen.hfst
+      Morph: ../wal.automorf.hfst
+
+Tests:
+
+ "noun kan":
+    kan<n><m><noncon><abs> : kana
+    kan<n><m><noncon><obl> : kana
+    kan<n><m><noncon><nom> : kani
+    kan<n><m><noncon><inter> : kanee
+    kan<n><m><noncon><voc> : kanoo
+    kan<n><m><con><sg><abs> : kanaa
+    kan<n><m><con><sg><obl> : kanaa
+    kan<n><m><con><sg><nom> : kanai
+    kan<n><m><con><sg><inter> : kanai
+    kan<n><m><con><sg><voc> : kanau
+    kan<n><m><con><pl><abs> : kanata
+    kan<n><m><con><pl><obl> : kanatu
+    kan<n><m><con><pl><nom> : kanati
+    kan<n><m><con><pl><inter> : kanatee
+    kan<n><m><con><pl><voc> : kanatoo
+
