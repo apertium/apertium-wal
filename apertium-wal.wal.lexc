@@ -2867,12 +2867,12 @@ LEXICON VERB-LongCnvb
 LEXICON VERB-Simu
 
 %<simu%>%<p1%>%<sing%>:aydaa # ;
-%<simu%>%<p1%>%<plr%>:iiddi # ;
+%<simu%>%<p1%>%<plr%>:iddi # ;
 %<simu%>%<p2%>%<sing%>:aydaa # ;
-%<simu%>%<p2%>%<plr%>:iiddi # ;
+%<simu%>%<p2%>%<plr%>:iddi # ;
 %<simu%>%<p3%>%<sing%>%<fem%>:aydaa # ;
-%<simu%>%<p3%>%<sing%>%<masc%>:iiddi # ;
-%<simu%>%<p3%>%<plr%>:iiddi # ;
+%<simu%>%<p3%>%<sing%>%<masc%>:iddi # ;
+%<simu%>%<p3%>%<plr%>:iddi # ;
 
 LEXICON VERB-Rel
 
