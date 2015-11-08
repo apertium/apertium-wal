@@ -10,7 +10,8 @@ Tests:
     ag<v><tv><p3><sing><masc><prf> : agiis
 
  "Verb att":
-    att<v><tv><p3><sing><masc><prf> : attiis
+    att<v><iv><p3><sing><masc><prf> : attiis
+    att<v><tv><p3><sing><masc><prf> : ashshiis
 
  "Verb aac":
     aac<v><iv><pass><shortcnvb><p1><sing> : aacetta

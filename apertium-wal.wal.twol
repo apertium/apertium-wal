@@ -56,6 +56,11 @@ c:s <=> _ c: :0* :i :s :s ;
 "second c>h when cc > sh before -iss"
 c:h <=> c: _ :0* :i :s :s ;
 
+"delete k before -iss in ak-"
+k:0 <=> .#. :a _ :0* :i :s :s ;
+! if a new word, e.g. xak- also deletes, add something like this
+!        .#. :x :a _ :0* :i :s :s ;
+
 
 !"insert h to make sh"
 !%{h%}:h <=> :s _ ;

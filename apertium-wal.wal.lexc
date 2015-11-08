@@ -75,6 +75,7 @@ aac:aac V-IV ; 		! "sprout"
 aad:aad V-IV ; 		! "be tame"
 aafot:aafot V-IV ; 	! "erode, crack"
 aakk:aakk V-IV ; ! "be wide"
+aakk:aass V-ITV ; ! "make wide"
 aal:aal V-IV ; ! "fly,fly here and there"
 aallantt:aallantt V-IV ; ! "fly"
 aammot:aammot V-IV ; ! "be rotten"
@@ -86,6 +87,7 @@ acoy:acoy V-IV ; ! "cause someone to go to debt"
 adab:adab V-IV ; ! "be durable"
 adaraas:adaraas V-IV ; ! "canter"
 aduqq:aduqq V-IV ; ! "be longer"
+aduqq:aduss V-ITV ; ! "make longer"
 afuut:afuut V-IV ; ! "catch a common cold"
 afuxx:afuxx V-IV ; ! "cry"
 ajaajj:ajaajj V-IV ; ! "have tuberculosis"
@@ -117,6 +119,8 @@ ashilaal:ashilaal V-IV ; ! "behave well"
 ashkkar:ashkkar V-IV ; ! "be servant"
 ashkkar:ashkkar V-IV ; ! "be thin"
 ashot:ashot V-IV ; ! "become fat"
+att:att V-IV ; ! "be saved (from)"
+att:ashsh V-ITV ; ! "save (from)"
 awaaqet:awaaqet V-IV ; ! "be deceiver"
 awaxx:awaxx V-IV ; ! "shine"
 awcaya:awcaya V-IV ; ! "abort"
@@ -1242,7 +1246,6 @@ arppeell:arppeell V-TV ; ! "hit someone"
 arqq:arqq V-TV ; ! "employ give"
 ashoy:ashoy V-TV ; ! "fatten"
 ashsh:ashsh V-TV ; ! "save deliver"
-att:att V-TV ; ! (!!!!!)
 attam:attam V-TV ; ! "publish"
 awaajj:awaajj V-TV ; ! "proclaim declare"
 awaas:awaas V-TV ; ! "mediate reconcile"
@@ -1700,6 +1703,7 @@ icc:icc V-TV ; ! "elbow strike"
 idintt:idintt V-TV ; ! "make embrace"
 iigg:iigg V-TV ; ! "chase pursue"
 imm:imm V-TV ; ! "give offer"
+imm:im V-TV-PASS ; ! "give offer"
 injjey:injjey V-TV ; ! "make suitable"
 iq:iq V-TV ; ! "squeeze squash"
 irxx:irxx V-TV ; ! "freeze be"
@@ -2152,6 +2156,7 @@ qaatt:qaatt V-TV ; ! "move shake"
 qaatt:qaatt V-TV ; ! "sow scatter"
 qac:qac V-TV ; ! "wrap scarf"
 qachch:qachch V-TV ; ! "tie fasten"
+qachch:qash V-TV-PASS ; ! "tie fasten"
 qacinchch:qacinchch V-TV ; ! "dilute make"
 qakk:qakk V-TV ; ! "kick strike"
 qalam:qalam V-TV ; ! "fold A"
@@ -2659,6 +2664,7 @@ LEXICON MonoConsVerbs
 b:b%{V%} V-IV ; ! "to go"
 g:g%{V%} V-IV ; ! "to say"
 m:m%{V%} V-TV ; ! "to eat"
+m:meetett V-TV-PASS-ETT ; ! "to eat"
 d:d%{V%} V-TV ; ! "to exist, live"
 eh:eh%{V%} V-TV ; ! "to bring"
 ep:ep%{V%} V-IV ; ! "to take"
@@ -2684,239 +2690,19 @@ LEXICON V-TV
 LEXICON V-IV
 
 %<v%>%<iv%>:%> VERB-INFL ;
-!%<v%>%<iv%>:%>%{iv%} VERB-INFL ;
+!%<v%>%<tv%>:%>%{tv%} VERB-INFL ;
 
-LEXICON MonoConsVerbs-INFL
+LEXICON V-ITV   ! Lexicon for transitivised verbs
 
-MonoConsVerbs-Imfr ;		!Imperfective Verb Inflection
-MonoConsVerbs-NegImfr ;		!Negative Imperfective Verb Inflection
-MonoConsVerbs-IntrImfr ;	!Introgative Imperfective Verb Inflection
-MonoConsVerbs-NegIntrImfr ;	!Negative Introgative Imperfective Verb Inflection
-MonoConsVerbs-Prf ;		!Perfective Verb Inflection
-MonoConsVerbs-NegPrf ;		!Negative Perfective Verb Inflection
-MonoConsVerbs-IntrPrf ;		!Introgative Perfective Verb Inflection
-MonoConsVerbs-NegIntrPrf ;	!Negative Introgative Perfective Verb Inflection
-MonoConsVerbs-Fut ;		!Future Verb Inflection
-MonoConsVerbs-IntFut ;		!Introgative Future Verb Inflection
-MonoConsVerbs-Opt ;		!Optative Verb Inflection
-MonoConsVerbs-NegOpt ;		!Negative Optative Verb Inflection
-MonoConsVerbs-IntrEnding ;	!Introgative Ending Verb Inflection
-MonoConsVerbs-ShortCnvb ;	!Short Converb Inflection
-MonoConsVerbs-LongCnvb ;	!Long Converb Inflection
-MonoConsVerbs-Simu ;		!Simutaneous Inflection
-MonoConsVerbs-Rel ;		!Relative Inflection
-MonoConsVerbs-Pass ;		!Passive Verb Inflection
-MonoConsVerbs-Pass-endings ;	!Passive Endings
-MonoConsVerbs-Cau ;		!Causative Inflection
-MonoConsVerbs-Cau-endings ;	!Causative Endings
+%<v%>%<tv%>:%> VERB-INFL ;
 
+LEXICON V-TV-PASS   ! Lexicon for passive stems of verbs
 
-LEXICON MonoConsVerbs-Imfr
+%<v%>%<tv%>%<pass%>:%>ett%> VERB-Pass-endings ;
 
-%<p1%>%<sing%>%<imfr%>:aays # ;			
-%<p1%>%<plr%>%<imfr%>:eettees # ;
-%<p1%>%<plr%>%<imfr%>:oos # ;
-%<p2%>%<sing%>%<imfr%>:aasa # ;
-%<p2%>%<plr%>%<imfr%>:eeta # ;
-%<p3%>%<sing%>%<fem%>%<imfr%>:aawsu # ;
-%<p3%>%<sing%>%<masc%>%<imfr%>:ees # ;
-%<p3%>%<plr%>%<imfr%>:oosona # ;
+LEXICON V-TV-PASS-ETT  ! Lexicon for passive forms of verbs
 
-LEXICON MonoConsVerbs-NegImfr
-
-%<p1%>%<sing%>%<neg%>%<imfr%>:iikke # ;
-%<p1%>%<plr%>%<neg%>%<imfr%>:ookko # ;
-%<p1%>%<plr%>%<neg%>%<imfr%>:eettenna # ;
-%<p2%>%<sing%>%<neg%>%<imfr%>:aakka # ;
-%<p2%>%<plr%>%<neg%>%<imfr%>:eekketa # ;
-%<p3%>%<sing%>%<fem%>%<neg%>%<imfr%>:uukku # ;
-%<p3%>%<sing%>%<masc%>%<neg%>%<imfr%>:eenna # ;
-%<p3%>%<plr%>%<neg%>%<imfr%>:ookkona # 	;
-
-LEXICON MonoConsVerbs-IntrImfr
-
-%<p1%>%<sing%>%<intr%>%<imfr%>:iyanaa # ;
-%<p1%>%<plr%>%<intr%>%<imfr%>:iyo # ;
-%<p1%>%<plr%>%<intr%>%<imfr%>:iyonii # ;
-%<p2%>%<sing%>%<intr%>%<imfr%>:ay # ;
-%<p2%>%<plr%>%<intr%>%<imfr%>:eetii # ;
-%<p3%>%<sing%>%<fem%>%<intr%>%<imfr%>:ay # ;
-%<p3%>%<sing%>%<masc%>%<intr%>%<imfr%>:ii # ;
-%<p3%>%<plr%>%<intr%>%<imfr%>:iyonaa # ;
-
-LEXICON MonoConsVerbs-NegIntrImfr
-
-%<p1%>%<sing%>%<neg%>%<intr%>%<imfr%>:iikkinaa # ;
-%<p1%>%<plr%>%<neg%>%<intr%>%<imfr%>:ookkonii # ;
-%<p1%>%<plr%>%<neg%>%<intr%>%<imfr%>:eettennee # ;
-%<p2%>%<sing%>%<neg%>%<intr%>%<imfr%>:iikkii # ;
-%<p2%>%<plr%>%<neg%>%<intr%>%<imfr%>:eekketii # ;
-%<p3%>%<sing%>%<fem%>%<neg%>%<intr%>%<imfr%>:eekkee # ;
-%<p3%>%<sing%>%<masc%>%<neg%>%<intr%>%<imfr%>:eennee # ;
-%<p3%>%<plr%>%<neg%>%<intr%>%<imfr%>:ookkonaa # ;
-
-LEXICON MonoConsVerbs-Prf
-
-%<p1%>%<sing%>%<prf%>:aas # ;
-%<p1%>%<sing%>%<prf%>:aasi # ;
-%<p1%>%<plr%>%<prf%>:iida # ;
-%<p2%>%<sing%>%<prf%>:aadasa # ;
-%<p2%>%<plr%>%<prf%>:iideta # ;
-%<p3%>%<sing%>%<fem%>%<prf%>:aasu # ;
-%<p3%>%<sing%>%<masc%>%<prf%>:iis # ;
-%<p3%>%<sing%>%<masc%>%<prf%>:iisi # ;
-%<p3%>%<plr%>%<prf%>:iidosona # ;
-
-LEXICON MonoConsVerbs-NegPrf
-
-%<p1%>%<sing%>%<neg%>%<prf%>:abeikke # ;
-%<p1%>%<plr%>%<neg%>%<prf%>:ibeokko # ;
-%<p1%>%<plr%>%<neg%>%<prf%>:ibeettenna # ;
-%<p2%>%<sing%>%<neg%>%<prf%>:abeakka # ;
-%<p2%>%<plr%>%<neg%>%<prf%>:ibeekketa # ;
-%<p3%>%<sing%>%<neg%>%<fem%>%<prf%>:abeukku # ;
-%<p3%>%<sing%>%<masc%>%<neg%>%<prf%>:ibeenna # ;
-%<p3%>%<plr%>%<neg%>%<prf%>:ibeokkona # ;
-
-LEXICON MonoConsVerbs-IntrPrf
-
-%<p1%>%<sing%>%<intr%>%<prf%>:iidanaa # ;
-%<p1%>%<plr%>%<intr%>%<prf%>:iido # ;
-%<p1%>%<plr%>%<intr%>%<prf%>:iidonii # ;
-%<p2%>%<sing%>%<intr%>%<prf%>:aadii # ;
-%<p2%>%<plr%>%<intr%>%<prf%>:iidetii # ;
-%<p3%>%<sing%>%<fem%>%<intr%>%<prf%>:aadee # ;
-%<p3%>%<sing%>%<masc%>%<intr%>%<prf%>:iidee # ;
-%<p3%>%<plr%>%<intr%>%<prf%>:iidonaa # ;
-
-LEXICON MonoConsVerbs-NegIntrPrf
-
-%<p1%>%<sing%>%<neg%>%<intr%>%<prf%>:abeikkinaa # ;
-%<p1%>%<plr%>%<neg%>%<intr%>%<prf%>:ibeokkonii # ;
-%<p1%>%<plr%>%<neg%>%<intr%>%<prf%>:ibeettennee # ;
-%<p2%>%<sing%>%<neg%>%<intr%>%<prf%>:abeikkii # ;
-%<p2%>%<plr%>%<neg%>%<intr%>%<prf%>:ibeekketii # ;
-%<p3%>%<sing%>%<fem%>%<neg%>%<intr%>%<prf%>:abeekkee # ;
-%<p3%>%<sing%>%<masc%>%<neg%>%<intr%>%<prf%>:ibeennee # ;
-%<p3%>%<plr%>%<neg%>%<intr%>%<prf%>:ibeokkonaa # ;
-
-LEXICON MonoConsVerbs-Fut
-
-%<fut%>:aana # ;
-
-LEXICON MonoConsVerbs-IntFut
-
-%<intr%>%<fut%>:aanne # ;
-
-LEXICON MonoConsVerbs-Opt
-
-%<p2%>%<sing%>%<opt%>:a # ;
-%<p2%>%<plr%>%<opt%>:iite # ;
-%<p3%>%<sing%>%<fem%>%<opt%>:u # ;
-%<p3%>%<sing%>%<masc%>%<opt%>:o # ;
-%<p3%>%<sing%>%<opt%>:oona # ;
-
-LEXICON MonoConsVerbs-NegOpt
-
-%<p2%>%<sing%>%<neg%>%<opt%>:ooppa # ;
-%<p2%>%<plr%>%<neg%>%<opt%>:ooppite # ;
-%<p3%>%<sing%>%<fem%>%<neg%>%<opt%>:uuppu # ;
-%<p3%>%<sing%>%<masc%>%<neg%>%<opt%>:ooppo # ;
-%<p3%>%<sing%>%<neg%>%<opt%>:ooppona # ;
-
-LEXICON MonoConsVerbs-IntrEnding
-
-%<p1%>%<sing%>%<intrEnding%>:oo # ;
-%<p2%>%<sing%>%<intrEnding%>:uutee # ;
-%<p2%>%<pl%>%<intrEnding%>:uuteetii # ;
-
-LEXICON MonoConsVerbs-ShortCnvb
-
-%<shortcnvb%>%<p1%>%<sing%>:a # ;			 
-%<shortcnvb%>%<p1%>%<plr%>:i # ;
-%<shortcnvb%>%<p2%>%<plr%>:i # ;		
-%<shortcnvb%>%<p2%>%<sing%>:a # ;
-%<shortcnvb%>%<p3%>%<sing%>%<fem%>:a # ;
-%<shortcnvb%>%<p3%>%<sing%>%<masc%>:i # ;
-%<shortcnvb%>%<p3%>%<plr%>:i # ;
-
-LEXICON MonoConsVerbs-LongCnvb
-
-%<longcnvb%>%<p1%>%<sing%>:aada # ;			
-%<longcnvb%>%<p1%>%<plr%>:iidi # ;
-%<longcnvb%>%<p2%>%<plr%>:iidi # ;
-%<longcnvb%>%<p2%>%<sing%>:aada # ;
-%<longcnvb%>%<p3%>%<sing%>%<fem%>:aada # ;
-%<longcnvb%>%<p3%>%<sing%>%<masc%>:iidi # ;
-%<longcnvb%>%<p3%>%<plr%>:iidi # ;
-
-LEXICON MonoConsVerbs-Simu
-
-%<simu%>%<p1%>%<sing%>:aydaa # ;
-%<simu%>%<p1%>%<plr%>:iiddi # ;
-%<simu%>%<p2%>%<sing%>:aydaa # ;
-%<simu%>%<p2%>%<plr%>:iiddi # ;
-%<simu%>%<p3%>%<sing%>%<fem%>:aydaa # ;
-%<simu%>%<p3%>%<sing%>%<masc%>:iiddi # ;
-%<simu%>%<p3%>%<plr%>:iiddi # ;
-
-LEXICON MonoConsVerbs-Rel
-
-%<rel%>%<impf%>%<sub%>:iya # ;
-%<rel%>%<prf%>%<sub%>:iida # ;
-%<rel%>%<prf%>%<sub%>:ido # ;
-%<rel%>%<impf%>%<nsub%>:iyo # ;
-%<rel%>%<prf%>%<nsub%>:a # ;
-%<rel%>%<prf%>%<nsub%>:iida # ;
-
-
-LEXICON MonoConsVerbs-Cau
-
-%<cau%>:iss VERB-Cau-endings ;
-
-LEXICON MonoConsVerbs-Cau-endings
-
-MonoConsVerbs-Imfr ;
-MonoConsVerbs-NegImfr ;
-MonoConsVerbs-IntrImfr ;
-MonoConsVerbs-NegIntrImfr ;
-MonoConsVerbs-Prf ;
-MonoConsVerbs-NegPrf ;
-MonoConsVerbs-IntrPrf ;
-MonoConsVerbs-NegIntrPrf ;
-MonoConsVerbs-Fut ;
-MonoConsVerbs-IntFut ;
-MonoConsVerbs-Opt ;
-MonoConsVerbs-NegOpt ;
-MonoConsVerbs-IntrEnding ;
-MonoConsVerbs-ShortCnvb ;
-MonoConsVerbs-LongCnvb ;
-MonoConsVerbs-Simu ;
-MonoConsVerbs-Rel ;
-
-LEXICON MonoConsVerbs-Pass
-
-%<pass%>:ett MonoConsVerbs-Pass-endings ;
-
-LEXICON MonoConsVerbs-Pass-endings
-
-MonoConsVerbs-Imfr ;
-MonoConsVerbs-NegImfr ;
-MonoConsVerbs-IntrImfr ;
-MonoConsVerbs-NegIntrImfr ;
-MonoConsVerbs-Prf ;
-MonoConsVerbs-NegPrf ;
-MonoConsVerbs-IntrPrf ;
-MonoConsVerbs-NegIntrPrf ;
-MonoConsVerbs-Fut ;
-MonoConsVerbs-IntFut ;
-MonoConsVerbs-Opt ;
-MonoConsVerbs-NegOpt ;
-MonoConsVerbs-IntrEnding ;
-MonoConsVerbs-ShortCnvb ;
-MonoConsVerbs-LongCnvb ;
-MonoConsVerbs-Simu ;
-MonoConsVerbs-Rel ;
+%<v%>%<tv%>%<pass%>:%> VERB-Pass-endings ;
 
 LEXICON VERB-INFL
 
@@ -2937,10 +2723,10 @@ VERB-ShortCnvb 	;	!Short Converb Inflection
 VERB-LongCnvb ;		!Long Converb Inflection
 VERB-Simu ;		!Simutaneous Inflection
 VERB-Rel ;		!Relative Inflection
-VERB-Pass ;		!Passive Verb Inflection
-VERB-Pass-endings ;	!Passive Endings
+!VERB-Pass ;		!Passive Verb Inflection
+!VERB-Pass-endings ;	!Passive Endings
 VERB-Cau ;		!Causative Inflection
-VERB-Cau-endings ;	!Causative Endings
+!VERB-Cau-endings ;	!Causative Endings
 
 
 LEXICON VERB-Imfr
@@ -3126,9 +2912,9 @@ VERB-LongCnvb ;
 VERB-Simu ;
 VERB-Rel ;
 
-LEXICON VERB-Pass
-
-%<pass%>:ett VERB-Pass-endings ;
+!LEXICON VERB-Pass
+!
+!%<pass%>:ett VERB-Pass-endings ;
 
 LEXICON VERB-Pass-endings
 
