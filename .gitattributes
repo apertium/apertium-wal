@@ -16,6 +16,7 @@ dev/coverage.sh -text
 dev/history.log -text
 dev/makeparade.sh -text
 dev/new-parade.sh -text
+dev/spellrelax.twol -text
 /modes.xml -text
 tests/verbs.yaml -text
 texts/comm.txt -text
