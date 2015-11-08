@@ -124,4 +124,3 @@
 ~}
 
 ## Transition pairs + weight:
-7	'	0.5
