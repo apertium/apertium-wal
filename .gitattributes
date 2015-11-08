@@ -20,6 +20,10 @@ dev/new-parade.sh -text
 dev/spellrelax.twol -text
 dev/top-verbs.sh -text
 /modes.xml -text
+speller/editdist.default.txt -text
+speller/index.xml -text
+speller/strings.default.txt -text
+speller/words.default.txt -text
 tests/verbs.yaml -text
 texts/comm.txt -text
 texts/comm2.txt -text

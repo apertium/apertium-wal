@@ -58,5 +58,13 @@
     </pipeline>
   </mode>
 
+  <mode name="wal-spell">
+    <pipeline>
+      <program name="hfst-ospell -S -n 10">
+        <file name="wal.zhfst"/>
+      </program>
+    </pipeline>
+  </mode>
+
 </modes>
 
