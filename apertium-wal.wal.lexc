@@ -163,6 +163,7 @@ bazzott:bazzott V-IV ; ! "be forest"
 beelibeel:beelibeel V-IV ; ! "look inconspicuous"
 beerott:beerott V-IV ; ! "be curious"
 be':be' V-IV ; ! "seen"
+be':be V-TV-PASS ; ! "be seen"
 bellet:bellet V-IV ; ! "become sulky"
 bess:bess V-IV ; ! "increase, add"
 bet:bet V-IV ; ! "flee, quit"
@@ -316,6 +317,7 @@ donjjill:donjjill V-IV ; ! "feel cramp"
 donzz:donzz V-IV ; ! "become old"
 doogg:doogg V-IV ; ! "stumble, stammer"
 doom:doom V-IV ; ! "be ruined"
+doom:doom V-TV-PASS ; ! "be launched"
 doynatt:doynatt  V-IV ; ! "become blunt"
 dubbatt:dubbatt  V-IV ; ! "become wet"
 dubbush:dubbush V-IV ; ! "have public meeting"
@@ -1561,6 +1563,7 @@ geellay:geellay V-TV ; ! "bend lean"
 geeshsh:geeshsh V-TV ; ! "clean purify"
 geey:geey V-TV ; ! "be clean"
 gel:gel V-TV ; ! "insert let"
+gel:gel V-TV-PASS ; ! "be inserted"
 gen:gen V-TV ; ! "hurt attack"
 gentt:gentt V-TV ; ! "hide cover"
 gepp:gepp V-TV ; ! "pledge vow"
@@ -1723,6 +1726,7 @@ kaachchifat:kaachchifat V-TV ; ! "threaten frighten"
 kaaf:kaaf V-TV ; ! "be supported"
 kaaf:kaaf V-TV ; ! "support favour"
 kaal:kaal V-TV ; ! "lead guide"
+kaal:kaal V-TV-PASS ; ! "lead guide"
 kaall:kaall V-TV ; ! "follow go"
 kaash:kaash V-TV ; ! "shovel scoop"
 kaass:kaass V-TV ; ! "play "
@@ -2110,7 +2114,7 @@ poc:poc V-TV ; ! "parboil"
 podday:podday V-TV ; ! "do thoroughly"
 pog:pog V-TV ; ! "open"
 pol:pol V-TV ; ! "fulfill end"
-pol:pol V-TV ; ! "execute perform"
+pol:pol V-TV-PASS ; ! "execute perform"
 poo:poo V-TV ; ! "put on"
 pooll:pooll V-TV ; ! "thin dilute"
 poonn:poonn V-TV ; ! "nibble take"
@@ -2340,6 +2344,7 @@ siidhdh:siidhdh V-TV ; ! "hold nose"
 siif:siif V-TV ; ! "behead slaughter"
 siiphphot:siiphphot V-TV ; ! "sob sniffle"
 siiq:siiq V-TV ; ! "love adore"
+siiq:siiq V-TV-PASS ; ! "be loved"
 siirix:siirix V-TV ; ! "make bedroom"
 siit:siit V-TV ; ! "sip ration"
 sikk:sikk V-TV ; ! "sew stitch"
@@ -2520,6 +2525,7 @@ xaydd:xaydd V-TV ; ! "fumigate sterilize"
 xayss:xayss V-TV ; ! "lose mislay"
 xee:xee V-TV ; ! "breed raise"
 xeell:xeell V-TV ; ! "look watch"
+xeell:xeell V-TV-PASS ; ! "be watched"
 xeeray:xeeray V-TV ; ! "submit butter"
 xengg:xengg V-TV ; ! "frighten frighten"
 xeph:xeph V-TV ; ! "tie"
@@ -2621,6 +2627,7 @@ yuuqiyuuq:yuuqiyuuq V-TV ; ! "frighten terrify"
 yuushsh:yuushsh V-TV ; ! "transfer cause"
 zaar:zaar V-TV ; ! "repeat"
 zaar:zaar V-TV ; ! "return"
+zaar:zaar V-TV-PASS ; ! "be returned"
 zaass:zaass V-TV ; ! "publicize"
 zaaz:zaaz V-TV ; ! "claw tear"
 zagg:zagg V-TV ; ! "segregate"
@@ -2670,14 +2677,6 @@ LEXICON RegNounInfl
 
 %<n%>%<sing%>:   # ;
 %<n%>%<plr%>:ta   # ;
-
-LEXICON Vm-TV
-
-%<v%>%<tv%>:%> MonoConsVerbs-INFL ;
-
-LEXICON Vm-IV
-
-%<v%>%<iv%>:%> MonoConsVerbs-INFL ;
 
 LEXICON V-TV
 
@@ -2932,6 +2931,11 @@ VERB-ShortCnvb ;
 VERB-LongCnvb ;
 VERB-Simu ;
 VERB-Rel ;
+
+
+LEXICON NUM
+
+# ;
 
 LEXICON Numbers
 
