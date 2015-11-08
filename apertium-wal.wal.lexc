@@ -39,8 +39,8 @@ Multichar_Symbols
 %<lpar%>                ! Parenthetical marker (left hand side)
 
 %{V%}  ! placeholder for vowel gemination
-%{tv%} ! triggers change to s
-%{h%}  ! becomes h to make "sh" clusters
+!%{tv%} ! triggers change to s
+!%{h%}  ! becomes h to make "sh" clusters
 %{‼%}  ! blocks phonology from applying, so that we can have exceptions
 
 %>                        ! Morpheme boundary
@@ -2658,15 +2658,12 @@ zuuzumm:zuuzumm V-TV ; ! "grumble grouse"
 
 ! att:at%{h%}t%{h%} V-IV ; ! ""
 
-
-LEXICON MonoConsVerbs
-
-b:b%{V%} V-IV ; ! "to go"
-g:g%{V%} V-IV ; ! "to say"
 m:m%{V%} V-TV ; ! "to eat"
 m:meetett V-TV-PASS-ETT ; ! "to eat"
 d:d%{V%} V-TV ; ! "to exist, live"
 eh:eh%{V%} V-TV ; ! "to bring"
+b:b%{V%} V-IV ; ! "to go"
+g:g%{V%} V-IV ; ! "to say"
 ep:ep%{V%} V-IV ; ! "to take"
 
 LEXICON RegNounInfl
