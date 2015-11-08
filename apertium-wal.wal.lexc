@@ -2856,13 +2856,13 @@ LEXICON VERB-ShortCnvb
 
 LEXICON VERB-LongCnvb
 
-%<longcnvb%>%<p1%>%<sing%>:aada # ;			
-%<longcnvb%>%<p1%>%<plr%>:iidi # ;
-%<longcnvb%>%<p2%>%<plr%>:iidi # ;
-%<longcnvb%>%<p2%>%<sing%>:aada # ;
-%<longcnvb%>%<p3%>%<sing%>%<fem%>:aada # ;
-%<longcnvb%>%<p3%>%<sing%>%<masc%>:iidi # ;
-%<longcnvb%>%<p3%>%<plr%>:iidi # ;
+%<longcnvb%>%<p1%>%<sing%>:ada # ;			
+%<longcnvb%>%<p1%>%<plr%>:idi # ;
+%<longcnvb%>%<p2%>%<plr%>:idi # ;
+%<longcnvb%>%<p2%>%<sing%>:ada # ;
+%<longcnvb%>%<p3%>%<sing%>%<fem%>:ada # ;
+%<longcnvb%>%<p3%>%<sing%>%<masc%>:idi # ;
+%<longcnvb%>%<p3%>%<plr%>:idi # ;
 
 LEXICON VERB-Simu
 
