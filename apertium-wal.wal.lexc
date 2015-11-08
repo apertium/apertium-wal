@@ -3178,7 +3178,7 @@ LEXICON Punctuation
 %–%<guio%>:%– # ;
 ,%<cm%>:, # ;
 %?%<sent%>:%? # ;
-%'%<apos%>:%' # ;
+!%'%<apos%>:%' # ;
 %"%<sent%>:%" # ;
 %«%<lquot%>:%« # ;
 %»%<rquot%>:%» # ;
