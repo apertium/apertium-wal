@@ -66,7 +66,6 @@ LEXICON Root
 
 NounRoot ;
 VerbRoot ;
-MonoConsVerbs ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!                          L E X I C O N                                  !!!
@@ -79,9 +78,9 @@ kan:kan N-M-A ; ! "dog"
 
 LEXICON VerbRoot
 
-aac:aac V-IV ; 		! "sprout"
-aad:aad V-IV ; 		! "be tame"
-aafot:aafot V-IV ; 	! "erode, crack"
+aac:aac V-IV ; 	! "sprout"
+aad:aad V-IV ; 	! "be tame"
+aafot:aafot V-IV ; ! "erode, crack"
 aakk:aakk V-IV ; ! "be wide"
 aakk:aass V-ITV ; ! "make wide"
 aal:aal V-IV ; ! "fly,fly here and there"
@@ -2686,11 +2685,43 @@ LEXICON RegNounInfl
 %<n%>%<sing%>:   # ;
 %<n%>%<plr%>:ta   # ;
 
-LEXICON N-M-A  ! Masculine class A nouns
+LEXICON N-M-CMN-A  ! Masculine class A common nouns
 
-%<n%>%<masc%>: N-M-A-INFL ;
+%<n%>%<masc%>: N-M-CMN-A-INFL ;
 
-LEXICON N-M-A-INFL
+LEXICON N-M-CMN-E  ! Masculine class E common nouns
+
+%<n%>%<masc%>: N-M-CMN-E-INFL ;
+
+LEXICON N-M-CMN-O  ! Masculine class O common nouns
+
+%<n%>%<masc%>: N-M-CMN-O-INFL ;
+
+LEXICON N-F-CMN ! Feminin common nouns
+
+%<n%>%<fem%>: N-F-CMN-INFL ;
+
+LEXICON N-M-PRSNAME-A  ! Masculine person name class A common nouns
+
+%<n%>%<masc%>: N-M-PRSNAME-A-INFL ;
+
+LEXICON N-M-PRSNAME-E  ! Masculine person name class E common nouns
+
+%<n%>%<masc%>: N-M-PRSNAME-E-INFL ;
+
+LEXICON N-M-PRSNAME-O  ! Masculine person name class O common nouns
+
+%<n%>%<masc%>: N-M-PRSNAME-O-INFL ;
+
+LEXICON N-M-PRSNAME-U  ! Masculine person name class U common nouns
+
+%<n%>%<masc%>: N-M-PENAME-U-INFL ;
+
+LEXICON N-F-PRSNAME ! Feminin common nouns
+
+%<n%>%<fem%>: N-F-PRSNAME-INFL ;
+
+LEXICON N-M-CMN-A-INFL
 
 %<noncon%>%<abs%>:a # ;
 %<noncon%>%<obl%>:a # ;
@@ -2699,14 +2730,140 @@ LEXICON N-M-A-INFL
 %<noncon%>%<voc%>:oo # ;
 %<con%>%<sing%>%<abs%>:aa # ;
 %<con%>%<sing%>%<obl%>:aa # ;
-%<con%>%<sing%>%<nom%>:ai # ;
-%<con%>%<sing%>%<inter%>:ai # ;
-%<con%>%<sing%>%<voc%>:au # ;
+%<con%>%<sing%>%<nom%>:ay # ;
+%<con%>%<sing%>%<inter%>:ay # ;
+%<con%>%<sing%>%<voc%>:aw # ;
 %<con%>%<plr%>%<abs%>:ata # ;
 %<con%>%<plr%>%<obl%>:atu # ;
 %<con%>%<plr%>%<nom%>:ati # ;
 %<con%>%<plr%>%<inter%>:atee # ;
 %<con%>%<plr%>%<voc%>:atoo # ;
+
+LEXICON N-M-CMN-E-INFL
+
+%<noncon%>%<abs%>:e # ;
+%<noncon%>%<obl%>:e # ;
+%<noncon%>%<nom%>:ee # ;
+%<noncon%>%<inter%>:ee # ;
+%<noncon%>%<voc%>:oo # ;
+%<noncon%>%<voc%>:ee # ;
+%<con%>%<sing%>%<abs%>:iya # ;
+%<con%>%<sing%>%<obl%>:iya # ;
+%<con%>%<sing%>%<nom%>:ee # ;
+%<con%>%<sing%>%<inter%>:ee # ;
+%<con%>%<sing%>%<voc%>:iyaw # ;
+%<con%>%<plr%>%<abs%>:eta # ;
+%<con%>%<plr%>%<obl%>:etu # ;
+%<con%>%<plr%>%<nom%>:eti # ;
+%<con%>%<plr%>%<inter%>:etee # ;
+%<con%>%<plr%>%<voc%>:etoo # ;
+
+LEXICON N-M-CMN-O-INFL
+
+%<noncon%>%<abs%>:o # ;
+%<noncon%>%<obl%>:o # ;
+%<noncon%>%<nom%>:oy # ;
+%<noncon%>%<inter%>:oo # ;
+%<noncon%>%<voc%>:oo # ;
+%<con%>%<sing%>%<abs%>:uwa # ;
+%<con%>%<sing%>%<obl%>:uwa # ;
+%<con%>%<sing%>%<nom%>:oy # ;
+%<con%>%<sing%>%<inter%>:oy # ;
+%<con%>%<sing%>%<voc%>:uwaw # ;
+%<con%>%<plr%>%<abs%>:ota # ;
+%<con%>%<plr%>%<obl%>:otu # ;
+%<con%>%<plr%>%<nom%>:oti # ;
+%<con%>%<plr%>%<inter%>:otee # ;
+%<con%>%<plr%>%<voc%>:otoo # ;
+
+LEXICON N-F-CMN-INFL
+
+%<noncon%>%<abs%>:o # ;
+%<noncon%>%<obl%>:e # ;
+%<noncon%>%<obl%>:i # ;
+%<noncon%>%<nom%>:a # ;
+%<noncon%>%<inter%>:oo # ;
+%<noncon%>%<voc%>:oo # ;
+%<con%>%<sing%>%<abs%>:iyo # ;
+%<con%>%<sing%>%<obl%>:ee # ;
+%<con%>%<sing%>%<nom%>:iya # ;
+%<con%>%<sing%>%<inter%>:ii # ;
+%<con%>%<sing%>%<voc%>:ee # ;
+%<con%>%<plr%>%<abs%>:eta # ;
+%<con%>%<plr%>%<obl%>:etu # ;
+%<con%>%<plr%>%<nom%>:eti # ;
+%<con%>%<plr%>%<inter%>:etee # ;
+%<con%>%<plr%>%<voc%>:etoo # ;
+%<con%>%<plr%>%<abs%>:ota # ;
+%<con%>%<plr%>%<obl%>:otu # ;
+%<con%>%<plr%>%<nom%>:oti # ;
+%<con%>%<plr%>%<inter%>:otee # ;
+%<con%>%<plr%>%<voc%>:otoo # ;
+
+LEXICON N-PLNAME-A ! Place name noun class A inflection
+
+%<n%>%<abs%>:a # ;
+%<n%>%<obl%>:a # ;
+%<n%>%<nom%>:i # ;
+%<n%>%<inter%>:ee # ;
+%<n%>%<voc%>:aa # ;
+%<n%>%<adv%>:i # ;
+
+LEXICON N-PLNAME-E ! Place name noun class E inflection
+
+%<n%>%<abs%>:e # ;
+%<n%>%<obl%>:e # ;
+%<n%>%<nom%>:ee # ;
+%<n%>%<inter%>:ee # ;
+%<n%>%<voc%>:ee # ;
+
+LEXICON N-PLNAME-O ! Place name noun class O inflection
+
+%<n%>%<abs%>:o # ;
+%<n%>%<obl%>:o # ;
+%<n%>%<nom%>:oy # ;
+%<n%>%<inter%>:oo # ;
+%<n%>%<voc%>:oo # ;
+
+LEXICON N-M-PRSNAME-A-INFL ! Person name noun class A inflection
+
+%<abs%>:a # ;
+%<obl%>:a # ;
+%<nom%>:i # ;
+%<inter%>:ee # ;
+%<voc%>:aa # ;
+
+LEXICON N-M-PRSNAME-E-INFL ! Person name noun class E inflection
+	
+%<abs%>:a # ;
+%<obl%>:e # ;
+%<nom%>:ee # ;
+%<inter%>:ee # ;
+%<voc%>:ee # ;
+
+LEXICON N-M-PRSNAME-O-INFL ! Person name noun class O inflection
+
+%<abs%>:a # ;
+%<obl%>:o # ;
+%<nom%>:oy # ;
+%<inter%>:ee # ;
+%<voc%>:oo # ;
+
+LEXICON N-M-PRSNAME-U-INFL ! Person name noun class U inflection
+
+%<abs%>:a # ;
+%<obl%>:u # ;
+%<nom%>:u # ;
+%<inter%>:ee # ;
+%<voc%>:oo # ;
+
+LEXICON N-F-PRSNAME-INFL
+
+%<abs%>:o # ;
+%<obl%>:i # ;
+%<nom%>:a # ;
+%<inter%>:ii # ;
+%<voc%>:ee # ;
 
 LEXICON V-TV
 
