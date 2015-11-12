@@ -3,55 +3,55 @@
 Multichar_Symbols
 
 ! Part of speech categories
-%<n%>  			! Noun
-%<v%>  			! Verb
-%<p1%>  		! First Person
-%<p2%> 			! Second Person
-%<p3%> 			! Third Person
-%<plr%> 		! Plural
-%<sing%>		! Singular
-%<fem%> 		! Feminine
-%<masc%> 		! Masculine
-%<prf%> 		! Perfective
-%<imfr%> 		! Imperfective
-%<neg%> 		! Negative
-%<tv%> 			! Transitive Verb
-%<iv%> 			! Intransitive Verb
-%<caus%> 		! Causative
-%<rel%> 		! Passive
-%<intr%> 		! Introgetive
-%<fut%> 		! Introgetive
-%<opt%> 		! Introgetive
-%<intrEnding%> 		! IntrogetiveEnding
-%<shortcnvb%> 		! Short Converb
-%<longcnvb%> 		! Long Converb
-%<simu%> 		! Simultaneous
-%>     			! morpheme boundary
+%<n%>  		! Noun
+%<v%>  		! Verb
+%<p1%>  	! First Person
+%<p2%> 		! Second Person
+%<p3%> 		! Third Person
+%<plr%> 	! Plural
+%<sing%>	! Singular
+%<fem%> 	! Feminine
+%<masc%> 	! Masculine
+%<prf%> 	! Perfective
+%<imfr%> 	! Imperfective
+%<neg%> 	! Negative
+%<tv%> 		! Transitive Verb
+%<iv%> 		! Intransitive Verb
+%<caus%> 	! Causative
+%<rel%> 	! Passive
+%<intr%> 	! Introgetive
+%<fut%> 	! Introgetive
+%<opt%> 	! Introgetive
+%<intrEnding%> 	! IntrogetiveEnding
+%<shortcnvb%> 	! Short Converb
+%<longcnvb%> 	! Long Converb
+%<simu%> 	! Simultaneous
+%>     		! morpheme boundary
 
-%<noncon%>     ! non-concrete noun form
-%<con%>        ! concrete noun form
-%<nom%>        ! nominative case
-%<abs%>        ! absolutive case
-%<obl%>        ! oblique case
-%<inter%>      ! interrogative case
-%<voc%>        ! vocative case
+%<noncon%>    	! non-concrete noun form
+%<con%>         ! concrete noun form
+%<nom%>         ! nominative case
+%<abs%>         ! absolutive case
+%<obl%>         ! oblique case
+%<inter%>       ! interrogative case
+%<voc%>         ! vocative case
 
-%<percent%>             ! Percent
-%<sent%>                ! Sentence marker
-%<guio%>                ! Hyphen
-%<cm%>                  ! Comma
-%<apos%>                ! Apostrophe
-%<rquot%>               ! Quote marker (right hand side)
-%<lquot%>               ! Quote marker (left hand side)
-%<rpar%>                ! Parenthetical marker (right hand side)
-%<lpar%>                ! Parenthetical marker (left hand side)
+%<percent%>     ! Percent
+%<sent%>        ! Sentence marker
+%<guio%>        ! Hyphen
+%<cm%>          ! Comma
+%<apos%>        ! Apostrophe
+%<rquot%>       ! Quote marker (right hand side)
+%<lquot%>       ! Quote marker (left hand side)
+%<rpar%>        ! Parenthetical marker (right hand side)
+%<lpar%>        ! Parenthetical marker (left hand side)
 
 %{V%}  ! placeholder for vowel gemination
 !%{tv%} ! triggers change to s
 !%{h%}  ! becomes h to make "sh" clusters
 %{‼%}  ! blocks phonology from applying, so that we can have exceptions
 
-%>                        ! Morpheme boundary
+%>              ! Morpheme boundary
 %-
 %  
 %+
@@ -73,7 +73,7 @@ VerbRoot ;
 
 LEXICON NounRoot
 
-ketta RegNounInfl ; ! "House"
+!keeta RegNounInfl ; ! "House"
 !kan:kan N-M-CMN-A ; ! "dog"
 
 !LEXICON N-M-CMN-A
@@ -7242,39 +7242,39 @@ ep:ep%{V%} V-IV ; ! "to take"
 
 LEXICON N-M-CMN-A  ! Masculine class A common nouns
 
-%<n%>%<masc%>: N-M-CMN-A-INFL ;
+%<n%>%<masc%>:%> N-M-CMN-A-INFL ;
 
 LEXICON N-M-CMN-E  ! Masculine class E common nouns
 
-%<n%>%<masc%>: N-M-CMN-E-INFL ;
+%<n%>%<masc%>:%> N-M-CMN-E-INFL ;
 
 LEXICON N-M-CMN-O  ! Masculine class O common nouns
 
-%<n%>%<masc%>: N-M-CMN-O-INFL ;
+%<n%>%<masc%>:%> N-M-CMN-O-INFL ;
 
 LEXICON N-F-CMN ! Feminin common nouns
 
-%<n%>%<fem%>: N-F-CMN-INFL ;
+%<n%>%<fem%>:%> N-F-CMN-INFL ;
 
 LEXICON N-M-PRSNAME-A  ! Masculine person name class A common nouns
 
-%<n%>%<masc%>: N-M-PRSNAME-A-INFL ;
+%<n%>%<masc%>:%> N-M-PRSNAME-A-INFL ;
 
 LEXICON N-M-PRSNAME-E  ! Masculine person name class E common nouns
 
-%<n%>%<masc%>: N-M-PRSNAME-E-INFL ;
+%<n%>%<masc%>:%> N-M-PRSNAME-E-INFL ;
 
 LEXICON N-M-PRSNAME-O  ! Masculine person name class O common nouns
 
-%<n%>%<masc%>: N-M-PRSNAME-O-INFL ;
+%<n%>%<masc%>:%> N-M-PRSNAME-O-INFL ;
 
 LEXICON N-M-PRSNAME-U  ! Masculine person name class U common nouns
 
-%<n%>%<masc%>: N-M-PENAME-U-INFL ;
+%<n%>%<masc%>:%> N-M-PENAME-U-INFL ;
 
 LEXICON N-F-PRSNAME ! Feminin common nouns
 
-%<n%>%<fem%>: N-F-PRSNAME-INFL ;
+%<n%>%<fem%>:%> N-F-PRSNAME-INFL ;
 
 LEXICON N-M-CMN-A-INFL
 
@@ -7606,15 +7606,15 @@ LEXICON VERB-LongCnvb
 %<longcnvb%>%<p3%>%<sing%>%<masc%>:idi # ;
 %<longcnvb%>%<p3%>%<plr%>:idi # ;
 
-LEXICON VERB-Simu
+LEXICON VERB-Simu            ! simu expresses while
 
 %<simu%>%<p1%>%<sing%>:aydaa # ;
-%<simu%>%<p1%>%<plr%>:iddi # ;
+%<simu%>%<p1%>%<plr%>:iiddi # ;
 %<simu%>%<p2%>%<sing%>:aydaa # ;
-%<simu%>%<p2%>%<plr%>:iddi # ;
+%<simu%>%<p2%>%<plr%>:iiddi # ;
 %<simu%>%<p3%>%<sing%>%<fem%>:aydaa # ;
-%<simu%>%<p3%>%<sing%>%<masc%>:iddi # ;
-%<simu%>%<p3%>%<plr%>:iddi # ;
+%<simu%>%<p3%>%<sing%>%<masc%>:iiddi # ;
+%<simu%>%<p3%>%<plr%>:iiddi # ;
 
 LEXICON VERB-Rel
 
