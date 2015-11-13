@@ -26,6 +26,8 @@ Multichar_Symbols
 %<shortcnvb%> 	! Short Converb
 %<longcnvb%> 	! Long Converb
 %<simu%> 	! Simultaneous
+%<prn%>		! Pronoun
+%<refl%>	! Reflexive
 %>     		! morpheme boundary
 
 %<noncon%>    	! non-concrete noun form
@@ -66,7 +68,9 @@ LEXICON Root
 
 NounRoot ;
 VerbRoot ;
+Pronouns ;
 NumberRoot ;
+Punctuation ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!                          L E X I C O N                                  !!!
@@ -7285,6 +7289,15 @@ b:b%{V%} V-IV ; ! "to go"
 g:g%{V%} V-IV ; ! "to say"
 ep:ep%{V%} V-IV ; ! "to take"
 
+LEXICON Pronouns
+
+tana : tana ABS-PRONOUNA ; ! "me"
+nuna : nuna ABS-PRONOUNB ; ! "us"
+nena : nena ABS-PRONOUNC ; ! "you"
+inttena : inttena ABS-PRONOUND ; ! "you"
+bana : bana ABS-PRONOUNE ; ! "himself/herself"
+banttana : banttana ABS-PRONOUNF ; ! "themselve"
+
 LEXICON NumberRoot
 
 iss : iss NUM-1 ; ! "1"
@@ -7737,6 +7750,30 @@ VERB-ShortCnvb ;
 VERB-LongCnvb ;
 VERB-Simu ;
 VERB-Rel ;
+
+LEXICON ABS-PRONOUNA
+
+%<p1%>%<sing%>%<abs%>%<prn%>:  # ;
+
+LEXICON ABS-PRONOUNB
+
+%<p1%>%<plr%>%<abs%>%<prn%>:  # ;
+
+LEXICON ABS-PRONOUNC
+
+%<p2%>%<sing%>%<abs%>%<prn%>:  # ;
+
+LEXICON ABS-PRONOUND
+
+%<p2%>%<plr%>%<abs%>%<prn%>:  # ;
+
+LEXICON ABS-PRONOUNE
+
+%<p3%>%<refl%>%<sing%>%<abs%>%<prn%>:  # ;
+
+LEXICON ABS-PRONOUNF
+
+%<p3%>%<refl%>%<sing%>%<abs%>%<prn%>:  # ;
 
 LEXICON NUM-1 ! 
 
