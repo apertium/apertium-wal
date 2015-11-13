@@ -66,6 +66,7 @@ LEXICON Root
 
 NounRoot ;
 VerbRoot ;
+NumberRoot ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!                          L E X I C O N                                  !!!
@@ -7284,6 +7285,20 @@ b:b%{V%} V-IV ; ! "to go"
 g:g%{V%} V-IV ; ! "to say"
 ep:ep%{V%} V-IV ; ! "to take"
 
+LEXICON NumberRoot
+
+iss : iss NUM-1 ; ! "1"
+na'' : na'' NUM-2 ; ! "2"
+hez : hez NUM-2 ; ! "3"
+oyd : oyd NUM-2 ; ! "4"
+ichesh : ichesh NUM-2 ; ! "5"
+usuppun : usuppun NUM-6 ; ! "6"
+lapun : lapun NUM-6 ; ! "7"
+hospun : hospun NUM-6 ; ! "8"
+udupu : udupu NUM-2 ; ! "9"
+tamm : tamm NUM-2 ; ! "10"
+isiin : isiin NUM-11 ; ! "11"
+
 !LEXICON RegNounInfl
 
 !%<n%>%<sing%>:   # ;
@@ -7319,7 +7334,7 @@ LEXICON N-M-PRSNAME-O  ! Masculine person name class O common nouns
 
 LEXICON N-M-PRSNAME-U  ! Masculine person name class U common nouns
 
-%<n%>%<masc%>:%> N-M-PENAME-U-INFL ;
+%<n%>%<masc%>:%> N-M-PESNAME-U-INFL ;
 
 LEXICON N-F-PRSNAME ! Feminin common nouns
 
@@ -7485,8 +7500,8 @@ LEXICON V-ITV   ! Lexicon for transitivised verbs
 
 LEXICON V-TV-PASS   ! Lexicon for passive stems of verbs
 
-%<v%>%<tv%>%<pass%>:%>ett%> VERB-Pass-endings ;
 
+%<v%>%<tv%>%<pass%>:%>ett%> VERB-Pass-endings ;
 LEXICON V-TV-PASS-ETT  ! Lexicon for passive forms of verbs
 
 %<v%>%<tv%>%<pass%>:%> VERB-Pass-endings ;
@@ -7723,23 +7738,51 @@ VERB-LongCnvb ;
 VERB-Simu ;
 VERB-Rel ;
 
+LEXICON NUM-1 ! 
 
-LEXICON NUM
+%<num%>:%> NUM-1-INFL ;
 
-# ;
+LEXICON NUM-1-INFL
 
-LEXICON Numbers
+%<count%>:a # ;
+%<abs%>:uwa # ;
+%<obl%>:i # ;
+%<inter%>:oo # ;
 
-ist:ist NUM ; ! "1"
-na:na NUM ; ! "2"
-hez:hez NUM ; ! "3"
-oyd:oyd NUM ; ! "4"
-ichesh:ichesh NUM ; ! "5"
-usupun:usupun NUM ; ! "6"
-lapun:lapun NUM ; ! "7"
-hospun:hospun NUM ; ! "8"
-udupu:udupu NUM ; ! "9"
-tamm:tamm NUM ; ! "10"
+LEXICON NUM-2 ! 
+
+%<num%>:%> NUM-2-INFL ;
+
+LEXICON NUM-2-INFL
+
+%<count%>:a # ;
+%<abs%>:a # ;
+%<obl%>:u # ;
+%<inter%>:ee # ;
+
+LEXICON NUM-6 ! 
+
+%<num%>:%> NUM-6-INFL ;
+
+LEXICON NUM-6-INFL
+
+%<count%>:a # ;
+%<abs%>:a # ;
+%<obl%>: # ;
+%<inter%>:ee # ;
+
+LEXICON NUM-11 !
+
+%<num%>:%> NUM-11-INFL ;
+
+LEXICON NUM-11-INFL
+
+%<count%>:o # ;
+%<abs%>:e # ;
+%<abs%>:o # ;
+%<obl%>:i # ;
+%<obl%>:e # ;
+%<inter%>:ee # ;
 
 LEXICON Punctuation
 
