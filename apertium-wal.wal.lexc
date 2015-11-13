@@ -7289,13 +7289,13 @@ LEXICON NumberRoot
 
 iss : iss NUM-1 ; ! "1"
 na'' : na'' NUM-2 ; ! "2"
-hez : hez NUM-2 ; ! "3"
-oyd : oyd NUM-2 ; ! "4"
-ichesh : ichesh NUM-2 ; ! "5"
+heezz : heezz NUM-2 ; ! "3"
+oydd : oydd NUM-2 ; ! "4"
+ichchash : ichchash NUM-2 ; ! "5"
 usuppun : usuppun NUM-6 ; ! "6"
-lapun : lapun NUM-6 ; ! "7"
+laappun : laappun NUM-6 ; ! "7"
 hospun : hospun NUM-6 ; ! "8"
-udupu : udupu NUM-2 ; ! "9"
+uddufun : uddufun NUM-6 ; ! "9"
 tamm : tamm NUM-2 ; ! "10"
 isiin : isiin NUM-11 ; ! "11"
 
