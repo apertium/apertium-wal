@@ -7349,6 +7349,24 @@ nunoo : nunoo VOC-PRONOUNB ; ! "we"
 nenoo : nenoo VOC-PRONOUNC ; ! "you"
 inttenoo : inttenoo VOC-PRONOUND ; ! "you"
 
+a : a ABS-PRONOUNMASC ; ! "him"  
+o : o ABS-PRONOUNFEM ; ! "her"
+eta : eta ABS-PRONOUNPLR ; ! "them"
+
+a : a OBL-PRONOUNMASC ; ! "he" 
+aa : aa OBL-PRONOUNMASC ; ! "he"   
+i : i OBL-PRONOUNFEM ; ! "she"
+ii : ii OBL-PRONOUNFEM ; ! "she"  
+eta : eta OBL-PRONOUNPLR ; ! "they"
+etaa : etaa OBL-PRONOUNPLR ; ! "they"  
+
+i : i NOM-PRONOUNMASC ; ! "he"  
+a : a NOM-PRONOUNFEM ; ! "she"
+eti : eti NOM-PRONOUNPLR ; ! "they"
+ee : ee INTER-PRONOUNMASC ; ! "he"  
+ii : ii INTER-PRONOUNFEM ; ! "we"
+etee : etee INTER-PRONOUNPLR ; ! "you"
+
 LEXICON NumberRoot
 
 iss : iss NUM-1 ; ! "1"
@@ -7564,8 +7582,8 @@ LEXICON V-ITV   ! Lexicon for transitivised verbs
 
 LEXICON V-TV-PASS   ! Lexicon for passive stems of verbs
 
-
 %<v%>%<tv%>%<pass%>:%>ett%> VERB-Pass-endings ;
+
 LEXICON V-TV-PASS-ETT  ! Lexicon for passive forms of verbs
 
 %<v%>%<tv%>%<pass%>:%> VERB-Pass-endings ;
@@ -7802,7 +7820,6 @@ VERB-LongCnvb ;
 VERB-Simu ;
 VERB-Rel ;
 
-
 LEXICON ABS-PRONOUNA
 
 %<p1%>%<sing%>%<abs%>%<prn%>:  # ;
@@ -7827,6 +7844,17 @@ LEXICON ABS-PRONOUNF
 
 %<p3%>%<refl%>%<plr%>%<abs%>%<prn%>:  # ;
 
+LEXICON ABS-PRONOUNMASC
+
+%<p3%>%<sing%>%<masc%>%<abs%>%<prn%>:  # ;
+
+LEXICON ABS-PRONOUNFEM
+
+%<p3%>%<sing%>%<fem%>%<abs%>%<prn%>:  # ;
+
+LEXICON ABS-PRONOUNPLR
+
+%<p3%>%<plr%>%<abs%>%<prn%>:  # ;
 
 LEXICON OBL-PRONOUNA
 
@@ -7853,6 +7881,19 @@ LEXICON OBL-PRONOUNF
 %<p3%>%<refl%>%<plr%>%<abs%>%<prn%>:  # ;
 
 
+LEXICON OBL-PRONOUNMASC
+
+%<p3%>%<sing%>%<masc%>%<obl%>%<prn%>:  # ;
+
+LEXICON OBL-PRONOUNFEM
+
+%<p3%>%<sing%>%<fem%>%<obl%>%<prn%>:  # ;
+
+LEXICON OBL-PRONOUNPLR
+
+%<p3%>%<plr%>%<obl%>%<prn%>:  # ;
+
+
 LEXICON NOM-PRONOUNA
 
 %<p1%>%<sing%>%<nom%>%<prn%>:  # ;
@@ -7868,6 +7909,20 @@ LEXICON NOM-PRONOUNC
 LEXICON NOM-PRONOUND
 
 %<p2%>%<plr%>%<nom%>%<prn%>:  # ;
+
+LEXICON NOM-PRONOUNMASC
+
+%<p3%>%<sing%>%<nom%>%<prn%>:  # ;
+
+%<p3%>%<sing%>%<masc%>%<nom%>%<prn%>:  # ;
+
+LEXICON NOM-PRONOUNFEM
+
+%<p3%>%<sing%>%<nom%>%<nom%>%<prn%>:  # ;
+
+LEXICON NOM-PRONOUNPLR
+
+%<p3%>%<plr%>%<nom%>%<prn%>:  # ;
 
 
 LEXICON INTER-PRONOUNA
@@ -7893,6 +7948,19 @@ LEXICON INTER-PRONOUNE
 LEXICON INTER-PRONOUNF
 
 %<p3%>%<refl%>%<plr%>%<inter%>%<prn%>:  # ;
+
+
+LEXICON INTER-PRONOUNMASC
+
+%<p3%>%<sing%>%<masc%>%<inter%>%<prn%>:  # ;
+
+LEXICON INTER-PRONOUNFEM
+
+%<p3%>%<sing%>%<fem%>%<inter%>%<prn%>:  # ;
+
+LEXICON INTER-PRONOUNPLR
+
+%<p3%>%<plr%>%<obl%>%<inter%>:  # ;
 
 
 LEXICON VOC-PRONOUNA
