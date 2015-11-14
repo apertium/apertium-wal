@@ -7298,6 +7298,48 @@ inttena : inttena ABS-PRONOUND ; ! "you"
 bana : bana ABS-PRONOUNE ; ! "himself/herself"
 banttana : banttana ABS-PRONOUNF ; ! "themselve"
 
+ta : ta OBL-PRONOUNA ; ! "I"
+taa : taa OBL-PRONOUNA ; ! "I"
+tana : tana OBL-PRONOUA ; ! "me"
+tanaa: tanaa OBL-PRONOUA ; ! "me" 
+nu : nu OBL-PRONOUNB ; ! "we"
+nuu : nuu OBL-PRONOUNB ; ! "we"
+nuna : nuna OBL-PRONOUNB ; ! "us"
+nunaa : nunaa OBL-PRONOUNB ; ! "us"
+ne : ne OBL-PRONOUNC ; ! "you"
+nee : nee OBL-PRONOUNC ; ! "you"
+nena : nena OBL-PRONOUNC ; ! "you"
+nenaa : nenaa OBL-PRONOUNC ; ! "you"
+intte : intte OBL-PRONOUND ; ! "you"
+inttee : inttee OBL-PRONOUND ; ! "you"
+inttena : inttena OBL-PRONOUND ; ! "you"
+inttenaa : inttenaa OBL-PRONOUND ; ! "you"
+ba : ba OBL-PRONOUNE ; ! "his"
+baa : baa OBL-PRONOUNE ; ! "himself/herself"
+bana : bana OBL-PRONOUNE ; ! "himself/herself"
+banaa : banaa OBL-PRONOUNE ; ! "himself/herself"
+bantta : bantta OBL-PRONOUNF ; ! "their"
+banttaa : banttaa OBL-PRONOUNF ; ! "their"
+banttana : banttana OBL-PRONOUNF ; ! "themselves"
+banttanaa : banttanaa OBL-PRONOUNF ; ! "themselves"
+
+
+ta : ta NOM-PRONOUNA ; ! "I"
+taa : taa NOM-PRONOUNA ; ! "I"
+tan : tan NOM-PRONOUA ; ! "I"
+taani: taani NOM-PRONOUA ; ! "I" 
+nu : nu NOM-PRONOUNB ; ! "we"
+nuu : nuu NOM-PRONOUNB ; ! "we"
+nun : nun NOM-PRONOUNB ; ! "we"
+nuuni : nuuni NOM-PRONOUNB ; ! "we"
+ne : ne NOM-PRONOUNC ; ! "you"
+nee : nee NOM-PRONOUNC ; ! "you"
+nen : nen NOM-PRONOUNC ; ! "you"
+neeni : neeni NOM-PRONOUNC ; ! "you"
+intte : intte NOM-PRONOUND ; ! "you"
+
+
+
 LEXICON NumberRoot
 
 iss : iss NUM-1 ; ! "1"
@@ -7751,6 +7793,7 @@ VERB-LongCnvb ;
 VERB-Simu ;
 VERB-Rel ;
 
+
 LEXICON ABS-PRONOUNA
 
 %<p1%>%<sing%>%<abs%>%<prn%>:  # ;
@@ -7773,7 +7816,93 @@ LEXICON ABS-PRONOUNE
 
 LEXICON ABS-PRONOUNF
 
-%<p3%>%<refl%>%<sing%>%<abs%>%<prn%>:  # ;
+%<p3%>%<refl%>%<plr%>%<abs%>%<prn%>:  # ;
+
+
+LEXICON OBL-PRONOUNA
+
+%<p1%>%<sing%>%<obl%>%<prn%>:  # ;
+
+LEXICON OBL-PRONOUNB
+
+%<p1%>%<plr%>%<obl%>%<prn%>:  # ;
+
+LEXICON OBL-PRONOUNC
+
+%<p2%>%<sing%>%<obl%>%<prn%>:  # ;
+
+LEXICON OBL-PRONOUND
+
+%<p2%>%<plr%>%<obl%>%<prn%>:  # ;
+
+LEXICON OBL-PRONOUNE
+
+%<p3%>%<refl%>%<sing%>%<obl%>%<prn%>:  # ;
+
+LEXICON OBL-PRONOUNF
+
+%<p3%>%<refl%>%<plr%>%<abs%>%<prn%>:  # ;
+
+
+LEXICON NOM-PRONOUNA
+
+%<p1%>%<sing%>%<nom%>%<prn%>:  # ;
+
+LEXICON NOM-PRONOUNB
+
+%<p1%>%<plr%>%<nom%>%<prn%>:  # ;
+
+LEXICON NOM-PRONOUNC
+
+%<p2%>%<sing%>%<nom%>%<prn%>:  # ;
+
+LEXICON NOM-PRONOUND
+
+%<p2%>%<plr%>%<nom%>%<prn%>:  # ;
+
+
+LEXICON INTER-PRONOUNA
+
+%<p1%>%<plr%>%<inter%>%<prn%>:  # ;
+
+LEXICON INTER-PRONOUNB
+
+%<p1%>%<plr%>%<inter%>%<prn%>:  # ;
+
+LEXICON INTER-PRONOUNC
+
+%<p2%>%<sing%>%<inter%>%<prn%>:  # ;
+
+LEXICON INTER-PRONOUND
+
+%<p2%>%<plr%>%<inter%>%<prn%>:  # ;
+
+LEXICON INTER-PRONOUNE
+
+%<p3%>%<refl%>%<sing%>%<inter%>%<prn%>:  # ;
+
+LEXICON INTER-PRONOUNF
+
+%<p3%>%<refl%>%<plr%>%<inter%>%<prn%>:  # ;
+
+
+LEXICON VOC-PRONOUNA
+
+%<p1%>%<sing%>%<voc%>%<prn%>:  # ;
+
+LEXICON VOC-PRONOUNB
+
+%<p1%>%<plr%>%<voc%>%<prn%>:  # ;
+
+LEXICON VOC-PRONOUNC
+
+%<p2%>%<sing%>%<voc%>%<prn%>:  # ;
+
+LEXICON VOC-PRONOUND
+
+%<p2%>%<plr%>%<voc%>%<prn%>:  # ;
+
+
 
 LEXICON NUM-1 ! 
 
