@@ -7323,7 +7323,6 @@ banttaa : banttaa OBL-PRONOUNF ; ! "their"
 banttana : banttana OBL-PRONOUNF ; ! "themselves"
 banttanaa : banttanaa OBL-PRONOUNF ; ! "themselves"
 
-
 ta : ta NOM-PRONOUNA ; ! "I"
 taa : taa NOM-PRONOUNA ; ! "I"
 tan : tan NOM-PRONOUA ; ! "I"
@@ -7338,7 +7337,17 @@ nen : nen NOM-PRONOUNC ; ! "you"
 neeni : neeni NOM-PRONOUNC ; ! "you"
 intte : intte NOM-PRONOUND ; ! "you"
 
+tanee : tanee INTER-PRONOUNA ; ! "am i"
+nunee : nunee INTER-PRONOUNB ; ! "are we"
+nenee : nenee INTER-PRONOUNC ; ! "are you"
+inttenee : inttenee INTER-PRONOUND ; ! "are you"
+banee : banee INTER-PRONOUNE ; ! "am i"
+banttanee : banttanee INTER-PRONOUNF ; ! "are we" ! fix-me
 
+tanoo : tanoo VOC-PRONOUNA ; ! "i"
+nunoo : nunoo VOC-PRONOUNB ; ! "we"
+nenoo : nenoo VOC-PRONOUNC ; ! "you"
+inttenoo : inttenoo VOC-PRONOUND ; ! "you"
 
 LEXICON NumberRoot
 
