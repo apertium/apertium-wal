@@ -28,6 +28,7 @@ Multichar_Symbols
 %<simu%> 	! Simultaneous
 %<prn%>		! Pronoun
 %<refl%>	! Reflexive
+%<nmlz%>	! Nominalizer
 %>     		! morpheme boundary
 
 %<noncon%>    	! non-concrete noun form
@@ -76,7 +77,7 @@ Punctuation ;
 !!!                          L E X I C O N                                  !!!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-LEXICON NounRoot
+LEXICON NounRoot					!To be checked manually 
 
 !keeta RegNounInfl ; ! "House"
 !kan:kan N-M-CMN-A ; ! "dog"
@@ -89,14 +90,14 @@ aanni : aanni N-M-CMN-A ; ! "identity"
 aanu : aanu N-M-CMN-A ; ! "thyme"
 aaret : aaret N-M-CMN-A ; ! "passing"
 aattiyo : aattiyo N-M-CMN-A ; ! "leakage"
-aa : aa N-M-CMN-A ; ! "father"
+aaw : aaw N-M-CMN-A ; ! "father"
 aawatet : aawatet N-M-CMN-A ; ! "fatherhood"
 abaraadet : abaraadet N-M-CMN-A ; ! "death throes"
 Abas : Abas N-M-CMN-A ; ! "Abyssinia"
 ab : ab N-M-CMN-A ; ! "lake"
 ab : ab N-M-CMN-A ; ! "dad"
 abigaa : abigaa N-M-CMN-A ; ! "leader"
-a : a N-M-CMN-A ; ! "crop"
+ac : ac N-M-CMN-A ; ! "crop"
 achc : achc N-M-CMN-A ; ! "tooth"
 ada : ada N-M-CMN-A ; ! "abundance"
 adaraas : adaraas N-M-CMN-A ; ! "address"
@@ -2937,6 +2938,7 @@ kontt : kontt N-M-CMN-E ; ! "hoe"
 kookk : kookk N-M-CMN-E ; ! "passion fruit"
 kookk : kookk N-M-CMN-E ; ! "throat"
 koomiit : koomiit N-M-CMN-E ; ! "committee"
+kompyuutar : kompyúútar N-M-CMN-E ; ! "computer"
 kooshim : kooshim N-M-CMN-E ; ! "thorny plant"
 koot : koot N-M-CMN-E ; ! "coat"
 kophph : kophph N-M-CMN-E ; ! "handsfuls"
@@ -4684,6 +4686,9 @@ zonniin : zonniin N-M-CMN-A ; ! "very long"
 Wolaytt : Wolaytt N-PLNAME-A ; ! "Wolaita"
 Yesuus : Yesuus N-M-PRSNAME-A-INFL ; ! "Jesus"
 Kiristtoos : Kiristtoos N-M-PRSNAME-A-INFL ; ! "Christ"
+afirkk : afirkk N-M-PRSNAME-A-INFL ; ! "Christ"
+adimaas : adimaas N-M-PRSNAME-A-INFL ; ! "Christ"
+
 
 LEXICON VerbRoot
 
@@ -5837,6 +5842,7 @@ add:add V-TV ; ! "scare intimidate"
 afuluuq:afuluuq V-TV ; ! "work do"
 ag:ag V-TV ; ! "brew (beer)"
 agamas:agamas V-TV ; ! "give food"
+agg : agg V-TV ; ! "cease"
 agur:agur V-TV ; ! "drove violently"
 ajab:ajab V-TV ; ! "escort accompany"
 akeek:akeek V-TV ; ! "remember recall"
@@ -7764,13 +7770,30 @@ LEXICON VERB-Simu            ! simu expresses while
 
 LEXICON VERB-Rel
 
-%<rel%>%<impf%>%<sub%>:iya # ;
+%<rel%>%<impf%>%<sub%>:iya # ; 
 %<rel%>%<prf%>%<sub%>:o # ;
 %<rel%>%<prf%>%<sub%>:ido # ;
 %<rel%>%<impf%>%<nsub%>:iyo # ;
 %<rel%>%<prf%>%<nsub%>:a # ;
 %<rel%>%<prf%>%<nsub%>:ida # ;
 
+LEXICON VERB-NMLZ
+
+%<nmlz%>%<sing%>%<masc%>%<abs%>:gaa # ;
+%<nmlz%>%<plr%>%<masc%>%<abs%>:geeta # ;
+%<nmlz%>%<sing%>%<fem%>%<abs%>:ro # ;
+%<nmlz%>%<sing%>%<masc%>%<obl%>:gaa # ;
+%<nmlz%>%<plr%>%<masc%>%<obl%>:geetu # ;
+%<nmlz%>%<sing%>%<fem%>%<obl%>:ri # ;
+%<nmlz%>%<sing%>%<masc%>%<nom%>:gee # ;
+%<nmlz%>%<plr%>%<masc%>%<nom%>:geeti # ;
+%<nmlz%>%<sing%>%<fem%>%<nom%>:ra # ;
+%<nmlz%>%<sing%>%<masc%>%<inter%>:gee # ;
+%<nmlz%>%<plr%>%<masc%>%<inter%>:geetee # ;
+%<nmlz%>%<sing%>%<fem%>%<inter%>:ri # ;
+%<nmlz%>%<sing%>%<masc%>%<voc%>:goo # ;
+%<nmlz%>%<plr%>%<masc%>%<voc%>:geetoo # ;
+%<nmlz%>%<sing%>%<fem%>%<voc%>:ree # ;
 
 LEXICON VERB-Cau
 
@@ -7978,7 +8001,6 @@ LEXICON VOC-PRONOUNC
 LEXICON VOC-PRONOUND
 
 %<p2%>%<plr%>%<voc%>%<prn%>:  # ;
-
 
 
 LEXICON NUM-1 ! 

@@ -119,17 +119,17 @@ acceptability	aattananaw
 acceptance	aattanaw
 achchan	aattees
 achchay	aatteettees
-acquisition	aatti
-acqvisition	aattida
-action	aattidaakkonne
-actions	aattidi
-active	aattido
+	aatti
+	aattida
+	aattidaakkonne
+	aattidi
+	aattido
 ada	aattidosona
 addachchi	aattiis
 addaraashan	aattiya
 adeema	aattiyo
 adems	aattiyode
-adequacy	aattiyogee
+	aattiyogee
 adereti	aattiyosaa
 adimaasa	aattiyosay
 adimaasu	aattoosona
@@ -140,7 +140,7 @@ adussatettaa	aaw
 adussatettaappe	aawa
 adussatettay	aawaa
 aduwa	aawaaayyee
-advertising	aawaanne
+	aawaanne
 aekeekissida	aawaappe
 afikrkkaa	aawaara
 afirkaappeenne	aawaassi
@@ -2555,12 +2555,12 @@ ettyio	boosoolo
 ettyoogaa	boossiis
 evaluating	boossuwa
 exoglossic	bootaanee
-experience	bootaaniya
-explain	bootida
-exposition	bootiis
-expozitary	bootiyode
-extended	bootta
-extensive	boottaa
+	bootaaniya
+	bootida
+	bootiis
+	bootiyode
+	bootta
+	boottaa
 ezggana	boottalle
 ezgganawu	booxissanaw
 ezggees	booxxiis
@@ -2582,25 +2582,25 @@ ezggiyonne	borettaasu
 ezggiyoode	borettiis
 ezggiyoogaa	borettiya
 ezggo	boriis
-f	borinashettiis
-facilitator	borinashoy
-fact	borinashshiis
-fairclough	borinashuwa
-fasold	boriya
-feedback	borkkotaa
+	borinashettiis
+	borinashoy
+	borinashshiis
+	borinashuwa
+	boriya
+	borkkotaa
 firiya	borkkotada
 fleming	borkkotiis
-fluency	boroddattiis
-form	boroddattuwa
-format	boroodiis
-frankiliini	borooduwa
-frankkiliini	boroqiis
-frankkilini	boroqo
-free	boroquwa
-from	boroshsha
-function	boroshshaa
-g	boroshshatiis
-ga	boroshshiis
+	boroddattiis
+	boroddattuwa
+	boroodiis
+	borooduwa
+	boroqiis
+	boroqo
+	boroquwa
+	boroshsha
+	boroshshaa
+	boroshshatiis
+	boroshshiis
 gaaasonne	boroyyiis
 gaaccanaagee	borsaa
 gaada	borssaa
@@ -2647,34 +2647,34 @@ gaasuwan	brailler
 gaasuwanne	brandnew
 gaasuwassa	brasiliensis
 gaate	brawny
-gaatiya	breakages
-gaattidi	breastfed
-gaattiyo	breastfeed
-gaayttidi	breastfeeding
-gaayttiyoggaappe	breastfeeds
-gaayyiya	breastmilk
-gaazeexa	bridegoom
-gaazeexaa	bridegroom's
-gaazeexaaninne	brideprize
-gaazeexaanne	bride's
-gaazeexay	brokenpiece
-gabreelliyawu	brotherinlaw
-gacettanawu	brother's
-gaco	brrr
+gaatiya	
+gaattidi	
+gaattiyo	
+gaayttidi	
+gaayttiyoggaappe	
+gaayyiya	
+gaazeexa	
+gaazeexaa	
+gaazeexaaninne	
+gaazeexaanne	
+gaazeexay	
+gabreelliyawu	
+gacettanawu	
+gaco	
 gadaawa	bubbuhaa
 gadaawaa	bubbuntte
 gadaaway	bubbuxaasu
 gaddarssiyaba	bubbuxiis
 ga''i	bubbuxuwa
 gakkana	bubbuxuwan
-gakkanaagee	bucktooth
-gakkanaashiina	bucktoothed
+gakkanaagee	
+gakkanaashiina	
 gakkanaashin	buddeenaa
 gakkanaashinkka	buddeenay
 gakkanaassee	buduniya
 gakkanawu	buffed
 gakkanwu	buh
-gakkay	'buh'
+gakkay	
 gakkees	buhaa
 gakkennaadan	buhee
 gakki	buhettees
@@ -2971,8 +2971,8 @@ general	caananaw
 generational	caanappe
 gennuwa	caanay
 genral	caanettida
-geographicai	caanettiis
-geographical	caanettiyo
+	caanettiis
+	caanettiyo
 gereeriyoy	caanidi
 getettana	caanido
 getettees	caanidobaa
@@ -2980,7 +2980,7 @@ getettoosona	caaniis
 gettidi	caaniya
 gezziya	caaniyogee
 gezziyawu	caanuwa
-ggiyoogee	caaqettidosonamaacettidosona
+ggiyoogee	caaqettidosona maacettidosona
 ghishsha	caaqettiis
 gi	caaqoy
 gida	caaqqaasu
@@ -10509,6 +10509,7 @@ zzaaranawu	kerbbebiis
 	kombbiya
 	kombbu
 	komenttariya
+        kompyúútar
 	kompiwteriya
 	kompiwuteriyan
 	komppaasu
