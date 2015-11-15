@@ -40,6 +40,8 @@ Multichar_Symbols
 %<inter%>       ! interrogative case
 %<voc%>         ! vocative case
 
+%<post%>        ! postposition
+
 %<percent%>     ! Percent
 %<sent%>        ! Sentence marker
 %<guio%>        ! Hyphen
@@ -7307,21 +7309,16 @@ ep:ep%{V%} V-IV ; ! "to take"
 
 LEXICON Pronouns
 
-tana:tana ABS-PRONOUNA ; ! "me"
-nuna:nuna ABS-PRONOUNB ; ! "us"
+ta:ta PRONOUNA ; ! "I/me"
+nu:nu PRONOUNB ; ! "you"
+
+
+! EVERYTHING BELOW HERE NEEDS TO BE COMBINED AND MOVED UP
 nena:nena ABS-PRONOUNC ; ! "you"
 inttena:inttena ABS-PRONOUND ; ! "you"
 bana:bana ABS-PRONOUNE ; ! "himself/herself"
 banttana:banttana ABS-PRONOUNF ; ! "themselve"
 
-ta : ta OBL-PRONOUNA ; ! "I"
-taa : taa OBL-PRONOUNA ; ! "I"
-tana : tana OBL-PRONOUA ; ! "me"
-tanaa: tanaa OBL-PRONOUA ; ! "me" 
-nu : nu OBL-PRONOUNB ; ! "we"
-nuu : nuu OBL-PRONOUNB ; ! "we"
-nuna : nuna OBL-PRONOUNB ; ! "us"
-nunaa : nunaa OBL-PRONOUNB ; ! "us"
 ne : ne OBL-PRONOUNC ; ! "you"
 nee : nee OBL-PRONOUNC ; ! "you"
 nena : nena OBL-PRONOUNC ; ! "you"
@@ -7339,29 +7336,17 @@ banttaa : banttaa OBL-PRONOUNF ; ! "their"
 banttana : banttana OBL-PRONOUNF ; ! "themselves"
 banttanaa : banttanaa OBL-PRONOUNF ; ! "themselves"
 
-ta : ta NOM-PRONOUNA ; ! "I"
-taa : taa NOM-PRONOUNA ; ! "I"
-tan : tan NOM-PRONOUA ; ! "I"
-taani: taani NOM-PRONOUA ; ! "I" 
-nu : nu NOM-PRONOUNB ; ! "we"
-nuu : nuu NOM-PRONOUNB ; ! "we"
-nun : nun NOM-PRONOUNB ; ! "we"
-nuuni : nuuni NOM-PRONOUNB ; ! "we"
 ne : ne NOM-PRONOUNC ; ! "you"
 nee : nee NOM-PRONOUNC ; ! "you"
 nen : nen NOM-PRONOUNC ; ! "you"
 neeni : neeni NOM-PRONOUNC ; ! "you"
 intte : intte NOM-PRONOUND ; ! "you"
 
-tanee : tanee INTER-PRONOUNA ; ! "am i"
-nunee : nunee INTER-PRONOUNB ; ! "are we"
 nenee : nenee INTER-PRONOUNC ; ! "are you"
 inttenee : inttenee INTER-PRONOUND ; ! "are you"
 banee : banee INTER-PRONOUNE ; ! "am i"
 banttanee : banttanee INTER-PRONOUNF ; ! "are we" ! fix-me
 
-tanoo : tanoo VOC-PRONOUNA ; ! "i"
-nunoo : nunoo VOC-PRONOUNB ; ! "we"
 nenoo : nenoo VOC-PRONOUNC ; ! "you"
 inttenoo : inttenoo VOC-PRONOUND ; ! "you"
 
@@ -7865,10 +7850,73 @@ VERB-LongCnvb ;
 VERB-Simu ;
 VERB-Rel ;
 
-LEXICON ABS-PRONOUNA
+LEXICON PRONOUNA
 
-%<p1%>%<sing%>%<abs%>%<prn%>: INFL-Abs ;
-%<p1%>%<sing%>%<obl%>%<prn%>:  # ;
+%<prn%>%<p1%>%<sing%>: PRONOUNA-FORMS ;
+
+LEXICON PRONOUNA-FORMS
+
+%<abs%>:na INFL-ABS-PRONOUNA ; ! "me"
+%<obl%>: INFL-OBL-PRONOUNAB-COMMON ; ! "I"
+%<obl%>:a INFL-OBL-PRONOUNAB-COMMON ; ! "I" ! Dir/LR
+%<obl%>:na INFL-OBL-PRONOUNAB-COMMON ; ! "me" ! Dir/LR
+%<obl%>:naa INFL-OBL-PRONOUNAB-COMMON ; ! "me" ! Dir/LR
+%<nom%>: INFL-NOM-PRONOUNA ; ! "I"
+%<nom%>:a INFL-NOM-PRONOUNA ; ! "I" ! Dir/LR
+%<nom%>:n INFL-NOM-PRONOUNA ; ! "I" ! Dir/LR
+%<nom%>:ani INFL-NOM-PRONOUNA ; ! "I" ! Dir/LR
+%<inter%>:nee INFL-INTER-PRONOUNA ; ! "am i"
+%<voc%>:noo INFL-VOC-PRONOUNA ; ! "i"
+
+LEXICON PRONOUNB
+
+%<prn%>%<p1%>%<plr%>: PRONOUNB-FORMS ;
+
+
+LEXICON PRONOUNB-FORMS
+
+%<obl%>: INFL-OBL-PRONOUNB ; ! "we"
+%<abs%>:na INFL-ABS-PRONOUNAB ; ! "us"
+
+! These forms need to be modified to be like the above forms
+!nuu : nuu OBL-PRONOUNB ; ! "we"
+!nuna : nuna OBL-PRONOUNB ; ! "us"
+!nunaa : nunaa OBL-PRONOUNB ; ! "us"
+!nu : nu NOM-PRONOUNB ; ! "we"
+!nuu : nuu NOM-PRONOUNB ; ! "we"
+!nun : nun NOM-PRONOUNB ; ! "we"
+!nuuni : nuuni NOM-PRONOUNB ; ! "we"
+!nunee : nunee INTER-PRONOUNB ; ! "are we"
+!nunoo : nunoo VOC-PRONOUNB ; ! "we"
+
+LEXICON INFL-OBL-PRONOUNB
+
+! add morphology that's specific to pronoun B here
+INFL-OBL-PRONOUNAB-COMMON ;
+
+LEXICON INFL-ABS-PRONOUNA
+
+# ; 
+
+LEXICON INFL-OBL-PRONOUNAB-COMMON
+
+# ; 
+POST-OBL ;
+PRON-NOMINALIZERS-OBL ;
+
+
+LEXICON INFL-NOM-PRONOUNA
+
+# ; 
+
+LEXICON INFL-INTER-PRONOUNA
+
+# ; 
+
+LEXICON INFL-VOC-PRONOUNA
+
+# ; 
+
 
 LEXICON ABS-PRONOUNB
 
@@ -7902,8 +7950,6 @@ LEXICON ABS-PRONOUNPLR
 
 %<p3%>%<plr%>%<abs%>%<prn%>:  # ;
 
-!LEXICON OBL-PRONOUNA
-!
 
 LEXICON OBL-PRONOUNB
 
@@ -7939,10 +7985,6 @@ LEXICON OBL-PRONOUNPLR
 %<p3%>%<plr%>%<obl%>%<prn%>:  # ;
 
 
-LEXICON NOM-PRONOUNA
-
-%<p1%>%<sing%>%<nom%>%<prn%>:  # ;
-
 LEXICON NOM-PRONOUNB
 
 %<p1%>%<plr%>%<nom%>%<prn%>:  # ;
@@ -7969,10 +8011,6 @@ LEXICON NOM-PRONOUNPLR
 
 %<p3%>%<plr%>%<nom%>%<prn%>:  # ;
 
-
-LEXICON INTER-PRONOUNA
-
-%<p1%>%<plr%>%<inter%>%<prn%>:  # ;
 
 LEXICON INTER-PRONOUNB
 
@@ -8008,9 +8046,6 @@ LEXICON INTER-PRONOUNPLR
 %<p3%>%<plr%>%<obl%>%<inter%>:  # ;
 
 
-LEXICON VOC-PRONOUNA
-
-%<p1%>%<sing%>%<voc%>%<prn%>:  # ;
 
 LEXICON VOC-PRONOUNB
 
@@ -8026,8 +8061,30 @@ LEXICON VOC-PRONOUND
 
 LEXICON Postposition
 
+
  # ;
 
+LEXICON PRON-NOMINALIZERS-OBL
+
+%<nmlz%>%<masc%>%<sing%>:gaa PRON-NOMINALIZERS-OBL-INFL ;
+%<nmlz%>%<fem%>%<sing%>:ri PRON-NOMINALIZERS-OBL-INFL ;
+%<nmlz%>%<plr%>:geetu PRON-NOMINALIZERS-OBL-INFL ;
+
+LEXICON PRON-NOMINALIZERS-OBL-INFL
+
+# ;
+POST-OBL ;
+
+LEXICON POST-OBL ! Postpositions that follow oblique case
+
+%+ra%<post%>:%>ra # ;
+%+kko%<post%>:%>kko # ;
+%+ppe%<post%>:%>ppe # ;
+%+ssi%<post%>:%>ssi # ;
+%+ni%<post%>:%>ni # ;
+%+ni%<post%>:%>n # ; ! Dir/LR
+%+daani%<post%>:daani # ;
+%+daani%<post%>:dan # ; ! Dir/LR
 
 LEXICON NUM-1 ! 
 
