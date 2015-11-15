@@ -29,6 +29,7 @@ Multichar_Symbols
 %<prn%>		! Pronoun
 %<refl%>	! Reflexive
 %<nmlz%>	! Nominalizer
+%<inf%>		! Infinitive
 %>     		! morpheme boundary
 
 %<noncon%>    	! non-concrete noun form
@@ -4692,8 +4693,13 @@ zar : zar N-M-PRSNAME-A-INFL ; ! "Admassu"
 yoseph : yoseph N-M-PRSNAME-A-INFL ; ! "Yoseph"
 amara :  amara N-M-PRSNAME-A-INFL ; ! "Amhara"
 habodd : habodd N-M-CMN-O-INFL ; ! "Haboddo play"
+koolleer : koolleer N-M-CMN-A-INFL ; ! "Disease type"
+kooshintt : kooshintt N-M-CMN-A-INFL ; ! "Type of Game"
+soodd : soodd N-M-CMN-O-INFL ; ! "Wolaytta Soddo"
+soof : soof N-M-CMN-A-INFL ; ! "Sofa"
 
-LEXICON VerbRoot
+
+LEXICON VerbRoot	
 
 aac:aac V-IV ; 	! "sprout"
 aad:aad V-IV ; 	! "be tame"
@@ -7616,6 +7622,8 @@ VERB-ShortCnvb 	;	!Short Converb Inflection
 VERB-LongCnvb ;		!Long Converb Inflection
 VERB-Simu ;		!Simutaneous Inflection
 VERB-Rel ;		!Relative Inflection
+VERB-Inf ;		!Infinitive Inflection
+VERB-Nmlz ;		!Nominalizer Inflection
 !VERB-Pass ;		!Passive Verb Inflection
 !VERB-Pass-endings ;	!Passive Endings
 VERB-Cau ;		!Causative Inflection
@@ -7779,8 +7787,18 @@ LEXICON VERB-Rel				! how to direct to nmlz
 %<rel%>%<impf%>%<nsub%>:iyo # ;
 %<rel%>%<prf%>%<nsub%>:a # ;
 %<rel%>%<prf%>%<nsub%>:ida # ;
+%<rel%>%<fut%>:aanaa # ;
 
-LEXICON VERB-NMLZ
+LEXICON VERB-Inf
+
+%<inf%>%<abs%>:ana # ; 
+%<inf%>%<abs%>%<sg%>:anaa # ; 
+%<inf%>%<obl%>:ana # ; 
+%<inf%>%<obl%>%<sg%>:anaa # ; 
+%<inf%>%<nom%>%<sg%>:anai # ; 
+%<inf%>%<inter%>:anee # ; 
+
+LEXICON VERB-Nmlz
 
 %<nmlz%>%<sing%>%<masc%>%<abs%>:gaa # ;
 %<nmlz%>%<plr%>%<masc%>%<abs%>:geeta # ;

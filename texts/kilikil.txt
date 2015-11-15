@@ -1181,7 +1181,6 @@ bosherettiidi	awnno
 boshettees	awnnokko
 bottokonidi	awppe
 bottokoniyooga	awraajjaa
-bottom	awreness
 boxooxidi	awrii
 boxooxissees	awroophphaa
 boxooxissidi	awrooppaa
@@ -1215,7 +1214,7 @@ buussawu	aybakka
 buussay	aybakko
 buzo	aybane
 buzu	aybanne
-c	aybe
+aybe
 caammaa	aybee
 caaratto	aybi
 cabbuwa	aybinne
@@ -1287,8 +1286,8 @@ citatuppe	ayyaana
 citay	ayyaanaa
 class	ayyaanaara
 clustering	ayyaanaawatettaappe
-cm	ayyaanaaxillo
-co	ayyaanadan
+	ayyaanaaxillo
+	ayyaanadan
 code	ayyaanan
 codification	ayyaanawa
 coherance	ayyaanay
@@ -18479,9 +18478,7 @@ zzaaranawu	kerbbebiis
 	soniya
 	soniyan
 	sonnu
-	son's
-	son'sdaughter's
-	soo
+		soo
 	sooddo
 	sooddon
 	sooddoppe
@@ -18545,93 +18542,9 @@ zzaaranawu	kerbbebiis
 	sottayuwa
 	sotuwa
 	sotuwan
-	soundless
-	sourtasting
-	sowed
-	sowing
-	sows
-	spade
-	sparkles
-	spearing
-	spendy
-	spicily
-	spicing
-	spikenard
-	spindly
-	spines
-	spiritfilled
-	spitoon
-	spittoon
-	splatter
-	spliting
-	splotchy
-	spoilt
-	spoiltspoiled
-	spouse's
-	sprained
-	spreadable
-	springoperated
-	sprouts
-	spurred
-	spurring
-	squandered
-	squashedcassava
-	squatted
-	squatty
-	squeezeing
-	squinty
-	squintyeyed
-	squirming
-	squishing
-	ssaa
-	ssi
-	stainable
-	stalks
-	stance
-	standbus
-	starknaked
-	starryeyed
-	stele
-	stepbrother
-	stepchildren
-	stepdaughter
-	stepsister
-	sternum
-	stigmas
-	stinger
-	stinginess
-	stinky
-	stomachache
-	stomatch
-	stonewashed
-	straightening
-	streetkid
-	strengh
-	strongwilled
-	struggler
-	sttled
-	student's
-	students'
-	stunted
-	stupefied
-	stuttered
-	stutterer
-	subjugable
-	subjugate
-	subjugation
-	subsoil
-	substract
-	substraction
-	subtribe
-	subtribes
-	subtropical
-	successfulness
-	suckled
-	suckles
-	sudaato
-	suddu
-	sufferable
-	suga
+
+	
+suga
 	sugada
 	sugana
 	sugarcane
@@ -18807,19 +18720,6 @@ zzaaranawu	kerbbebiis
 	suyqiya
 	suyqiyan
 	suyqiyappe
-	swaddling
-	sweetflavoured
-	swellen
-	swig
-	swill
-	swindled
-	swishing
-	sympathetically
-	syn
-	synthetically
-	syphilis
-	sytem
-	t
 	ta
 	taa
 	taafaana
