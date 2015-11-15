@@ -4697,6 +4697,7 @@ koolleer : koolleer N-M-CMN-A-INFL ; ! "Disease type"
 kooshintt : kooshintt N-M-CMN-A-INFL ; ! "Type of Game"
 soodd : soodd N-M-CMN-O-INFL ; ! "Wolaytta Soddo"
 soof : soof N-M-CMN-A-INFL ; ! "Sofa"
+buddeen : buddeen N-M-CMN-A-INFL ; ! "Injera"
 
 
 LEXICON VerbRoot	
@@ -7306,12 +7307,12 @@ ep:ep%{V%} V-IV ; ! "to take"
 
 LEXICON Pronouns
 
-tana : tana ABS-PRONOUNA ; ! "me"
-nuna : nuna ABS-PRONOUNB ; ! "us"
-nena : nena ABS-PRONOUNC ; ! "you"
-inttena : inttena ABS-PRONOUND ; ! "you"
-bana : bana ABS-PRONOUNE ; ! "himself/herself"
-banttana : banttana ABS-PRONOUNF ; ! "themselve"
+tana:tana ABS-PRONOUNA ; ! "me"
+nuna:nuna ABS-PRONOUNB ; ! "us"
+nena:nena ABS-PRONOUNC ; ! "you"
+inttena:inttena ABS-PRONOUND ; ! "you"
+bana:bana ABS-PRONOUNE ; ! "himself/herself"
+banttana:banttana ABS-PRONOUNF ; ! "themselve"
 
 ta : ta OBL-PRONOUNA ; ! "I"
 taa : taa OBL-PRONOUNA ; ! "I"
@@ -7779,7 +7780,7 @@ LEXICON VERB-Simu            ! simu expresses while
 %<simu%>%<p3%>%<sing%>%<masc%>:iiddi # ;
 %<simu%>%<p3%>%<plr%>:iiddi # ;
 
-LEXICON VERB-Rel				! how to direct to nmlz
+LEXICON VERB-Rel   			! how to direct to nmlz   -  Verbal Adjective <gpr>
 
 %<rel%>%<impf%>%<sub%>:iya # ; 
 %<rel%>%<prf%>%<sub%>:o # ;
@@ -7798,9 +7799,9 @@ LEXICON VERB-Inf
 %<inf%>%<nom%>%<sg%>:anai # ; 
 %<inf%>%<inter%>:anee # ; 
 
-LEXICON VERB-Nmlz
+LEXICON VERB-Nmlz                      ! This is Gerund / Verbal Noun: <ger>
 
-%<nmlz%>%<sing%>%<masc%>%<abs%>:gaa # ;
+%<nmlz%>%<sing%>%<masc%>%<abs%>:gaa INFL-Abs ;
 %<nmlz%>%<plr%>%<masc%>%<abs%>:geeta # ;
 %<nmlz%>%<sing%>%<fem%>%<abs%>:ro # ;
 %<nmlz%>%<sing%>%<masc%>%<obl%>:gaa # ;
@@ -7866,11 +7867,12 @@ VERB-Rel ;
 
 LEXICON ABS-PRONOUNA
 
-%<p1%>%<sing%>%<abs%>%<prn%>:  # ;
+%<p1%>%<sing%>%<abs%>%<prn%>: INFL-Abs ;
+%<p1%>%<sing%>%<obl%>%<prn%>:  # ;
 
 LEXICON ABS-PRONOUNB
 
-%<p1%>%<plr%>%<abs%>%<prn%>:  # ;
+%<p1%>%<plr%>%<abs%>%<prn%>: INFL-Abs ;
 
 LEXICON ABS-PRONOUNC
 
@@ -7900,9 +7902,8 @@ LEXICON ABS-PRONOUNPLR
 
 %<p3%>%<plr%>%<abs%>%<prn%>:  # ;
 
-LEXICON OBL-PRONOUNA
-
-%<p1%>%<sing%>%<obl%>%<prn%>:  # ;
+!LEXICON OBL-PRONOUNA
+!
 
 LEXICON OBL-PRONOUNB
 
@@ -8022,6 +8023,10 @@ LEXICON VOC-PRONOUNC
 LEXICON VOC-PRONOUND
 
 %<p2%>%<plr%>%<voc%>%<prn%>:  # ;
+
+LEXICON Postposition
+
+ # ;
 
 
 LEXICON NUM-1 ! 
