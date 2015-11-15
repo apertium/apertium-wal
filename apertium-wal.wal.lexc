@@ -4683,12 +4683,15 @@ xuyl : xuyl N-M-CMN-A ; ! "little"
 yelenn : yelenn N-M-CMN-A ; ! "barren"
 yo'uwaw : yo'uwaw N-M-CMN-A ; ! "subject"
 zonniin : zonniin N-M-CMN-A ; ! "very long"
-Wolaytt : Wolaytt N-PLNAME-A ; ! "Wolaita"
-Yesuus : Yesuus N-M-PRSNAME-A-INFL ; ! "Jesus"
-Kiristtoos : Kiristtoos N-M-PRSNAME-A-INFL ; ! "Christ"
-afirkk : afirkk N-M-PRSNAME-A-INFL ; ! "Christ"
-adimaas : adimaas N-M-PRSNAME-A-INFL ; ! "Christ"
-
+wolaytt : Wolaytt N-PLNAME-A ; ! "Wolaita"
+yesuus : Yesuus N-M-PRSNAME-A-INFL ; ! "Jesus"
+kiristtoos : Kiristtoos N-M-PRSNAME-A-INFL ; ! "Christ"
+afirkk : afirkk N-M-PRSNAME-A-INFL ; ! "Africa"
+adimaas : adimaas N-M-PRSNAME-A-INFL ; ! "Admassu"
+zar : zar N-M-PRSNAME-A-INFL ; ! "Admassu"
+yoseph : yoseph N-M-PRSNAME-A-INFL ; ! "Yoseph"
+amara :  amara N-M-PRSNAME-A-INFL ; ! "Amhara"
+habodd : habodd N-M-CMN-O-INFL ; ! "Haboddo play"
 
 LEXICON VerbRoot
 
@@ -7768,7 +7771,7 @@ LEXICON VERB-Simu            ! simu expresses while
 %<simu%>%<p3%>%<sing%>%<masc%>:iiddi # ;
 %<simu%>%<p3%>%<plr%>:iiddi # ;
 
-LEXICON VERB-Rel
+LEXICON VERB-Rel				! how to direct to nmlz
 
 %<rel%>%<impf%>%<sub%>:iya # ; 
 %<rel%>%<prf%>%<sub%>:o # ;
