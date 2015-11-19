@@ -7307,67 +7307,6 @@ b:b%{V%} V-IV ; ! "to go"
 g:g%{V%} V-IV ; ! "to say"
 ep:ep%{V%} V-IV ; ! "to take"
 
-LEXICON Pronouns
-
-ta:ta PRONOUNA ; ! "I/me"
-nu:nu PRONOUNB ; ! "you"
-
-
-! EVERYTHING BELOW HERE NEEDS TO BE COMBINED AND MOVED UP
-nena:nena ABS-PRONOUNC ; ! "you"
-inttena:inttena ABS-PRONOUND ; ! "you"
-bana:bana ABS-PRONOUNE ; ! "himself/herself"
-banttana:banttana ABS-PRONOUNF ; ! "themselve"
-
-ne : ne OBL-PRONOUNC ; ! "you"
-nee : nee OBL-PRONOUNC ; ! "you"
-nena : nena OBL-PRONOUNC ; ! "you"
-nenaa : nenaa OBL-PRONOUNC ; ! "you"
-intte : intte OBL-PRONOUND ; ! "you"
-inttee : inttee OBL-PRONOUND ; ! "you"
-inttena : inttena OBL-PRONOUND ; ! "you"
-inttenaa : inttenaa OBL-PRONOUND ; ! "you"
-ba : ba OBL-PRONOUNE ; ! "his"
-baa : baa OBL-PRONOUNE ; ! "himself/herself"
-bana : bana OBL-PRONOUNE ; ! "himself/herself"
-banaa : banaa OBL-PRONOUNE ; ! "himself/herself"
-bantta : bantta OBL-PRONOUNF ; ! "their"
-banttaa : banttaa OBL-PRONOUNF ; ! "their"
-banttana : banttana OBL-PRONOUNF ; ! "themselves"
-banttanaa : banttanaa OBL-PRONOUNF ; ! "themselves"
-
-ne : ne NOM-PRONOUNC ; ! "you"
-nee : nee NOM-PRONOUNC ; ! "you"
-nen : nen NOM-PRONOUNC ; ! "you"
-neeni : neeni NOM-PRONOUNC ; ! "you"
-intte : intte NOM-PRONOUND ; ! "you"
-
-nenee : nenee INTER-PRONOUNC ; ! "are you"
-inttenee : inttenee INTER-PRONOUND ; ! "are you"
-banee : banee INTER-PRONOUNE ; ! "am i"
-banttanee : banttanee INTER-PRONOUNF ; ! "are we" ! fix-me
-
-nenoo : nenoo VOC-PRONOUNC ; ! "you"
-inttenoo : inttenoo VOC-PRONOUND ; ! "you"
-
-a : a ABS-PRONOUNMASC ; ! "him"  
-o : o ABS-PRONOUNFEM ; ! "her"
-eta : eta ABS-PRONOUNPLR ; ! "them"
-
-a : a OBL-PRONOUNMASC ; ! "he" 
-aa : aa OBL-PRONOUNMASC ; ! "he"   
-i : i OBL-PRONOUNFEM ; ! "she"
-ii : ii OBL-PRONOUNFEM ; ! "she"  
-eta : eta OBL-PRONOUNPLR ; ! "they"
-etaa : etaa OBL-PRONOUNPLR ; ! "they"  
-
-i : i NOM-PRONOUNMASC ; ! "he"  
-a : a NOM-PRONOUNFEM ; ! "she"
-eti : eti NOM-PRONOUNPLR ; ! "they"
-ee : ee INTER-PRONOUNMASC ; ! "he"  
-ii : ii INTER-PRONOUNFEM ; ! "we"
-etee : etee INTER-PRONOUNPLR ; ! "you"
-
 LEXICON NumberRoot
 
 iss : iss NUM-1 ; ! "1"
@@ -7609,7 +7548,7 @@ VERB-LongCnvb ;		!Long Converb Inflection
 VERB-Simu ;		!Simutaneous Inflection
 VERB-Rel ;		!Relative Inflection
 VERB-Inf ;		!Infinitive Inflection
-VERB-Nmlz ;		!Nominalizer Inflection
+!VERB-Nmlz ;		!Nominalizer Inflection
 !VERB-Pass ;		!Passive Verb Inflection
 !VERB-Pass-endings ;	!Passive Endings
 VERB-Cau ;		!Causative Inflection
@@ -7767,13 +7706,13 @@ LEXICON VERB-Simu            ! simu expresses while
 
 LEXICON VERB-Rel   			! how to direct to nmlz   -  Verbal Adjective <gpr>
 
-%<rel%>%<impf%>%<sub%>:iya # ; 
-%<rel%>%<prf%>%<sub%>:o # ;
-%<rel%>%<prf%>%<sub%>:ido # ;
-%<rel%>%<impf%>%<nsub%>:iyo # ;
-%<rel%>%<prf%>%<nsub%>:a # ;
-%<rel%>%<prf%>%<nsub%>:ida # ;
-%<rel%>%<fut%>:aanaa # ;
+%<rel%>%<impf%>%<sub%>:iya Nmlz ; 
+%<rel%>%<prf%>%<sub%>:o Nmlz ;
+%<rel%>%<prf%>%<sub%>:ido Nmlz ;
+%<rel%>%<impf%>%<nsub%>:iyo Nmlz ;
+%<rel%>%<prf%>%<nsub%>:a Nmlz ;
+%<rel%>%<prf%>%<nsub%>:ida Nmlz ;
+%<rel%>%<fut%>:aanaa Nmlz ;
 
 LEXICON VERB-Inf
 
@@ -7784,14 +7723,14 @@ LEXICON VERB-Inf
 %<inf%>%<nom%>%<sg%>:anai # ; 
 %<inf%>%<inter%>:anee # ; 
 
-LEXICON VERB-Nmlz                      ! This is Gerund / Verbal Noun: <ger>
+LEXICON Nmlz                      ! This is Gerund / Verbal Noun: <ger>
 
-%<nmlz%>%<sing%>%<masc%>%<abs%>:gaa INFL-Abs ;
+%<nmlz%>%<sing%>%<masc%>%<abs%>:gaa # ;
 %<nmlz%>%<plr%>%<masc%>%<abs%>:geeta # ;
 %<nmlz%>%<sing%>%<fem%>%<abs%>:ro # ;
-%<nmlz%>%<sing%>%<masc%>%<obl%>:gaa # ;
-%<nmlz%>%<plr%>%<masc%>%<obl%>:geetu # ;
-%<nmlz%>%<sing%>%<fem%>%<obl%>:ri # ;
+%<nmlz%>%<sing%>%<masc%>%<obl%>:gaa POSTPOS ;
+%<nmlz%>%<plr%>%<masc%>%<obl%>:geetu POSTPOS ;
+%<nmlz%>%<sing%>%<fem%>%<obl%>:ri POSTPOS ;
 %<nmlz%>%<sing%>%<masc%>%<nom%>:gee # ;
 %<nmlz%>%<plr%>%<masc%>%<nom%>:geeti # ;
 %<nmlz%>%<sing%>%<fem%>%<nom%>:ra # ;
@@ -7850,233 +7789,214 @@ VERB-LongCnvb ;
 VERB-Simu ;
 VERB-Rel ;
 
-LEXICON PRONOUNA
+LEXICON Pronouns
 
-%<prn%>%<p1%>%<sing%>: PRONOUNA-FORMS ;
+ta:ta PRONOUN-1-S ; ! "I/me"
+nu:nu PRONOUN-1-P ; ! "you"
+ne:ne PRONOUN-2-S ; ! "you"
+intte:intte PRONOUN-2-P ; ! "you"
+ba:ba PRONOUN-3-S ; ! "himself/herself"
+bantta:bantta PRONOUN-3-P ; ! "themselve"
+                                            
+a:a PRONOUN-3-SG-A ; ! "him"  
+a:a PRONOUN-3-SG-O ; ! "him"  
+aa:aa PRONOUN-3-SG-O ; ! "he" 
+i:i PRONOUN-3-SG-N ; ! "she"
+ee:ee PRONOUN-3-SG-I ; ! ""
+o:o PRONOUN-3-SGF-A ; ! "him" 
+i:i PRONOUN-3-SGF-O ; ! "he"  
+ii:ii PRONOUN-3-SGF-O ; ! "she"  
+a:a PRONOUN-3-SGF-N ; ! "she"
+eta:eta PRONOUN-3-SGF-I ; ! "them"
+eta:eta PRONOUN-3-PL-A ; ! "they"
+etaa:etaa PRONOUN-3-PL-O ; ! "they"  
+etaa:etaa PRONOUN-3-PL-O ; ! "they"  
+eti:eti PRONOUN-3-PL-N ; ! "they"
+etee:etee PRONOUN-3-PL-I ; ! "you"
 
-LEXICON PRONOUNA-FORMS
+LEXICON PRONOUN-1-S
 
-%<abs%>:na INFL-ABS-PRONOUNA ; ! "me"
-%<obl%>: INFL-OBL-PRONOUNAB-COMMON ; ! "I"
-%<obl%>:a INFL-OBL-PRONOUNAB-COMMON ; ! "I" ! Dir/LR
-%<obl%>:na INFL-OBL-PRONOUNAB-COMMON ; ! "me" ! Dir/LR
-%<obl%>:naa INFL-OBL-PRONOUNAB-COMMON ; ! "me" ! Dir/LR
-%<nom%>: INFL-NOM-PRONOUNA ; ! "I"
-%<nom%>:a INFL-NOM-PRONOUNA ; ! "I" ! Dir/LR
-%<nom%>:n INFL-NOM-PRONOUNA ; ! "I" ! Dir/LR
-%<nom%>:ani INFL-NOM-PRONOUNA ; ! "I" ! Dir/LR
-%<inter%>:nee INFL-INTER-PRONOUNA ; ! "am i"
-%<voc%>:noo INFL-VOC-PRONOUNA ; ! "i"
+%<prn%>%<p1%>%<sing%>: PRONOUN-1-S-FORMS ;
 
-LEXICON PRONOUNB
+LEXICON PRONOUN-1S-FORMS
 
-%<prn%>%<p1%>%<plr%>: PRONOUNB-FORMS ;
+%<abs%>:na INFL-ABS-PRONOUN ; ! "me"
+%<obl%>: INFL-OBL-PRONOUN-COMMON ; ! "I"
+%<obl%>:a INFL-OBL-PRONOUN-COMMON ; ! "I" ! Dir/LR
+%<obl%>:na INFL-OBL-PRONOUN ; ! "me" ! Dir/LR
+%<obl%>:naa INFL-OBL-PRONOUN ; ! "me" ! Dir/LR
+%<nom%>: INFL-NOM-PRONOUN ; ! "I"
+%<nom%>:a INFL-NOM-PRONOUN ; ! "I" ! Dir/LR
+%<nom%>:n INFL-NOM-PRONOUN ; ! "I" ! Dir/LR
+%<nom%>:ani INFL-NOM-PRONOUN ; ! "I" ! Dir/LR
+%<inter%>:nee INFL-INTER-PRONOUN ; ! "am i"
+%<voc%>:noo INFL-VOC-PRONOUN ; ! "i"
 
+LEXICON PRONOUN-1-P
 
-LEXICON PRONOUNB-FORMS
+%<prn%>%<p1%>%<plr%>: PRONOUN-1-P-FORMS ;
 
-%<obl%>: INFL-OBL-PRONOUNB ; ! "we"
-%<abs%>:na INFL-ABS-PRONOUNAB ; ! "us"
+LEXICON PRONOUN-1-P-FORMS
 
-! These forms need to be modified to be like the above forms
-!nuu : nuu OBL-PRONOUNB ; ! "we"
-!nuna : nuna OBL-PRONOUNB ; ! "us"
-!nunaa : nunaa OBL-PRONOUNB ; ! "us"
-!nu : nu NOM-PRONOUNB ; ! "we"
-!nuu : nuu NOM-PRONOUNB ; ! "we"
-!nun : nun NOM-PRONOUNB ; ! "we"
-!nuuni : nuuni NOM-PRONOUNB ; ! "we"
-!nunee : nunee INTER-PRONOUNB ; ! "are we"
-!nunoo : nunoo VOC-PRONOUNB ; ! "we"
+%<abs%>:na INFL-ABS-PRONOUN ; ! "us"
+%<obl%>: INFL-OBL-PRONOUN-COMMON ; ! "we"
+%<obl%>:u INFL-OBL-PRONOUN-COMMON ; ! "we"
+%<obl%>:na INFL-OBL-PRONOUN ; ! "us"
+%<obl%>:naa INFL-OBL-PRONOUN ; ! "we"
+%<nom%>: INFL-NOM-PRONOUN ; ! "we"
+%<nom%>:u INFL-NOM-PRONOUN ; ! "we"
+%<nom%>:n INFL-NOM-PRONOUN ; ! "we"
+%<nom%>:uni INFL-NOM-PRONOUN ; ! "we"
+%<inter%>:nee INFL-INTER-PRONOUN ; ! "are we"
+%<voc%>:noo INFL-VOC-PRONOUN ; ! "we"
 
-LEXICON INFL-OBL-PRONOUNB
+LEXICON PRONOUN-2-S
 
-! add morphology that's specific to pronoun B here
-INFL-OBL-PRONOUNAB-COMMON ;
+%<prn%>%<p2%>%<sing%>: PRONOUN-2-S-FORMS ;
 
-LEXICON INFL-ABS-PRONOUNA
+LEXICON PRONOUN-2-S-FORMS
+
+%<abs%>:na INFL-ABS-PRONOUN ; ! "us"
+%<obl%>: INFL-OBL-PRONOUN-COMMON ; ! "we"
+%<obl%>:e INFL-OBL-PRONOUN-COMMON ; ! "we"
+%<obl%>:na INFL-OBL-PRONOUN ; ! "we"
+%<obl%>:naa INFL-OBL-PRONOUN ; ! "we"
+%<nom%>: INFL-OBL-PRONOUN ; ! "we"
+%<nom%>:e INFL-OBL-PRONOUN ; ! "we"
+%<nom%>:n INFL-OBL-PRONOUN ; ! "we"
+%<nom%>:eni INFL-OBL-PRONOUN ; ! "we"
+%<inter%>:nee INFL-INTER-PRONOUN ; ! "are we"
+%<voc%>:noo INFL-OBL-PRONOUN ; ! "we"
+
+LEXICON PRONOUN-2-P
+
+%<prn%>%<p2%>%<plr%>: PRONOUN-2-P-FORMS ;
+
+LEXICON PRONOUN-2-P-FORMS
+
+%<abs%>:na INFL-ABS-PRONOUN ; ! "us"
+%<obl%>: INFL-OBL-PRONOUN-COMMON ; ! "we"
+%<obl%>:e INFL-OBL-PRONOUN-COMMON ; ! "we"
+%<obl%>:na INFL-OBL-PRONOUN ; ! "we"
+%<obl%>:naa INFL-OBL-PRONOUN ; ! "we"
+%<nom%>: INFL-OBL-PRONOUN ; ! "we"
+%<inter%>:nee INFL-INTER-PRONOUN ; ! "are we"
+%<voc%>:noo INFL-OBL-PRONOUN ; ! "we"
+
+LEXICON PRONOUN-3-S
+
+%<prn%>%<p3%>%<ref%>%<sing%>: PRONOUN-3-S-FORMS ;
+
+LEXICON PRONOUN-3-S-FORMS
+
+%<abs%>:na INFL-ABS-PRONOUN ; ! "us"
+%<obl%>: INFL-OBL-PRONOUN-COMMON ; ! "we"
+%<obl%>:a INFL-OBL-PRONOUN-COMMON ; ! "we"
+%<obl%>:na INFL-OBL-PRONOUN ; ! "we"
+%<obl%>:naa INFL-OBL-PRONOUN ; ! "we"
+%<inter%>:nee INFL-INTER-PRONOUN ; ! "are we"
+
+LEXICON PRONOUN-3-P
+
+%<prn%>%<p3%>%<ref%>%<plr%>: PRONOUN-3-P-FORMS ;
+
+LEXICON PRONOUN-3-P-FORMS
+
+%<abs%>:na INFL-ABS-PRONOUN ; ! "us"
+%<obl%>: INFL-OBL-PRONOUN-COMMON ; ! "we"
+%<obl%>:a INFL-OBL-PRONOUN-COMMON ; ! "we"
+%<obl%>:na INFL-OBL-PRONOUN ; ! "we"
+%<obl%>:naa INFL-OBL-PRONOUN ; ! "we"
+%<inter%>:nee INFL-INTER-PRONOUN ; ! "are we"
+
+LEXICON PRONOUN-3-SG-A
+
+%<prn%>%<abs%>%<p3%>%<masc%>%<sing%>: # ;
+
+LEXICON PRONOUN-3-SG-O
+
+%<prn%>%<obl%>%<p3%>%<masc%>%<sing%>: # ;
+
+LEXICON PRONOUN-3-SG-N
+
+%<prn%>%<nom%>%<p3%>%<masc%>%<sing%>: # ;
+
+LEXICON PRONOUN-3-SG-I
+
+%<prn%>%<inter%>%<p3%>%<masc%>%<sing%>: # ;
+
+LEXICON PRONOUN-3-SGF-A
+
+%<prn%>%<abs%>%<p3%>%<fem%>%<sing%>: # ;
+
+LEXICON PRONOUN-3-SGF-O
+
+%<prn%>%<obl%>%<p3%>%<fem%>%<sing%>: # ;
+
+LEXICON PRONOUN-3-SGF-N
+
+%<prn%>%<nom%>%<p3%>%<fem%>%<sing%>: # ;
+
+LEXICON PRONOUN-3-SGF-I
+
+%<prn%>%<inter%>%<p3%>%<fem%>%<sing%>: # ;
+
+LEXICON PRONOUN-3-PL-A
+
+%<prn%>%<abs%>%<p3%>%<fem%>%<sing%>: # ;
+
+LEXICON PRONOUN-3-PL-O
+
+%<prn%>%<obl%>%<p3%>%<fem%>%<sing%>: # ;
+
+LEXICON PRONOUN-3-PL-N
+
+%<prn%>%<nom%>%<p3%>%<fem%>%<sing%>: # ;
+
+LEXICON PRONOUN-3-PL-I
+
+%<prn%>%<inter%>%<p3%>%<fem%>%<sing%>: # ;
+
+LEXICON INFL-ABS-PRONOUN
 
 # ; 
 
-LEXICON INFL-OBL-PRONOUNAB-COMMON
+LEXICON INFL-OBL-PRONOUN
+
+# ;
+INFL-OBL-PRONOUN-COMMON ;
+
+LEXICON INFL-OBL-PRONOUN-COMMON
 
 # ; 
-POST-OBL ;
+POSTPOS ;
 PRON-NOMINALIZERS-OBL ;
 
-
-LEXICON INFL-NOM-PRONOUNA
-
-# ; 
-
-LEXICON INFL-INTER-PRONOUNA
+LEXICON INFL-NOM-PRONOUN
 
 # ; 
 
-LEXICON INFL-VOC-PRONOUNA
+LEXICON INFL-INTER-PRONOUN
 
 # ; 
 
+LEXICON INFL-VOC-PRONOUN
 
-LEXICON ABS-PRONOUNB
-
-%<p1%>%<plr%>%<abs%>%<prn%>: INFL-Abs ;
-
-LEXICON ABS-PRONOUNC
-
-%<p2%>%<sing%>%<abs%>%<prn%>:  # ;
-
-LEXICON ABS-PRONOUND
-
-%<p2%>%<plr%>%<abs%>%<prn%>:  # ;
-
-LEXICON ABS-PRONOUNE
-
-%<p3%>%<refl%>%<sing%>%<abs%>%<prn%>:  # ;
-
-LEXICON ABS-PRONOUNF
-
-%<p3%>%<refl%>%<plr%>%<abs%>%<prn%>:  # ;
-
-LEXICON ABS-PRONOUNMASC
-
-%<p3%>%<sing%>%<masc%>%<abs%>%<prn%>:  # ;
-
-LEXICON ABS-PRONOUNFEM
-
-%<p3%>%<sing%>%<fem%>%<abs%>%<prn%>:  # ;
-
-LEXICON ABS-PRONOUNPLR
-
-%<p3%>%<plr%>%<abs%>%<prn%>:  # ;
-
-
-LEXICON OBL-PRONOUNB
-
-%<p1%>%<plr%>%<obl%>%<prn%>:  # ;
-
-LEXICON OBL-PRONOUNC
-
-%<p2%>%<sing%>%<obl%>%<prn%>:  # ;
-
-LEXICON OBL-PRONOUND
-
-%<p2%>%<plr%>%<obl%>%<prn%>:  # ;
-
-LEXICON OBL-PRONOUNE
-
-%<p3%>%<refl%>%<sing%>%<obl%>%<prn%>:  # ;
-
-LEXICON OBL-PRONOUNF
-
-%<p3%>%<refl%>%<plr%>%<abs%>%<prn%>:  # ;
-
-
-LEXICON OBL-PRONOUNMASC
-
-%<p3%>%<sing%>%<masc%>%<obl%>%<prn%>:  # ;
-
-LEXICON OBL-PRONOUNFEM
-
-%<p3%>%<sing%>%<fem%>%<obl%>%<prn%>:  # ;
-
-LEXICON OBL-PRONOUNPLR
-
-%<p3%>%<plr%>%<obl%>%<prn%>:  # ;
-
-
-LEXICON NOM-PRONOUNB
-
-%<p1%>%<plr%>%<nom%>%<prn%>:  # ;
-
-LEXICON NOM-PRONOUNC
-
-%<p2%>%<sing%>%<nom%>%<prn%>:  # ;
-
-LEXICON NOM-PRONOUND
-
-%<p2%>%<plr%>%<nom%>%<prn%>:  # ;
-
-LEXICON NOM-PRONOUNMASC
-
-%<p3%>%<sing%>%<nom%>%<prn%>:  # ;
-
-%<p3%>%<sing%>%<masc%>%<nom%>%<prn%>:  # ;
-
-LEXICON NOM-PRONOUNFEM
-
-%<p3%>%<sing%>%<nom%>%<nom%>%<prn%>:  # ;
-
-LEXICON NOM-PRONOUNPLR
-
-%<p3%>%<plr%>%<nom%>%<prn%>:  # ;
-
-
-LEXICON INTER-PRONOUNB
-
-%<p1%>%<plr%>%<inter%>%<prn%>:  # ;
-
-LEXICON INTER-PRONOUNC
-
-%<p2%>%<sing%>%<inter%>%<prn%>:  # ;
-
-LEXICON INTER-PRONOUND
-
-%<p2%>%<plr%>%<inter%>%<prn%>:  # ;
-
-LEXICON INTER-PRONOUNE
-
-%<p3%>%<refl%>%<sing%>%<inter%>%<prn%>:  # ;
-
-LEXICON INTER-PRONOUNF
-
-%<p3%>%<refl%>%<plr%>%<inter%>%<prn%>:  # ;
-
-
-LEXICON INTER-PRONOUNMASC
-
-%<p3%>%<sing%>%<masc%>%<inter%>%<prn%>:  # ;
-
-LEXICON INTER-PRONOUNFEM
-
-%<p3%>%<sing%>%<fem%>%<inter%>%<prn%>:  # ;
-
-LEXICON INTER-PRONOUNPLR
-
-%<p3%>%<plr%>%<obl%>%<inter%>:  # ;
-
-
-
-LEXICON VOC-PRONOUNB
-
-%<p1%>%<plr%>%<voc%>%<prn%>:  # ;
-
-LEXICON VOC-PRONOUNC
-
-%<p2%>%<sing%>%<voc%>%<prn%>:  # ;
-
-LEXICON VOC-PRONOUND
-
-%<p2%>%<plr%>%<voc%>%<prn%>:  # ;
-
-LEXICON Postposition
-
-
- # ;
+# ; 
 
 LEXICON PRON-NOMINALIZERS-OBL
 
-%<nmlz%>%<masc%>%<sing%>:gaa PRON-NOMINALIZERS-OBL-INFL ;
-%<nmlz%>%<fem%>%<sing%>:ri PRON-NOMINALIZERS-OBL-INFL ;
-%<nmlz%>%<plr%>:geetu PRON-NOMINALIZERS-OBL-INFL ;
+# ;
+VERB-Nmlz ;
 
 LEXICON PRON-NOMINALIZERS-OBL-INFL
 
 # ;
-POST-OBL ;
+POSTPOS ;
 
-LEXICON POST-OBL ! Postpositions that follow oblique case
+LEXICON POSTPOS ! Postpositions that follow oblique case
 
+# ;
 %+ra%<post%>:%>ra # ;
 %+kko%<post%>:%>kko # ;
 %+ppe%<post%>:%>ppe # ;
@@ -8085,6 +8005,7 @@ LEXICON POST-OBL ! Postpositions that follow oblique case
 %+ni%<post%>:%>n # ; ! Dir/LR
 %+daani%<post%>:daani # ;
 %+daani%<post%>:dan # ; ! Dir/LR
+
 
 LEXICON NUM-1 ! 
 
