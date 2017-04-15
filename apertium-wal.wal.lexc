@@ -3,6 +3,7 @@
 Multichar_Symbols
 
 ! Part of speech categories
+%<ij%>		! Interjection
 %<n%>  		! Noun
 %<v%>  		! Verb
 %<p1%>  	! First Person
@@ -75,10 +76,19 @@ VerbRoot ;
 Pronouns ;
 NumberRoot ;
 Punctuation ;
+Interjections ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!                          L E X I C O N                                  !!!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Lexicon Interjections
+
+ha'a:ha'a ITJ ;
+ha'a:ha`a ITJ ; ! Dir/LR
+ha'a:ha’a ITJ ; ! Dir/LR
+ha'a:haʻa ITJ ; ! Dir/LR
+
 
 LEXICON NounRoot					!To be checked manually 
 
@@ -8010,6 +8020,9 @@ LEXICON POSTPOS ! Postpositions that follow oblique case
 %+daani%<post%>:daani # ;
 %+daani%<post%>:dan # ; ! Dir/LR
 
+LEXICON ITJ !
+
+%<ij%>: # ;
 
 LEXICON NUM-1 ! 
 
