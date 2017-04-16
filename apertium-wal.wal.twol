@@ -1,7 +1,7 @@
 Alphabet
 
  A B C D E F G H I J K L M N O P Q R S T U V W X Y Z     ! CH DH NH NY PH SH TS ZH 
- a b c d e f g h i j k l m n o p q r s t u v w x y z ' ’ ! ch dh nh ny ph sh ts zh cc
+ a b c d e f g h i j k l m n o p q r s t u v w x y z ʼ   ! ch dh nh ny ph sh ts zh cc
  %{tv%}:0 
  %{V%}:0
  %{‼%}:0  ! blocks phonology from applying, so that we can have exceptions
@@ -14,7 +14,7 @@ Vow = A E I O U
       a e i o u ;
 
 Cns = B C D F G H J K L M N P Q R S T V W X Y Z       ! CH DH NH NY PH SH TS ZH 
-      b c d f g h j k l m n p q r s t v w x y z ' ’ ; ! ch dh nh ny ph sh ts zh ' ;
+      b c d f g h j k l m n p q r s t v w x y z ʼ ; ! ch dh nh ny ph sh ts zh ;
 
 Rules
 
@@ -86,4 +86,3 @@ k:0 <=> .#. :a _ :0* :i :s :s ;
 ! http://hfst.sourceforge.net/
 ! http://wiki.apertium.org/wiki/Twol
 ! http://wiki.apertium.org/wiki/Hfst
-                                                                                               
