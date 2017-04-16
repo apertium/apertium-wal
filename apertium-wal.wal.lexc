@@ -99,6 +99,7 @@ ha'a:haʻa ITJ ; ! Dir/LR
 
 Lexicon Adjectives
 
+de:de ADJ ; ! "To be managed"
 ay:ay ADJ ; ! "How"
 dere:dere ADJ ; ! "a lot of"
 he:he ADJ ; ! "That"
@@ -112,7 +113,8 @@ giddo:giddo PREP ; ! "between"
 Lexicon Connections
 
 woy:woy CONN ; ! "either, neither"
-gishshaw:gishshaw CONN; ! "because"
+gishshaw:gishshaw CONN ; ! "because"
+gishshawu:gishshawu CONN ; ! "because"
 gishshaassi:gishshaassi CONN ; ! "because"
 
 Lexicon Adverbs
@@ -818,7 +820,7 @@ gishx:gishx N-M-CMN-A ; ! "cudtard apple"
 gitatet:gitatet N-M-CMN-A ; ! "greatness"
 gitet:gitet N-M-CMN-A ; ! "over consumption"
 git:git N-M-CMN-A ; ! "preparation"
-gi:gi N-M-CMN-A ; ! "market"
+giy:giy N-M-CMN-A ; ! "market"
 go:go N-M-CMN-A ; ! "help"
 gob:gob N-M-CMN-A ; ! "dry stem of false banana"
 goccil:goccil N-M-CMN-A ; ! "threshold"
@@ -7403,7 +7405,7 @@ LEXICON N-M-PRSNAME-O  ! Masculine person name class O common nouns
 
 LEXICON N-M-PRSNAME-U  ! Masculine person name class U common nouns
 
-%<n%>%<masc%>:%> N-M-PESNAME-U-INFL ;
+%<n%>%<masc%>:%> N-M-PRSNAME-U-INFL ;
 
 LEXICON N-F-PRSNAME ! Feminin common nouns
 
