@@ -3,6 +3,10 @@
 Multichar_Symbols
 
 ! Part of speech categories
+%<adj%>		! Adjectives
+%<prep%>	! Prepositions
+%<conn%>	! Connections
+%<adv%> 	! Adverbs
 %<ij%>		! Interjection
 %<n%>  		! Noun
 %<v%>  		! Verb
@@ -77,6 +81,10 @@ Pronouns ;
 NumberRoot ;
 Punctuation ;
 Interjections ;
+Adjectives ;
+Prepositions ;
+Connections ;
+Adverbs ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!                          L E X I C O N                                  !!!
@@ -89,6 +97,28 @@ ha'a:ha`a ITJ ; ! Dir/LR
 ha'a:ha’a ITJ ; ! Dir/LR
 ha'a:haʻa ITJ ; ! Dir/LR
 
+Lexicon Adjectives
+
+ay:ay ADJ ; ! "How"
+dere:dere ADJ ; ! "a lot of"
+he:he ADJ ; ! "That"
+ha:ha ADJ ; ! "This"
+
+Lexicon Prepositions
+
+giddon:giddon PREP ; ! "among"
+giddo:giddo PREP ; ! "between"
+
+Lexicon Connections
+
+woy:woy CONN ; ! "either, neither"
+gishshaw:gishshaw CONN; ! "because"
+gishshaassi:gishshaassi CONN ; ! "because"
+
+Lexicon Adverbs
+
+qassi:qassi ADV ; ! "again"
+qa:qa ADV ; ! "again"
 
 LEXICON NounRoot					!To be checked manually 
 
@@ -592,7 +622,7 @@ doo:doo N-M-CMN-A ; ! "slaughtering"
 doomet:doomet N-M-CMN-A ; ! "beginning"
 doomissiya:doomissiya N-M-CMN-A ; ! "starter"
 doommiya:doommiya N-M-CMN-A ; ! "beginner"
-doo:doo N-M-CMN-A ; ! "mouth"
+doon:doon N-M-CMN-A ; ! "mouth"
 dooqet:dooqet N-M-CMN-A ; ! "making rope"
 dooret:dooret N-M-CMN-A ; ! "pile"
 dooriya:dooriya N-M-CMN-A ; ! "chooser"
@@ -608,6 +638,7 @@ dubbus:dubbus N-M-CMN-A ; ! "public place for discussion"
 duget:duget N-M-CMN-A ; ! "downslope"
 dugunuu:dugunuu N-M-CMN-A ; ! "bashifulness"
 dul:dul N-M-CMN-A ; ! "club"
+dumm:dumm N-M-CMN-A ; ! "different"
 dummatet:dummatet N-M-CMN-A ; ! "difference"
 dund:dund N-M-CMN-A ; ! "decoration"
 dungguuxatet:dungguuxatet N-M-CMN-A ; ! "bashfulness"
@@ -1484,7 +1515,8 @@ naaganchc:naaganchc N-M-CMN-A ; ! "guard"
 naagiya:naagiya N-M-CMN-A ; ! "guard"
 naanet:naanet N-M-CMN-A ; ! "excellence"
 naari:naari N-M-CMN-A ; ! "sledgehammer"
-naa:naa N-M-CMN-A ; ! "Children"
+na:na N-M-CMN-A ; ! "Children"
+na':na' N-M-CMN-A ; ! "Boy"
 na'atet:na'atet N-M-CMN-A ; ! "childhood"
 naatet:naatet N-M-CMN-A ; ! "childhood"
 naati:naati N-M-CMN-A ; ! "aromatic plant"
@@ -1717,6 +1749,7 @@ qi:qi N-M-CMN-A ; ! "dirt"
 qixet:qixet N-M-CMN-A ; ! "removal"
 qo:qo N-M-CMN-A ; ! "market"
 qodet:qodet N-M-CMN-A ; ! "scolding"
+qof:quf N-M-CMN-A ; ! "Idea"
 qofissiya:qofissiya N-M-CMN-A ; ! "reminder"
 qohidaa:qohidaa N-M-CMN-A ; ! "attacker"
 qohiya:qohiya N-M-CMN-A ; ! "hurter"
@@ -8023,6 +8056,22 @@ LEXICON POSTPOS ! Postpositions that follow oblique case
 LEXICON ITJ !
 
 %<ij%>: # ;
+
+LEXICON ADJ !
+
+%<adj%>: # ;
+
+LEXICON PREP !
+
+%<prep%>: # ;
+
+LEXICON CONN !
+
+%<conn%>: # ;
+
+LEXICON ADV !
+
+%<adv%>: # ;
 
 LEXICON NUM-1 ! 
 
