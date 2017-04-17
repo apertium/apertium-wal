@@ -7,7 +7,7 @@ Multichar_Symbols
 %<prep%>	! Prepositions
 %<conn%>	! Connections
 %<adv%> 	! Adverbs
-%<ij%>		! Interjection
+%<inj%>		! Interjection
 %<n%>  		! Noun
 %<v%>  		! Verb
 %<p1%>  	! First Person
@@ -93,10 +93,168 @@ Adverbs ;
 
 Lexicon Interjections
 
-haʼa:haʼa ITJ ;
-!haʼa:ha`a ITJ ; ! Dir/LR
-!haʼa:ha’a ITJ ; ! Dir/LR
-!haʼa:haʼa ITJ ; ! Dir/LR
+haʼa:haʼa INJ ;
+!haʼa:ha`a INJ ; ! Dir/LR
+!haʼa:ha’a INJ ; ! Dir/LR
+!haʼa:haʼa INJ ; ! Dir/LR
+a"a:a"a INJ ; ! "no, not at all"
+aa''a:aa''a INJ ; ! "oh, no"
+aabboo'ana:aabboo'ana INJ ; ! "woe, alas"
+aayyee'ana:aayyee'ana INJ ; ! "woe, alas"
+aabboo'ana:aabboo'ana INJ ; ! "woe, alas"
+aayyee:aayyee INJ ; ! "woe, alas"
+biittaw:biittaw INJ ; ! "woe, alas"
+ashkke:ashkke INJ ; ! "woe, alas"
+abe:abe INJ ; ! "yes, Sir"
+adiki:adiki INJ ; ! "shoo away"
+ahaa:ahaa INJ ; ! "aha"
+akkay:akkay INJ ; ! "no, of course not"
+allawdo:allawdo INJ ; ! "contentment for you"
+amn"i:amn"i INJ ; ! "amen"
+ane:ane INJ ; ! "just"
+annakki:annakki INJ ; ! "exclamatory word"
+arikiyay:arikiyay INJ ; ! "shoo away"
+arkki:arkki INJ ; ! "shoo away"
+arra:arra INJ ; ! "instigating word"
+ashsham:ashsham INJ ; ! "hello"
+assallo:assallo INJ ; ! "may God restore"
+ayye:ayye INJ ; ! "alas"
+azik:azik INJ ; ! "aziki, adiki"
+aziki:aziki INJ ; ! "adiki, azik"
+aabboo'ana:aabboo'ana INJ ;
+aayyee'ana:aayyee'ana INJ ;
+aayyee:aayyee INJ ;
+buh:buh INJ ; ! "woof"
+chachacha:chachacha INJ ; ! "sizzle"
+chay:chay INJ ; ! "exclamatory word"
+chii:chii INJ ; ! "no"
+chuwa:chuwa INJ ; ! "instigating word"
+demmakka:demmakka INJ ; ! "you cannot get"
+digga:digga INJ ; ! "take away"
+doona:doona INJ ; ! "let them live"
+du:du INJ ; ! "let her live"
+ee:ee INJ ; ! "yes"
+eeno:eeno INJ ; ! "OK, all right"
+Elohee:Elohee INJ ; ! "my God"
+ero:ero INJ ; ! "yes, all right"
+ezggo:ezggo INJ ;
+anggata:anggata INJ ;
+hoola:hoola INJ ;
+gaashshe:gaashshe INJ ; ! "sir, a title of honour"
+gido:gido INJ ; ! "let it be"
+gonddooro:gonddooro INJ ; ! "a word that expresses a strong emotion of fear"
+ha''aa:ha''aa INJ ; ! "ouch"
+haakko:haakko INJ ; 
+haddiro:haddiro INJ ; 
+poora:poora INJ ; 
+pala:pala INJ ; 
+ekko:ekko INJ ;
+gattoppo:gattoppo INJ ;
+ayfee:ayfee INJ ;
+kehaa:kehaa INJ ;
+xeello:xeello INJ ;
+haaya:haaya INJ ; ! "come here"
+haddiro:haddiro INJ ; 
+poora:poora INJ ;
+haakko:haakko INJ ; 
+pala:pala INJ ;
+ekko:ekko INJ ;
+gattoppo:gattoppo INJ ;
+hagalo:hagalo INJ ; ! "reciprocating good wish"
+hageehoo:hageehoo INJ ; ! "behold"
+haha:haha INJ ; ! "laughter (funny feeling)"
+hala:hala INJ ; ! "oh"
+halluuti:halluuti INJ ; ! "no, of course not"
+halo:halo INJ ; ! "amazing"
+hammu:hammu INJ ; ! "welcome"
+harddiidii:harddiidii INJ ; ! "instigating word"
+hay:hay INJ ;
+hay''ikka:hay''ikka INJ ; ! "yes, of course"
+hay"i:hay"i INJ ; ! "oh no (disapproval)"
+hayla:hayla INJ ; ! "is that (negligence feeling)"
+aabboo'ana:aabboo'ana INJ ;
+aayyee'ana:aayyee'ana INJ ;
+aayyee:aayyee INJ ;
+aayyee:aayyee INJ ;
+hayzza:hayzza INJ ; ! "be quiet, shut up"
+hee:hee INJ ; ! "yes"
+heesso:heesso INJ ; ! "warning word"
+hegeetihoo:hegeetihoo INJ ! "there they are"
+hekko:hekko INJ ; !  "here it is"
+hi"i:hi"i INJ ; ! "harassment word"
+hichchichchi:hichchichchi INJ ; ! "brrr"
+hirkka:hirkka INJ ; ! "order to its place (of cows)"
+hoddeshsho:hoddeshsho INJ ; ! "why is it so"
+hoogee:hoogee INJ ; ! "horror (expressing the feeling of horror)"
+hoola:hoola INJ ; ! "awesome"
+horro:horro INJ ; ! "be quick"
+hurbbuti:hurbbuti INJ ; ! "ok"
+demmakka:demmakka INJ ; 
+ililili:ililili INJ ; ! "thrilling sound (of jubilation)"
+immeet:immeet INJ ; ! "yes, yes"
+ishiki:ishiki INJ ; ! "shoo away"
+ishsha:ishsha INJ ; ! "stop"
+ishshi:ishshi INJ ; ! "ok"
+ixxisi:ixxisi INJ ; ! "no"
+izhzho:izhzho INJ ; ! "ordering sheep"
+kashi:kashi INJ ; ! "no"
+keera:keera INJ ; ! "sorry, alas"
+kichchiki:kichchiki INJ ;
+kuyi:kuyi INJ ;
+tay:tay INJ ;
+komppu:komppu INJ ; ! "break"
+koshoshu:koshoshu INJ ; ! "rustling (an expression of rustling sound)"
+kuyi:kuyi INJ ;  
+kichchiki:kichchiki INJ ; 
+lichchi:lichchi INJ ! "sit quickly"
+liphphi:liphphi INJ ; ! "sudden taking"
+lo"uwan:lo"uwan INJ ; ! "good-bye
+magani:magani INJ ; ! "yes, absolutely"
+mayno:mayno INJ ; ! "let stop"
+mishiraachcho:mishiraachcho INJ ; ! "congratulations, hurrah, good news"
+naawa:naawa INJ ; ! "swear, never"
+naw''asho:naw''asho INJ ; ! "sorry"
+heesso:heesso INJ ;
+ye''e:ye''e INJ ; 
+ooye:ooye INJ ; 
+noore:noore INJ ; ! "welcome"
+ooye:ooye INJ ; 
+heesso:heesso INJ ;
+ye''e:ye''e INJ ;
+haddiro:haddiro INJ ;
+poora:poora INJ ;
+haakko:haakko INJ ;
+gattoppo:gattoppo INJ ;
+ayfee:ayfee INJ ;
+kehaa:kehaa INJ ;
+xeello:xeello INJ ;
+piskki:piskki INJ ; ! "scatter, an expression to say when something scattered suddenly"
+porqqu:porqqu INJ ; ! "pull, pull forcefully"
+pozhzhu:pozhzhu INJ ; ! "noise, the noise produced when something is torn away"
+qayshe:qayshe INJ ; ! "reply (of puzzle)"
+salqqi:salqqi INJ ; ! "feel pain (of internal body)"
+saro:saro INJ ; ! "hello"
+shinchchaalle:shinchchaalle INJ ; ! "sorrow, be/sorry, sorrow for a loss"
+shukku:shukku INJ ; ! "shoo way, a word to shoo away hens"
+sirphphi:sirphphi INJ ;
+taawulee:taawulee INJ ; ! "my father"
+taayiloo:taayiloo INJ ; ! "my mother"
+tay:tay INJ ; ! "syn: kuyi, kichchiki"
+tolkku:tolkku INJ ; ! "break (break sound)"
+ufu:ufu INJ ; ! "puff (the sound of puff)"
+uruki:uruki INJ ; ! "shoo away, a word to shoo way sheep"
+ushkka:ushkka INJ ; ! "sic’em (order to dogs) a word to order dogs to bite"
+waaha:waaha INJ ; ! "stop, a word used to stop or control oxen"
+way'ana:way'ana INJ ;
+wotta:wotta INJ ; ! "put, order to put something down"
+xoppu:xoppu INJ ; ! "sound (of landing)"
+xoqqu:xoqqu INJ ; ! "high, go high (said to an ox when ploughing)"
+xote:xote INJ ; ! "reply"
+ye''e:ye''e INJ ; ! "warning word"
+yee: INJ ; ! "yes, (inquiry)"
+yooqe:yooqe INJ ;
+zeere:zeere INJ ; ! "be careful"
+zur:zur INJ ; ! "order, order to its place (of mule)"
 
 Lexicon Adjectives
 
@@ -8056,9 +8214,9 @@ LEXICON POSTPOS ! Postpositions that follow oblique case
 %+daani%<post%>:daani # ;
 %+daani%<post%>:dan # ; ! Dir/LR
 
-LEXICON ITJ !
+LEXICON INJ !
 
-%<ij%>: # ;
+%<inj%>: # ;
 
 LEXICON ADJ !
 

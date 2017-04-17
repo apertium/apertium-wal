@@ -36,5 +36,7 @@ texts/kilikil.txt -text
 texts/scan0001.txt -text
 texts/scan0002.txt -text
 texts/scan0003.txt -text
+texts/testData.txt -text
 texts/wol-new.txt -text
+texts/wolaSent.txt -text
 /wal.prob -text svneol=unset#unset
