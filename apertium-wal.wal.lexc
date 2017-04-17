@@ -7,7 +7,7 @@ Multichar_Symbols
 %<prep%>	! Prepositions
 %<conn%>	! Connections
 %<adv%> 	! Adverbs
-%<inj%>		! Interjection
+%<inj%>		! Interjections
 %<n%>  		! Noun
 %<v%>  		! Verb
 %<p1%>  	! First Person
@@ -91,13 +91,13 @@ Adverbs ;
 !!!                          L E X I C O N                                  !!!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-Lexicon Interjections
+LEXICON Interjections
 
 haʼa:haʼa INJ ;
 !haʼa:ha`a INJ ; ! Dir/LR
 !haʼa:ha’a INJ ; ! Dir/LR
 !haʼa:haʼa INJ ; ! Dir/LR
-a"a:a"a INJ ; ! "no, not at all"
+a''a:a''a INJ ; ! "no, not at all"
 aa''a:aa''a INJ ; ! "oh, no"
 aabboo'ana:aabboo'ana INJ ; ! "woe, alas"
 aayyee'ana:aayyee'ana INJ ; ! "woe, alas"
@@ -110,7 +110,7 @@ adiki:adiki INJ ; ! "shoo away"
 ahaa:ahaa INJ ; ! "aha"
 akkay:akkay INJ ; ! "no, of course not"
 allawdo:allawdo INJ ; ! "contentment for you"
-amn"i:amn"i INJ ; ! "amen"
+amn''i:amn''i INJ ; ! "amen"
 ane:ane INJ ; ! "just"
 annakki:annakki INJ ; ! "exclamatory word"
 arikiyay:arikiyay INJ ; ! "shoo away"
@@ -146,21 +146,14 @@ gonddooro:gonddooro INJ ; ! "a word that expresses a strong emotion of fear"
 ha''aa:ha''aa INJ ; ! "ouch"
 haakko:haakko INJ ; 
 haddiro:haddiro INJ ; 
-poora:poora INJ ; 
 pala:pala INJ ; 
 ekko:ekko INJ ;
 gattoppo:gattoppo INJ ;
 ayfee:ayfee INJ ;
 kehaa:kehaa INJ ;
-xeello:xeello INJ ;
 haaya:haaya INJ ; ! "come here"
-haddiro:haddiro INJ ; 
-poora:poora INJ ;
-haakko:haakko INJ ; 
-pala:pala INJ ;
-ekko:ekko INJ ;
-gattoppo:gattoppo INJ ;
-hagalo:hagalo INJ ; ! "reciprocating good wish"
+haddiro:haddiro INJ ;  
+!hagalo:hagalo INJ ; ! "reciprocating good wish"
 hageehoo:hageehoo INJ ; ! "behold"
 haha:haha INJ ; ! "laughter (funny feeling)"
 hala:hala INJ ; ! "oh"
@@ -170,7 +163,7 @@ hammu:hammu INJ ; ! "welcome"
 harddiidii:harddiidii INJ ; ! "instigating word"
 hay:hay INJ ;
 hay''ikka:hay''ikka INJ ; ! "yes, of course"
-hay"i:hay"i INJ ; ! "oh no (disapproval)"
+hay''i:hay''i INJ ; ! "oh no (disapproval)"
 hayla:hayla INJ ; ! "is that (negligence feeling)"
 aabboo'ana:aabboo'ana INJ ;
 aayyee'ana:aayyee'ana INJ ;
@@ -181,7 +174,7 @@ hee:hee INJ ; ! "yes"
 heesso:heesso INJ ; ! "warning word"
 hegeetihoo:hegeetihoo INJ ! "there they are"
 hekko:hekko INJ ; !  "here it is"
-hi"i:hi"i INJ ; ! "harassment word"
+hi''i:hi''i INJ ; ! "harassment word"
 hichchichchi:hichchichchi INJ ; ! "brrr"
 hirkka:hirkka INJ ; ! "order to its place (of cows)"
 hoddeshsho:hoddeshsho INJ ; ! "why is it so"
@@ -208,25 +201,20 @@ kuyi:kuyi INJ ;  
 kichchiki:kichchiki INJ ; 
 lichchi:lichchi INJ ! "sit quickly"
 liphphi:liphphi INJ ; ! "sudden taking"
-lo"uwan:lo"uwan INJ ; ! "good-bye
+lo''uwan:lo''uwan INJ ; ! "good-bye
 magani:magani INJ ; ! "yes, absolutely"
 mayno:mayno INJ ; ! "let stop"
 mishiraachcho:mishiraachcho INJ ; ! "congratulations, hurrah, good news"
 naawa:naawa INJ ; ! "swear, never"
 naw''asho:naw''asho INJ ; ! "sorry"
-heesso:heesso INJ ;
 ye''e:ye''e INJ ; 
 ooye:ooye INJ ; 
 noore:noore INJ ; ! "welcome"
 ooye:ooye INJ ; 
-heesso:heesso INJ ;
 ye''e:ye''e INJ ;
 haddiro:haddiro INJ ;
 poora:poora INJ ;
 haakko:haakko INJ ;
-gattoppo:gattoppo INJ ;
-ayfee:ayfee INJ ;
-kehaa:kehaa INJ ;
 xeello:xeello INJ ;
 piskki:piskki INJ ; ! "scatter, an expression to say when something scattered suddenly"
 porqqu:porqqu INJ ; ! "pull, pull forcefully"
@@ -251,12 +239,12 @@ xoppu:xoppu INJ ; ! "sound (of landing)"
 xoqqu:xoqqu INJ ; ! "high, go high (said to an ox when ploughing)"
 xote:xote INJ ; ! "reply"
 ye''e:ye''e INJ ; ! "warning word"
-yee: INJ ; ! "yes, (inquiry)"
+yee:yee INJ ; ! "yes, (inquiry)"
 yooqe:yooqe INJ ;
 zeere:zeere INJ ; ! "be careful"
 zur:zur INJ ; ! "order, order to its place (of mule)"
 
-Lexicon Adjectives
+LEXICON Adjectives
 
 de:de ADJ ; ! "To be managed"
 ay:ay ADJ ; ! "How"
@@ -264,19 +252,19 @@ dere:dere ADJ ; ! "a lot of"
 he:he ADJ ; ! "That"
 ha:ha ADJ ; ! "This"
 
-Lexicon Prepositions
+LEXICON Prepositions
 
 giddon:giddon PREP ; ! "among"
 giddo:giddo PREP ; ! "between"
 
-Lexicon Connections
+LEXICON Connections
 
 woy:woy CONN ; ! "either, neither"
 gishshaw:gishshaw CONN ; ! "because"
 gishshawu:gishshawu CONN ; ! "because"
 gishshaassi:gishshaassi CONN ; ! "because"
 
-Lexicon Adverbs
+LEXICON Adverbs
 
 qassi:qassi ADV ; ! "again"
 qa:qa ADV ; ! "again"
