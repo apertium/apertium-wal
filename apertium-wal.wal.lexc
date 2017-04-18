@@ -2485,6 +2485,17 @@ LEXICON Prepositions
 
 giddon:giddon PREP ; ! "among"
 giddo:giddo PREP ; ! "between"
+giddoppe:giddoppe PREP ; ! "between, among"
+gidduwan:gidduwan PREP ; ! "between
+guyiyan:guyiyan PREP ; ! "after, later in time or place"
+hegaattoo:hegaattoo PREP ; ! "like that"
+hegaadankka:hegaadankka PREP ; ! ""
+hegaadan:hegaadan PREP ; ! ""
+hegaattoo:hegaattoo PREP ; ! ""
+hegaanne:hegaanne PREP ; ! ""
+hegaa:hegaa PREP ; ! ""
+malatiya:malatiya PREP ; ! ""
+ussi:ussi PREP ; ! "Ex Naatussi"
 
 LEXICON Connections
 
@@ -2492,6 +2503,22 @@ woy:woy CONN ; ! "either, neither"
 gishshaw:gishshaw CONN ; ! "because"
 gishshawu:gishshawu CONN ; ! "because"
 gishshaassi:gishshaassi CONN ; ! "because"
+attin:attin  CONN ; ! " except"
+giikko:giikko  CONN ; ! " because"
+ayssiis:ayssiis  CONN ; ! " because"
+ayzziis:ayzziis  CONN ; ! " because"
+gakkanaashin:gakkanaashin  CONN ; ! " nutil"
+gakkanaassi:gakkanaassi  CONN ; ! " until"
+gakkanaayyoo:gakkanaayyoo  CONN ; ! " still"
+gishshaassi:gishshaassi  CONN ; ! ""
+gishshataw:gishshataw  CONN ; ! ""
+hagaatto:hagaatto  CONN ; ! " like this"
+kko:kko  CONN ; ! ""
+kkokka:kkokka  CONN ; ! ""
+nne:nne  CONN ; ! ""
+shin:shin  CONN ; ! ""
+xayikko:xayikko  CONN ; ! ""
+yye:yye  CONN ; ! "
 
 LEXICON Adverbs
 
