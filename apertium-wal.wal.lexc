@@ -10217,6 +10217,7 @@ VERB-Rel ;
 
 LEXICON Pronouns
 
+taa:taa RONOUN-1-S ; ! "I/me"
 ta:ta PRONOUN-1-S ; ! "I/me"
 nu:nu PRONOUN-1-P ; ! "you"
 ne:ne PRONOUN-2-S ; ! "you"
