@@ -7,7 +7,7 @@ Multichar_Symbols
 %<prep%>	! Prepositions
 %<conn%>	! Connections
 %<adv%> 	! Adverbs
-%<inj%>		! Interjections
+%<ij%>		! Interjections
 %<n%>  		! Noun
 %<v%>  		! Verb
 %<p1%>  	! First Person
@@ -93,156 +93,148 @@ Adverbs ;
 
 LEXICON Interjections
 
-haʼa:haʼa INJ ;
-!haʼa:ha`a INJ ; ! Dir/LR
-!haʼa:ha’a INJ ; ! Dir/LR
-!haʼa:haʼa INJ ; ! Dir/LR
-a''a:a''a INJ ; ! "no, not at all"
-aa''a:aa''a INJ ; ! "oh, no"
-aabboo'ana:aabboo'ana INJ ; ! "woe, alas"
-aayyee'ana:aayyee'ana INJ ; ! "woe, alas"
-aabboo'ana:aabboo'ana INJ ; ! "woe, alas"
-aayyee:aayyee INJ ; ! "woe, alas"
-biittaw:biittaw INJ ; ! "woe, alas"
-ashkke:ashkke INJ ; ! "woe, alas"
-abe:abe INJ ; ! "yes, Sir"
-adiki:adiki INJ ; ! "shoo away"
-ahaa:ahaa INJ ; ! "aha"
-akkay:akkay INJ ; ! "no, of course not"
-allawdo:allawdo INJ ; ! "contentment for you"
-amn''i:amn''i INJ ; ! "amen"
-ane:ane INJ ; ! "just"
-annakki:annakki INJ ; ! "exclamatory word"
-arikiyay:arikiyay INJ ; ! "shoo away"
-arkki:arkki INJ ; ! "shoo away"
-arra:arra INJ ; ! "instigating word"
-ashsham:ashsham INJ ; ! "hello"
-assallo:assallo INJ ; ! "may God restore"
-ayye:ayye INJ ; ! "alas"
-azik:azik INJ ; ! "aziki, adiki"
-aziki:aziki INJ ; ! "adiki, azik"
-aabboo'ana:aabboo'ana INJ ;
-aayyee'ana:aayyee'ana INJ ;
-aayyee:aayyee INJ ;
-buh:buh INJ ; ! "woof"
-chachacha:chachacha INJ ; ! "sizzle"
-chay:chay INJ ; ! "exclamatory word"
-chii:chii INJ ; ! "no"
-chuwa:chuwa INJ ; ! "instigating word"
-demmakka:demmakka INJ ; ! "you cannot get"
-digga:digga INJ ; ! "take away"
-doona:doona INJ ; ! "let them live"
-du:du INJ ; ! "let her live"
-ee:ee INJ ; ! "yes"
-eeno:eeno INJ ; ! "OK, all right"
-Elohee:Elohee INJ ; ! "my God"
-ero:ero INJ ; ! "yes, all right"
-ezggo:ezggo INJ ;
-anggata:anggata INJ ;
-hoola:hoola INJ ;
-gaashshe:gaashshe INJ ; ! "sir, a title of honour"
-gido:gido INJ ; ! "let it be"
-gonddooro:gonddooro INJ ; ! "a word that expresses a strong emotion of fear"
-ha''aa:ha''aa INJ ; ! "ouch"
-haakko:haakko INJ ; 
-haddiro:haddiro INJ ; 
-pala:pala INJ ; 
-ekko:ekko INJ ;
-gattoppo:gattoppo INJ ;
-ayfee:ayfee INJ ;
-kehaa:kehaa INJ ;
-haaya:haaya INJ ; ! "come here"
-haddiro:haddiro INJ ;  
-!hagalo:hagalo INJ ; ! "reciprocating good wish"
-hageehoo:hageehoo INJ ; ! "behold"
-haha:haha INJ ; ! "laughter (funny feeling)"
-hala:hala INJ ; ! "oh"
-halluuti:halluuti INJ ; ! "no, of course not"
-halo:halo INJ ; ! "amazing"
-hammu:hammu INJ ; ! "welcome"
-harddiidii:harddiidii INJ ; ! "instigating word"
-hay:hay INJ ;
-hay''ikka:hay''ikka INJ ; ! "yes, of course"
-hay''i:hay''i INJ ; ! "oh no (disapproval)"
-hayla:hayla INJ ; ! "is that (negligence feeling)"
-aabboo'ana:aabboo'ana INJ ;
-aayyee'ana:aayyee'ana INJ ;
-aayyee:aayyee INJ ;
-aayyee:aayyee INJ ;
-hayzza:hayzza INJ ; ! "be quiet, shut up"
-hee:hee INJ ; ! "yes"
-heesso:heesso INJ ; ! "warning word"
-hegeetihoo:hegeetihoo INJ ! "there they are"
-hekko:hekko INJ ; !  "here it is"
-hi''i:hi''i INJ ; ! "harassment word"
-hichchichchi:hichchichchi INJ ; ! "brrr"
-hirkka:hirkka INJ ; ! "order to its place (of cows)"
-hoddeshsho:hoddeshsho INJ ; ! "why is it so"
-hoogee:hoogee INJ ; ! "horror (expressing the feeling of horror)"
-hoola:hoola INJ ; ! "awesome"
-horro:horro INJ ; ! "be quick"
-hurbbuti:hurbbuti INJ ; ! "ok"
-demmakka:demmakka INJ ; 
-ililili:ililili INJ ; ! "thrilling sound (of jubilation)"
-immeet:immeet INJ ; ! "yes, yes"
-ishiki:ishiki INJ ; ! "shoo away"
-ishsha:ishsha INJ ; ! "stop"
-ishshi:ishshi INJ ; ! "ok"
-ixxisi:ixxisi INJ ; ! "no"
-izhzho:izhzho INJ ; ! "ordering sheep"
-kashi:kashi INJ ; ! "no"
-keera:keera INJ ; ! "sorry, alas"
-kichchiki:kichchiki INJ ;
-kuyi:kuyi INJ ;
-tay:tay INJ ;
-komppu:komppu INJ ; ! "break"
-koshoshu:koshoshu INJ ; ! "rustling (an expression of rustling sound)"
-kuyi:kuyi INJ ;  
-kichchiki:kichchiki INJ ; 
-lichchi:lichchi INJ ! "sit quickly"
-liphphi:liphphi INJ ; ! "sudden taking"
-lo''uwan:lo''uwan INJ ; ! "good-bye
-magani:magani INJ ; ! "yes, absolutely"
-mayno:mayno INJ ; ! "let stop"
-mishiraachcho:mishiraachcho INJ ; ! "congratulations, hurrah, good news"
-naawa:naawa INJ ; ! "swear, never"
-naw''asho:naw''asho INJ ; ! "sorry"
-ye''e:ye''e INJ ; 
-ooye:ooye INJ ; 
-noore:noore INJ ; ! "welcome"
-ooye:ooye INJ ; 
-ye''e:ye''e INJ ;
-haddiro:haddiro INJ ;
-poora:poora INJ ;
-haakko:haakko INJ ;
-xeello:xeello INJ ;
-piskki:piskki INJ ; ! "scatter, an expression to say when something scattered suddenly"
-porqqu:porqqu INJ ; ! "pull, pull forcefully"
-pozhzhu:pozhzhu INJ ; ! "noise, the noise produced when something is torn away"
-qayshe:qayshe INJ ; ! "reply (of puzzle)"
-salqqi:salqqi INJ ; ! "feel pain (of internal body)"
-saro:saro INJ ; ! "hello"
-shinchchaalle:shinchchaalle INJ ; ! "sorrow, be/sorry, sorrow for a loss"
-shukku:shukku INJ ; ! "shoo way, a word to shoo away hens"
-sirphphi:sirphphi INJ ;
-taawulee:taawulee INJ ; ! "my father"
-taayiloo:taayiloo INJ ; ! "my mother"
-tay:tay INJ ; ! "syn: kuyi, kichchiki"
-tolkku:tolkku INJ ; ! "break (break sound)"
-ufu:ufu INJ ; ! "puff (the sound of puff)"
-uruki:uruki INJ ; ! "shoo away, a word to shoo way sheep"
-ushkka:ushkka INJ ; ! "sic’em (order to dogs) a word to order dogs to bite"
-waaha:waaha INJ ; ! "stop, a word used to stop or control oxen"
-way'ana:way'ana INJ ;
-wotta:wotta INJ ; ! "put, order to put something down"
-xoppu:xoppu INJ ; ! "sound (of landing)"
-xoqqu:xoqqu INJ ; ! "high, go high (said to an ox when ploughing)"
-xote:xote INJ ; ! "reply"
-ye''e:ye''e INJ ; ! "warning word"
-yee:yee INJ ; ! "yes, (inquiry)"
-yooqe:yooqe INJ ;
-zeere:zeere INJ ; ! "be careful"
-zur:zur INJ ; ! "order, order to its place (of mule)"
+haʼa:haʼa ITJ ;
+!haʼa:ha`a ITJ ; ! Dir/LR
+!haʼa:ha’a ITJ ; ! Dir/LR
+!haʼa:haʼa ITJ ; ! Dir/LR
+a''a:a''a ITJ ; ! "no, not at all"
+aa''a:aa''a ITJ ; ! "oh, no"
+aabboo'ana:aabboo'ana ITJ ; ! "woe, alas"
+aayyee'ana:aayyee'ana ITJ ; ! "woe, alas"
+aayyee:aayyee ITJ ; ! "woe, alas"
+biittaw:biittaw ITJ ; ! "woe, alas"
+ashkke:ashkke ITJ ; ! "woe, alas"
+abe:abe ITJ ; ! "yes, Sir"
+adiki:adiki ITJ ; ! "shoo away"
+ahaa:ahaa ITJ ; ! "aha"
+akkay:akkay ITJ ; ! "no, of course not"
+allawdo:allawdo ITJ ; ! "contentment for you"
+amn''i:amn''i ITJ ; ! "amen"
+ane:ane ITJ ; ! "just"
+annakki:annakki ITJ ; ! "exclamatory word"
+arikiyay:arikiyay ITJ ; ! "shoo away"
+arkki:arkki ITJ ; ! "shoo away"
+arra:arra ITJ ; ! "instigating word"
+ashsham:ashsham ITJ ; ! "hello"
+assallo:assallo ITJ ; ! "may God restore"
+ayye:ayye ITJ ; ! "alas"
+azik:azik ITJ ; ! "aziki, adiki"
+aziki:aziki ITJ ; ! "adiki, azik"
+aabboo'ana:aabboo'ana ITJ ;
+aayyee'ana:aayyee'ana ITJ ;
+aayyee:aayyee ITJ ;
+buh:buh ITJ ; ! "woof"
+chachacha:chachacha ITJ ; ! "sizzle"
+chay:chay ITJ ; ! "exclamatory word"
+chii:chii ITJ ; ! "no"
+chuwa:chuwa ITJ ; ! "instigating word"
+demmakka:demmakka ITJ ; ! "you cannot get"
+digga:digga ITJ ; ! "take away"
+doona:doona ITJ ; ! "let them live"
+du:du ITJ ; ! "let her live"
+ee:ee ITJ ; ! "yes"
+eeno:eeno ITJ ; ! "OK, all right"
+Elohee:Elohee ITJ ; ! "my God"
+ero:ero ITJ ; ! "yes, all right"
+ezggo:ezggo ITJ ;
+anggata:anggata ITJ ;
+hoola:hoola ITJ ;
+gaashshe:gaashshe ITJ ; ! "sir, a title of honour"
+gido:gido ITJ ; ! "let it be"
+gonddooro:gonddooro ITJ ; ! "a word that expresses a strong emotion of fear"
+ha''aa:ha''aa ITJ ; ! "ouch"
+haddiro:haddiro ITJ ; 
+pala:pala ITJ ; 
+ekko:ekko ITJ ;
+gattoppo:gattoppo ITJ ;
+ayfee:ayfee ITJ ;
+kehaa:kehaa ITJ ;
+haaya:haaya ITJ ; ! "come here"
+hagalo:hagalo ITJ ; ! "reciprocating good wish"
+hageehoo:hageehoo ITJ ; ! "behold"
+haha:haha ITJ ; ! "laughter (funny feeling)"
+hala:hala ITJ ; ! "oh"
+halluuti:halluuti ITJ ; ! "no, of course not"
+halo:halo ITJ ; ! "amazing"
+hammu:hammu ITJ ; ! "welcome"
+harddiidii:harddiidii ITJ ; ! "instigating word"
+hay:hay ITJ ;
+hay''ikka:hay''ikka ITJ ; ! "yes, of course"
+hay''i:hay''i ITJ ; ! "oh no (disapproval)"
+hayla:hayla ITJ ; ! "is that (negligence feeling)"
+aabboo'ana:aabboo'ana ITJ ;
+aayyee'ana:aayyee'ana ITJ ;
+aayyee:aayyee ITJ ;
+hayzza:hayzza ITJ ; ! "be quiet, shut up"
+hee:hee ITJ ; ! "yes"
+heesso:heesso ITJ ; ! "warning word"
+hegeetihoo:hegeetihoo ITJ ; ! "there they are"
+hekko:hekko ITJ ; !  "here it is"
+hi''i:hi''i ITJ ; ! "harassment word"
+hichchichchi:hichchichchi ITJ ; ! "brrr"
+hirkka:hirkka ITJ ; ! "order to its place (of cows)"
+hoddeshsho:hoddeshsho ITJ ; ! "why is it so"
+hoogee:hoogee ITJ ; ! "horror (expressing the feeling of horror)"
+hoola:hoola ITJ ; ! "awesome"
+horro:horro ITJ ; ! "be quick"
+hurbbuti:hurbbuti ITJ ; ! "ok"
+demmakka:demmakka ITJ ; 
+ililili:ililili ITJ ; ! "thrilling sound (of jubilation)"
+immeet:immeet ITJ ; ! "yes, yes"
+ishiki:ishiki ITJ ; ! "shoo away"
+ishsha:ishsha ITJ ; ! "stop"
+ishshi:ishshi ITJ ; ! "ok"
+ixxisi:ixxisi ITJ ; ! "no"
+izhzho:izhzho ITJ ; ! "ordering sheep"
+kashi:kashi ITJ ; ! "no"
+keera:keera ITJ ; ! "sorry, alas"
+kichchiki:kichchiki ITJ ;
+kuyi:kuyi ITJ ;
+tay:tay ITJ ;
+komppu:komppu ITJ ; ! "break"
+koshoshu:koshoshu ITJ ; ! "rustling (an expression of rustling sound)"
+kuyi:kuyi ITJ ;
+lichchi:lichchi ITJ ; ! "sit quickly"
+liphphi:liphphi ITJ ; ! "sudden taking"
+lo''uwan:lo''uwan ITJ ; ! "good-bye
+magani:magani ITJ ; ! "yes, absolutely"
+mayno:mayno ITJ ; ! "let stop"
+mishiraachcho:mishiraachcho ITJ ; ! "congratulations, hurrah, good news"
+naawa:naawa ITJ ; ! "swear, never"
+naw''asho:naw''asho ITJ ; ! "sorry"
+ye''e:ye''e ITJ ; ! ""
+ooye:ooye ITJ ; ! ""
+noore:noore ITJ ; ! "welcome"
+poora:poora ITJ ; ! ""
+haakko:haakko ITJ ; ! ""
+xeello:xeello ITJ ; ! ""
+piskki:piskki ITJ ; ! "scatter, an expression to say when something scattered suddenly"
+porqqu:porqqu ITJ ; ! "pull, pull forcefully"
+pozhzhu:pozhzhu ITJ ; ! "noise, the noise produced when something is torn away"
+qayshe:qayshe ITJ ; ! "reply (of puzzle)"
+salqqi:salqqi ITJ ; ! "feel pain (of internal body)"
+saro:saro ITJ ; ! "hello"
+shinchchaalle:shinchchaalle ITJ ; ! "sorrow, be/sorry, sorrow for a loss"
+shukku:shukku ITJ ; ! "shoo way, a word to shoo away hens"
+sirphphi:sirphphi ITJ ;
+taawulee:taawulee ITJ ; ! "my father"
+taayiloo:taayiloo ITJ ; ! "my mother"
+tay:tay ITJ ; ! "syn: kuyi, kichchiki"
+tolkku:tolkku ITJ ; ! "break (break sound)"
+ufu:ufu ITJ ; ! "puff (the sound of puff)"
+uruki:uruki ITJ ; ! "shoo away, a word to shoo way sheep"
+ushkka:ushkka ITJ ; ! "sic’em (order to dogs) a word to order dogs to bite"
+waaha:waaha ITJ ; ! "stop, a word used to stop or control oxen"
+way'ana:way'ana ITJ ;
+wotta:wotta ITJ ; ! "put, order to put something down"
+xoppu:xoppu ITJ ; ! "sound (of landing)"
+xoqqu:xoqqu ITJ ; ! "high, go high (said to an ox when ploughing)"
+xote:xote ITJ ; ! "reply"
+ye''e:ye''e ITJ ; ! "warning word"
+yee:yee ITJ ; ! "yes, (inquiry)"
+yooqe:yooqe ITJ ;
+zeere:zeere ITJ ; ! "be careful"
+zur:zur ITJ ; ! "order, order to its place (of mule)"
 
 LEXICON Adjectives
 
@@ -251,6 +243,2243 @@ ay:ay ADJ ; ! "How"
 dere:dere ADJ ; ! "a lot of"
 he:he ADJ ; ! "That"
 ha:ha ADJ ; ! "This"
+aaho:aaho ADJ ; ! "wide, broad"
+aammotida:aammotida ADJ ; ! "rotten, decayed, decomposed"
+aappunttee:aappunttee ADJ ; ! "what grade, which number"
+aapuntta:aapuntta ADJ ; ! "Neeni aappuntta kifiliyan day"
+aara:aara ADJ ; ! "yellow (of plant leaves)"
+aaro:aaro ADJ ; ! "superior, excessive, superfluous, extra, surplus, excess"
+aattiya:aattiya ADJ ; ! "leaky, holey, sieve-like, dripping, drippy, permeable"
+Abasha:Abasha ADJ ; ! "Abyssinian, Ethiopian"
+abuulla:abuulla ADJ ; ! "massive, big, great, huge, large, tall, awesome"
+adaaqo:adaaqo ADJ ; ! "sparse, occurring with many spaces in between"
+adaba:adaba ADJ ; ! "long-lasting, durable"
+addiniitaa:addiniitaa ADJ ; ! "own"
+adil''e:adil''e ADJ ; ! "yellow"
+adussa:adussa ADJ ; ! "long, tall"
+agacida:agacida ADJ ; ! "aborted"
+aggenna:aggenna ADJ ; ! "constant, continuous"
+agunttattiya:agunttattiya ADJ ; ! "thorny"
+aja:aja ADJ ; ! "hostile, moody, bad-tempered, irritable, malicious, evil"
+ajaajje:ajaajje ADJ ; ! "I iitabaa oottiya ajaajje asa"
+ajaawa:ajaawa ADJ ; ! "energetic, powerful, great physical strength"
+akaliina:akaliina ADJ ; ! "weary, feeble, frail, fatigued, weak"
+akaraara:akaraara ADJ ; ! "foolish, silly, dull, unintelligent, imprudent, thoughtless, irrational, stupid, rash, reckless"
+al''o:al''o ADJ ; ! "expensive, costly, elegant"
+alalaa:alalaa ADJ ; ! "crimson, of a deep rich red color for making 'mesob'"
+alame:alame ADJ ; ! "worldly, non-spiritual, secular"
+alenna:alenna ADJ ; ! "unsatisfactory, insufficient"
+allaatte:allaatte ADJ ; ! "spotted, patchy, mottled, splotchy"
+allaga:allaga ADJ ; ! "foreign, strange, alien, unrelated, not a blood relative"
+alliqaro:alliqaro ADJ ; ! "conceited, arrogant, proud, prideful, boastful, haughty, fussy"
+amalanchcha:amalanchcha ADJ ; ! "moody, furious, bad-tempered, irritable, rebellious, quarrelsome, opposing, opponent, violent, disobedient"
+amara:amara ADJ ; ! "horse-color (black-colored of a horse)"
+ammanettenna:ammanettenna ADJ ; ! "dishonest, insincere, incredible, unbelievable, hesitant, uncertain"
+ammanettiya:ammanettiya ADJ ; ! "honest, sincere, loyal, faithful, trustworthy, reliable"
+ammaniya:ammaniya ADJ ; ! "believing (used to describe those who believe in God, specifically the Judeo-Christian God)"
+amottiya:amottiya ADJ ; ! "lustful, wishful"
+amuqa:amuqa ADJ ; ! "sloppy, slovenly, untidy"
+ananoote:ananoote ADJ ; ! "big, great, huge, massive, large, tall, awesome"
+anccettida:anccettida ADJ ; ! "chopped"
+ancco:ancco ADJ ; ! "sandy, stony"
+anggaawa:anggaawa ADJ ; ! "powerful, energetic"
+anjjajja:anjjajja ADJ ; ! "fine, very well or satisfactory"
+anjjettida:anjjettida ADJ ; ! "blessed"
+ankkakka:ankkakka ADJ ; ! "untidy, messy"
+anqqara:anqqara ADJ ; ! "plump, fat, thick, chubby, obese, flabby"
+anuca:anuca ADJ ;
+anuuca:anuuca ADJ ; ! "large, huge"
+anuufa:anuufa ADJ ; ! "anuufa boora a huge ox"
+aradda:aradda ADJ ; ! "fertile, loamy"
+aramida:aramida ADJ ; ! "few, a few, some"
+arkko:arkko ADJ ; ! "cloudy"
+arssa:arssa ADJ ; ! "light-complexioned, brown (face)"
+asha:asha ADJ ; ! "weak, slow, lazy, inactive, feeble"
+ashilaalo:ashilaalo ADJ ; ! "polite, disciplined, kind"
+ashkke:ashkke ADJ ; ! "humble, gentle, meek, good-mannered, polite, kind, long suffering"
+asho:asho ADJ ; ! "fleshy"
+attenna:attenna ADJ ; ! "inevitable, obligatory"
+attida:attida ADJ ; ! "remaining"
+attuma:attuma ADJ ; ! "male, masculine"
+awaaqe:awaaqe ADJ ; ! "deceiving, pretending"
+axiraaro:axiraaro ADJ ; ! "prideful, conceited, boastful, arrogant, haughty, proud, fussy"
+axxo:axxo ADJ ; ! "big, great, huge, massive, large, tall, awesome, giant"
+ayfe:ayfe ADJ ; ! "basic, vital"
+ayfettiya:ayfettiya ADJ ; ! "main"
+ayyaanawa:ayyaanawa ADJ ; ! "spiritual"
+azalla:azalla ADJ ; ! "weak, feeble, weary"
+azazettenna:azazettenna ADJ ; ! "disobedient, defiant"
+azazettiya:azazettiya ADJ ; ! "obedient"
+azzaniya:azzaniya ADJ ; ! "sorry, remorseful, repentant, sad, unhappy"
+azzanttiya:azzanttiya ADJ ; ! "sorrowful, sad, melancholy"
+ba'e:ba'e ADJ ; ! "successful"
+baa'ula:baa'ula ADJ ; ! "huge, large, fat, massive, big, great, tall, awesome"
+baaddiqeechchama:baaddiqeechchama ADJ ; ! "strong, not submissive (of men)"
+baadine:baadine ADJ ; ! "virgin, untouched"
+baadoochche:baadoochche ADJ ; ! ""
+baalige:baalige ADJ ; ! "rude, obscene"
+baalo:baalo ADJ ; ! "comfortable, luxurious"
+baara:baara ADJ ; ! "white (horse color)"
+baarigaara:baarigaara ADJ ; ! "adversary, hostile, antagonistic"
+baaso:baaso ADJ ; ! ""
+bacca:bacca ADJ ; ! "oval, spherical"
+baddo:baddo ADJ ; ! "prime (of number)"
+bagga:bagga ADJ ; ! "half"
+bala:bala ADJ ; ! "mistaken, wrong"
+balanchcha:balanchcha ADJ ; ! "faulty, guilty"
+balase:balase ADJ ; ! "idle, lazy and unwilling to work"
+balettiya:balettiya ADJ ; ! "misleading, deceitful, mischievous, cheating, dishonest, fraudulent, untrustworthy, tricky, devious"
+balibakkiya:balibakkiya ADJ ; ! "deceitful, dishonest, fraudulent, untrustworthy, mischievous, cheating, tricky, devious, immoral"
+ban''a:ban''a ADJ ; ! "huge, big, great, massive, large, tall, awesome"
+banne:banne ADJ ; ! "huge, big, great, massive, large, awesome"
+banqqa:banqqa ADJ ; ! "comfortable, suitable, prosperous, convenient, well-to-do, opportune"
+bantta:bantta ADJ ; ! "their"
+baqe:baqe ADJ ; ! "clear, obvious, open, public"
+baqettiya:baqettiya ADJ ; ! "mad, crazy"
+baqqo:baqqo ADJ ; ! "small, little"
+barjja:barjja ADJ ; ! "moderate light"
+bashino:bashino ADJ ; ! "black, solid black, extremely black"
+bashsha:bashsha ADJ ; ! "ruined, crumbling, invalid, destroyable, destructible"
+baw'ida:baw'ida ADJ ; ! "heated (fire)"
+baxuuxa:baxuuxa ADJ ; ! "clingy, persistent"
+baylibayla:baylibayla ADJ ; ! "inconsistent, inconstant, unfaithful, changeable, flocculent"
+bayra:bayra ADJ ; ! "elder"
+baysa:baysa ADJ ; ! "deserted, empty"
+beceeccula:beceeccula ADJ ; ! "cunning, fraudulent, bogus"
+beegottida:beegottida ADJ ; ! "awake"
+beelibeela:beelibeela ADJ ; ! "inconspicuous, obscure"
+beettenna:beettenna ADJ ; ! "invisible"
+beettiya:beettiya ADJ ; ! "visible, magnificent, obvious"
+beqeqqa:beqeqqa ADJ ; ! "abnormally big sized (of head)"
+besa:besa ADJ ; ! "much, many, a lot of, abundant, maximum, immense, innumerable, numerous, a great deal of, superabundant, plentiful"
+bese:bese ADJ ; ! "not twin, was born one (usually for sheep or goats)"
+bessenna:bessenna ADJ ; ! "unnecessary, not important, irrelevant"
+bessiya:bessiya ADJ ; ! "necessary, essential, desirable"
+biddanchcha:biddanchcha ADJ ; ! "talkative, verbose, garrulous, voluble"
+biiribiira:biiribiira ADJ ; ! "fidget, restless, edgy, overactive"
+biitta:biitta ADJ ; ! "dirty, filthy, stainable, garbagy, rubbishy"
+biixibiixa:biixibiixa ADJ ; ! "hasty, quick, restless"
+bilcciina:bilcciina ADJ ; ! "fruitless, ineffective"
+bililintto:bililintto ADJ ; ! "smart, nice, tasty"
+binjjibinjja:binjjibinjja ADJ ; ! "fidgety"
+binjjilla:binjjilla ADJ ; ! "rigid, obstinate, stubborn, unyielding"
+birassa:birassa ADJ ; ! "an animal that has carried an offspring in its womb"
+bitaachcha:bitaachcha ADJ ; ! "naughty, bad-mannered"
+bixe:bixe ADJ ; ! "equal, the same age, belong to the same age, height, etc (of peer groups)"
+biz''iya:biz''iya ADJ ; ! "stinging, painful"
+bizza:bizza ADJ ; ! "only child, a person who was born and brought up alone"
+bo''a:bo''a ADJ ; ! "bald, having little or no hair on the head"
+bobariya:bobariya ADJ ; ! "bolting"
+bobboxaama:bobboxaama ADJ ; ! "big, tall and big in size (of men or animals)"
+bodoojje:bodoojje ADJ ; ! "fierce, moody, hostile, bad-tempered, irritable, malicious"
+boge:boge ADJ ; ! "quick, fast, hasty, restless, busy"
+bol''o:bol''o ADJ ; ! "warm, lukewarm"
+boljjojja:boljjojja ADJ ; ! "ripened yellow"
+bolooce:bolooce ADJ ; ! "obscene, rude, oafish"
+boncco:boncco ADJ ; ! "leafy"
+Bonchchettiya:Bonchchettiya ADJ ; ! "Excellency"
+bonchchiya:bonchchiya ADJ ; ! "respectful"
+bonchcho:bonchcho ADJ ; ! "decent, honourable, respected"
+bonddooshe:bonddooshe ADJ ; ! "ugly, discourteous, hideous, amorphous, shapeless"
+boocco:boocco ADJ ; ! "grassless, a place where no grass grows"
+booja:booja ADJ ; ! "sparkling, shiny"
+boolima:boolima ADJ ; ! "neat, tidy"
+boora:boora ADJ ; ! "big, giant, large, somebody or something larger than usual"
+boore:boore ADJ ; ! "tan coloured (only for a horse)"
+booshiina:booshiina ADJ ; ! "brittle, fragile, breakable, delicate, weak"
+boosoolo:boosoolo ADJ ; ! "barren"
+booza:booza ADJ ; ! "slovenly, disrespectful, rude, careless, sloppy"
+boqoqqa:boqoqqa ADJ ; ! "big-headed, moon-faced"
+boqoso:boqoso ADJ ; ! "shameful"
+borchchiborchcha:borchchiborchcha ADJ ; ! "rough, not smooth"
+borettiya:borettiya ADJ ; ! "criticizable"
+boroshsha:boroshsha ADJ ; ! "broken, flawed (pottery, teeth, gourd)"
+bubbuntte:bubbuntte ADJ ; ! "short and stout"
+buhettida:buhettida ADJ ; ! "dusty"
+bula:bula ADJ ; ! "prepared without butter (of food, coffee, etc"
+bulkke:bulkke ADJ ; ! "muley, having no horns"
+bulla:bulla ADJ ; ! "grey (animal's colour)"
+bulqqo:bulqqo ADJ ; ! "turbid, muddy, impure"
+bunjjibunjja:bunjjibunjja ADJ ; ! "ill-tempered"
+bunkkulaase:bunkkulaase ADJ ; ! "shot and fat"
+bunssuqa:bunssuqa ADJ ; ! "spoilt, dirty"
+buraaqiya:buraaqiya ADJ ; ! "gamboling, leaping playfully, leap or skip around playfully, skip like a calf"
+burcce:burcce ADJ ; ! "piece, wee, lesser, slender, minute, tiny, diminutive, petite"
+burkkukka:burkkukka ADJ ; ! "fat, thick, chubby, obese, flabby"
+buruxo:buruxo ADJ ; ! "worthless, insignificant, useless"
+burxxuxxa:burxxuxxa ADJ ; ! "popeyed, with eyes wide open"
+busakka:busakka ADJ ; ! "sharp (of sword)"
+buskkiina:buskkiina ADJ ; ! "busy, a child who is moving here and there"
+buu'ula:buu'ula ADJ ; ! "small and fat"
+buuchchaama:buuchchaama ADJ ; ! "hairy (of beard)"
+buullo:buullo ADJ ; ! "impure, not clean (of water)"
+buuqa:buuqa ADJ ; ! "rotten, decayed, decomposed"
+buusaawa:buusaawa ADJ ; ! "old, aged, elder"
+buusha:buusha ADJ ; ! "toothless, a person who has lost some of his/her teeth"
+buzo:buzo ADJ ; ! "own, personal, private"
+caage:caage ADJ ; ! "goat colour"
+caala:caala ADJ ; ! "sour"
+caalenna:caalenna ADJ ; ! "unleavened"
+cababe:cababe ADJ ; ! "shrewish, ill-tempered, quarrelsome, argumentative"
+caccara:caccara ADJ ; ! "speckled, spotted"
+cachcho:cachcho ADJ ; ! "wicked, mean, unkind, brutal, ruthless, cruel"
+cachcho:cachcho ADJ ; ! "sable, very black"
+caljjo:caljjo ADJ ; ! "gloomy"
+camo:camo ADJ ; ! "bitter, unpleasant taste, not sweet"
+cancciya:cancciya ADJ ; ! "boisterous, noisy, rowdy"
+canna:canna ADJ ; ! "comfortable, abundant, plentiful, luxurious"
+care:care ADJ ; ! "marshy, soft, wet, muddy"
+carkko:carkko ADJ ; ! "windy"
+carqqa:carqqa ADJ ; ! "untidy, messy"
+ceega:ceega ADJ ; ! "Yelagay ceega asaa bonchchanaw bessees"
+cenggeleela:cenggeleela ADJ ; ! "pale"
+cenggeleeliis:cenggeleeliis ADJ ; ! "look pale"
+chiro:chiro ADJ ; ! "very short"
+ciggaara:ciggaara ADJ ; ! "misty"
+ciggichcha:ciggichcha ADJ ; ! "cunning, wise, alert, agile"
+ciimma:ciimma ADJ ; ! "deep"
+ciiriciira:ciiriciira ADJ ; ! "likely to end"
+ciiriqa:ciiriqa ADJ ; ! "filthy, extremely or disgustingly dirty"
+ciiyyiya:ciiyyiya ADJ ; ! "flowering"
+cilicila:cilicila ADJ ; ! "gleaming"
+ciliciliya:ciliciliya ADJ ; ! ""
+cililo:cililo ADJ ; ! "green"
+cima:cima ADJ ; ! ""
+cimmiya:cimmiya ADJ ; ! "deceptive, deceitful, mischievous, cheating, dishonest, fraudulent, untrustworthy, tricky, devious"
+cimo:cimo ADJ ; ! "deceitful, dishonest, fraudulent, untrustworthy, mischievous, cheating, tricky, devious"
+cin''a:cin''a ADJ ; ! "short and fat (for clay pots)"
+cincca:cincca ADJ ; ! "wise, astute, shrewd"
+cirdhdhiina:cirdhdhiina ADJ ; ! "futile, trivial, lacking serious value"
+cirppippa:cirppippa ADJ ; ! "ugly, not pretty"
+cirqqiqqa:cirqqiqqa ADJ ; ! "filthy, dirty"
+cishshiina:cishshiina ADJ ; ! "futile, fruitless, ineffective"
+cizhzhiina:cizhzhiina ADJ ; ! "rattly"
+co''a:co''a ADJ ; ! "silent"
+cole:cole ADJ ; ! "pale, cattle colour, a kind of domestic cattle's colour"
+combbiina:combbiina ADJ ; ! "long talk, long and monotonous talking"
+cona:cona ADJ ; ! "reduce giving milk (of a cow)"
+cone:cone ADJ ; ! "reduced milk"
+cooshshiya:cooshshiya ADJ ; ! "emetic"
+cora:cora ADJ ; ! "many, much, a lot of, a great deal of, numerous, plentiful, abundant, innumerable,  superabundant"
+corddodiina:corddodiina ADJ ; ! "prolix, talkative"
+corppoppa:corppoppa ADJ ; ! "overgrown (tall grass), graceless, uneven"
+corriina:corriina ADJ ; ! "flow freely, flow continuously from a higher place"
+cozhzhiina:cozhzhiina ADJ ; ! "noisy"
+cuccumo:cuccumo ADJ ; ! "handful, fistful"
+curqquuqa:curqquuqa ADJ ; ! "soggy, waterlogged, sodden, snotty, mucous"
+cuuca:cuuca ADJ ; ! "(of eyes) narrow, poor-sight due to a prolonged sight problem"
+cuuce:cuuce ADJ ; ! "young"
+cuudhdhida:cuudhdhida ADJ ; ! "lousy"
+daabidaaba:daabidaaba ADJ ; ! "invisible, unseen"
+daabula:daabula ADJ ; ! "double, twice as much in number or value"
+daafa:daafa ADJ ; ! "dangerous"
+daafuranchcha:daafuranchcha ADJ ; ! "tired, one who toils"
+daafurssiya:daafurssiya ADJ ; ! "tiresome"
+daama:daama ADJ ; ! "reddish, dark-brown (color of horse)"
+daba:daba ADJ ; ! "violent, malicious"
+dabariina:dabariina ADJ ; ! "unclear, confusing, indistinct"
+dabbo:dabbo ADJ ; ! "relative"
+dachchiis:dachchiis ADJ ; ! "taste unpleasant, not delicious"
+daganttiya:daganttiya ADJ ; ! "terrifying, intimidating"
+dajje:dajje ADJ ; ! "spoiled (of character)"
+dalaashaa:dalaashaa ADJ ; ! "curved horn, a cow with horns turned down and inactive for goring"
+dalalla:dalalla ADJ ; ! "level, with an even surface"
+dalbba:dalbba ADJ ; ! "A dalbba macaassa"
+dalgga:dalgga ADJ ; ! "wide"
+dallamma:dallamma ADJ ; ! "bland, tasteless"
+dallo:dallo ADJ ; ! "naughty, troublesome, mischievous, disobedient, difficult, obscure, notorious, awkward, crooked, obstinate, mulish, stubborn"
+dallumma:dallumma ADJ ; ! "dull, numb"
+dalqqidalqqa:dalqqidalqqa ADJ ; ! "lush, (of a plant or garden) growing thickly and strongly in a way that is attractive"
+danaqa:danaqa ADJ ; ! "easy, comfortable, abundant, plentiful, luxurious"
+danddayanchcha:danddayanchcha ADJ ; ! "patient, placid, mild, tolerant, tough"
+danddayettenna:danddayettenna ADJ ; ! "impossible"
+danddayettiya:danddayettiya ADJ ; ! "possible, probable"
+danddayiya:danddayiya ADJ ; ! "able, capable"
+dano:dano ADJ ; ! "violent, shifty, malicious"
+danqqida:danqqida ADJ ; ! "ticky, infested with ticks"
+daruura:daruura ADJ ; ! "Daruura saluwa giyogee iray bukkana hanees giyogaa"
+dashkkara:dashkkara ADJ ; ! "hairy, fully-grown (hair)"
+de'o:de'o ADJ ; ! "living"
+deegara:deegara ADJ ; ! "spot, black spot on white"
+deexo:deexo ADJ ; ! "heavy"
+delphphephpha:delphphephpha ADJ ; ! "thick (of liquid)"
+dema:dema ADJ ; ! "a found thing"
+dembba:dembba ADJ ; ! "level"
+dere:dere ADJ ; ! "public"
+dere:dere ADJ ; ! "many, much, a lot of, a great deal of, numerous, plentiful, abundant, innumerable, large amount of things"
+desha:desha ADJ ; ! "naughty, troublesome, mischievous, disobedient"
+dibe:dibe ADJ ; ! "innumerable, many, much, a lot of, a great deal of, numerous, plentiful, abundant"
+dicciya:dicciya ADJ ; ! "developing"
+digettida:digettida ADJ ; ! "forbidden (thing)"
+diidimaxe:diidimaxe ADJ ; ! "beautiful, handsome, charming, attractive"
+diina:diina ADJ ; ! "adversarial"
+diiximaxe:diiximaxe ADJ ; ! "clever, intelligent, shrewd, quickminded"
+dijitaale:dijitaale ADJ ; ! "dijitaale kaameeraa a digital camera"
+dijjaala:dijjaala ADJ ; ! "cunning, fraudulent, bogus, precocious"
+dilcciina:dilcciina ADJ ; ! "noisy, disputatious, talking and shouting with one another"
+dilica:dilica ADJ ; ! "pointless, pointless noisiness and playing (of small children)"
+diljjaawa:diljjaawa ADJ ; ! "naughty, defiant, disobedient, graceless, not appealing, not attractive"
+diljjo:diljjo ADJ ; ! "cunning, fraudulent, bogus"
+dillimma:dillimma ADJ ; ! "foolish"
+dimokiraase:dimokiraase ADJ ; ! "democratic"
+dinggate:dinggate ADJ ; ! "sudden"
+dinggice:dinggice ADJ ; ! "old, an old person who looks young"
+dinkke:dinkke ADJ ; ! "short, dwarfish"
+dirqqalletta:dirqqalletta ADJ ; ! "manipulative, cunning, devious"
+do'a:do'a ADJ ; ! "cruel, fierce, ruthless"
+doda:doda ADJ ; ! "flavorless, tasteless, bland, not delicious"
+doddoqa:doddoqa ADJ ; ! "adulterous, extramarital"
+doganchcha:doganchcha ADJ ; ! "forgetful, absent-minded"
+dokome:dokome ADJ ; ! "foolish, silly, unwise, dull, unintelligent, imprudent, thoughtless, irrational, stupid, rash"
+dol''a:dol''a ADJ ; ! "loose, not firmly fastened or fixed"
+dola:dola ADJ ; ! "indigenous, naturally found"
+doldda:doldda ADJ ; ! "blunt, dull, rounded, dulled, blunted, unsharpened"
+doljja:doljja ADJ ; ! "dull"
+dolliwaaqa:dolliwaaqa ADJ ; ! "rude, obscene, oafish"
+dollozo:dollozo ADJ ; ! "blunt, dull, rounded, dulled, blunted, unsharpened"
+dombbolo''a:dombbolo''a ADJ ; ! "warm, mild, lukewarm, not quite hot"
+don''are:don''are ADJ ; ! "heavy"
+donjjillida:donjjillida ADJ ; ! "numb (body)"
+dontta:dontta ADJ ; ! "Dontta gimbbee kunddidi cora asaa woriis"
+donzza:donzza ADJ ; ! "old (of men)"
+doomida:doomida ADJ ; ! "no-account, invalid, ruined, futile, pointless, trivial, petty, frivolous"
+doonaama:doonaama ADJ ; ! "sharp-mouthed, talkative"
+doonanchcha:doonanchcha ADJ ; ! "talkative"
+doossa:doossa ADJ ; ! "twisted, crooked"
+dooya:dooya ADJ ; ! "opened"
+dorppoolle:dorppoolle ADJ ; ! "tough, inconvenient for chewing"
+dorssa:dorssa ADJ ; ! "Na'ay dorssa; aynne erenna"
+doyca:doyca ADJ ; ! "a slow grower, one who grows slowly"
+doyna:doyna ADJ ; ! "blunt, dull"
+doyssa:doyssa ADJ ; ! "boiled"
+dubba:dubba ADJ ; ! "plump, fat"
+ducana:ducana ADJ ; ! "blunt, inactive, not working well"
+duddumushe:duddumushe ADJ ; ! "short and deformed"
+dugunuuna:dugunuuna ADJ ; ! "timid, shy, diffident, hesitant, insecure, reticent, unobtrusive, coy"
+dum''a:dum''a ADJ ; ! "black, solid black, extremely, black"
+dumma:dumma ADJ ; ! "different, various, special, particular"
+dummayiya:dummayiya ADJ ; ! "opposite, antonymous"
+dun''a:dun''a ADJ ; ! "short"
+dungguuxa:dungguuxa ADJ ; ! "diffident, shy, hesitant, insecure, timid, reticent, unobtrusive, coy"
+durcca:durcca ADJ ; ! "short (of plants)"
+dure:dure ADJ ; ! "rich, wealthy, prosperous, affluent"
+duuchcha:duuchcha ADJ ; ! "virgin, untouched"
+duude:duude ADJ ; ! "mute, dumb"
+duuxa:duuxa ADJ ; ! "cut, damaged, maimed, amputated"
+duuxaa:duuxaa ADJ ; ! " Bollaa giddoppe issoy pacidoogaa duuxaa geettees"
+eeji'eeja:eeji'eeja ADJ ; ! "flighty, fickle, inconsistent"
+eexxiya:eexxiya ADJ ; ! "alight, powerfully burning, lit"
+eeyya:eeyya ADJ ; ! "foolish, silly, imprudent, thoughtless, irrational, stupid, rash, reckless"
+ejeleela:ejeleela ADJ ; ! "futile, worthless, unworthy"
+elcco:elcco ADJ ; ! "cunning, shrewd"
+ellelliya:ellelliya ADJ ; ! "hasty, quick, hurry"
+enkkekka:enkkekka ADJ ; ! "careless, reckless, not ready"
+enkkesheesha:enkkesheesha ADJ ; ! "careless, reckless, not ready, untidy"
+eqa:eqa ADJ ; ! "abnormally tall, ill proportioned"
+eranchcha:eranchcha ADJ ; ! "knowledgeable, hearty, wise, intelligent, competent, fit, capable, literate, educated, outstanding, understanding"
+erettenna:erettenna ADJ ; ! "unknown, unclear"
+erettida:erettida ADJ ; ! "well-known, prominent, popular, noticeable, famous, noted, acquaintance"
+erisso:erisso ADJ ; ! "carbon-copy (of letters)"
+eta:eta ADJ ; ! "their (their person plural possessive ADJective)"
+ga'usha:ga'usha ADJ ; ! "massive, huge, big, great, large, tall, awesome"
+gaacettiya:gaacettiya ADJ ; ! "digestible, easy to digest"
+gaammo:gaammo ADJ ; ! "brave, courageous"
+gaappo:gaappo ADJ ; ! "misty, foggy, cloudy"
+gabalaca:gabalaca ADJ ; ! "untidy, not normal"
+gachchaama:gachchaama ADJ ; ! "giant, huge"
+gacino:gacino ADJ ; ! "newborn, infant"
+gadaalla:gadaalla ADJ ; ! "pale, dove-gray (animals' appearance)"
+gade:gade ADJ ; ! "neighbouring"
+gadiidaama:gadiidaama ADJ ; ! "a person having long sideburns"
+gadulla:gadulla ADJ ; ! "overeating, gluttonous, voracious"
+gagaama:gagaama ADJ ; ! "voracious, instiable, unquenchable, unsatisfiable"
+gagate:gagate ADJ ; ! "gagate bitaniya a big man"
+gaggara:gaggara ADJ ; ! "not soft (of land) not easily ploughed"
+gagisa:gagisa ADJ ; ! "big, huge, massive, great, large, tall, awesome"
+gajigaja:gajigaja ADJ ; ! "tottering, wobbly, unstable, shaky, unsteady"
+gal''a:gal''a ADJ ; ! "old, previous, last, former, erstwhile, archaic, dated"
+galcce:galcce ADJ ; ! "stale"
+galddo:galddo ADJ ; ! "young (of a person)"
+galiile:galiile ADJ ; ! "rose (color)"
+galjja:galjja ADJ ; ! "unintelligent, stupid, obtuse, plodding, unresponsive"
+gamashaasha:gamashaasha ADJ ; ! "splendid, wise, charming, attractive, smart, pretty"
+gammaama:gammaama ADJ ; ! "furry"
+gaphigapha:gaphigapha ADJ ; ! "voracious, insatiable, unquenchable, unsatisfiable"
+garanttiya:garanttiya ADJ ; ! "amazing, marvelous, miraclous"
+garccigarcca:garccigarcca ADJ ; ! "gristly (of meat not easy for chewing)"
+garchchiya:garchchiya ADJ ; ! "disobedient, rebellious, defiant, resistant, fractious, quarrelsome, opposing, violent, moody, furious, bad-tempered, irritable"
+gashaada:gashaada ADJ ; ! "skinny, thin, gaunt"
+gashe:gashe ADJ ; ! "deadly, incurable, serious"
+gashetiya:gashetiya ADJ ; ! "sick, fatigable, sufferable, ill, unwell"
+gastta:gastta ADJ ; ! "full grown, mature"
+gato:gato ADJ ; ! "paired (of oxen)"
+gaw'a:gaw'a ADJ ; ! "thoughtless, fruitless"
+gawda:gawda ADJ ; ! "greedy, gluttonous, voracious, stingy, miserly"
+gawhiina:gawhiina ADJ ; ! "hard-working, tiresome"
+gawssa:gawssa ADJ ; ! "overeating, scarfing, devouring"
+gawwiina:gawwiina ADJ ; ! "humming, crowd (refers to insects close one another)"
+gayca:gayca ADJ ; ! "Elle cimettenna uray gayca geetettees"
+gayra:gayra ADJ ; ! "cunning, fraudulent, bogus, mature"
+gaytaliina:gaytaliina ADJ ; ! "loitering, dawdling, lingering"
+gazza:gazza ADJ ; ! "spotted, mottled"
+geella:geella ADJ ; ! "crooked, curved, hooked, bent, not straight"
+geema:geema ADJ ; ! "hidden, a hidden place, hard to see"
+geeshsha:geeshsha ADJ ; ! "pure, clean, neat"
+geeyyenna:geeyyenna ADJ ; ! "impure"
+gel''igel''a:gel''igel''a ADJ ; ! "unsteady"
+gelikessa:gelikessa ADJ ; ! "uneven, not levelled (of land, road, etc"
+gelppiina:gelppiina ADJ ; ! "sluggish, weak, feeble"
+genanchcha:genanchcha ADJ ; ! "malicious, hateful, spiteful, malevolent, mean, nasty, cruel, wicked, mischievous, evil"
+gene:gene ADJ ; ! "harmful, adversarial, opposing"
+gerzzumida:gerzzumida ADJ ; ! "calloused"
+gida:gida ADJ ; ! "enough, satisfactory, sufficient, passable, adequate, prosperous"
+giddaaje:giddaaje ADJ ; ! "obligatory, inevitable"
+gidenna:gidenna ADJ ; ! "inadequate, unsatisfactory, insufficient"
+giiga:giiga ADJ ; ! "comfortable"
+giigenna:giigenna ADJ ; ! "mismatched, unfit, unsuitable, improper"
+giigidaagaa:giigidaagaa ADJ ; ! "ready, prepared"
+giigiya:giigiya ADJ ; ! "fit, elegant"
+giiligiila:giiligiila ADJ ; ! "lurching, unsteady movement, swaying from side to side"
+gilqqa:gilqqa ADJ ; ! "thin, skinny, gaunt (of men or animals)"
+giraaca:giraaca ADJ ; ! "grey (mule colour)"
+giraaso:giraaso ADJ ; ! "greasy"
+gisa:gisa ADJ ; ! "ill-proportioned (abnormally wide), squatty"
+gita:gita ADJ ; ! "big, great, huge, massive, large, tall, awesome"
+go''enna:go''enna ADJ ; ! "useless, fruitless"
+go''iya:go''iya ADJ ; ! "useful, important, beneficial, essential"
+gocca:gocca ADJ ; ! ""
+godare:godare ADJ ; ! "greedy, big eater"
+godola:godola ADJ ; ! "godola ooso pointless action"
+golccocca:golccocca ADJ ; ! "not well done"
+golddodiina:golddodiina ADJ ; ! "tedious, boring (because of being long)"
+gololiina:gololiina ADJ ; ! "shrunken, shrivelled"
+goloodo:goloodo ADJ ; ! "blunt, not sharp, unsharpened, dull, inactive"
+gooba:gooba ADJ ; ! "clever, brave, adroit, smart, skillful, courageous, plucky, valorous, audacious"
+goofaranchcha:goofaranchcha ADJ ; ! "long-haired (person)"
+gooligoola:gooligoola ADJ ; ! "clinging"
+gooliina:gooliina ADJ ; ! "sluggishly lazy, sluggish, inactive, feeble, unfit"
+goolixa:goolixa ADJ ; ! "inactive, dormant, idle, out of action, reserve, unused, inoperative, static"
+goosheta:goosheta ADJ ; ! "weak, lazy, sluggish, inactive, feeble, unfit, slow"
+gooxa:gooxa ADJ ; ! "skinny, sick, good for nothing"
+gooyiya:gooyiya ADJ ; ! "crazy, mad, insane, rabid"
+gophphiina:gophphiina ADJ ; ! "drowsy, sleepy"
+goppiina:goppiina ADJ ; ! "weak, lazy, sluggish, inactive, feeble, unfit, slow"
+gorccilla:gorccilla ADJ ; ! "tough, difficult to cut"
+gordda:gordda ADJ ; ! "closed, blocked"
+goshooppolo:goshooppolo ADJ ; ! "clumsy, weak, lazy, sluggish, inactive, feeble, unfit, slow"
+goshoshsha:goshoshsha ADJ ; ! "sluggard, weak, slow"
+gossilla:gossilla ADJ ; ! "messy, not neat"
+gubbana:gubbana ADJ ; ! "gubbana gallassa cloudy day"
+gucuulla:gucuulla ADJ ; ! "misleading, a person who deceives others"
+gudissiya:gudissiya ADJ ; ! "nauseous"
+gujettiya:gujettiya ADJ ; ! "additional, extra, more"
+gujo:gujo ADJ ; ! "additional"
+gukkiya:gukkiya ADJ ; ! "liquidy"
+gul''a:gul''a ADJ ; ! "popular, famous, prominant"
+gundda:gundda ADJ ; ! "midget, shrunken (short or bent over forward or both)"
+gurjjumma:gurjjumma ADJ ; ! "strong"
+guruuca:guruuca ADJ ; ! "short (person)"
+gushama:gushama ADJ ; ! "useless, futile, pointless, trivial, wicked, not serious"
+gutara:gutara ADJ ; ! "political"
+guufe:guufe ADJ ; ! "much, many"
+guulìya:guulìya ADJ ; ! "collecting firewood and burning the collected wood for the new year's ceremony"
+guutta:guutta ADJ ; ! "little, few, some, small, vestige"
+guuxxiya:guuxxiya ADJ ; ! "less, smaller"
+guxunaatta:guxunaatta ADJ ; ! "ignoble, shameful, disgraceful, rude, isolent, disrespectful"
+ha''issaw:ha''issaw ADJ ; ! "tentative, teporary, tentative"
+haaho:haaho ADJ ; ! "Taanne ta  laggee tamaare sooppe haaho sohuwan de'iyo gishshaw muletoo kaamiyan boos"
+haariya:haariya ADJ ; ! "ruling"
+haasayanchcha:haasayanchcha ADJ ; ! "loquacious, glib, wordy, prolix, talkative, chatty"
+haatta:haatta ADJ ; ! "watery, relating to or containing water"
+habadiina:habadiina ADJ ; ! "greedy, gluttonous, big eater"
+hada:hada ADJ ; ! "vain, unsuccessful, failing to have or unlikely to have the intended or desired result"
+haddirssa:haddirssa ADJ ; ! "left"
+hafuluuqo:hafuluuqo ADJ ; ! ""
+hajibala:hajibala ADJ ; ! "splendid, wise, charming, attractive, smart, pretty, lovely"
+hajibaliis:hajibaliis ADJ ; ! "be good, be beautiful"
+halaale:halaale ADJ ; ! "famous, winning"
+hallixxiya:hallixxiya ADJ ; ! "slippery, muddy, watery"
+halqquma:halqquma ADJ ; ! "ill-cooked, not fully cooked, partially-cooked"
+han''ura:han''ura ADJ ; ! "fat, chubby, obese, flabby, hoarse, husky"
+hanana:hanana ADJ ; ! "Woxiya katoy ha guutta na'eessi hanenna"
+hanccaama:hanccaama ADJ ; ! "strong, muscular, brawny, sturdy, forceful, hard, violent, robust, vigorous, sinewy"
+hanccaqaro:hanccaqaro ADJ ; ! "strong, very likely to succeed, win, or come to be something"
+hanqqettiya:hanqqettiya ADJ ; ! "hot-tempered, one who gets easily angry"
+hanttaara:hanttaara ADJ ; ! "callous, severe, savage, murderous, wicked, bad, evil, cruel, violent, vicious"
+hanttukettiya:hanttukettiya ADJ ; ! "energetic, active, bouncing, animated, spirited, robust, enthusiastic, lively, vigorous, brisk, bouncy"
+hara:hara ADJ ; ! "hara maayuwa other clothes"
+hariitte:hariitte ADJ ; ! "foolish, silly, dull, unintelligent, ununderstanding, imprudent, thoughtless, irrational, stupid, rash, reckless"
+hartto:hartto ADJ ; ! "poorly done (of the activities)"
+hashshiina:hashshiina ADJ ; ! "losing wind"
+hatattaama:hatattaama ADJ ; ! "hasty, quick, fast, hurry, restless, busy"
+haw'a:haw'a ADJ ; ! "foolish, silly, dull, unintelligent, non-understanding, imprudent, thoughtless, irrational, stupid,  rash, reckless"
+hawlla:hawlla ADJ ; ! "big/eater"
+hawtaata:hawtaata ADJ ; ! "fool, foolish"
+hayqo:hayqo ADJ ; ! "little, few"
+hayqqenna:hayqqenna ADJ ; ! "immortal"
+hayqqibeenna:hayqqibeenna ADJ ; ! "alive, living"
+hayqqida:hayqqida ADJ ; ! "dead"
+hayqqiya:hayqqiya ADJ ; ! "mortal"
+he:he ADJ ; ! "that"
+heebboyiya:heebboyiya ADJ ; ! "indulging, spoiling, pampering, pandering"
+hegeeta:hegeeta ADJ ; ! "those (accusative plural)"
+herxxexxa:herxxexxa ADJ ; ! "fruitful, abundant, superabundant"
+hiillanchcha:hiillanchcha ADJ ; ! "skillful, handy"
+hiisila:hiisila ADJ ; ! "weak, feeble, weary, effete, powerless, faint, exhausted"
+hilssissa:hilssissa ADJ ; ! "soft, beautiful"
+Hindde:Hindde ADJ ; ! "Indian"
+hinkkimankko:hinkkimankko ADJ ; ! "futile, pointless, trivial, wicked, menial, outlaw"
+hira:hira ADJ ; ! "luxurious, comfortable"
+hirayso:hirayso ADJ ; ! "cheap, inexpensive, low-priced, discounted, low-cost"
+hirbbakaachchisa:hirbbakaachchisa ADJ ; ! "henpecked, a husband led by his wife, who is unable to disagree with her"
+hirggissiya:hirggissiya ADJ ; ! "intimidating, causing fear, scary, frightening"
+hirggiya:hirggiya ADJ ; ! "anxious"
+hitida:hitida ADJ ; ! "powerless, faint, feeble, exhausted"
+hiyyeesa:hiyyeesa ADJ ; ! "poor, penniless, destitute"
+hodhdhihodhdha:hodhdhihodhdha ADJ ; ! "cowardly, fearful"
+hofoshono''a:hofoshono''a ADJ ; ! "loitering, standing around idly, standing around without any obvious purpose"
+holcca:holcca ADJ ; ! "less strong, less strong insult which often connote positively to address small children"
+holjjojja:holjjojja ADJ ; ! "ripen red"
+holollaawa:holollaawa ADJ ; ! "Hagee ayba holollaawa asee"
+holssiholssa:holssiholssa ADJ ; ! "tearful, weepy"
+hombbociya:hombbociya ADJ ; ! "ecstatic, happy, joyful, playful, elated, thrilled"
+homppiina:homppiina ADJ ; ! "breakable, brittle"
+hoommotiya:hoommotiya ADJ ; ! "latherly"
+horppiina:horppiina ADJ ; ! "soft, fragile, pliable, flexible"
+horra:horra ADJ ; ! "fearful, fretful"
+horriina:horriina ADJ ; ! "producing sound, producing a car-like sound"
+hoshkkiina:hoshkkiina ADJ ; ! "gossipy, not secretive"
+hoshshiina:hoshshiina ADJ ; ! "air releasing, flowing"
+hoskkiina:hoskkiina ADJ ; ! "gossipy, one who does not keep a secret"
+hossooqe:hossooqe ADJ ; ! "discourteous, rude, not secretive"
+hulssussa:hulssussa ADJ ; ! "clean, neat, pure"
+hummunna:hummunna ADJ ; ! "clean, neat, pure"
+huqqunettida:huqqunettida ADJ ; ! "oppressed, downtrodden"
+huqqunniya:huqqunniya ADJ ; ! "oppressive"
+hurbbubba:hurbbubba ADJ ; ! "small and several, small in size and several in number"
+hurchchuchcha:hurchchuchcha ADJ ; ! "pure, clean, neat"
+hurppa:hurppa ADJ ; ! "penniless, poor, destitute"
+hurqqa:hurqqa ADJ ; ! "futile, pointless, trivial, wicked, not serious"
+hussiina:hussiina ADJ ; ! "releasing gas"
+hususiina:hususiina ADJ ; ! "scatterable, spreadable, distributable"
+huuphe:huuphe ADJ ; ! "main, chief, principal, prime"
+iita:iita ADJ ; ! "bad, wicked, unpleasant, menancing, evil, malicious"
+indde:indde ADJ ; ! "female (of animals)"
+injje:injje ADJ ; ! "Hegee soofay hira/injje; asi ubbi aan uttanaw koyees"
+irkko:irkko ADJ ; ! "thick, sticky, viscous, slimy"
+irxxa:irxxa ADJ ; ! "cold, cool"
+irzzo:irzzo ADJ ; ! "circular, round"
+ishalo:ishalo ADJ ; ! "Neeyyoo ishalobata demmanaassi daro miishshaa koshshees"
+issifetetta:issifetetta ADJ ; ! "social, relating to society"
+issuwa:issuwa ADJ ; ! "Issoy issuwara, naa''a"
+ixeta:ixeta ADJ ; ! "pregnant, carrying unborn offspring inside the body"
+ixettiya:ixettiya ADJ ; ! "hatred, refusal"
+ixo:ixo ADJ ; ! "hateful, very unkind or unpleasant"
+jabalattiya:jabalattiya ADJ ; ! "babbling"
+jalla:jalla ADJ ; ! "foolish, silly, dull, unintelligent, nonunderstanding, imprudent, thoughtless, irrational, stupid, rash, reckless"
+jannanna:jannanna ADJ ; ! "elegant, good, well, fine, smart, beautiful"
+jannanniis:jannanniis ADJ ; ! "become attractive, become beautiful, become pretty, become handsome, become charming, become lovely"
+jeere:jeere ADJ ; ! "impudent, pert, cheeky, cunning, fraudulent, bogus, mature"
+jibbijibba:jibbijibba ADJ ; ! "restless, hasty, quick, fast, hurry"
+jiilaawa:jiilaawa ADJ ; ! "graceless, bad-manered, undiginified, cunning, fraudulent, bogus, mature"
+jinjjilla:jinjjilla ADJ ; ! "rigid, obstinate, stubborn, mulish"
+jolla:jolla ADJ ; ! "obstinate, stubborn, mulish, rigid"
+jooja:jooja ADJ ; ! "shiny, bright, sparkling"
+juyla:juyla ADJ ; ! "powerless, faint, feeble, exhausted, drowsy"
+ka'a:ka'a ADJ ; ! "well-cooked"
+ka''enna:ka''enna ADJ ; ! "unripe"
+kaafe:kaafe ADJ ; ! "supportable"
+kaafikaafa:kaafikaafa ADJ ; ! "supplicatory, pleadable"
+kaakkiya:kaakkiya ADJ ; ! "clucking"
+kaassanchcha:kaassanchcha ADJ ; ! "humorous, playful"
+kabba:kabba ADJ ; ! "skinny, thin, lean"
+kabboyiya:kabboyiya ADJ ; ! "kabboyiyo imattaa honourable gust"
+kabboyiyo:kabboyiyo ADJ ; ! "decent, honourable, respectful"
+kacaama:kacaama ADJ ; ! "horned, long horned, animal having large horn"
+kachachcha:kachachcha ADJ ; ! "dry"
+kafaafo:kafaafo ADJ ; ! "conceited, prideful, boastful, arrogant, haughty, proud, fussy"
+kafikafa:kafikafa ADJ ; ! "trivial, futile, wicked, pointless, menial, outlaw, not important or serious"
+kafinetta:kafinetta ADJ ; ! "light (weight)"
+kajjo:kajjo ADJ ; ! ""
+kalccacca:kalccacca ADJ ; ! "toothy"
+kalddiina:kalddiina ADJ ; ! "noisy, boisterous, rowdy"
+kalissiya:kalissiya ADJ ; ! "satisfactory, sufficient, bountiful"
+kaluwa:kaluwa ADJ ; ! "bountifulness, satisfaction, sufficient"
+kane:kane ADJ ; ! "base, main, chief"
+kanssa:kanssa ADJ ; ! "dry ('enset' leaves)"
+kare:kare ADJ ; ! "contemptuous, scornful"
+karetta:karetta ADJ ; ! "black, dark-coloured"
+kase:kase ADJ ; ! "previous, first"
+kasetiya:kasetiya ADJ ; ! "front, previous, former, earlier"
+kawo:kawo ADJ ; ! "royal"
+kawshsha:kawshsha ADJ ; ! "Ha toohoy keehi kawshsha; guutta na'ikka tookkidi issisaa shiranaw danddayees"
+kaxo:kaxo ADJ ; ! "scarce"
+kayma:kayma ADJ ; ! "old, mature"
+kebeela:kebeela ADJ ; ! "quite dry (of something)"
+kebeeliis:kebeeliis ADJ ; ! "be very dry"
+kechechcha:kechechcha ADJ ; ! "quite dry"
+keeda:keeda ADJ ; ! "trained, skilled (of ox)"
+keha:keha ADJ ; ! "altruistic, generous, charitable, open-handed, big-hearted"
+kejejja:kejejja ADJ ; ! "dry, very dry"
+kerbbebba:kerbbebba ADJ ; ! "stretched, enlarged (leaves)"
+kessenna:kessenna ADJ ; ! "unprofitable"
+kessiya:kessiya ADJ ; ! "profitable"
+kibiixa:kibiixa ADJ ; ! "amorphous, shapeless, ugly, hideous"
+kidhidho:kidhidho ADJ ; ! "thick, sticky, viscuous, slimy"
+kijaje:kijaje ADJ ; ! "verbose, garrulous, voluble"
+kilise:kilise ADJ ; ! "disabled"
+kinchcho:kinchcho ADJ ; ! "foggy, coldish, misty, frosty"
+kinkkilla:kinkkilla ADJ ; ! "Mittay kinkkilla; eettuwaw hira"
+kinkkima:kinkkima ADJ ; ! "ugly, hideous"
+kinkkirisha:kinkkirisha ADJ ; ! "Kanay kinkkirisha bitaniya yedettiis"
+kinnaalo:kinnaalo ADJ ; ! "fraudulent, perverse, stubborn, obstinate, naughty, twisted, garbled,  behaving badly"
+kiraara:kiraara ADJ ; ! "garrulous, voluble, verbose"
+kitikitiya:kitikitiya ADJ ; ! "frantic, hurry, hasty, quick, fast, restless, busy"
+kitikitya:kitikitya ADJ ; ! ""
+kixxida:kixxida ADJ ; ! "swollen"
+kobanchcha:kobanchcha ADJ ; ! "malicious, violent, evil, quarrelsome"
+kofa:kofa ADJ ; ! "empty, vacant, hollow"
+kolettiya:kolettiya ADJ ; ! "loose"
+konkkarssa:konkkarssa ADJ ; ! "rebellious, quarrelsome, opposing, violent, moody, furious, bad-tempered (doing forcefully, displaying great vigor or force)"
+konniina:konniina ADJ ; ! "well-cooked"
+korchchochcha:korchchochcha ADJ ; ! "parched, dry"
+koshshenna:koshshenna ADJ ; ! "unnecessary, not needed"
+koshshiya:koshshiya ADJ ; ! "important, necessary"
+kotta:kotta ADJ ; ! "communal, shared, belonging to or shared by two or more people or groups"
+kotte:kotte ADJ ; ! "large (number of related families)"
+koyro:koyro ADJ ; ! "first, before, beginning, prior, elementary"
+kristtaane:kristtaane ADJ ; ! "Christian, based on or believing the teachings of Jesus Christ"
+kumetta:kumetta ADJ ; ! "whole, full, complete, all, entire"
+kunttiya:kunttiya ADJ ; ! "pregnant, carrying unborn offspring inside the body (of animals)"
+kuraachcho:kuraachcho ADJ ; ! "short, very short"
+kuruma:kuruma ADJ ; ! "immune, cannot catch or be affected by a particular disease or illness"
+kusa:kusa ADJ ; ! "ashened, pale, powerless, faint, feeble"
+kushushsha:kushushsha ADJ ; ! "futile, pointless, trivial, not serious"
+kusuraawa:kusuraawa ADJ ; ! "ashened, pale"
+kuuchchaa:kuuchchaa ADJ ; ! "handful hold"
+kuupha:kuupha ADJ ; ! "narrow, (very narrow)"
+kuushsha:kuushsha ADJ ; ! "base, main, chief"
+la'a:la'a ADJ ; ! "Bitanee qasho keettaappe kiyidi ha''i naxa asa kiyiis"
+laa'anttiya:laa'anttiya ADJ ; ! "itchy, tickling, prickly, tingling, scratchy"
+laa'iya:laa'iya ADJ ; ! "contagious, infectious, communicable, rampant, spreading"
+laafa:laafa ADJ ; ! "weak, slow, lazy, inactive, feeble"
+laalanttiya:laalanttiya ADJ ; ! "confusing, not understandable"
+laalibala:laalibala ADJ ; ! "deceptive, misleading"
+laallama:laallama ADJ ; ! "sparse, thin (of seed when sown)"
+laallantta:laallantta ADJ ; ! "distracting, ambiguous"
+laamettenna:laamettenna ADJ ; ! "eternal, (of rights) not changed because of the passage of time or the history of people"
+laamettiya:laamettiya ADJ ; ! "changeable, variable"
+labbana:labbana ADJ ; ! "faint, feeble, thin, skinny, gaunt"
+laco:laco ADJ ; ! "flammable"
+lada:lada ADJ ; ! "bare, infertile, uncultivated (land)"
+lagge:lagge ADJ ; ! "equal, same aged (of the same age)"
+lakakka:lakakka ADJ ; ! "genteel, well-mannered, courteous"
+lammachchaa:lammachchaa ADJ ; ! "callow, beginner, inexperienced, novice"
+lanqqe:lanqqe ADJ ; ! "nearby, close"
+laqilaqiya:laqilaqiya ADJ ; ! "sweet"
+lasassa:lasassa ADJ ; ! "pretty, good looking, slender, thin in a graceful way"
+lasttiqe:lasttiqe ADJ ; ! "plastic"
+laxiya:laxiya ADJ ; ! "scorching"
+lee'e:lee'e ADJ ; ! "thin, skinny, gaunt"
+leelamushe:leelamushe ADJ ; ! "shifty, untrustworthy, fickle, inconsistent"
+leelleeso:leelleeso ADJ ; ! "deceitful, dishonest, fraudulent, untrustworthy, mischievous, cheating, tricky, devious"
+leemiso:leemiso ADJ ; ! "exemplary, providing a good example"
+leeqqama:leeqqama ADJ ; ! "zigzag, twisted, bent, not straight"
+leeshsho:leeshsho ADJ ; ! "small"
+leexxa:leexxa ADJ ; ! "free"
+lefa:lefa ADJ ; ! "loose, unfastened"
+lem''ilem''a:lem''ilem''a ADJ ; ! "nvisible, difficult to see"
+libbaama:libbaama ADJ ; ! "impudent, tricky, crooked"
+lii'iina:lii'iina ADJ ; ! "faint, dim, not bright (of light)"
+liiciliica:liiciliica ADJ ; ! "pesky, bothersome, annoying"
+liiqo:liiqo ADJ ; ! "pulverized, crushed (refers to finely ground flour)"
+likke:likke ADJ ; ! "correct, exact, right, fair, definite"
+lo''o:lo''o ADJ ; ! "good, well, fine"
+lochcha:lochcha ADJ ; ! "interwined, entwined, braided"
+lodooddiso:lodooddiso ADJ ; ! "talkative, prolix, incoherent, loquacious"
+lokkiina:lokkiina ADJ ; ! "humble, polite, modest"
+longgilooxe:longgilooxe ADJ ; ! "tall and thin (person)"
+lonqqoqa:lonqqoqa ADJ ; ! "thin, skinny, gaunt"
+lookiina:lookiina ADJ ; ! "tall, long"
+loolla:loolla ADJ ; ! "sharp-tongued, talkative"
+loophphe:loophphe ADJ ; ! "soft fine (tanned leather of cows)"
+loosso:loosso ADJ ; ! "narrow, tight, thin"
+looxilooxa:looxilooxa ADJ ; ! "restless, fidgety, quick, fast, hasty, busy"
+loshoshsha:loshoshsha ADJ ; ! "dishonest, deceptive, two-faced phony"
+loshshiina:loshshiina ADJ ; ! "burning (of pain)"
+lufa:lufa ADJ ; ! "lisping, slurred"
+luguna:luguna ADJ ; ! "deceitful, mischievous, cheating, dishonest, fraudulent, untrustworthy, tricky, devious"
+lumbbiina:lumbbiina ADJ ; ! "flexible, pliable, soft"
+lumma:lumma ADJ ; ! "toothless"
+lunqqilunqqa:lunqqilunqqa ADJ ; ! "flexible, pliable"
+lushushsha:lushushsha ADJ ; ! "futile, pointless, trivial, wicked, not serious"
+luule:luule ADJ ; ! "straight, anything both straight and slender"
+luysha:luysha ADJ ; ! "(of hair) smooth, straight"
+maaddenna:maaddenna ADJ ; ! "futile, pointless, trivial, petty, frivolous, no-account, invalid, ruined"
+maaddiya:maaddiya ADJ ; ! "helpful, useful"
+maadhdho:maadhdho ADJ ; ! "untidy, messy, dirty, filthy, stained"
+maalaaliya:maalaaliya ADJ ; ! "amazing, marvelous, miraculous"
+maalla:maalla ADJ ; ! "impure, turbid (water)"
+maariya:maariya ADJ ; ! "merciful"
+maashinkke:maashinkke ADJ ; ! "cunning, wise, meticulous"
+maate:maate ADJ ; ! "several, many, much, a lot of, large number"
+macca:macca ADJ ; ! "female"
+made:made ADJ ; ! "bland, tasteless, not delicious"
+makkaanike:makkaanike ADJ ; ! "mechanical"
+mal''enna:mal''enna ADJ ; ! "He mal''enna keekee shamettanaw bessenna"
+malanchcha:malanchcha ADJ ; ! "beautiful, handsome, lovely, smart, pretty, charming, attractive, good looking"
+malatiya:malatiya ADJ ; ! "Azinaassinne machcheessi malatiya qofay de'ees"
+malgge:malgge ADJ ; ! "unripe, green, immature, fresh"
+maltte:maltte ADJ ; ! "mischievious"
+manachche:manachche ADJ ; ! "not sour (of dough)"
+manqqo:manqqo ADJ ; ! "poor, destitute, penniless"
+manttishoola:manttishoola ADJ ; ! "ordinary, plain, unembellished (living situation)"
+marshshaa:marshshaa ADJ ; ! "breech birth"
+masukka:masukka ADJ ; ! "ordinary, nothing special, common place, everyday (food)"
+mata:mata ADJ ; ! "near, close, intimate"
+mattoyiya:mattoyiya ADJ ; ! "alcoholic"
+mayne:mayne ADJ ; ! "sterile, infretile, barren, not fertile to give birth"
+me''iya:me''iya ADJ ; ! "fragile, easily broken, likely to break"
+me'o:me'o ADJ ; ! "broken"
+meecettiya:meecettiya ADJ ; ! "washable"
+meeseele:meeseele ADJ ; ! "bald"
+meeximeexa:meeximeexa ADJ ; ! "overactive, restless, fidgety, quick, fast, hasty, hurry, busy"
+meeze:meeze ADJ ; ! "habitual, customary"
+mela:mela ADJ ; ! "Mela mittay eettanaw wayssenna"
+mela:mela ADJ ; ! "empty, vacant, hollow"
+mellejja:mellejja ADJ ; ! "impudent, pert, cheeky"
+meranchcha:meranchcha ADJ ; ! "beautiful, handsome, lovely, smart, pretty, charming, attractive"
+mereta:mereta ADJ ; ! "natural"
+meto:meto ADJ ; ! "mulish, stubborn, difficult, obstinate"
+metootanchcha:metootanchcha ADJ ; ! "needy, miserable, one who has a problem and needs help"
+mico:mico ADJ ; ! "(of crop) burnt black"
+miginjja:miginjja ADJ ; ! "meticulous, extremely careful and precise"
+miichchiya:miichchiya ADJ ; ! "humorous, fanny"
+miiqimiiqa:miiqimiiqa ADJ ; ! "conceited, arrogant, proud, prideful, boastful, haughty"
+miiqqiya:miiqqiya ADJ ; ! "disobedient, rebellious, moody (of a horse)"
+miiretenna:miiretenna ADJ ; ! "neutral"
+miizza:miizza ADJ ; ! "I miizza asa"
+mijjrssa:mijjrssa ADJ ; ! "shiny, clean polished"
+milli'a:milli'a ADJ ; ! "pert, cheeky, impudent"
+millijja:millijja ADJ ; ! "millijja na'iyo a pert girl"
+milxxixxa:milxxixxa ADJ ; ! "bold"
+mindda:mindda ADJ ; ! "conceited, arrogant, proud, prideful, boastful, haughty, fussy"
+mino:mino ADJ ; ! "strong, hard, solid"
+miqiiqqiliya:miqiiqqiliya ADJ ; ! "nitpicky, quibbling"
+miqqaynne:miqqaynne ADJ ; ! "jealous, envious, covetous"
+miqqiiqiliya:miqqiiqiliya ADJ ; ! "pedantic, nitpicky, quibbling"
+mirqqiiqa:mirqqiiqa ADJ ; ! "rejectable, criticizable"
+mise:mise ADJ ; ! "similar, equal, identical"
+misho:misho ADJ ; ! "hot, burning, very warm, fiery"
+missa:missa ADJ ; ! "quarter, one-fourth of something"
+mitta:mitta ADJ ; ! "wooden, made of wood"
+moce:moce ADJ ; ! "Moce badalay shooshsha ayfe malatees"
+modhdho:modhdho ADJ ; ! "fatty, fat, chubby, obese, flabby"
+mogola:mogola ADJ ; ! "devastating, destructive, damaging, injurious"
+mojira:mojira ADJ ; ! "pure, clean, neat (of water)"
+molddoda:molddoda ADJ ; ! "molddoda anoy diyo mittaa a plant with a slender stem"
+molloxxa:molloxxa ADJ ; ! "bare, naked, not covered with clothing"
+mololla:mololla ADJ ; ! "smooth"
+mon''ara:mon''ara ADJ ; ! "fat, chubby, obese, flabby"
+mon''imon''a:mon''imon''a ADJ ; ! "soft"
+monddole:monddole ADJ ; ! "empty"
+moociina:moociina ADJ ; ! "playful, happy"
+mooho:mooho ADJ ; ! "cracked, a cracked jar"
+moome:moome ADJ ; ! "callow, gullible, ignorant, foolish, silly, dull, unintelligent,   imprudent, thoughtless, irrational, stupid"
+mooranchcha:mooranchcha ADJ ; ! "guilty, mistaken, culpable"
+moorettida:moorettida ADJ ; ! "corrupt, defective, faulty, imperfect, flawed, malfunctioning"
+mooro:mooro ADJ ; ! "wrong, erroneous, mistaken"
+moozo:moozo ADJ ; ! "shy, bashful, a feeling exhibited by a newcomer (especially for a newly acquired cow)"
+mor''iina:mor''iina ADJ ; ! "easily torn"
+morkke:morkke ADJ ; ! "adversarial, opposing"
+motoloola:motoloola ADJ ; ! "splendid, charming, attractive, smart, pretty, good looking, graceful, lovely"
+mudda:mudda ADJ ; ! "tailless, amputated, cut"
+muduuso:muduuso ADJ ; ! "hopeless, futile, pointless, trivial, menial, petty"
+mul''o:mul''o ADJ ; ! "unripe, green, fresh, immature, young (of fruit)"
+mulcca:mulcca ADJ ; ! "teary, watery-eyed, wet with or full of tears"
+mulluga:mulluga ADJ ; ! "hairless, mangy"
+mulsse:mulsse ADJ ; ! "young (of kid)"
+mulssussa:mulssussa ADJ ; ! "good looking, pretty, beautiful, healthy color"
+mululla:mululla ADJ ; ! "neat, clean"
+mulumucca:mulumucca ADJ ; ! "deceptive, dishonest, fraudulent, untrustworthy, mischievous, cheating, tricky, devious"
+mulumuqqe:mulumuqqe ADJ ; ! "oval, egg-shaped, rounded (rocks and snakes)"
+mulxxuxxa:mulxxuxxa ADJ ; ! "pure, clean, neat (white)"
+munaasa:munaasa ADJ ; ! "plentiful, abundant"
+murgga:murgga ADJ ; ! "earless, amputated, cut"
+murtte:murtte ADJ ; ! "decisive, resolute, daring, strong minded, determined"
+muruquuqa:muruquuqa ADJ ; ! "soaking, very wet"
+muruta:muruta ADJ ; ! "fine, neat, qualitative (with no defect)"
+murxxa:murxxa ADJ ; ! "soaking, dripping, waterlogged, wet"
+musa:musa ADJ ; ! "soaking, wet"
+muuca:muuca ADJ ; ! "amputated, cut"
+muume:muume ADJ ; ! "round"
+muume:muume ADJ ; ! "dumb, unable to speak"
+muuruqa:muuruqa ADJ ; ! "soggy, waterlogged, sodden, soaking, wet, saturated"
+muussotiya:muussotiya ADJ ; ! "muussotiya siiriya, muussotiya na'aa h"
+muyra:muyra ADJ ; ! "futile, pointless, trivial, petty"
+na''e:na''e ADJ ; ! "rich, wealthy"
+na'a:na'a ADJ ; ! "young (children)"
+naachchisa:naachchisa ADJ ; ! "not sour (of local drinks)"
+naagettiya:naagettiya ADJ ; ! "careful"
+naagibeenna:naagibeenna ADJ ; ! "unexpected"
+naanno:naanno ADJ ; ! "heavy, difficult to lift"
+naaqettida:naaqettida ADJ ; ! "oppressed"
+nabbabettenna:nabbabettenna ADJ ; ! "illegible, difficult (to read)"
+nabbabettiya:nabbabettiya ADJ ; ! "legible"
+nagaranchcha:nagaranchcha ADJ ; ! "sinful"
+namisettida:namisettida ADJ ; ! "hungry"
+nappa:nappa ADJ ; ! "lazy, inefficient, feeble"
+narkkakka:narkkakka ADJ ; ! "fruitful"
+narphiya:narphiya ADJ ; ! "dictatorial"
+nazziina:nazziina ADJ ; ! "noisy, making annoying sounds"
+noccilla:noccilla ADJ ; ! "heavy, difficult to move"
+nokkiina:nokkiina ADJ ; ! "easily eaten, easily digested"
+noociina:noociina ADJ ; ! "happy, one who often smiles"
+nooshiina:nooshiina ADJ ; ! "brittle, likely to break"
+norppiina:norppiina ADJ ; ! "(of the ground) easily dug out, easily hoe"
+o:o ADJ ; ! "whose"
+oca:oca ADJ ; ! "pert, cheeky, sassy, flippant, disrespectful"
+odanchcha:odanchcha ADJ ; ! "gossipy, not secretive, one who has a loose tongue"
+odettiya:odettiya ADJ ; ! "tellable"
+odolchcha:odolchcha ADJ ; ! "horse color"
+omoodo:omoodo ADJ ; ! "captive"
+ona:ona ADJ ; ! "Tana ona keettan aqanaw yashshees"
+onakki:onakki ADJ ; ! "her (refers to a female whose name you do not know)"
+onakko:onakko ADJ ; ! "his (refers to a male whose name is not known)"
+onccila:onccila ADJ ; ! "ugly, not good looking"
+onkkokka:onkkokka ADJ ; ! "foolish, silly, dull, unintelligent, irrational, stupid, rash, reckless"
+oo''o:oo''o ADJ ; ! "disgusting, repulsive"
+oogee:oogee ADJ ; ! "whose (male)"
+oonno:oonno ADJ ; ! "foolish, silly, dull, unintelligent, non-understanding, imprudent, thoughtless, irrational, stupid, rash, reckless"
+ooratta:ooratta ADJ ; ! "new, current, unusual, unfamiliar, singular"
+ooraxxiya:ooraxxiya ADJ ; ! "renewable"
+oorii:oorii ADJ ; ! "whose, nominalized interrogative ADJective feminine"
+ooshshanchcha:ooshshanchcha ADJ ; ! "quarrelsome, troublesome, disorderly, uncooperative,  disruptive, riotous, rebellious"
+orcco:orcco ADJ ; ! "turbid, muddy, impure (of water)"
+ordde:ordde ADJ ; ! "Ordde asaw woxxanaagee keehi meto"
+orggozo:orggozo ADJ ; ! "fat, obese"
+oso:oso ADJ ; ! "moody, hostile, bad-tempered, irritable, malicious"
+otta:otta ADJ ; ! "virgin (of land)"
+oyshettiya:oyshettiya ADJ ; ! "responsible"
+paarasayte:paarasayte ADJ ; ! "parasitic, caused by a parasite, or living on another plant or animal and gets its food from it"
+paashshine:paashshine ADJ ; ! "fashionable, currently popular"
+paca:paca ADJ ; ! "incomplete, missing, not complete, not full, lacking"
+paccenna:paccenna ADJ ; ! "complete, blameless, perfect"
+pala:pala ADJ ; ! "wicked, bad, evil, callous, severe, savage, murderous, harsh"
+palaha:palaha ADJ ; ! "abundant, surplus"
+palahiya:palahiya ADJ ; ! "surpassing"
+palamissiya:palamissiya ADJ ; ! "debatable, controversial, disputatious, quarrelsome, troublesome, disorderly, uncooperative,  disruptive, riotous, rebellious"
+pantta:pantta ADJ ; ! "young (of a man)"
+parggaga:parggaga ADJ ; ! "bigger, enlarged"
+parjjajja:parjjajja ADJ ; ! "untidy"
+paruka:paruka ADJ ; ! "fat, thick, chubby, obese, flabby, hoarse, husky"
+pashkka:pashkka ADJ ; ! "healthy, well, radiant"
+pattenna:pattenna ADJ ; ! "trivial, frivolous, futile, pointless, petty"
+pattiya:pattiya ADJ ; ! "curable"
+paxa:paxa ADJ ; ! "healthy, well"
+paxiyo:paxiyo ADJ ; ! "curable"
+paydettenna:paydettenna ADJ ; ! "uncountable, non-counting (of  number)"
+paydettiya:paydettiya ADJ ; ! "countable (of number)"
+payya:payya ADJ ; ! "healthy, lively"
+payyenna:payyenna ADJ ; ! "sick, unwell"
+peegaama:peegaama ADJ ; ! "moody, furious, bad-tempered, irritable, rebellious, quarrelsome, opposing, violent, disobedient"
+peelipeela:peelipeela ADJ ; ! "invisible, unseen"
+peeretta:peeretta ADJ ; ! "torn (clothes)"
+peleqeeqa:peleqeeqa ADJ ; ! "pale, lacking color or intensity"
+perzza:perzza ADJ ; ! "bucktoothed, protruding (of teeth)"
+phalqqenna:phalqqenna ADJ ; ! "positive"
+pheelipheela:pheelipheela ADJ ; ! "gleaming, shiny"
+pheexigazza:pheexigazza ADJ ; ! "rebellious, quarrelsome, opposing, violent, moody, furious, bad-tempered, irritable"
+phoolliya:phoolliya ADJ ; ! "luminous, glittery, shiny, gleaming"
+pica:pica ADJ ; ! "overcooked (cheese)"
+pidda:pidda ADJ ; ! "flat, outstretched, straight"
+pisissa:pisissa ADJ ; ! "spindly, grown very thin when the land is not fertile (of plants)"
+poga:poga ADJ ; ! "open (container)"
+pokko:pokko ADJ ; ! "indecent, shameful, impolite, offensive"
+pokko:pokko ADJ ; ! "Hachchi, nu soo pokko imatti yees"
+pol''attiya:pol''attiya ADJ ; ! "alight, burning powerfully"
+polcce:polcce ADJ ; ! "revocable"
+pollo:pollo ADJ ; ! "empty (pocket)"
+polo:polo ADJ ; ! "absolute, perfect"
+polotika:polotika ADJ ; ! "polotika asaa a political person"
+poo'o:poo'o ADJ ; ! "shiny, alight"
+poociina:poociina ADJ ; ! "pleasant, happy, joyful, enjoyable"
+pooga:pooga ADJ ; ! "spicy, hot-tasting, burning (of chili, etc)"
+pooga:pooga ADJ ; ! "cunning"
+poosiina:poosiina ADJ ; ! "uneasy, restless, fretful"
+poosipoosa:poosipoosa ADJ ; ! "fidgety, restless, unable to be still or quiet (of a person)"
+pooxettida:pooxettida ADJ ; ! "sharpened"
+poqettida:poqettida ADJ ; ! "peeled, shed (skin)"
+porddolla:porddolla ADJ ; ! "gristly, tough"
+porshshida:porshshida ADJ ; ! "half-cooked"
+pozhzhiina:pozhzhiina ADJ ; ! "very bright (light)"
+pulttiya:pulttiya ADJ ; ! "pulttiya haattaa the flowing water"
+putteesa:putteesa ADJ ; ! "poor, penniless, wretched, one living in poverty"
+puulunttaama:puulunttaama ADJ ; ! "gray-haired"
+puyxa:puyxa ADJ ; ! "sharp"
+qaaca:qaaca ADJ ; ! "piebald, pinto"
+qaadaawa:qaadaawa ADJ ; ! "lucky, fortunate"
+qaatta:qaatta ADJ ; ! "stingy, miserly, greedy, selfish"
+qaaxxenna:qaaxxenna ADJ ; ! "immovable"
+qaaxxiya:qaaxxiya ADJ ; ! "moveable, shaky, unsteady, unstable"
+qaliwaaxxa:qaliwaaxxa ADJ ; ! ""
+qanggettida:qanggettida ADJ ; ! "cursed"
+qantta:qantta ADJ ; ! "short, concise, precise"
+qanxxettida:qanxxettida ADJ ; ! "cut, amputated"
+qanxxo:qanxxo ADJ ; ! "cut off, amputated"
+qaphiqapha:qaphiqapha ADJ ; ! "hesitant, undecided, unsure, in doubt"
+qaqqaasa:qaqqaasa ADJ ; ! "searching"
+qara:qara ADJ ; ! "sharp, blade of a knife cutting edge"
+qarariisawa:qarariisawa ADJ ; ! "wise, smart, clever"
+qarccochcha:qarccochcha ADJ ; ! "kinky, curly"
+qaretanchcha:qaretanchcha ADJ ; ! "sympathetic, concerned, empathetic, compassionate, showing feelings of sympathy for the suffering of others, often with a desire to help"
+qaretissiya:qaretissiya ADJ ; ! "pathetic, something that makes you feel sad or pity"
+qaw'e:qaw'e ADJ ; ! "green, unripe, immature"
+qawxanna:qawxanna ADJ ; ! "thin, skinny, gaunt, faint, feeble"
+qaxa:qaxa ADJ ; ! "fraudulent, perverse, stubborn, obstinate, naughty, twisted, garbled, behaving badly, not willing to obey"
+qaxana:qaxana ADJ ; ! "little, few, some, small"
+qaxiballo:qaxiballo ADJ ; ! "naughty, troublesome, mischievous, disobedient, difficult"
+qaxxarettibeenna:qaxxarettibeenna ADJ ; ! "uncircumcised"
+qayciya:qayciya ADJ ; ! "goring, a cow, ox, bull, that gores"
+qayye:qayye ADJ ; ! "unripe, not yet ripe or mature"
+qazazza:qazazza ADJ ; ! "sharp (of noise), not broad noise"
+qeeqqaalo:qeeqqaalo ADJ ; ! "loitering, dawdling, lingering"
+qeeraatiya:qeeraatiya ADJ ; ! "smaller"
+qem''ela:qem''ela ADJ ; ! "haughty, charlatan-like, arrogant"
+qijjilla:qijjilla ADJ ; ! "futile, pointless, trivial, wicked, not/serious"
+qiljjijja:qiljjijja ADJ ; ! "A qiljjijja ayfee naata yashshees"
+qiljjijja:qiljjijja ADJ ; ! "A geeshsha haattaa ollaappe goochchaasu"
+qilshshiina:qilshshiina ADJ ; ! "nearly extinguished"
+qinjjiqinjja:qinjjiqinjja ADJ ; ! "fussy"
+qiphila:qiphila ADJ ; ! "worthless, good-for-nothing, selfish, unpredictable, dictable, unreliable"
+qirnnaaca:qirnnaaca ADJ ; ! "futile, pointless, trivial, wicked, not serious, good for nothing"
+qisha:qisha ADJ ; ! "squinty, squinty-eyed"
+qita:qita ADJ ; ! "dirty, filthy, stained, garbagy, rubbishy"
+qofaawa:qofaawa ADJ ; ! "thoughtful, considerate"
+qofettibeenna:qofettibeenna ADJ ; ! "sudden, unexpected"
+qofissiya:qofissiya ADJ ; ! "critical, serious"
+qofofiina:qofofiina ADJ ; ! "dizzy"
+qohettida:qohettida ADJ ; ! "vulnerable"
+qohiya:qohiya ADJ ; ! "harmful, malicious"
+qolcciina:qolcciina ADJ ; ! "pointless, futile"
+qoncce:qoncce ADJ ; ! "obvious, clear, open, public"
+qonqqolla:qonqqolla ADJ ; ! "thin, slender"
+qonxxoloola:qonxxoloola ADJ ; ! "attractive, slender, tall and thin"
+qoobba:qoobba ADJ ; ! "crescent, curved, not straight"
+qoodettenna:qoodettenna ADJ ; ! "uncountable"
+qoodettiya:qoodettiya ADJ ; ! "countable"
+qoophiina:qoophiina ADJ ; ! ""
+qooqe:qooqe ADJ ; ! "Qooqeti xeellanaw danddayokkona"
+qoppenna:qoppenna ADJ ; ! ""
+qoppiya:qoppiya ADJ ; ! ""
+qoqoqiina:qoqoqiina ADJ ; ! "squeaky, harsh (sound)"
+qorxxa:qorxxa ADJ ; ! "ripe"
+qosa:qosa ADJ ; ! "hidden"
+qots''iina:qots''iina ADJ ; ! "aimless, without purpose"
+qozhzhiina:qozhzhiina ADJ ; ! "loquacious, glib, wordy, talkative, chatty"
+quliquliya:quliquliya ADJ ; ! "enthusiastic"
+qulxxuxxa:qulxxuxxa ADJ ; ! "clean, pure, neat"
+qumbba:qumbba ADJ ; ! "curved, having a round shape"
+qumppiqumppa:qumppiqumppa ADJ ; ! "warm, lukewarm"
+qunqqa:qunqqa ADJ ; ! "stingy, miserly, greedy (not consuming much since he/she likes saving very much)"
+quphiqupha:quphiqupha ADJ ; ! "futile, pointless, trivial, not/serious"
+quruxa:quruxa ADJ ; ! "(of animals) thin, skinny (without any special disease due to lack of essential minerals)"
+quuna:quuna ADJ ; ! "hunched"
+quylaala:quylaala ADJ ; ! "thin, skinny, gaunt, high-pitched"
+quyxa:quyxa ADJ ; ! "undersized, puny, stunted"
+saapho:saapho ADJ ; ! "honorable, respectable, decent"
+sadhdhakiina:sadhdhakiina ADJ ; ! "muddy, watery, slippery"
+sagadattiya:sagadattiya ADJ ; ! "poor, not leveled"
+saggiya:saggiya ADJ ; ! "suspicious"
+sahanchcha:sahanchcha ADJ ; ! "Sahanchcha booray maataa maanaw danddayibeenna"
+sakkana:sakkana ADJ ; ! "dark, intensive in terms of  darkness"
+salalla:salalla ADJ ; ! "smooth"
+salddadda:salddadda ADJ ; ! "perfect, well-behaved, splendid"
+salddida:salddida ADJ ; ! "beautiful, pretty"
+salettiya:salettiya ADJ ; ! "boring, monotonous"
+salppappa:salppappa ADJ ; ! "grown well (of grass)"
+salqqisalqqa:salqqisalqqa ADJ ; ! "lush"
+sama:sama ADJ ; ! "spoiled, no longer fresh, gone bad (of cooked food)"
+samaaye:samaaye ADJ ; ! "Saloy samaaye; hachchi iray waayi bukkanna"
+samppappa:samppappa ADJ ; ! "idle"
+sarbba:sarbba ADJ ; ! "greedy, big eater"
+sasa:sasa ADJ ; ! "very cold"
+sawiya:sawiya ADJ ; ! "fragrant, having a pleasant or sweet smell"
+saxa:saxa ADJ ; ! "nominal"
+seebaana:seebaana ADJ ; ! ""
+seesanchcha:seesanchcha ADJ ; ! "fussy, conceited, arrogant, proud, prideful, boastful, haughty"
+seeximeexa:seeximeexa ADJ ; ! ""
+selembbo:selembbo ADJ ; ! "flawed, imperfect, faulty"
+selisedda:selisedda ADJ ; ! "not straight, uneven"
+selle:selle ADJ ; ! "single, one, something which does not appear in pairs"
+sha'a:sha'a ADJ ; ! "thousand"
+sha'utoo:sha'utoo ADJ ; ! "thousand times"
+shaachcha:shaachcha ADJ ; ! "one year old (of crops)"
+shaaga:shaaga ADJ ; ! "considerate, mindful, thoughtful, attentive, respectful"
+shabiriya:shabiriya ADJ ; ! "disturbing, terrorizing"
+shafa:shafa ADJ ; ! "A shafa gunttay metuwa birshshanaw nuna maaddibeenna"
+shafetiya:shafetiya ADJ ; ! "sandy"
+shankkala''a:shankkala''a ADJ ; ! "sunny (after rain)"
+shaqa:shaqa ADJ ; ! "small, least, little, sub"
+shaqaqqa:shaqaqqa ADJ ; ! "gangly, awkwardly tall"
+shedda:shedda ADJ ; ! "clinging, forceful, firm, strong, mighty (grasp)"
+shedeeda:shedeeda ADJ ; ! "obsessive"
+sheephe:sheephe ADJ ; ! "dependant"
+shelleqqa:shelleqqa ADJ ; ! ""
+sheneyiya:sheneyiya ADJ ; ! "nauseating, disgusting"
+shica:shica ADJ ; ! "shiny, chubby, prosperous, lustrous, sleek, oily, healthy looking, refers to having oil or butter (food)"
+shikkaalo:shikkaalo ADJ ; ! "confusing, manipulating, swaying"
+shikkibillo:shikkibillo ADJ ; ! "confusing, manupulating, swaying"
+shirkka:shirkka ADJ ; ! "bow legged"
+shohiina:shohiina ADJ ; ! "overflowing"
+shol''a:shol''a ADJ ; ! "loose, unfastened"
+shola:shola ADJ ; ! "cross-eyed"
+sholloore:sholloore ADJ ; ! "I sholloore asa"
+shololla:shololla ADJ ; ! "dim, faint, dull in colour, not clearly visible"
+sholttiina:sholttiina ADJ ; ! "soft, smooth"
+shombbiina:shombbiina ADJ ; ! "wasteful, profligate, uneconomical, extravagant"
+shoociina:shoociina ADJ ; ! "slow, slow and inefficient"
+shoollo:shoollo ADJ ; ! "half ripe"
+shooriqa:shooriqa ADJ ; ! "soft, smooth (because of water)"
+shooriqiis:shooriqiis ADJ ; ! "be soft, be smooth (because of water)"
+shootigoppa:shootigoppa ADJ ; ! "weak, lazy, sluggish"
+shoppiina:shoppiina ADJ ; ! "overpouring, overflowing"
+shuchcha:shuchcha ADJ ; ! "indifferent, apathetic, unsympathetic"
+shufuro:shufuro ADJ ; ! "trivial, futile, pointless, not important or serious"
+shugo:shugo ADJ ; ! "A nuussi keehi shugo muuziya aattaasu; nu maanaw danddayibookko"
+shulla:shulla ADJ ; ! "wilted, partly dry"
+shumbbuba:shumbbuba ADJ ; ! "lovely"
+shunchchiya:shunchchiya ADJ ; ! "restless"
+shushara:shushara ADJ ; ! "scrawny, undernourished, malnourished, skinny"
+shutiya:shutiya ADJ ; ! "nauseous, disgusting"
+shuule:shuule ADJ ; ! "black (horse color)"
+shuuqqida:shuuqqida ADJ ; ! "shrunken, deflated"
+shuushettida:shuushettida ADJ ; ! "Shuushettida bitanee qumaa woossiis"
+si'a:si'a ADJ ; ! "calm, silent, quiet, cool, inaudible, still, soundless, undisturbed"
+sibile:sibile ADJ ; ! "civilian"
+siiqo:siiqo ADJ ; ! "romantic, quixotic, starry-eyed"
+siise:siise ADJ ; ! "virgin"
+sikko:sikko ADJ ; ! "one-fourth"
+sila:sila ADJ ; ! "crippled, lame, paralyzed"
+sillaa:sillaa ADJ ; ! "unpleasant smell (when something burned)"
+sima:sima ADJ ; ! "vice"
+sitta:sitta ADJ ; ! "straight, vertical, erect"
+sodhdhe:sodhdhe ADJ ; ! "snotty, mucous"
+sorxxoxxa:sorxxoxxa ADJ ; ! "soaking, wet, soggy, waterlogged, sodden"
+sudaato:sudaato ADJ ; ! "trivial, unimportant, small, insignificant, slight, trifling"
+sulkkiina:sulkkiina ADJ ; ! "brittle, easily broken"
+sulumuuma:sulumuuma ADJ ; ! ""
+sumbbuuxa:sumbbuuxa ADJ ; ! "sharp, jagged (of mouth shape)"
+suntta:suntta ADJ ; ! "nominal, so-called, acting or being something in name only, but not in reality"
+sunttiyo:sunttiyo ADJ ; ! "representative"
+suubaala:suubaala ADJ ; ! "old, aged, elderly"
+Suudaane:Suudaane ADJ ; ! "Sudanese"
+suuppa:suuppa ADJ ; ! "tiny, rubble, riff raff, particle, piece"
+suure:suure ADJ ; ! "upright, innocent, well-mannered, correct, exact, right, orderly"
+suuttale:suuttale ADJ ; ! "red (of maize colour)"
+taafaana:taafaana ADJ ; ! "hurried"
+tafasaasa:tafasaasa ADJ ; ! "unable, unable to tell"
+tafitafa:tafitafa ADJ ; ! "stumbling, nervous, speaking incoherently"
+talbbo:talbbo ADJ ; ! "troublesome, riotous"
+talssa:talssa ADJ ; ! "defective, faulty, imperfect, flawed, malfunctioning, corrupt"
+tamaaribeenna:tamaaribeenna ADJ ; ! "illiterate"
+tambbo:tambbo ADJ ; ! "black, sable"
+tarshshettida:tarshshettida ADJ ; ! "broken (trees)"
+tarshshettiya:tarshshettiya ADJ ; ! "detachable"
+tasida:tasida ADJ ; ! "faded, stonewashed, washed out, pale"
+taylitappa:taylitappa ADJ ; ! "inconsistent, inconstant, unfaithful, changeable, fluctuating"
+taylitayla:taylitayla ADJ ; ! "unseen, invisible"
+teeqqiya:teeqqiya ADJ ; ! "queasy"
+teera:teera ADJ ; ! "ripe, yellow (of fruits) which has changed color"
+teeshsho:teeshsho ADJ ; ! "small, wee, little (of size unusually small)"
+telelem''a:telelem''a ADJ ; ! "not obvious"
+telxxa:telxxa ADJ ; ! "splendid, charming, attractive, smart, pretty, lovely"
+telxxexxa:telxxexxa ADJ ; ! "clear, obvious"
+tennejja:tennejja ADJ ; ! "big, great, huge, massive, large, tall, awesome, mammoth, enormous"
+tenqqa:tenqqa ADJ ; ! "right"
+tilla:tilla ADJ ; ! "perfect"
+tillenna:tillenna ADJ ; ! "unhealthy"
+tilshshiina:tilshshiina ADJ ; ! "urinating repeatedly"
+timppa:timppa ADJ ; ! "broad (noise)"
+tinggilaace:tinggilaace ADJ ; ! "trivial, futile, outlaw, not important or serious"
+tipilattiis:tipilattiis ADJ ; ! "be futile"
+tishishsha:tishishsha ADJ ; ! "trivial, frivolous, futile, outlaw, not serious"
+tishsha:tishsha ADJ ; ! "cunning, talented, clever, artful, alert, agile"
+tiya:tiya ADJ ; ! "ripe (immature)"
+toga:toga ADJ ; ! "ridable"
+tolla:tolla ADJ ; ! "steadfast, determined, unwavering"
+tollocca:tollocca ADJ ; ! "Tollocca na'ay asa bolli inxxarssaa kessees"
+tololattiya:tololattiya ADJ ; ! "alight, lighting well"
+tonggiina:tonggiina ADJ ; ! "fragrant"
+tonoqa:tonoqa ADJ ; ! "easy, comfortable, abundant, cheap, plentiful, luxurious"
+toofiina:toofiina ADJ ; ! "talkative, talking over"
+toonno:toonno ADJ ; ! "rotten, decayed, decomposed, disintegrable, putrefactive"
+Toophphiya:Toophphiya ADJ ; ! "Ethiopian"
+torccimarcca:torccimarcca ADJ ; ! "untidy, messy, disorderly, muddled, jumbled, cluttered, chaotic"
+toshshiina:toshshiina ADJ ; ! "not secretive, one who is has a loose tongue"
+toskkiina:toskkiina ADJ ; ! "scatterable, spreadable, distributable"
+tossa:tossa ADJ ; ! "not indigenous, planted"
+tozhzhattiya:tozhzhattiya ADJ ; ! "well-lit, alight"
+tulle:tulle ADJ ; ! "deaf, unable to hear"
+tuma:tuma ADJ ; ! "true, exact, real"
+tumanchcha:tumanchcha ADJ ; ! "truthful, candid"
+tuna:tuna ADJ ; ! "dull, numb"
+tuqa:tuqa ADJ ; ! "big and fat"
+tuutte:tuutte ADJ ; ! "all, the whole"
+tuyyeeba:tuyyeeba ADJ ; ! "penniless, destitute, poor"
+ubba:ubba ADJ ; ! "all"
+ufayssenna:ufayssenna ADJ ; ! "unpleasant"
+ulo:ulo ADJ ; ! "discreet, confidential"
+uma:uma ADJ ; ! "much, many, a lot of, abundant, maximum, immense, innumerable, numerious, large amount (of things)"
+un''o:un''o ADJ ; ! "narrow, tight, thin"
+urqqa:urqqa ADJ ; ! "dirty, filthy, stainable, trashy"
+ushachcha:ushachcha ADJ ; ! ""
+ushshanchcha:ushshanchcha ADJ ; ! "drunken (involving alcohol)"
+uuze:uuze ADJ ; ! "I ba miishshaappe shaakkidi immanaw ixxiya uuze asa"
+waammotiya:waammotiya ADJ ; ! "ruminant, regargitative"
+waanna:waanna ADJ ; ! "chief, important, main"
+waatta:waatta ADJ ; ! "pair"
+waayanchcha:waayanchcha ADJ ; ! "miserable"
+wagagga:wagagga ADJ ; ! "bright, brilliant"
+walaha:walaha ADJ ; ! "mixed, impure"
+walalla:walalla ADJ ; ! "clean, pure, neat, natty"
+waretanchcha:waretanchcha ADJ ; ! "Warettanchcha asaw daro baarigaarati de'oosona"
+washalaala:washalaala ADJ ; ! "pale, unclear, defective"
+wayssiya:wayssiya ADJ ; ! "naughty, troublesome, mischievous, disobedient, difficult, obscure, notorious, awkward, crooked, obstinate, mulish, stubborn"
+wobbe:wobbe ADJ ; ! "lame"
+wocamiya:wocamiya ADJ ; ! "loud, noisy, quarrelsome, troublesome, disorderly, uncooperative,  disruptive, riotous, rebellious"
+wociigga:wociigga ADJ ; ! "cunning, fraudulent, bogus, fraud, bold"
+wociilla:wociilla ADJ ; ! "cunning, fraudulent, bogus, bold"
+wocociis:wocociis ADJ ; ! "finish off"
+wodalla:wodalla ADJ ; ! "young (male)"
+wodhdhiya:wodhdhiya ADJ ; ! "profitable, gainful"
+woga:woga ADJ ; ! "legal"
+wogabala:wogabala ADJ ; ! "faulty, wrong, mistaken, guilty"
+wogga:wogga ADJ ; ! "big, great, huge, massive, large, tall, awesome, mammoth, enormous"
+woggaatiya:woggaatiya ADJ ; ! "larger"
+wogo:wogo ADJ ; ! "respectable, honourable"
+wokkaale:wokkaale ADJ ; ! ""
+wonjjala:wonjjala ADJ ; ! "criminal, violent, shifty, malicious"
+wonjjiboora:wonjjiboora ADJ ; ! "troublesome, disobedient, rebellious, defiant, resistant,  quarrelsome, opposing, violent, moody, furious, bad-tempered, irritable"
+woocetta:woocetta ADJ ; ! "few, small, little"
+wooqa:wooqa ADJ ; ! "rotten, decayed, decomposed, putrefactive"
+woosettiya:woosettiya ADJ ; ! "agreeable, favourable, well-disposed"
+woppa:woppa ADJ ; ! "calm, silent, quiet, cool, inaudible, still, soundless, undisturbed, secure, peaceful"
+worakkaaba:worakkaaba ADJ ; ! "fraudulent, perverse, stubborn, obstinate, naughty, twisted, garbled, behaving badly, not willing to obey"
+worddo:worddo ADJ ; ! "false, wrong, fault"
+woriya:woriya ADJ ; ! "woriya harggiya a deadly disease"
+worqqa:worqqa ADJ ; ! "golden"
+woysee:woysee ADJ ; ! "Dorssaa godaw waagay woysee"
+wozannaama:wozannaama ADJ ; ! "wise, outstanding, understanding, knowledgeable, intelligent, competent, fit, capable, literate, educated"
+wudenna:wudenna ADJ ; ! "negligible"
+wulaato:wulaato ADJ ; ! "fraudulent, perverse, stubborn, obstinate, naughty, twisted, garbled, confusing"
+wunuqa:wunuqa ADJ ; ! "wee, few, small, little, sub"
+xaasayiya:xaasayiya ADJ ; ! "negligent, forgetful, careless"
+xala:xala ADJ ; ! "bold, daring"
+xalahe:xalahe ADJ ; ! "satanic, wicked"
+xalttaama:xalttaama ADJ ; ! "violent, rebellious, quarrelsome, opposing, moody, furious, bad-tempered"
+xamasaasa:xamasaasa ADJ ; ! "slow and inefficient"
+xambbixallo:xambbixallo ADJ ; ! "fraudulent, perverse, stubborn, obstinate, naughty, garbled, confusing, distorted, mangled, jumbled, confused, muddled, corrupted, twisted, misconstrued"
+xanddaqiina:xanddaqiina ADJ ; ! "sticky, thick, viscous, slimy, gummy"
+xanggalla:xanggalla ADJ ; ! "gangly, tall and thin"
+xanttiya:xanttiya ADJ ; ! "mammalian"
+xanttiyagaa:xanttiyagaa ADJ ; ! "mammal"
+xapho:xapho ADJ ; ! "thin, thin-like root of plant"
+xaqaqqa:xaqaqqa ADJ ; ! "spindly, tall and thin"
+xawdala:xawdala ADJ ; ! "huge, massive, big, great, large, tall, awesome"
+xawlle:xawlle ADJ ; ! "wogga xawlle asa a very huge"
+xeekkama:xeekkama ADJ ; ! "disobedient, fractious, defiant, rebellious, quarrelsome, opposing,  violent, moody, furious, bad-tempered, irritable"
+xeerumida:xeerumida ADJ ; ! "weak sighted (of eyes)"
+xettella:xettella ADJ ; ! "stout, fat, chubby, obese, flabby"
+xettemere:xettemere ADJ ; ! "big, large, great, huge, massive, tall, awesome, mammoth, enormous"
+xexxela:xexxela ADJ ; ! "impudent, pert, cheeky, cunning, fraudulent, bogus, bold"
+xiba:xiba ADJ ; ! "disobedient, rebellious, quarrelsome, opposing, violent, fractious, moody, defiant, furious, bad-tempered"
+xibiya:xibiya ADJ ; ! "defiant, disobedient"
+xigginna:xigginna ADJ ; ! "small, wee, few, little, sub"
+xiifa:xiifa ADJ ; ! "firm, unyielding, resolute, determined, daring"
+xiilima:xiilima ADJ ; ! "trivial, frivolous"
+xiire:xiire ADJ ; ! "stark-naked, bare"
+xiixa:xiixa ADJ ; ! "roasted (meat, corn, etc"
+xillo:xillo ADJ ; ! "xillo haattaa clean water"
+xiniqa:xiniqa ADJ ; ! "small, little, vestige"
+xinqqo:xinqqo ADJ ; ! "stinky, smelly"
+xiskka:xiskka ADJ ; ! "sleepy, feeling drowsy and wanting to sleep"
+xogettiya:xogettiya ADJ ; ! "chewable"
+xom''iina:xom''iina ADJ ; ! "slow, weak, lazy, sluggish, inactive, feeble, unfit"
+xombbixombba:xombbixombba ADJ ; ! "irregular, not taking place continuously"
+xon''ixon''a:xon''ixon''a ADJ ; ! "pert, cheeky, impudent"
+xononayiis:xononayiis ADJ ; ! "make sticky, make viscous (of greasy liquid)"
+xontta:xontta ADJ ; ! "heirless, childless"
+xoqa:xoqa ADJ ; ! "high"
+xoqqa:xoqqa ADJ ; ! "high, lofty"
+xorssosa:xorssosa ADJ ; ! "Xorssossa tamaareti paaciyan aadhdhibookkona"
+xoyta:xoyta ADJ ; ! "minute, small, little, minor, vestige"
+xudda:xudda ADJ ; ! "docked, bobbed, cut (an animal whose tail is cut and shortened)"
+xuma:xuma ADJ ; ! "dark, moonless"
+xuntta:xuntta ADJ ; ! "xuntta ogiya narrow road"
+xuuquqattiya:xuuquqattiya ADJ ; ! "growing (a little)"
+xuura:xuura ADJ ; ! "secret, mysterious"
+xuuriyo:xuuriyo ADJ ; ! "Taassi neeppe attin hara xuuriyo laggeti dookkona"
+yaaloole:yaaloole ADJ ; ! "very pleasant (looking)"
+yaare:yaare ADJ ; ! "greedy, selfish"
+yaayyama:yaayyama ADJ ; ! "much, many, a lot of, abundant, maximum, immence, innumerable, numerious, proliferous, present in great quantities"
+yabaca:yabaca ADJ ; ! "shapeless, amorphous, loose-fitting, formless"
+yabiyaba:yabiyaba ADJ ; ! "unsteady, tottering, wobbly, unstable, shaky"
+yalddadda:yalddadda ADJ ; ! "beautiful, handsome, charming, splendid,  attractive, smart, pretty, lovely"
+yallissa:yallissa ADJ ; ! "lovely, splendid, wise, charming, attractive, smart, pretty"
+yam''ara:yam''ara ADJ ; ! ""
+yambbareessa:yambbareessa ADJ ; ! "gigantic, huge, colossal"
+yanqqiyanqqa:yanqqiyanqqa ADJ ; ! "shaky, unsteady, unstable, tottering, wobbly"
+yashshiya:yashshiya ADJ ; ! "appalling, frightful"
+yayyenna:yayyenna ADJ ; ! "courageous, plucky, valorous, audacious, brave, adroit"
+yeellatiya:yeellatiya ADJ ; ! "ashamed, feeling shame"
+yelaga:yelaga ADJ ; ! "young"
+yelemeema:yelemeema ADJ ; ! "tasteless"
+yibbaata:yibbaata ADJ ; ! "hopeless"
+yiicotiya:yiicotiya ADJ ; ! "dizzy, unsteady"
+yiicoyiya:yiicoyiya ADJ ; ! "dizzying"
+yiillottida:yiillottida ADJ ; ! "angry, indignant"
+yiilloyiya:yiilloyiya ADJ ; ! "offensive, unpleasant, provocative"
+yiira:yiira ADJ ; ! ""
+yimma:yimma ADJ ; ! "callow, gullible, ignorant, illiterate, foolish, silly, dull, unintelligent, nonunderstanding, imprudent, thoughtless, irrational, stupid, rash, reckless"
+yishkka:yishkka ADJ ; ! "shrewd, sly, cunning, wily, alert, agile"
+yitiitte:yitiitte ADJ ; ! "short and fat (person)"
+yololla:yololla ADJ ; ! "perfect"
+yolomooma:yolomooma ADJ ; ! "imperfect, unsatisfactory, immature"
+yolttiina:yolttiina ADJ ; ! "soft (of food)"
+yonttiina:yonttiina ADJ ; ! ""
+yooqiina:yooqiina ADJ ; ! "wishful, desirous"
+yooqolo:yooqolo ADJ ; ! "foolish, silly, irrational, stupid, rash, reckless, careless"
+yooshsha:yooshsha ADJ ; ! "Ashangguliitee guutta shin yooshsha"
+yootettiya:yootettiya ADJ ; ! "quarrelsome, troublesome, disorderly, disruptive, riotous, rebellious"
+yora:yora ADJ ; ! "I ay asanne maaddenna yora bitane"
+yoranchcha:yoranchcha ADJ ; ! "greedy, gluttonous, mean, big eater"
+yukukka:yukukka ADJ ; ! "short and fat"
+yummanna:yummanna ADJ ; ! "Yimma asi sohuwara cimmeti aggees"
+yuuba:yuuba ADJ ; ! "curved, bent, crooked"
+yuushshanchcha:yuushshanchcha ADJ ; ! "wandering"
+za'o:za'o ADJ ; ! "cracked"
+zammaana:zammaana ADJ ; ! "modern, up-to-date"
+zamuqa:zamuqa ADJ ; ! "foolish, silly, careless, irrational, stupid, rash, reckless"
+zardda'a:zardda'a ADJ ; ! "distant, farther, far"
+zayro:zayro ADJ ; ! "skinny, thin, little, some, small"
+zeekeele:zeekeele ADJ ; ! "huge, large"
+zerkkeka:zerkkeka ADJ ; ! ""
+zi''a:zi''a ADJ ; ! "mature, big, large, great, huge, massive, tall, awesome"
+ziba:ziba ADJ ; ! "cunning, wise, alert, agile"
+zililiina:zililiina ADJ ; ! "weak, feeble, weary"
+ziqqa:ziqqa ADJ ; ! "low, inferior, small amount"
+zirxxa:zirxxa ADJ ; ! "alert, agile, sly, cunning, wily"
+zo'o:zo'o ADJ ; ! "red, scarlet, reddish"
+zolddo:zolddo ADJ ; ! "oval, spherical, spiral"
+zolppiina:zolppiina ADJ ; ! "lazy, shiftless"
+zooqiina:zooqiina ADJ ; ! "sluggish, lazily walking"
+zorqqoqqa:zorqqoqqa ADJ ; ! "gracelessly tall"
+zozza:zozza ADJ ; ! "dogmatic, opinionated, arrogant, rigid"
+zuppetiya:zuppetiya ADJ ; ! "allied"
+zuyra:zuyra ADJ ; ! "Zuyrabaa hanikko, asi karanaagee attenna"
+phankkula:phankkula ADJ ;
+xaamoochche:xaamoochche ADJ ;
+xoxolo:xoxolo ADJ ;
+wogga:wogga ADJ ;
+gita:gita ADJ ;
+xawlle:xawlle ADJ ;
+bambballooma:bambballooma ADJ ;
+gagate:gagate ADJ ;
+gagisa:gagisa ADJ ;
+maagula:maagula ADJ ;
+axxo:axxo ADJ ;
+axuma:axuma ADJ ;
+dada:dada ADJ ;
+zeekeele:zeekeele ADJ ;
+xeere:xeere ADJ ;
+xeeppula:xeeppula ADJ ;
+xeeppo:xeeppo ADJ ;
+anuufa:anuufa ADJ ;
+anuca:anuca ADJ ;
+xaane:xaane ADJ ;
+xawdala:xawdala ADJ ;
+manne:manne ADJ ;
+geere:geere ADJ ;
+gaareppa:gaareppa ADJ ;
+xekese:xekese ADJ ;
+xoyllo:xoyllo ADJ ;
+tennejja:tennejja ADJ ;
+yaakula:yaakula ADJ ;
+baa'ula:baa'ula ADJ ;
+xettemere:xettemere ADJ ;
+yam''araara:yam''araara ADJ ;
+lakkeessa:lakkeessa ADJ ;
+axuure:axuure ADJ ;
+panxxiisa:panxxiisa ADJ ;
+xankkula:xankkula ADJ ;
+teebuxa:teebuxa ADJ ;
+gaga:gaga ADJ ;
+yambbulla:yambbulla ADJ ;
+bobboxaama:bobboxaama ADJ ;
+ananoote:ananoote ADJ ;
+baadoochche:baadoochche ADJ ;
+dawlla:dawlla ADJ ;
+sawlla:sawlla ADJ ;
+ga'usha:ga'usha ADJ ;
+gageella:gageella ADJ ;
+abuulla:abuulla ADJ ;
+yambbareessa:yambbareessa ADJ ;
+anuuca:anuuca ADJ ;
+banne:banne ADJ ;
+gachchaama:gachchaama ADJ ;
+moydore:moydore ADJ ;
+tuqa:tuqa ADJ ;
+xul''eebba:xul''eebba ADJ ;
+ban''a:ban''a ADJ ;
+biittaa:biittaa ADJ ;
+goggiya:goggiya ADJ ;
+iita:iita ADJ ;
+meqetti:meqetti ADJ ;
+baynna:baynna ADJ ;
+suutti:suutti ADJ ;
+pala:pala ADJ ;
+aggaaga:aggaaga ADJ ;
+meqettaa:meqettaa ADJ ;
+bodoojje:bodoojje ADJ ;
+aja:aja ADJ ;
+oso:oso ADJ ;
+ajaajje:ajaajje ADJ ;
+hanccaama:hanccaama ADJ ;
+maracciya:maracciya ADJ ;
+worddo:worddo ADJ ;
+wozanaa:wozanaa ADJ ;
+shuchcha:shuchcha ADJ ;
+godare:godare ADJ ;
+hanttaara:hanttaara ADJ ;
+yedhdhenna:yedhdhenna ADJ ;
+ho''o:ho''o ADJ ;
+axiraaro:axiraaro ADJ ;
+kafaafo:kafaafo ADJ ;
+meexxiya:meexxiya ADJ ;
+alliqaro:alliqaro ADJ ;
+ayyiya:ayyiya ADJ ;
+seesanchcha:seesanchcha ADJ ;
+mindda:mindda ADJ ;
+mirxxixxa:mirxxixxa ADJ ;
+kififfa:kififfa ADJ ;
+xiririina:xiririina ADJ ;
+xiruwa:xiruwa ADJ ;
+cooyiya:cooyiya ADJ ;
+miiqimiiqa:miiqimiiqa ADJ ;
+meexxariya:meexxariya ADJ ;
+tiicitiica:tiicitiica ADJ ;
+waaqiwaaqa:waaqiwaaqa ADJ ;
+borsso:borsso ADJ ;
+bala:bala ADJ ;
+mooro:mooro ADJ ;
+pokko:pokko ADJ ;
+boqoso:boqoso ADJ ;
+bullaala:bullaala ADJ ;
+booddila:booddila ADJ ;
+bunuquuqa:bunuquuqa ADJ ;
+muuruqa:muuruqa ADJ ;
+minggilica:minggilica ADJ ;
+tiniqiiqa:tiniqiiqa ADJ ;
+carqqa:carqqa ADJ ;
+masudhdha:masudhdha ADJ ;
+maadhdho:maadhdho ADJ ;
+curqquuqa:curqquuqa ADJ ;
+burttakeeno:burttakeeno ADJ ;
+unggaa'unggo:unggaa'unggo ADJ ;
+shushara:shushara ADJ ;
+burcce:burcce ADJ ;
+suuppa:suuppa ADJ ;
+ufuuppune:ufuuppune ADJ ;
+caddiya:caddiya ADJ ;
+xoggiya:xoggiya ADJ ;
+biz''iya:biz''iya ADJ ;
+pinccaama:pinccaama ADJ ;
+ziimmiya:ziimmiya ADJ ;
+zeelummiya:zeelummiya ADJ ;
+cocila:cocila ADJ ;
+dum''a:dum''a ADJ ;
+dulkka:dulkka ADJ ;
+karetta:karetta ADJ ;
+tambbo:tambbo ADJ ;
+cachcho:cachcho ADJ ;
+bashino:bashino ADJ ;
+daafiya:daafiya ADJ ;
+xayso:xayso ADJ ;
+bashsha:bashsha ADJ ;
+dontta:dontta ADJ ;
+mogola:mogola ADJ ;
+daljja:daljja ADJ ;
+xamaskka:xamaskka ADJ ;
+xam''a:xam''a ADJ ;
+sholttofa:sholttofa ADJ ;
+sholociina:sholociina ADJ ;
+goosheta:goosheta ADJ ;
+gooliina:gooliina ADJ ;
+zom''iina:zom''iina ADJ ;
+xorssosa:xorssosa ADJ ;
+goshooppolo:goshooppolo ADJ ;
+xom''iina:xom''iina ADJ ;
+zoppiina:zoppiina ADJ ;
+zooqiina:zooqiina ADJ ;
+shoociina:shoociina ADJ ;
+xim''a:xim''a ADJ ;
+xamasaasa:xamasaasa ADJ ;
+goppiina:goppiina ADJ ;
+xam''ashe:xam''ashe ADJ ;
+gelppiina:gelppiina ADJ ;
+shootigoppa:shootigoppa ADJ ;
+yokokka:yokokka ADJ ;
+akaliina:akaliina ADJ ;
+shorriina:shorriina ADJ ;
+golccocca:golccocca ADJ ;
+akashaasha:akashaasha ADJ ;
+gophphiina:gophphiina ADJ ;
+goshoshsha:goshoshsha ADJ ;
+yakakka:yakakka ADJ ;
+gulugucca:gulugucca ADJ ;
+akaraara:akaraara ADJ ;
+karzza:karzza ADJ ;
+jalla:jalla ADJ ;
+onkkolo:onkkolo ADJ ;
+oonno:oonno ADJ ;
+onkkokka:onkkokka ADJ ;
+eeyya:eeyya ADJ ;
+qalaca:qalaca ADJ ;
+wozani:wozani ADJ ;
+damma:damma ADJ ;
+olomo:olomo ADJ ;
+yimma:yimma ADJ ;
+yonkke:yonkke ADJ ;
+yummanna:yummanna ADJ ;
+dokome:dokome ADJ ;
+gonkka:gonkka ADJ ;
+jawla:jawla ADJ ;
+hariitte:hariitte ADJ ;
+yooqolo:yooqolo ADJ ;
+dorssa:dorssa ADJ ;
+miizza:miizza ADJ ;
+zamuqa:zamuqa ADJ ;
+zolppiina:zolppiina ADJ ;
+okka:okka ADJ ;
+zammo:zammo ADJ ;
+dallamma:dallamma ADJ ;
+haw'a:haw'a ADJ ;
+moome:moome ADJ ;
+nappa:nappa ADJ ;
+shugo:shugo ADJ ;
+qawca:qawca ADJ ;
+duudane:duudane ADJ ;
+aynne:aynne ADJ ;
+erenna:erenna ADJ ;
+aykko:aykko ADJ ;
+duusha:duusha ADJ ;
+tuna:tuna ADJ ;
+doldda:doldda ADJ ;
+doyna:doyna ADJ ;
+musha:musha ADJ ;
+dollozo:dollozo ADJ ;
+lumma:lumma ADJ ;
+goloodo:goloodo ADJ ;
+mudda:mudda ADJ ;
+duddumushe:duddumushe ADJ ;
+ducana:ducana ADJ ;
+enccula:enccula ADJ ;
+woyca:woyca ADJ ;
+wociigga:wociigga ADJ ;
+beceeccula:beceeccula ADJ ;
+gayca:gayca ADJ ;
+gayra:gayra ADJ ;
+meeluula:meeluula ADJ ;
+elcco:elcco ADJ ;
+diljjo:diljjo ADJ ;
+wociilla:wociilla ADJ ;
+oca:oca ADJ ;
+xexxela:xexxela ADJ ;
+mellejja:mellejja ADJ ;
+shillaajje:shillaajje ADJ ;
+xiixala:xiixala ADJ ;
+jeere:jeere ADJ ;
+xiixaawa:xiixaawa ADJ ;
+millijja:millijja ADJ ;
+dijjaala:dijjaala ADJ ;
+milli'a:milli'a ADJ ;
+gadabule:gadabule ADJ ;
+wolqqaama:wolqqaama ADJ ;
+garddaawa:garddaawa ADJ ;
+anggaawa:anggaawa ADJ ;
+galal''o:galal''o ADJ ;
+adil''e:adil''e ADJ ;
+ciishsha:ciishsha ADJ ;
+gawlla:gawlla ADJ ;
+uuze:uuze ADJ ;
+qiiqa:qiiqa ADJ ;
+habadiina:habadiina ADJ ;
+yora:yora ADJ ;
+yiiqetiya:yiiqetiya ADJ ;
+gawda:gawda ADJ ;
+gaphigapha:gaphigapha ADJ ;
+gagaama:gagaama ADJ ;
+gadulla:gadulla ADJ ;
+qaatta:qaatta ADJ ;
+yaare:yaare ADJ ;
+qaxiqaxa:qaxiqaxa ADJ ;
+hallama:hallama ADJ ;
+qarccamma:qarccamma ADJ ;
+qinaaca:qinaaca ADJ ;
+qaaxxiya:qaaxxiya ADJ ;
+qaphiqapha:qaphiqapha ADJ ;
+geeruuca:geeruuca ADJ ;
+lo''enna:lo''enna ADJ ;
+kinkkima:kinkkima ADJ ;
+kinkkirisha:kinkkirisha ADJ ;
+gececca:gececca ADJ ;
+kibiixa:kibiixa ADJ ;
+bonddooshe:bonddooshe ADJ ;
+kempperesha:kempperesha ADJ ;
+meri:meri ADJ ;
+gidaawa:gidaawa ADJ ;
+miishshaawa:miishshaawa ADJ ;
+dure:dure ADJ ;
+mehiyawa:mehiyawa ADJ ;
+mannanna:mannanna ADJ ;
+na''e:na''e ADJ ;
+shica:shica ADJ ;
+gida:gida ADJ ;
+moollana:moollana ADJ ;
+giiliina:giiliina ADJ ;
+hargganchcha:hargganchcha ADJ ;
+sahanchcha:sahanchcha ADJ ;
+gashetiya:gashetiya ADJ ;
+murxxa:murxxa ADJ ;
+sila:sila ADJ ;
+gooxa:gooxa ADJ ;
+payyenna:payyenna ADJ ;
+uutta:uutta ADJ ;
+cammiya:cammiya ADJ ;
+guyte:guyte ADJ ;
+cora:cora ADJ ;
+zawi:zawi ADJ ;
+shaynna:shaynna ADJ ;
+kenchcho:kenchcho ADJ ;
+dere:dere ADJ ;
+qoodi:qoodi ADJ ;
+wurssenna:wurssenna ADJ ;
+shittina:shittina ADJ ;
+unddenna:unddenna ADJ ;
+uulla:uulla ADJ ;
+daro:daro ADJ ;
+besa:besa ADJ ;
+yaayyama:yaayyama ADJ ;
+guufe:guufe ADJ ;
+likke:likke ADJ ;
+dibe:dibe ADJ ;
+innaaboote:innaaboote ADJ ;
+uma:uma ADJ ;
+maate:maate ADJ ;
+guuxxana:guuxxana ADJ ;
+geenna:geenna ADJ ;
+kotte:kotte ADJ ;
+hanenna:hanenna ADJ ;
+danddayettenna:danddayettenna ADJ ;
+haniya:haniya ADJ ;
+danddayettiya:danddayettiya ADJ ;
+bol''o:bol''o ADJ ;
+dombbolo''a:dombbolo''a ADJ ;
+qumppiqumppa:qumppiqumppa ADJ ;
+hollolaawa:hollolaawa ADJ ;
+hiyyeesa:hiyyeesa ADJ ;
+manqqo:manqqo ADJ ;
+tuyyeeba:tuyyeeba ADJ ;
+hurppa:hurppa ADJ ;
+oppoodo:oppoodo ADJ ;
+putteesa:putteesa ADJ ;
+holssiina:holssiina ADJ ;
+yeekkiya:yeekkiya ADJ ;
+horppa:horppa ADJ ;
+yuuqiyuuqa:yuuqiyuuqa ADJ ;
+yashshanchcha:yashshanchcha ADJ ;
+hoppihoppa:hoppihoppa ADJ ;
+tafitafa:tafitafa ADJ ;
+horppiina:horppiina ADJ ;
+horra:horra ADJ ;
+hodhdhihodhdha:hodhdhihodhdha ADJ ;
+iiliina:iiliina ADJ ;
+tiiriina:tiiriina ADJ ;
+toyliina:toyliina ADJ ;
+tappa:tappa ADJ ;
+qeeqqaalo:qeeqqaalo ADJ ;
+qom''ola:qom''ola ADJ ;
+gaytaliina:gaytaliina ADJ ;
+ishshoyiyo:ishshoyiyo ADJ ;
+sheebbala:sheebbala ADJ ;
+sholloore:sholloore ADJ ;
+cimo:cimo ADJ ;
+mulumucca:mulumucca ADJ ;
+leelleeso:leelleeso ADJ ;
+luguna:luguna ADJ ;
+cimmiya:cimmiya ADJ ;
+balettiya:balettiya ADJ ;
+balibakkiya:balibakkiya ADJ ;
+leebbaashe:leebbaashe ADJ ;
+leelamushe:leelamushe ADJ ;
+qooreppe:qooreppe ADJ ;
+gommo:gommo ADJ ;
+jarijara:jarijara ADJ ;
+gajigaja:gajigaja ADJ ;
+yaaqiyaaqa:yaaqiyaaqa ADJ ;
+yanqqiyanqqa:yanqqiyanqqa ADJ ;
+yabiyaba:yabiyaba ADJ ;
+yaanne:yaanne ADJ ;
+haanne:haanne ADJ ;
+giya:giya ADJ ;
+qol''iqol''a:qol''iqol''a ADJ ;
+jiirijiira:jiirijiira ADJ ;
+tamaa:tamaa ADJ ;
+dancciya:dancciya ADJ ;
+dirbbiya:dirbbiya ADJ ;
+eexxiya:eexxiya ADJ ;
+boge:boge ADJ ;
+eeso:eeso ADJ ;
+kiirimmiya:kiirimmiya ADJ ;
+dirbba:dirbba ADJ ;
+kitikitiya:kitikitiya ADJ ;
+kuyrikuyra:kuyrikuyra ADJ ;
+looxilooxa:looxilooxa ADJ ;
+tippitippa:tippitippa ADJ ;
+biixibiixa:biixibiixa ADJ ;
+biiribiira:biiribiira ADJ ;
+jabbijabba:jabbijabba ADJ ;
+meeximeexa:meeximeexa ADJ ;
+jabijaba:jabijaba ADJ ;
+hatattaama:hatattaama ADJ ;
+eesotiya:eesotiya ADJ ;
+joora:joora ADJ ;
+tololattiya:tololattiya ADJ ;
+pol''attiya:pol''attiya ADJ ;
+tozhzhattiya:tozhzhattiya ADJ ;
+poo'o:poo'o ADJ ;
+booja:booja ADJ ;
+mijjrssa:mijjrssa ADJ ;
+pozhzhiina:pozhzhiina ADJ ;
+kalaade:kalaade ADJ ;
+allaatte:allaatte ADJ ;
+gazza:gazza ADJ ;
+punccare:punccare ADJ ;
+kalissenna:kalissenna ADJ ;
+alenna:alenna ADJ ;
+kana:kana ADJ ;
+tollocca:tollocca ADJ ;
+dolliwaaqa:dolliwaaqa ADJ ;
+shori:shori ADJ ;
+baalige:baalige ADJ ;
+masqqalaala:masqqalaala ADJ ;
+bolooce:bolooce ADJ ;
+seeri:seeri ADJ ;
+waalla:waalla ADJ ;
+shaaramuxa:shaaramuxa ADJ ;
+doddoqa:doddoqa ADJ ;
+kawshsha:kawshsha ADJ ;
+tumbbaatulle:tumbbaatulle ADJ ;
+meega:meega ADJ ;
+biitta:biitta ADJ ;
+hirayso:hirayso ADJ ;
+kayyottiya:kayyottiya ADJ ;
+azzaniya:azzaniya ADJ ;
+kichichcha:kichichcha ADJ ;
+kinkkilla:kinkkilla ADJ ;
+kimbbilla:kimbbilla ADJ ;
+kachachcha:kachachcha ADJ ;
+kakakka:kakakka ADJ ;
+korchchochcha:korchchochcha ADJ ;
+kebeela:kebeela ADJ ;
+kenchchechcha:kenchchechcha ADJ ;
+kejejja:kejejja ADJ ;
+kinchchiriira:kinchchiriira ADJ ;
+kikikka:kikikka ADJ ;
+kanssa:kanssa ADJ ;
+mela:mela ADJ ;
+xiigga:xiigga ADJ ;
+kekekka:kekekka ADJ ;
+koba:koba ADJ ;
+ooshshanchcha:ooshshanchcha ADJ ;
+wocamiya:wocamiya ADJ ;
+cabbo:cabbo ADJ ;
+yootettiya:yootettiya ADJ ;
+yo'anchcha:yo'anchcha ADJ ;
+wonjjala:wonjjala ADJ ;
+dano:dano ADJ ;
+kobanchcha:kobanchcha ADJ ;
+daba:daba ADJ ;
+koollo:koollo ADJ ;
+doonaama:doonaama ADJ ;
+doonanchcha:doonanchcha ADJ ;
+carbbiina:carbbiina ADJ ;
+tama:tama ADJ ;
+doona:doona ADJ ;
+haasayanchcha:haasayanchcha ADJ ;
+shombbiina:shombbiina ADJ ;
+carbbabba:carbbabba ADJ ;
+loolla:loolla ADJ ;
+lodooddiso:lodooddiso ADJ ;
+corddodiina:corddodiina ADJ ;
+midiida:midiida ADJ ;
+nazziina:nazziina ADJ ;
+cozhzhiina:cozhzhiina ADJ ;
+kokokka:kokokka ADJ ;
+kofa:kofa ADJ ;
+koppintte:koppintte ADJ ;
+monddole:monddole ADJ ;
+pollo:pollo ADJ ;
+koyettiya:koyettiya ADJ ;
+koshshiya:koshshiya ADJ ;
+bessiya:bessiya ADJ ;
+kul''a:kul''a ADJ ;
+yallissa:yallissa ADJ ;
+sannacca:sannacca ADJ ;
+xalbbuqa:xalbbuqa ADJ ;
+ordde:ordde ADJ ;
+xettella:xettella ADJ ;
+modhdho:modhdho ADJ ;
+tuuna:tuuna ADJ ;
+tuuxa:tuuxa ADJ ;
+mon''ara:mon''ara ADJ ;
+tuca:tuca ADJ ;
+xuxuluchcha:xuxuluchcha ADJ ;
+qunqquma:qunqquma ADJ ;
+anqqara:anqqara ADJ ;
+burkkukka:burkkukka ADJ ;
+tembbereera:tembbereera ADJ ;
+tembbereqa:tembbereqa ADJ ;
+xundduqin:xundduqin ADJ ;
+suuxxiya:suuxxiya ADJ ;
+phixiniina:phixiniina ADJ ;
+dubba:dubba ADJ ;
+dalbba:dalbba ADJ ;
+tooxiina:tooxiina ADJ ;
+toonne:toonne ADJ ;
+puxuruura:puxuruura ADJ ;
+han''ura:han''ura ADJ ;
+xooddo:xooddo ADJ ;
+tolsso:tolsso ADJ ;
+paruka:paruka ADJ ;
+yilttitta:yilttitta ADJ ;
+kulkka:kulkka ADJ ;
+waanna:waanna ADJ ;
+baaso:baaso ADJ ;
+kane:kane ADJ ;
+kuushsha:kuushsha ADJ ;
+kusussa:kusussa ADJ ;
+hitida:hitida ADJ ;
+kusuraawa:kusuraawa ADJ ;
+kusa:kusa ADJ ;
+hiisila:hiisila ADJ ;
+hurqqa:hurqqa ADJ ;
+xiisa:xiisa ADJ ;
+asha:asha ADJ ;
+irxxa:irxxa ADJ ;
+lefa:lefa ADJ ;
+pisissa:pisissa ADJ ;
+juyla:juyla ADJ ;
+humppa:humppa ADJ ;
+kuysa:kuysa ADJ ;
+qeeranchcho:qeeranchcho ADJ ;
+qoriso:qoriso ADJ ;
+zuyra:zuyra ADJ ;
+muyra:muyra ADJ ;
+qaphala:qaphala ADJ ;
+qaphaliina:qaphaliina ADJ ;
+qiphila:qiphila ADJ ;
+qiphiqipha:qiphiqipha ADJ ;
+qirnnaaca:qirnnaaca ADJ ;
+gufana:gufana ADJ ;
+gufantta:gufantta ADJ ;
+shufuro:shufuro ADJ ;
+quyxa:quyxa ADJ ;
+tafala:tafala ADJ ;
+muduuso:muduuso ADJ ;
+wulluguxa:wulluguxa ADJ ;
+pattenna:pattenna ADJ ;
+laafa:laafa ADJ ;
+tishshenna:tishshenna ADJ ;
+guutta:guutta ADJ ;
+tishishsha:tishishsha ADJ ;
+tifila:tifila ADJ ;
+tippa:tippa ADJ ;
+tuyra:tuyra ADJ ;
+wuluwucca:wuluwucca ADJ ;
+xiiliina:xiiliina ADJ ;
+zayro:zayro ADJ ;
+kafikafa:kafikafa ADJ ;
+quphiqupha:quphiqupha ADJ ;
+kushushsha:kushushsha ADJ ;
+pokkoy:pokkoy ADJ ;
+guxunaatta:guxunaatta ADJ ;
+wuyra:wuyra ADJ ;
+lushushsha:lushushsha ADJ ;
+piiro:piiro ADJ ;
+qilica:qilica ADJ ;
+shafa:shafa ADJ ;
+goolixa:goolixa ADJ ;
+maxibuuso:maxibuuso ADJ ;
+maaddenna:maaddenna ADJ ;
+tuysa:tuysa ADJ ;
+luyda:luyda ADJ ;
+xiilima:xiilima ADJ ;
+godola:godola ADJ ;
+atatuyso:atatuyso ADJ ;
+allaallee:allaallee ADJ ;
+kushe:kushe ADJ ;
+kessenna:kessenna ADJ ;
+haatta:haatta ADJ ;
+pinttenna:pinttenna ADJ ;
+doomida:doomida ADJ ;
+buruxo:buruxo ADJ ;
+cirdhdhiina:cirdhdhiina ADJ ;
+ejeleela:ejeleela ADJ ;
+hinkkimankko:hinkkimankko ADJ ;
+manttishoola:manttishoola ADJ ;
+puyna:puyna ADJ ;
+go''enna:go''enna ADJ ;
+qolcciina:qolcciina ADJ ;
+gushama:gushama ADJ ;
+sudaato:sudaato ADJ ;
+sukunaano:sukunaano ADJ ;
+libica:libica ADJ ;
+yeelli:yeelli ADJ ;
+laalettiya:laalettiya ADJ ;
+hususiina:hususiina ADJ ;
+piskkiina:piskkiina ADJ ;
+tiskkiina:tiskkiina ADJ ;
+possiina:possiina ADJ ;
+toskkiina:toskkiina ADJ ;
+lago:lago ADJ ;
+ixettiya:ixettiya ADJ ;
+loo'iloo'a:loo'iloo'a ADJ ;
+xon''ixon''a:xon''ixon''a ADJ ;
+laa'anttiya:laa'anttiya ADJ ;
+min''imin''a:min''imin''a ADJ ;
+loophphaase:loophphaase ADJ ;
+adussa:adussa ADJ ;
+zolonggo:zolonggo ADJ ;
+lookiina:lookiina ADJ ;
+zonniina:zonniina ADJ ;
+looppo:looppo ADJ ;
+laphphiina:laphphiina ADJ ;
+looxiga:looxiga ADJ ;
+sholttiina:sholttiina ADJ ;
+shooriqa:shooriqa ADJ ;
+lumbbiina:lumbbiina ADJ ;
+walli:walli ADJ ;
+lophphiina:lophphiina ADJ ;
+yolttiina:yolttiina ADJ ;
+loqoqqa:loqoqqa ADJ ;
+qalla:qalla ADJ ;
+gilqqa:gilqqa ADJ ;
+lee'e:lee'e ADJ ;
+qaphetta:qaphetta ADJ ;
+qawxanna:qawxanna ADJ ;
+qonqqolla:qonqqolla ADJ ;
+kabba:kabba ADJ ;
+konkkolla:konkkolla ADJ ;
+lonqqoqa:lonqqoqa ADJ ;
+gashaada:gashaada ADJ ;
+labbana:labbana ADJ ;
+taylitayla:taylitayla ADJ ;
+quylaala:quylaala ADJ ;
+qalla'a:qalla'a ADJ ;
+xarqqaqa:xarqqaqa ADJ ;
+xorqqolla:xorqqolla ADJ ;
+linqqilinqqa:linqqilinqqa ADJ ;
+xaqaqqa:xaqaqqa ADJ ;
+quruxa:quruxa ADJ ;
+lunqqilunqqa:lunqqilunqqa ADJ ;
+malddadda:malddadda ADJ ;
+puula:puula ADJ ;
+malanchcha:malanchcha ADJ ;
+meranchcha:meranchcha ADJ ;
+jannanna:jannanna ADJ ;
+salddida:salddida ADJ ;
+diidimaxe:diidimaxe ADJ ;
+qonxxoloola:qonxxoloola ADJ ;
+puulanchcha:puulanchcha ADJ ;
+meray:meray ADJ ;
+lo''o:lo''o ADJ ;
+walanqqasa:walanqqasa ADJ ;
+yooshsha:yooshsha ADJ ;
+qara:qara ADJ ;
+yalalla:yalalla ADJ ;
+yalamuse:yalamuse ADJ ;
+hajibala:hajibala ADJ ;
+yalddadda:yalddadda ADJ ;
+malssassa:malssassa ADJ ;
+motoloola:motoloola ADJ ;
+gamashaasha:gamashaasha ADJ ;
+lasassa:lasassa ADJ ;
+lososiina:lososiina ADJ ;
+qarariisawa:qarariisawa ADJ ;
+telxxa:telxxa ADJ ;
+metenna:metenna ADJ ;
+kaassa:kaassa ADJ ;
+molle:molle ADJ ;
+borxxoxxa:borxxoxxa ADJ ;
+mu'a:mu'a ADJ ;
+urqqa:urqqa ADJ ;
+qita:qita ADJ ;
+kinssa:kinssa ADJ ;
+bunssuqa:bunssuqa ADJ ;
+geeyyenna:geeyyenna ADJ ;
+bulqqo:bulqqo ADJ ;
+orcco:orcco ADJ ;
+yolomooma:yolomooma ADJ ;
+maalla:maalla ADJ ;
+shari:shari ADJ ;
+shara:shara ADJ ;
+na'i:na'i ADJ ;
+attidooro:attidooro ADJ ;
+shahaara:shahaara ADJ ;
+abbe:abbe ADJ ;
+ixeta:ixeta ADJ ;
+wodee:wodee ADJ ;
+wuridooro:wuridooro ADJ ;
+kunttiya:kunttiya ADJ ;
+naa''u:naa''u ADJ ;
+dakko:dakko ADJ ;
+nohiina:nohiina ADJ ;
+gawhiina:gawhiina ADJ ;
+tulliina:tulliina ADJ ;
+oosoy:oosoy ADJ ;
+ooso:ooso ADJ ;
+xayida:xayida ADJ ;
+oyssa:oyssa ADJ ;
+hira:hira ADJ ;
+injje:injje ADJ ;
+ishalo:ishalo ADJ ;
+baalo:baalo ADJ ;
+munaasa:munaasa ADJ ;
+danaqa:danaqa ADJ ;
+ushachcha:ushachcha ADJ ;
+worqqa:worqqa ADJ ;
+canna:canna ADJ ;
+tonoqa:tonoqa ADJ ;
+irkko:irkko ADJ ;
+sarqqa:sarqqa ADJ ;
+banqqa:banqqa ADJ ;
+phalqqiya:phalqqiya ADJ ;
+dummayiya:dummayiya ADJ ;
+pilaata:pilaata ADJ ;
+payya:payya ADJ ;
+tilla:tilla ADJ ;
+poocammiya:poocammiya ADJ ;
+ufayttiya:ufayttiya ADJ ;
+moociina:moociina ADJ ;
+hombbociya:hombbociya ADJ ;
+poociina:poociina ADJ ;
+qaaciya:qaaciya ADJ ;
+borchchiborchcha:borchchiborchcha ADJ ;
+gaggara:gaggara ADJ ;
+gelikessa:gelikessa ADJ ;
+qalxxaxxa:qalxxaxxa ADJ ;
+qulxxuxxa:qulxxuxxa ADJ ;
+geeshsha:geeshsha ADJ ;
+walalla:walalla ADJ ;
+wululla:wululla ADJ ;
+mojira:mojira ADJ ;
+qaja:qaja ADJ ;
+xillo:xillo ADJ ;
+hulssussa:hulssussa ADJ ;
+mulxxuxxa:mulxxuxxa ADJ ;
+qiljjijja:qiljjijja ADJ ;
+hummunna:hummunna ADJ ;
+hurchchuchcha:hurchchuchcha ADJ ;
+muruta:muruta ADJ ;
+mululla:mululla ADJ ;
+qanaate:qanaate ADJ ;
+miqqaynne:miqqaynne ADJ ;
+qaxuwato:qaxuwato ADJ ;
+kaxo:kaxo ADJ ;
+qinjjilla:qinjjilla ADJ ;
+binjjilla:binjjilla ADJ ;
+jinjjilla:jinjjilla ADJ ;
+zozza:zozza ADJ ;
+gajajja:gajajja ADJ ;
+qijjilla:qijjilla ADJ ;
+qofi:qofi ADJ ;
+kehatetti:kehatetti ADJ ;
+salkkakka:salkkakka ADJ ;
+salalla:salalla ADJ ;
+salddadda:salddadda ADJ ;
+yololla:yololla ADJ ;
+sibba:sibba ADJ ;
+salo:salo ADJ ;
+gufantto:gufantto ADJ ;
+sa'aa:sa'aa ADJ ;
+sa'a:sa'a ADJ ;
+miccettaa:miccettaa ADJ ;
+xeera:xeera ADJ ;
+al''o:al''o ADJ ;
+gatti:gatti ADJ ;
+oyttenna:oyttenna ADJ ;
+toora:toora ADJ ;
+maahe:maahe ADJ ;
+moore:moore ADJ ;
+seelliya:seelliya ADJ ;
+loshshiina:loshshiina ADJ ;
+seexiseexa:seexiseexa ADJ ;
+binjjibinjja:binjjibinjja ADJ ;
+senkko:senkko ADJ ;
+selembbo:selembbo ADJ ;
+boroshsha:boroshsha ADJ ;
+shalppappa:shalppappa ADJ ;
+sholkkokka:sholkkokka ADJ ;
+salppappa:salppappa ADJ ;
+sheekka:sheekka ADJ ;
+shedeeda:shedeeda ADJ ;
+shenqqa:shenqqa ADJ ;
+qunqqa:qunqqa ADJ ;
+siiphuwa:siiphuwa ADJ ;
+teqqiya:teqqiya ADJ ;
+xaamoochche:xaamoochche ADJ ;
+xoxolo:xoxolo ADJ ;
+wogga:wogga ADJ ;
+gita:gita ADJ ;
+xawlle:xawlle ADJ ;
+bambballooma:bambballooma ADJ ;
+gagate:gagate ADJ ;
+gagisa:gagisa ADJ ;
+maagula:maagula ADJ ;
+axxo:axxo ADJ ;
+axuma:axuma ADJ ;
+dada:dada ADJ ;
+zeekeele:zeekeele ADJ ;
+xeere:xeere ADJ ;
+xeeppula:xeeppula ADJ ;
+xeeppo:xeeppo ADJ ;
+anuufa:anuufa ADJ ;
+xaane:xaane ADJ ;
+xawdala:xawdala ADJ ;
+manne:manne ADJ ;
+geere:geere ADJ ;
+gaareppa:gaareppa ADJ ;
+xekese:xekese ADJ ;
+xoyllo:xoyllo ADJ ;
+tennejja:tennejja ADJ ;
+yaakula:yaakula ADJ ;
+baa'ula:baa'ula ADJ ;
+xettemere:xettemere ADJ ;
+yam''araara:yam''araara ADJ ;
+lakkeessa:lakkeessa ADJ ;
+axuure:axuure ADJ ;
+panxxiisa:panxxiisa ADJ ;
+xankkula:xankkula ADJ ;
+teebuxa:teebuxa ADJ ;
+gaga:gaga ADJ ;
+yambbulla:yambbulla ADJ ;
+bobboxaama:bobboxaama ADJ ;
+bam''ula:bam''ula ADJ ;
+ananoote:ananoote ADJ ;
+baadoochche:baadoochche ADJ ;
+dawlla:dawlla ADJ ;
+sawlla:sawlla ADJ ;
+ga'usha:ga'usha ADJ ;
+gageella:gageella ADJ ;
+abuulla:abuulla ADJ ;
+yambbareessa:yambbareessa ADJ ;
+anuuca:anuuca ADJ ;
+banne:banne ADJ ;
+gachchaama:gachchaama ADJ ;
+moydore:moydore ADJ ;
+tuqa:tuqa ADJ ;
+xul''eebba:xul''eebba ADJ ;
+ban''a'':ban''a'' ADJ ;
+phankkula:phankkula ADJ ;
+xaamoochche:xaamoochche ADJ ;
+xoxolo:xoxolo ADJ ;
+wogga:wogga ADJ ;
+gita:gita ADJ ;
+xawlle:xawlle ADJ ;
+bambballooma:bambballooma ADJ ;
+gagate:gagate ADJ ;
+gagisa:gagisa ADJ ;
+maagula:maagula ADJ ;
+axxo:axxo ADJ ;
+dada:dada ADJ ;
+zeekeele:zeekeele ADJ ;
+xeere:xeere ADJ ;
+xeeppula:xeeppula ADJ ;
+xeeppo:xeeppo ADJ ;
+anuufa:anuufa ADJ ;
+anuca:anuca ADJ ;
+xaane:xaane ADJ ;
+xawdala:xawdala ADJ ;
+manne:manne ADJ ;
+geere:geere ADJ ;
+gaareppa:gaareppa ADJ ;
+xekese:xekese ADJ ;
+xoyllo:xoyllo ADJ ;
+tennejja:tennejja ADJ ;
+yaakula:yaakula ADJ ;
+baa'ula:baa'ula ADJ ;
+xettemere:xettemere ADJ ;
+yam''araara:yam''araara ADJ ;
+lakkeessa:lakkeessa ADJ ;
+axuure:axuure ADJ ;
+panxxiisa:panxxiisa ADJ ;
+xankkula:xankkula ADJ ;
+teebuxa:teebuxa ADJ ;
+gaga:gaga ADJ ;
+yambbulla:yambbulla ADJ ;
+bobboxaama:bobboxaama ADJ ;
+bam''ula:bam''ula ADJ ;
+ananoote:ananoote ADJ ;
+baadoochche:baadoochche ADJ ;
+dawlla:dawlla ADJ ;
+sawlla:sawlla ADJ ;
+ga'usha:ga'usha ADJ ;
+gageella:gageella ADJ ;
+abuulla:abuulla ADJ ;
+yambbareessa:yambbareessa ADJ ;
+anuuca:anuuca ADJ ;
+banne:banne ADJ ;
+gachchaama:gachchaama ADJ ;
+moydore:moydore ADJ ;
+tuqa:tuqa ADJ ;
+xul''eebba:xul''eebba ADJ ;
+axuure:axuure ADJ ;
+phankkula:phankkula ADJ ;
+xaamoochche:xaamoochche ADJ ;
+xoxolo:xoxolo ADJ ;
+wogga:wogga ADJ ;
+gita:gita ADJ ;
+xawlle:xawlle ADJ ;
+un''o:un''o ADJ ;
+so:so ADJ ;
+asa:asa ADJ ;
+keettaa:keettaa ADJ ;
+xapho:xapho ADJ ;
+marace:marace ADJ ;
+dabbo:dabbo ADJ ;
+sole:sole ADJ ;
+desha:desha ADJ ;
+selisedda:selisedda ADJ ;
+geella:geella ADJ ;
+yuuba:yuuba ADJ ;
+sorbbooqo:sorbbooqo ADJ ;
+torqqo:torqqo ADJ ;
+sadhdhakiina:sadhdhakiina ADJ ;
+hallixxiya:hallixxiya ADJ ;
+suullo:suullo ADJ ;
+misho:misho ADJ ;
+tafaliina:tafaliina ADJ ;
+tifiliina:tifiliina ADJ ;
+tashe:tashe ADJ ;
+boncco:boncco ADJ ;
+tayliwatta:tayliwatta ADJ ;
+baylibayla:baylibayla ADJ ;
+taylitappa:taylitappa ADJ ;
+eeji'eeja:eeji'eeja ADJ ;
+teeliteela:teeliteela ADJ ;
+daabidaaba:daabidaaba ADJ ;
+peelipeela:peelipeela ADJ ;
+tushula:tushula ADJ ;
+azalla:azalla ADJ ;
+zililiina:zililiina ADJ ;
+unchchama:unchchama ADJ ;
+murgga:murgga ADJ ;
+muuca:muuca ADJ ;
+qanxxo:qanxxo ADJ ;
+xudda:xudda ADJ ;
+waciwaciya:waciwaciya ADJ ;
+phoolliya:phoolliya ADJ ;
+pheelipheela:pheelipheela ADJ ;
+wajajja:wajajja ADJ ;
+wagagga:wagagga ADJ ;
+wayssenna:wayssenna ADJ ;
+xuufe:xuufe ADJ ;
+nabbabettiya:nabbabettiya ADJ ;
+wodhdhenna:wodhdhenna ADJ ;
+wokiika:wokiika ADJ ;
+kiraara:kiraara ADJ ;
+biddanchcha:biddanchcha ADJ ;
+kijaje:kijaje ADJ ;
+kilttaachcha:kilttaachcha ADJ ;
+wuttaalo:wuttaalo ADJ ;
+undduwaalo:undduwaalo ADJ ;
+qaxiballo:qaxiballo ADJ ;
+xaaxeta:xaaxeta ADJ ;
+qaxa:qaxa ADJ ;
+worakkaaba:worakkaaba ADJ ;
+kinnaalo:kinnaalo ADJ ;
+dirqqalletta:dirqqalletta ADJ ;
+wayssiya:wayssiya ADJ ;
+jolla:jolla ADJ ;
+dallo:dallo ADJ ;
+huuphiya:huuphiya ADJ ;
+yuushshiya:yuushshiya ADJ ;
+xambbixallo:xambbixallo ADJ ;
+xambbarsso:xambbarsso ADJ ;
+wulaato:wulaato ADJ ;
+shikkaalo:shikkaalo ADJ ;
+shikkibillo:shikkibillo ADJ ;
+xaaphaalo:xaaphaalo ADJ ;
+tiraara:tiraara ADJ ;
+sitta:sitta ADJ ;
+tira:tira ADJ ;
+baaxe:baaxe ADJ ;
+wonjjiboora:wonjjiboora ADJ ;
+doossa:doossa ADJ ;
+meto:meto ADJ ;
+porddolla:porddolla ADJ ;
+xaqqo:xaqqo ADJ ;
+xinnigga:xinnigga ADJ ;
+qiiba:qiiba ADJ ;
+xigginna:xigginna ADJ ;
+qeera:qeera ADJ ;
+xeeqo:xeeqo ADJ ;
+hayqo:hayqo ADJ ;
+baqqo:baqqo ADJ ;
+wunuqa:wunuqa ADJ ;
+teeshsho:teeshsho ADJ ;
+woocetta:woocetta ADJ ;
+qii:qii ADJ ;
+qeeri:qeeri ADJ ;
+xoyta:xoyta ADJ ;
+shaqa:shaqa ADJ ;
+xiniqa:xiniqa ADJ ;
+xuyla:xuyla ADJ ;
+leeshsho:leeshsho ADJ ;
+qaxana:qaxana ADJ ;
+xo''iina:xo''iina ADJ ;
+xinqqo:xinqqo ADJ ;
+zee'o:zee'o ADJ ;
+xonddoqiina:xonddoqiina ADJ ;
+xononiina:xononiina ADJ ;
+kidhidho:kidhidho ADJ ;
+xanddaqiina:xanddaqiina ADJ ;
+yororiina:yororiina ADJ ;
+xophphiina:xophphiina ADJ ;
+lufa:lufa ADJ ;
+yeda:yeda ADJ ;
+la'a:la'a ADJ ;
+leexxa:leexxa ADJ ;
+yenkkekka:yenkkekka ADJ ;
+herxxexxa:herxxexxa ADJ ;
+yenddeda:yenddeda ADJ ;
+yooga:yooga ADJ ;
+yelaga:yelaga ADJ ;
+pantta:pantta ADJ ;
+gadaraa:gadaraa ADJ ;
+wodalla:wodalla ADJ ;
+odettiya:odettiya ADJ ;
+zerkka:zerkka ADJ ;
+xalttaama:xalttaama ADJ ;
+pheexigazza:pheexigazza ADJ ;
+xeekkama:xeekkama ADJ ;
+xiba:xiba ADJ ;
+makkala:makkala ADJ ;
+garchchiya:garchchiya ADJ ;
+miiqqiya:miiqqiya ADJ ;
+
 
 LEXICON Prepositions
 
@@ -8202,9 +10431,9 @@ LEXICON POSTPOS ! Postpositions that follow oblique case
 %+daani%<post%>:daani # ;
 %+daani%<post%>:dan # ; ! Dir/LR
 
-LEXICON INJ !
+LEXICON ITJ !
 
-%<inj%>: # ;
+%<ij%>: # ;
 
 LEXICON ADJ !
 
