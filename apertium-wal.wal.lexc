@@ -2497,7 +2497,6 @@ ussi:ussi PREP ; ! "Ex Naatussi"
 
 LEXICON Connections
 
-woykko:woykko ; !
 woy:woy CONN ; ! "either, neither"
 gishshaw:gishshaw CONN ; ! "because"
 gishshawu:gishshawu CONN ; ! "because"
@@ -10817,29 +10816,29 @@ LEXICON POSTPOS ! Postpositions that follow oblique case
 
 ! To be seen again
 
-an:an POSTPOS ; ! "with, by means of"
-attin:attin POSTPOS ; ! ""
-aw:aw POSTPOS ; ! "for, to"
-awa:awa POSTPOS ; ! ""
-awan:awan	POSTPOS ; ! "where (at what place)"
-baa:baa POSTPOS ; ! "about"
-bolla:bolla POSTPOS ; ! ""
-bolli:bolli POSTPOS ; ! "1 • over"
-bolan:bolan POSTPOS ; ! 
-eessi:eessi POSTPOS ; ! "na'eessi to the girl"
-eessiis:eessiis	POSTPOS ; ! ""
-garssa:garssa POSTPOS ; ! ""
-garssaara:garssaara POSTPOS ; !
-garssan:garssan	POSTPOS ; ! "under, underneath, beneath"
-giddo:giddo	POSTPOS ; ! "among, between"
-giddon:giddon POSTPOS ; ! ""
-guye:guye POSTPOS ; ! "behind, beyond"
-huuphiyan:huuphiyan POSTPOS ; ! "on, on the top"
-ppe:ppe	POSTPOS ; ! "except"
-ra:ra POSTPOS ; ! "with"
-ssi:ssi POSTPOS ; ! ""
-Y:Y	POSTPOS ; ! ""
-yyoo:yyoo POSTPOS ; ! "to, for"
+!an:an POSTPOS ; ! "with, by means of"
+!attin:attin POSTPOS ; ! ""
+!aw:aw POSTPOS ; ! "for, to"
+!awa:awa POSTPOS ; ! ""
+!awan:awan	POSTPOS ; ! "where (at what place)"
+!baa:baa POSTPOS ; ! "about"
+!bolla:bolla POSTPOS ; ! ""
+!bolli:bolli POSTPOS ; ! "1 • over"
+!bolan:bolan POSTPOS ; ! 
+!eessi:eessi POSTPOS ; ! "na'eessi to the girl"
+!eessiis:eessiis	POSTPOS ; ! ""
+!garssa:garssa POSTPOS ; ! ""
+!garssaara:garssaara POSTPOS ; !
+!garssan:garssan	POSTPOS ; ! "under, underneath, beneath"
+!giddo:giddo	POSTPOS ; ! "among, between"
+!giddon:giddon POSTPOS ; ! ""
+!guye:guye POSTPOS ; ! "behind, beyond"
+!huuphiyan:huuphiyan POSTPOS ; ! "on, on the top"
+!ppe:ppe	POSTPOS ; ! "except"
+!ra:ra POSTPOS ; ! "with"
+!ssi:ssi POSTPOS ; ! ""
+!Y:Y	POSTPOS ; ! ""
+!yyoo:yyoo POSTPOS ; ! "to, for"
 
 
 LEXICON ITJ !
