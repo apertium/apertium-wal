@@ -10181,10 +10181,10 @@ LEXICON N-M-CMN-A-INFL
 
 %<noncon%>%<abs%>:aamaa CMN-To-All ;
 %<noncon%>%<abs%>:aacaa CMN-To-All ;
-%<noncon%>%<abs%>:ummaa # ;
-%<noncon%>%<abs%>:atettaa # ;
-%<noncon%>%<abs%>:otettaa # ;
-%<noncon%>%<abs%>:attuwa # ;
+%<noncon%>%<abs%>:ummaa CMN-To-All ;
+%<noncon%>%<abs%>:atettaa CMN-To-All ;
+%<noncon%>%<abs%>:otettaa CMN-To-All ;
+%<noncon%>%<abs%>:attuwa CMN-To-All ;
  
 %<noncon%>%<abs%>:a CMN-To-All ;
 %<noncon%>%<obl%>:a CMN-To-All ;
@@ -10204,155 +10204,163 @@ LEXICON N-M-CMN-A-INFL
 
 LEXICON N-M-CMN-E-INFL
 
-%<noncon%>%<abs%>:aamaa # ;
-%<noncon%>%<abs%>:aacaa # ;
-%<noncon%>%<abs%>:ummaa # ;
-%<noncon%>%<abs%>:atettaa # ;
-%<noncon%>%<abs%>:otettaa # ;
-%<noncon%>%<abs%>:attuwa # ;
+%<noncon%>%<abs%>:aamaa CMN-To-All ;
+%<noncon%>%<abs%>:aacaa CMN-To-All ;
+%<noncon%>%<abs%>:ummaa CMN-To-All ;
+%<noncon%>%<abs%>:atettaa CMN-To-All ;
+%<noncon%>%<abs%>:otettaa CMN-To-All ;
+%<noncon%>%<abs%>:attuwa CMN-To-All ;
 
-%<noncon%>%<abs%>:e # ;
-%<noncon%>%<obl%>:e # ;
-%<noncon%>%<nom%>:ee # ;
-%<noncon%>%<inter%>:ee # ;
-%<noncon%>%<voc%>:oo # ;
-%<noncon%>%<voc%>:ee # ;
-%<con%>%<sing%>%<abs%>:iya # ;
-%<con%>%<sing%>%<obl%>:iya # ;
-%<con%>%<sing%>%<nom%>:ee # ;
-%<con%>%<sing%>%<inter%>:ee # ;
-%<con%>%<sing%>%<voc%>:iyaw # ;
-%<con%>%<plr%>%<abs%>:eta # ;
-%<con%>%<plr%>%<obl%>:etu # ;
-%<con%>%<plr%>%<nom%>:eti # ;
-%<con%>%<plr%>%<inter%>:etee # ;
-%<con%>%<plr%>%<voc%>:etoo # ;
+%<noncon%>%<abs%>:e CMN-To-All ;
+%<noncon%>%<obl%>:e CMN-To-All ;
+%<noncon%>%<nom%>:ee CMN-To-All ;
+%<noncon%>%<inter%>:ee CMN-To-All ;
+%<noncon%>%<voc%>:oo CMN-To-All ;
+%<noncon%>%<voc%>:ee CMN-To-All ;
+%<con%>%<sing%>%<abs%>:iya CMN-To-All ;
+%<con%>%<sing%>%<obl%>:iya CMN-To-All ;
+%<con%>%<sing%>%<nom%>:ee CMN-To-All ;
+%<con%>%<sing%>%<inter%>:ee CMN-To-All ;
+%<con%>%<sing%>%<voc%>:iyaw CMN-To-All ;
+%<con%>%<plr%>%<abs%>:eta CMN-To-All ;
+%<con%>%<plr%>%<obl%>:etu CMN-To-All ;
+%<con%>%<plr%>%<nom%>:eti CMN-To-All ;
+%<con%>%<plr%>%<inter%>:etee CMN-To-All ;
+%<con%>%<plr%>%<voc%>:etoo CMN-To-All ;
 
 LEXICON N-M-CMN-O-INFL
 
-%<noncon%>%<abs%>:aamaa # ;
-%<noncon%>%<abs%>:aacaa # ;
-%<noncon%>%<abs%>:ummaa # ;
-%<noncon%>%<abs%>:atettaa # ;
-%<noncon%>%<abs%>:otettaa # ;
-%<noncon%>%<abs%>:attuwa # ;
+%<noncon%>%<abs%>:aamaa CMN-To-All ;
+%<noncon%>%<abs%>:aacaa CMN-To-All ;
+%<noncon%>%<abs%>:ummaa CMN-To-All ;
+%<noncon%>%<abs%>:atettaa CMN-To-All ;
+%<noncon%>%<abs%>:otettaa CMN-To-All ;
+%<noncon%>%<abs%>:attuwa CMN-To-All ;
 
-%<noncon%>%<abs%>:o # ;
-%<noncon%>%<obl%>:o # ;
-%<noncon%>%<nom%>:oy # ;
-%<noncon%>%<inter%>:oo # ;
-%<noncon%>%<voc%>:oo # ;
-%<con%>%<sing%>%<abs%>:uwa # ;
-%<con%>%<sing%>%<obl%>:uwa # ;
-%<con%>%<sing%>%<nom%>:oy # ;
-%<con%>%<sing%>%<inter%>:oy # ;
-%<con%>%<sing%>%<voc%>:uwaw # ;
-%<con%>%<plr%>%<abs%>:ota # ;
-%<con%>%<plr%>%<obl%>:otu # ;
-%<con%>%<plr%>%<nom%>:oti # ;
-%<con%>%<plr%>%<inter%>:otee # ;
-%<con%>%<plr%>%<voc%>:otoo # ;
+%<noncon%>%<abs%>:o CMN-To-All ;
+%<noncon%>%<obl%>:o CMN-To-All ;
+%<noncon%>%<nom%>:oy CMN-To-All ;
+%<noncon%>%<inter%>:oo CMN-To-All ;
+%<noncon%>%<voc%>:oo CMN-To-All ;
+%<con%>%<sing%>%<abs%>:uwa CMN-To-All ;
+%<con%>%<sing%>%<obl%>:uwa CMN-To-All ;
+%<con%>%<sing%>%<nom%>:oy CMN-To-All ;
+%<con%>%<sing%>%<inter%>:oy CMN-To-All ;
+%<con%>%<sing%>%<voc%>:uwaw CMN-To-All ;
+%<con%>%<plr%>%<abs%>:ota CMN-To-All ;
+%<con%>%<plr%>%<obl%>:otu CMN-To-All ;
+%<con%>%<plr%>%<nom%>:oti CMN-To-All ;
+%<con%>%<plr%>%<inter%>:otee CMN-To-All ;
+%<con%>%<plr%>%<voc%>:otoo CMN-To-All ;
 
 LEXICON N-F-CMN-INFL
 
-%<noncon%>%<abs%>:aamaa # ;
-%<noncon%>%<abs%>:aacaa # ;
-%<noncon%>%<abs%>:ummaa # ;
-%<noncon%>%<abs%>:atettaa # ;
-%<noncon%>%<abs%>:otettaa # ;
-%<noncon%>%<abs%>:attuwa # ;
+%<noncon%>%<abs%>:aamaa CMN-To-All ;
+%<noncon%>%<abs%>:aacaa CMN-To-All ;
+%<noncon%>%<abs%>:ummaa CMN-To-All ;
+%<noncon%>%<abs%>:atettaa CMN-To-All ;
+%<noncon%>%<abs%>:otettaa CMN-To-All ;
+%<noncon%>%<abs%>:attuwa CMN-To-All ;
 
-%<noncon%>%<abs%>:o # ;
-%<noncon%>%<obl%>:e # ;
-%<noncon%>%<obl%>:i # ;
-%<noncon%>%<nom%>:a # ;
-%<noncon%>%<inter%>:oo # ;
-%<noncon%>%<voc%>:oo # ;
-%<con%>%<sing%>%<abs%>:iyo # ;
-%<con%>%<sing%>%<obl%>:ee # ;
-%<con%>%<sing%>%<nom%>:iya # ;
-%<con%>%<sing%>%<inter%>:ii # ;
-%<con%>%<sing%>%<voc%>:ee # ;
-%<con%>%<plr%>%<abs%>:eta # ;
-%<con%>%<plr%>%<obl%>:etu # ;
-%<con%>%<plr%>%<nom%>:eti # ;
-%<con%>%<plr%>%<inter%>:etee # ;
-%<con%>%<plr%>%<voc%>:etoo # ;
-%<con%>%<plr%>%<abs%>:ota # ;
-%<con%>%<plr%>%<obl%>:otu # ;
-%<con%>%<plr%>%<nom%>:oti # ;
-%<con%>%<plr%>%<inter%>:otee # ;
-%<con%>%<plr%>%<voc%>:otoo # ;
+%<noncon%>%<abs%>:o CMN-To-All ;
+%<noncon%>%<obl%>:e CMN-To-All ;
+%<noncon%>%<obl%>:i CMN-To-All ;
+%<noncon%>%<nom%>:a CMN-To-All ;
+%<noncon%>%<inter%>:oo CMN-To-All ;
+%<noncon%>%<voc%>:oo CMN-To-All ;
+%<con%>%<sing%>%<abs%>:iyo CMN-To-All ;
+%<con%>%<sing%>%<obl%>:ee CMN-To-All ;
+%<con%>%<sing%>%<nom%>:iya CMN-To-All ;
+%<con%>%<sing%>%<inter%>:ii CMN-To-All ;
+%<con%>%<sing%>%<voc%>:ee CMN-To-All ;
+%<con%>%<plr%>%<abs%>:eta CMN-To-All ;
+%<con%>%<plr%>%<obl%>:etu CMN-To-All ;
+%<con%>%<plr%>%<nom%>:eti CMN-To-All ;
+%<con%>%<plr%>%<inter%>:etee CMN-To-All ;
+%<con%>%<plr%>%<voc%>:etoo CMN-To-All ;
+%<con%>%<plr%>%<abs%>:ota CMN-To-All ;
+%<con%>%<plr%>%<obl%>:otu CMN-To-All ;
+%<con%>%<plr%>%<nom%>:oti CMN-To-All ;
+%<con%>%<plr%>%<inter%>:otee CMN-To-All ;
+%<con%>%<plr%>%<voc%>:otoo CMN-To-All ;
 
 LEXICON N-PLNAME-A ! Place name noun class A inflection
 
-%<n%>%<abs%>:a # ;
-%<n%>%<obl%>:a # ;
-%<n%>%<nom%>:i # ;
-%<n%>%<inter%>:ee # ;
-%<n%>%<voc%>:aa # ;
-%<n%>%<adv%>:i # ;
+%<n%>%<abs%>:a CMN-To-All ;
+%<n%>%<obl%>:a CMN-To-All ;
+%<n%>%<nom%>:i CMN-To-All ;
+%<n%>%<inter%>:ee CMN-To-All ;
+%<n%>%<voc%>:aa CMN-To-All ;
+%<n%>%<adv%>:i CMN-To-All ;
 
 LEXICON N-PLNAME-E ! Place name noun class E inflection
 
-%<n%>%<abs%>:e # ;
-%<n%>%<obl%>:e # ;
-%<n%>%<nom%>:ee # ;
-%<n%>%<inter%>:ee # ;
-%<n%>%<voc%>:ee # ;
+%<n%>%<abs%>:e CMN-To-All ;
+%<n%>%<obl%>:e CMN-To-All ;
+%<n%>%<nom%>:ee CMN-To-All ;
+%<n%>%<inter%>:ee CMN-To-All ;
+%<n%>%<voc%>:ee CMN-To-All ;
 
 LEXICON N-PLNAME-O ! Place name noun class O inflection
 
-%<n%>%<abs%>:o # ;
-%<n%>%<obl%>:o # ;
-%<n%>%<nom%>:oy # ;
-%<n%>%<inter%>:oo # ;
-%<n%>%<voc%>:oo # ;
+%<n%>%<abs%>:o CMN-To-All ;
+%<n%>%<obl%>:o CMN-To-All ;
+%<n%>%<nom%>:oy CMN-To-All ;
+%<n%>%<inter%>:oo CMN-To-All ;
+%<n%>%<voc%>:oo CMN-To-All ;
 
 LEXICON N-M-PRSNAME-A-INFL ! Person name noun class A inflection
 
-%<abs%>:a # ;
-%<obl%>:a # ;
-%<nom%>:i # ;
-%<inter%>:ee # ;
-%<voc%>:aa # ;
+%<abs%>:a CMN-To-All ;
+%<obl%>:a CMN-To-All ;
+%<nom%>:i CMN-To-All ;
+%<inter%>:ee CMN-To-All ;
+%<voc%>:aa CMN-To-All ;
 
 LEXICON N-M-PRSNAME-E-INFL ! Person name noun class E inflection
 	
-%<abs%>:a # ;
-%<obl%>:e # ;
-%<nom%>:ee # ;
-%<inter%>:ee # ;
-%<voc%>:ee # ;
+%<abs%>:a CMN-To-All ;
+%<obl%>:e CMN-To-All ;
+%<nom%>:ee CMN-To-All ;
+%<inter%>:ee CMN-To-All ;
+%<voc%>:ee CMN-To-All ;
 
 LEXICON N-M-PRSNAME-O-INFL ! Person name noun class O inflection
 
-%<abs%>:a # ;
-%<obl%>:o # ;
-%<nom%>:oy # ;
-%<inter%>:ee # ;
-%<voc%>:oo # ;
+%<abs%>:a CMN-To-All ;
+%<obl%>:o CMN-To-All ;
+%<nom%>:oy CMN-To-All ;
+%<inter%>:ee CMN-To-All ;
+%<voc%>:oo CMN-To-All ;
 
 LEXICON N-M-PRSNAME-U-INFL ! Person name noun class U inflection
 
-%<abs%>:a # ;
-%<obl%>:u # ;
-%<nom%>:u # ;
-%<inter%>:ee # ;
-%<voc%>:oo # ;
+%<abs%>:a CMN-To-All ;
+%<obl%>:u CMN-To-All ;
+%<nom%>:u CMN-To-All ;
+%<inter%>:ee CMN-To-All ;
+%<voc%>:oo CMN-To-All ;
 
 LEXICON N-F-PRSNAME-INFL
 
-%<abs%>:o # ;
-%<obl%>:i # ;
-%<nom%>:a # ;
-%<inter%>:ii # ;
-%<voc%>:ee # ;
+%<abs%>:o CMN-To-All ;
+%<obl%>:i CMN-To-All ;
+%<nom%>:a CMN-To-All ;
+%<inter%>:ii CMN-To-All ;
+%<voc%>:ee CMN-To-All ;
 
 LEXICON CMN-To-All
 
 # ;
 %<and%>:nne # ;
+%<and%>:ra # ;
+%<about%>:baa # ;
+%<about%>:n # ;
+%<and%>:gee # ;
+%<about_and%>:baan # ;
+%<about%>:anaw # ;
+%<about%>:anawnne # ;
+%<about%>:baanne # ;
 
 LEXICON V-TV
 
@@ -10409,154 +10417,154 @@ VERB-Cau-endings ;	!Causative Endings
 
 LEXICON VERB-Imfr
 
-%<p1%>%<sing%>%<imfr%>:ays # ;			
-%<p1%>%<plr%>%<imfr%>:eettees # ;
-%<p1%>%<plr%>%<imfr%>:oos # ;
-%<p2%>%<sing%>%<imfr%>:aasa # ;
-%<p2%>%<plr%>%<imfr%>:eeta # ;
-%<p3%>%<sing%>%<fem%>%<imfr%>:awsu # ;
-%<p3%>%<sing%>%<masc%>%<imfr%>:ees # ;
-%<p3%>%<plr%>%<imfr%>:oosona # ;
+%<p1%>%<sing%>%<imfr%>:ays CMN-To-All ;			
+%<p1%>%<plr%>%<imfr%>:eettees CMN-To-All ;
+%<p1%>%<plr%>%<imfr%>:oos CMN-To-All ;
+%<p2%>%<sing%>%<imfr%>:aasa CMN-To-All ;
+%<p2%>%<plr%>%<imfr%>:eeta CMN-To-All ;
+%<p3%>%<sing%>%<fem%>%<imfr%>:awsu CMN-To-All ;
+%<p3%>%<sing%>%<masc%>%<imfr%>:ees CMN-To-All ;
+%<p3%>%<plr%>%<imfr%>:oosona CMN-To-All ;
 
 LEXICON VERB-NegImfr
 
-%<p1%>%<sing%>%<neg%>%<imfr%>:ikke # ;
-%<p1%>%<plr%>%<neg%>%<imfr%>:okko # ;
-%<p1%>%<plr%>%<neg%>%<imfr%>:ettenna # ;
-%<p2%>%<sing%>%<neg%>%<imfr%>:akka # ;
-%<p2%>%<plr%>%<neg%>%<imfr%>:ekketa # ;
-%<p3%>%<sing%>%<fem%>%<neg%>%<imfr%>:ukku # ;
-%<p3%>%<sing%>%<masc%>%<neg%>%<imfr%>:enna # ;
-%<p3%>%<plr%>%<neg%>%<imfr%>:okkona # ;
+%<p1%>%<sing%>%<neg%>%<imfr%>:ikke CMN-To-All ;
+%<p1%>%<plr%>%<neg%>%<imfr%>:okko CMN-To-All ;
+%<p1%>%<plr%>%<neg%>%<imfr%>:ettenna CMN-To-All ;
+%<p2%>%<sing%>%<neg%>%<imfr%>:akka CMN-To-All ;
+%<p2%>%<plr%>%<neg%>%<imfr%>:ekketa CMN-To-All ;
+%<p3%>%<sing%>%<fem%>%<neg%>%<imfr%>:ukku CMN-To-All ;
+%<p3%>%<sing%>%<masc%>%<neg%>%<imfr%>:enna CMN-To-All ;
+%<p3%>%<plr%>%<neg%>%<imfr%>:okkona CMN-To-All ;
 
 LEXICON VERB-IntrImfr
 
-%<p1%>%<sing%>%<intr%>%<imfr%>:iyanaa # ;
-%<p1%>%<plr%>%<intr%>%<imfr%>:iyo # ;
-%<p1%>%<plr%>%<intr%>%<imfr%>:iyonii # ;
-%<p2%>%<sing%>%<intr%>%<imfr%>:ay # ;
-%<p2%>%<plr%>%<intr%>%<imfr%>:eetii # ;
-%<p3%>%<sing%>%<fem%>%<intr%>%<imfr%>:ay # ;
-%<p3%>%<sing%>%<masc%>%<intr%>%<imfr%>:ii # ;
-%<p3%>%<plr%>%<intr%>%<imfr%>:iyonaa # ;
+%<p1%>%<sing%>%<intr%>%<imfr%>:iyanaa CMN-To-All ;
+%<p1%>%<plr%>%<intr%>%<imfr%>:iyo CMN-To-All ;
+%<p1%>%<plr%>%<intr%>%<imfr%>:iyonii CMN-To-All ;
+%<p2%>%<sing%>%<intr%>%<imfr%>:ay CMN-To-All ;
+%<p2%>%<plr%>%<intr%>%<imfr%>:eetii CMN-To-All ;
+%<p3%>%<sing%>%<fem%>%<intr%>%<imfr%>:ay CMN-To-All ;
+%<p3%>%<sing%>%<masc%>%<intr%>%<imfr%>:ii CMN-To-All ;
+%<p3%>%<plr%>%<intr%>%<imfr%>:iyonaa CMN-To-All ;
 
 LEXICON VERB-NegIntrImfr
 
-%<p1%>%<sing%>%<neg%>%<intr%>%<imfr%>:ikkinaa # ;
-%<p1%>%<plr%>%<neg%>%<intr%>%<imfr%>:okkonii # ;
-%<p1%>%<plr%>%<neg%>%<intr%>%<imfr%>:ettennee # ;
-%<p2%>%<sing%>%<neg%>%<intr%>%<imfr%>:ikkii # ;
-%<p2%>%<plr%>%<neg%>%<intr%>%<imfr%>:ekketii # ;
-%<p3%>%<sing%>%<fem%>%<neg%>%<intr%>%<imfr%>:ekkee # ;
-%<p3%>%<sing%>%<masc%>%<neg%>%<intr%>%<imfr%>:ennee # ;
-%<p3%>%<plr%>%<neg%>%<intr%>%<imfr%>:okkonaa # ;
+%<p1%>%<sing%>%<neg%>%<intr%>%<imfr%>:ikkinaa CMN-To-All ;
+%<p1%>%<plr%>%<neg%>%<intr%>%<imfr%>:okkonii CMN-To-All ;
+%<p1%>%<plr%>%<neg%>%<intr%>%<imfr%>:ettennee CMN-To-All ;
+%<p2%>%<sing%>%<neg%>%<intr%>%<imfr%>:ikkii CMN-To-All ;
+%<p2%>%<plr%>%<neg%>%<intr%>%<imfr%>:ekketii CMN-To-All ;
+%<p3%>%<sing%>%<fem%>%<neg%>%<intr%>%<imfr%>:ekkee CMN-To-All ;
+%<p3%>%<sing%>%<masc%>%<neg%>%<intr%>%<imfr%>:ennee CMN-To-All ;
+%<p3%>%<plr%>%<neg%>%<intr%>%<imfr%>:okkonaa CMN-To-All ;
 
 LEXICON VERB-Prf
 
-%<p1%>%<sing%>%<prf%>:aas # ;
-%<p1%>%<sing%>%<prf%>:aasi # ;
-%<p1%>%<plr%>%<prf%>:ida # ;
-%<p2%>%<sing%>%<prf%>:adasa # ;
-%<p2%>%<plr%>%<prf%>:ideta # ;
-%<p3%>%<sing%>%<fem%>%<prf%>:aasu # ;
-%<p3%>%<sing%>%<masc%>%<prf%>:iis # ;
-%<p3%>%<sing%>%<masc%>%<prf%>:iisi # ;
-%<p3%>%<plr%>%<prf%>:idosona # ;
+%<p1%>%<sing%>%<prf%>:aas CMN-To-All ;
+%<p1%>%<sing%>%<prf%>:aasi CMN-To-All ;
+%<p1%>%<plr%>%<prf%>:ida CMN-To-All ;
+%<p2%>%<sing%>%<prf%>:adasa CMN-To-All ;
+%<p2%>%<plr%>%<prf%>:ideta CMN-To-All ;
+%<p3%>%<sing%>%<fem%>%<prf%>:aasu CMN-To-All ;
+%<p3%>%<sing%>%<masc%>%<prf%>:iis CMN-To-All ;
+%<p3%>%<sing%>%<masc%>%<prf%>:iisi CMN-To-All ;
+%<p3%>%<plr%>%<prf%>:idosona CMN-To-All ;
 
 LEXICON VERB-NegPrf
 
-%<p1%>%<sing%>%<neg%>%<prf%>:abeikke # ;
-%<p1%>%<plr%>%<neg%>%<prf%>:ibeokko # ;
-%<p1%>%<plr%>%<neg%>%<prf%>:ibeettenna # ;
-%<p2%>%<sing%>%<neg%>%<prf%>:abeakka # ;
-%<p2%>%<plr%>%<neg%>%<prf%>:ibeekketa # ;
-%<p3%>%<sing%>%<neg%>%<fem%>%<prf%>:abeukku # ;
-%<p3%>%<sing%>%<masc%>%<neg%>%<prf%>:ibeenna # ;
-%<p3%>%<plr%>%<neg%>%<prf%>:ibeokkona # ;
+%<p1%>%<sing%>%<neg%>%<prf%>:abeikke CMN-To-All ;
+%<p1%>%<plr%>%<neg%>%<prf%>:ibeokko CMN-To-All ;
+%<p1%>%<plr%>%<neg%>%<prf%>:ibeettenna CMN-To-All ;
+%<p2%>%<sing%>%<neg%>%<prf%>:abeakka CMN-To-All ;
+%<p2%>%<plr%>%<neg%>%<prf%>:ibeekketa CMN-To-All ;
+%<p3%>%<sing%>%<neg%>%<fem%>%<prf%>:abeukku CMN-To-All ;
+%<p3%>%<sing%>%<masc%>%<neg%>%<prf%>:ibeenna CMN-To-All ;
+%<p3%>%<plr%>%<neg%>%<prf%>:ibeokkona CMN-To-All ;
 
 LEXICON VERB-IntrPrf
 
-%<p1%>%<sing%>%<intr%>%<prf%>:idanaa # ;
-%<p1%>%<plr%>%<intr%>%<prf%>:ido # ;
-%<p1%>%<plr%>%<intr%>%<prf%>:idonii # ;
-%<p2%>%<sing%>%<intr%>%<prf%>:adii # ;
-%<p2%>%<plr%>%<intr%>%<prf%>:idetii # ;
-%<p3%>%<sing%>%<fem%>%<intr%>%<prf%>:adee # ;
-%<p3%>%<sing%>%<masc%>%<intr%>%<prf%>:idee # ;
-%<p3%>%<plr%>%<intr%>%<prf%>:idonaa # ;
+%<p1%>%<sing%>%<intr%>%<prf%>:idanaa CMN-To-All ;
+%<p1%>%<plr%>%<intr%>%<prf%>:ido CMN-To-All ;
+%<p1%>%<plr%>%<intr%>%<prf%>:idonii CMN-To-All ;
+%<p2%>%<sing%>%<intr%>%<prf%>:adii CMN-To-All ;
+%<p2%>%<plr%>%<intr%>%<prf%>:idetii CMN-To-All ;
+%<p3%>%<sing%>%<fem%>%<intr%>%<prf%>:adee CMN-To-All ;
+%<p3%>%<sing%>%<masc%>%<intr%>%<prf%>:idee CMN-To-All ;
+%<p3%>%<plr%>%<intr%>%<prf%>:idonaa CMN-To-All ;
 
 LEXICON VERB-NegIntrPrf
 
-%<p1%>%<sing%>%<neg%>%<intr%>%<prf%>:abeikkinaa # ;
-%<p1%>%<plr%>%<neg%>%<intr%>%<prf%>:ibeokkonii # ;
-%<p1%>%<plr%>%<neg%>%<intr%>%<prf%>:ibeettennee # ;
-%<p2%>%<sing%>%<neg%>%<intr%>%<prf%>:abeikkii # ;
-%<p2%>%<plr%>%<neg%>%<intr%>%<prf%>:ibeekketii # ;
-%<p3%>%<sing%>%<fem%>%<neg%>%<intr%>%<prf%>:abeekkee # ;
-%<p3%>%<sing%>%<masc%>%<neg%>%<intr%>%<prf%>:ibeennee # ;
-%<p3%>%<plr%>%<neg%>%<intr%>%<prf%>:ibeokkonaa # ;
+%<p1%>%<sing%>%<neg%>%<intr%>%<prf%>:abeikkinaa CMN-To-All ;
+%<p1%>%<plr%>%<neg%>%<intr%>%<prf%>:ibeokkonii CMN-To-All ;
+%<p1%>%<plr%>%<neg%>%<intr%>%<prf%>:ibeettennee CMN-To-All ;
+%<p2%>%<sing%>%<neg%>%<intr%>%<prf%>:abeikkii CMN-To-All ;
+%<p2%>%<plr%>%<neg%>%<intr%>%<prf%>:ibeekketii CMN-To-All ;
+%<p3%>%<sing%>%<fem%>%<neg%>%<intr%>%<prf%>:abeekkee CMN-To-All ;
+%<p3%>%<sing%>%<masc%>%<neg%>%<intr%>%<prf%>:ibeennee CMN-To-All ;
+%<p3%>%<plr%>%<neg%>%<intr%>%<prf%>:ibeokkonaa CMN-To-All ;
 
 LEXICON VERB-Fut
 
-%<fut%>:ana # ;
+%<fut%>:ana CMN-To-All ;
 
 LEXICON VERB-IntFut
 
-%<intr%>%<fut%>:anne # ;
+%<intr%>%<fut%>:anne CMN-To-All ;
 
 LEXICON VERB-Opt
 
-%<p2%>%<sing%>%<opt%>:a # ;
-%<p2%>%<plr%>%<opt%>:ite # ;
-%<p3%>%<sing%>%<fem%>%<opt%>:u # ;
-%<p3%>%<sing%>%<masc%>%<opt%>:o # ;
-%<p3%>%<sing%>%<opt%>:ona # ;
+%<p2%>%<sing%>%<opt%>:a CMN-To-All ;
+%<p2%>%<plr%>%<opt%>:ite CMN-To-All ;
+%<p3%>%<sing%>%<fem%>%<opt%>:u CMN-To-All ;
+%<p3%>%<sing%>%<masc%>%<opt%>:o CMN-To-All ;
+%<p3%>%<sing%>%<opt%>:ona CMN-To-All ;
 
 LEXICON VERB-NegOpt
 
-%<p2%>%<sing%>%<neg%>%<opt%>:oppa # ;
-%<p2%>%<plr%>%<neg%>%<opt%>:oppite # ;
-%<p3%>%<sing%>%<fem%>%<neg%>%<opt%>:uppu # ;
-%<p3%>%<sing%>%<masc%>%<neg%>%<opt%>:oppo # ;
-%<p3%>%<sing%>%<neg%>%<opt%>:oppona # ;
+%<p2%>%<sing%>%<neg%>%<opt%>:oppa CMN-To-All ;
+%<p2%>%<plr%>%<neg%>%<opt%>:oppite CMN-To-All ;
+%<p3%>%<sing%>%<fem%>%<neg%>%<opt%>:uppu CMN-To-All ;
+%<p3%>%<sing%>%<masc%>%<neg%>%<opt%>:oppo CMN-To-All ;
+%<p3%>%<sing%>%<neg%>%<opt%>:oppona CMN-To-All ;
 
 LEXICON VERB-IntrEnding
 
-%<p1%>%<sing%>%<intrEnding%>:oo # ;
-%<p2%>%<sing%>%<intrEnding%>:uutee # ;
-%<p2%>%<pl%>%<intrEnding%>:uuteetii # ;
+%<p1%>%<sing%>%<intrEnding%>:oo CMN-To-All ;
+%<p2%>%<sing%>%<intrEnding%>:uutee CMN-To-All ;
+%<p2%>%<pl%>%<intrEnding%>:uuteetii CMN-To-All ;
 
 LEXICON VERB-ShortCnvb 
 
-%<shortcnvb%>%<p1%>%<sing%>:a # ;			 
-%<shortcnvb%>%<p1%>%<plr%>:i # ;
-%<shortcnvb%>%<p2%>%<plr%>:i # ;		
-%<shortcnvb%>%<p2%>%<sing%>:a # ;
-%<shortcnvb%>%<p3%>%<sing%>%<fem%>:a # ;
-%<shortcnvb%>%<p3%>%<sing%>%<masc%>:i # ;
+%<shortcnvb%>%<p1%>%<sing%>:a CMN-To-All ;			 
+%<shortcnvb%>%<p1%>%<plr%>:i CMN-To-All ;
+%<shortcnvb%>%<p2%>%<plr%>:i CMN-To-All ;		
+%<shortcnvb%>%<p2%>%<sing%>:a CMN-To-All ;
+%<shortcnvb%>%<p3%>%<sing%>%<fem%>:a CMN-To-All ;
+%<shortcnvb%>%<p3%>%<sing%>%<masc%>:i CMN-To-All ;
 %<shortcnvb%>%<p3%>%<plr%>:i # ;
 
 LEXICON VERB-LongCnvb
 
-%<longcnvb%>%<p1%>%<sing%>:ada # ;			
-%<longcnvb%>%<p1%>%<plr%>:idi # ;
-%<longcnvb%>%<p2%>%<plr%>:idi # ;
-%<longcnvb%>%<p2%>%<sing%>:ada # ;
-%<longcnvb%>%<p3%>%<sing%>%<fem%>:ada # ;
-%<longcnvb%>%<p3%>%<sing%>%<masc%>:idi # ;
-%<longcnvb%>%<p3%>%<plr%>:idi # ;
+%<longcnvb%>%<p1%>%<sing%>:ada CMN-To-All ;			
+%<longcnvb%>%<p1%>%<plr%>:idi CMN-To-All ;
+%<longcnvb%>%<p2%>%<plr%>:idi CMN-To-All ;
+%<longcnvb%>%<p2%>%<sing%>:ada CMN-To-All ;
+%<longcnvb%>%<p3%>%<sing%>%<fem%>:ada CMN-To-All ;
+%<longcnvb%>%<p3%>%<sing%>%<masc%>:idi CMN-To-All ;
+%<longcnvb%>%<p3%>%<plr%>:idi CMN-To-All ;
 
 LEXICON VERB-Simu            ! simu expresses while
 
-%<simu%>%<p1%>%<sing%>:aydaa # ;
-%<simu%>%<p1%>%<sing%>:aidda # ;
-%<simu%>%<p1%>%<plr%>:iiddi # ;
-%<simu%>%<p2%>%<sing%>:aydaa # ;
-%<simu%>%<p2%>%<sing%>:aidda # ;
-%<simu%>%<p2%>%<plr%>:iiddi # ;
-%<simu%>%<p3%>%<sing%>%<fem%>:aydaa # ;
-%<simu%>%<p3%>%<sing%>%<masc%>:iiddi # ;
-%<simu%>%<p3%>%<plr%>:iiddi # ;
+%<simu%>%<p1%>%<sing%>:aydaa CMN-To-All ;
+%<simu%>%<p1%>%<sing%>:aidda CMN-To-All ;
+%<simu%>%<p1%>%<plr%>:iiddi CMN-To-All ;
+%<simu%>%<p2%>%<sing%>:aydaa CMN-To-All ;
+%<simu%>%<p2%>%<sing%>:aidda CMN-To-All ;
+%<simu%>%<p2%>%<plr%>:iiddi CMN-To-All ;
+%<simu%>%<p3%>%<sing%>%<fem%>:aydaa CMN-To-All ;
+%<simu%>%<p3%>%<sing%>%<masc%>:iiddi CMN-To-All ;
+%<simu%>%<p3%>%<plr%>:iiddi CMN-To-All ;
 
 LEXICON VERB-Rel   			! how to direct to nmlz   -  Verbal Adjective <gpr>
 
@@ -10591,35 +10599,35 @@ LEXICON VERB-Inf
 LEXICON Nmlz       ! Nominalizers          This is Gerund / Verbal Noun: <ger>
 
 # ;
-%<nmlz%>%<sing%>%<masc%>%<abs%>:gaa # ;
-%<nmlz%>%<plr%>%<masc%>%<abs%>:geeta # ;
-%<nmlz%>%<sing%>%<fem%>%<abs%>:ro # ;
+%<nmlz%>%<sing%>%<masc%>%<abs%>:gaa CMN-To-All ;
+%<nmlz%>%<plr%>%<masc%>%<abs%>:geeta CMN-To-All ;
+%<nmlz%>%<sing%>%<fem%>%<abs%>:ro CMN-To-All ;
 
-%<nmlz%>%<honplr%>%<abs%>:nta # ;
+%<nmlz%>%<honplr%>%<abs%>:nta CMN-To-All ;
 
 %<nmlz%>%<sing%>%<masc%>%<obl%>:gaa POSTPOS ;
 %<nmlz%>%<plr%>%<masc%>%<obl%>:geetu POSTPOS ;
 %<nmlz%>%<sing%>%<fem%>%<obl%>:ri POSTPOS ;
 
-%<nmlz%>%<honplr%>%<obl%>:nta # ;
+%<nmlz%>%<honplr%>%<obl%>:nta CMN-To-All ;
 
-%<nmlz%>%<sing%>%<masc%>%<nom%>:gee # ;
-%<nmlz%>%<plr%>%<masc%>%<nom%>:geeti # ;
-%<nmlz%>%<sing%>%<fem%>%<nom%>:ra # ;
+%<nmlz%>%<sing%>%<masc%>%<nom%>:gee CMN-To-All ;
+%<nmlz%>%<plr%>%<masc%>%<nom%>:geeti CMN-To-All ;
+%<nmlz%>%<sing%>%<fem%>%<nom%>:ra CMN-To-All ;
 
-%<nmlz%>%<honplr%>%<nom%>:nti # ;
+%<nmlz%>%<honplr%>%<nom%>:nti CMN-To-All ;
 
-%<nmlz%>%<sing%>%<masc%>%<inter%>:gee # ;
-%<nmlz%>%<plr%>%<masc%>%<inter%>:geetee # ;
-%<nmlz%>%<sing%>%<fem%>%<inter%>:ri # ;
+%<nmlz%>%<sing%>%<masc%>%<inter%>:gee CMN-To-All ;
+%<nmlz%>%<plr%>%<masc%>%<inter%>:geetee CMN-To-All ;
+%<nmlz%>%<sing%>%<fem%>%<inter%>:ri CMN-To-All ;
 
-%<nmlz%>%<honplr%>%<abs%>:ntee # ;
+%<nmlz%>%<honplr%>%<abs%>:ntee CMN-To-All ;
 
-%<nmlz%>%<sing%>%<masc%>%<voc%>:goo # ;
-%<nmlz%>%<plr%>%<masc%>%<voc%>:geetoo # ;
-%<nmlz%>%<sing%>%<fem%>%<voc%>:ree # ;
+%<nmlz%>%<sing%>%<masc%>%<voc%>:goo CMN-To-All ;
+%<nmlz%>%<plr%>%<masc%>%<voc%>:geetoo CMN-To-All ;
+%<nmlz%>%<sing%>%<fem%>%<voc%>:ree CMN-To-All ;
 
-%<nmlz%>%<honplr%>%<voc%>:ntoo # ;
+%<nmlz%>%<honplr%>%<voc%>:ntoo CMN-To-All ;
 
 LEXICON VERB-Cau
 
@@ -10914,51 +10922,51 @@ POSTPOS ;
 LEXICON POSTPOS    ! Postpositions that follow oblique case...There are Non-predicative, Predicative and Interrogative postpositions
 
 # ;
-%+u%<post%>:%>u # ; ! "for, to"
-%+yyo%<post%>:%>yyo # ; ! "for, to"
-%+kko%<post%>:%>kko # ; ! "toward"
-%+kkoo%<post%>:%>kkoo # ; ! "toward"
-%+ppe%<post%>:%>ppe # ; ! "from"
-%+ppe%<post%>:%>ppee # ; ! "from"
-%+ra%<post%>:%>ra # ; ! "with"
-%+ree%<post%>:%>ree # ; ! "with"
-%+ssi%<post%>:%>ssi # ; ! "for, to"
-%+ssa%<post%>:%>ssa # ; ! "for, to"
-%+ssee%<post%>:%>ssee # ; ! "for, to"
-%+ni%<post%>:%>ni # ; ! "in, at, by"
-%+ni%<post%>:%>n # ; ! Dir/LR
-!%+n%<post%>:%>n # ; ! "in, at, by"
-%+nee%<post%>:%>nee # ; ! "in, at, by"
-!%+daani%<post%>:daani # ; ! "like"
-%+daan%<post%>:daan # ; ! "like"
-!%+dani%<post%>:dani # ; ! "like"
-%+daana%<post%>:daana # ; ! "like"
-%+daanee%<post%>:daanee # ; ! "like"
-%+daani%<post%>:dan # ; ! Dir/LR
+%+u%<post%>:%>u CMN-To-All ; ! "for, to"
+%+yyo%<post%>:%>yyo CMN-To-All ; ! "for, to"
+%+kko%<post%>:%>kko CMN-To-All ; ! "toward"
+%+kkoo%<post%>:%>kkoo CMN-To-All ; ! "toward"
+%+ppe%<post%>:%>ppe CMN-To-All ; ! "from"
+%+ppe%<post%>:%>ppee CMN-To-All ; ! "from"
+%+ra%<post%>:%>ra CMN-To-All ; ! "with"
+%+ree%<post%>:%>ree CMN-To-All ; ! "with"
+%+ssi%<post%>:%>ssi CMN-To-All ; ! "for, to"
+%+ssa%<post%>:%>ssa CMN-To-All ; ! "for, to"
+%+ssee%<post%>:%>ssee CMN-To-All ; ! "for, to"
+%+ni%<post%>:%>ni CMN-To-All ; ! "in, at, by"
+%+ni%<post%>:%>n CMN-To-All ; ! Dir/LR
+!%+n%<post%>:%>n CMN-To-All ; ! "in, at, by"
+%+nee%<post%>:%>nee CMN-To-All ; ! "in, at, by"
+!%+daani%<post%>:daani CMN-To-All ; ! "like"
+%+daan%<post%>:daan CMN-To-All ; ! "like"
+!%+dani%<post%>:dani CMN-To-All ; ! "like"
+%+daana%<post%>:daana CMN-To-All ; ! "like"
+%+daanee%<post%>:daanee CMN-To-All ; ! "like"
+%+daani%<post%>:dan CMN-To-All ; ! Dir/LR
 
 ! To be seen again
 
-%+an%<post%>:%>an # ; ! "with, by means of"
-%+attin%<post%>:%>attin # ; ! ""
-%+aw%<post%>:%>aw # ; ! "for, to"
-%+awa%<post%>:%>awa # ; ! ""
-%+awan%<post%>:%>awan	# ; ! "where (at what place)"
-%+baa%<post%>:%>baa # ; ! "about"
-%+bolla%<post%>:%>bolla # ; ! ""
-%+bolli%<post%>:%>bolli # ; ! "1 • over"
-%+bolan%<post%>:%>bolan # ; ! 
-%+eessi%<post%>:%>eessi # ; ! "na'eessi to the girl"
-%+eessiis%<post%>:%>eessiis	# ; ! ""
-%+garssa%<post%>:%>garssa # ; ! ""
-%+garssaara%<post%>:%>garssaara # ; !
-%+garssan%<post%>:%>garssan	# ; ! "under, underneath, beneath"
-%+giddo%<post%>:%>giddo	# ; ! "among, between"
-%+giddon%<post%>:%>giddon # ; ! ""
-%+guye%<post%>:%>guye # ; ! "behind, beyond"
-%+huuphiyan%<post%>:%>huuphiyan # ; ! "on, on the top"
-%+ppe%<post%>:%>ppe	# ; ! "except"
-%+Y%<post%>:%>Y	# ; ! ""
-%+yyoo%<post%>:%>yyoo # ; ! "to, for"
+%+an%<post%>:%>an CMN-To-All ; ! "with, by means of"
+%+attin%<post%>:%>attin CMN-To-All ; ! ""
+%+aw%<post%>:%>aw CMN-To-All ; ! "for, to"
+%+awa%<post%>:%>awa CMN-To-All ; ! ""
+%+awan%<post%>:%>awan	CMN-To-All ; ! "where (at what place)"
+%+baa%<post%>:%>baa CMN-To-All ; ! "about"
+%+bolla%<post%>:%>bolla CMN-To-All ; ! ""
+%+bolli%<post%>:%>bolli CMN-To-All ; ! "1 • over"
+%+bolan%<post%>:%>bolan CMN-To-All ; ! 
+%+eessi%<post%>:%>eessi CMN-To-All ; ! "na'eessi to the girl"
+%+eessiis%<post%>:%>eessiis CMN-To-All ; ! ""
+%+garssa%<post%>:%>garssa CMN-To-All ; ! ""
+%+garssaara%<post%>:%>garssaara CMN-To-All ; !
+%+garssan%<post%>:%>garssan	CMN-To-All ; ! "under, underneath, beneath"
+%+giddo%<post%>:%>giddo	CMN-To-All ; ! "among, between"
+%+giddon%<post%>:%>giddon CMN-To-All ; ! ""
+%+guye%<post%>:%>guye CMN-To-All ; ! "behind, beyond"
+%+huuphiyan%<post%>:%>huuphiyan CMN-To-All ; ! "on, on the top"
+%+ppe%<post%>:%>ppe	CMN-To-All ; ! "except"
+%+Y%<post%>:%>Y	CMN-To-All ; ! ""
+%+yyoo%<post%>:%>yyoo CMN-To-All ; ! "to, for"
 
 LEXICON ITJ !
 
@@ -11001,10 +11009,10 @@ LEXICON NUM-1 !
 
 LEXICON NUM-1-INFL
 
-%<count%>:a # ;
-%<abs%>:uwa # ;
-%<obl%>:i # ;
-%<inter%>:oo # ;
+%<count%>:a CMN-To-All ;
+%<abs%>:uwa CMN-To-All ;
+%<obl%>:i CMN-To-All ;
+%<inter%>:oo CMN-To-All ;
 
 LEXICON NUM-2 ! 
 
@@ -11012,10 +11020,10 @@ LEXICON NUM-2 !
 
 LEXICON NUM-2-INFL
 
-%<count%>:a # ;
-%<abs%>:a # ;
-%<obl%>:u # ;
-%<inter%>:ee # ;
+%<count%>:a CMN-To-All ;
+%<abs%>:a CMN-To-All ;
+%<obl%>:u CMN-To-All ;
+%<inter%>:ee CMN-To-All ;
 
 LEXICON NUM-6 ! 
 
@@ -11023,10 +11031,10 @@ LEXICON NUM-6 !
 
 LEXICON NUM-6-INFL
 
-%<count%>:a # ;
-%<abs%>:a # ;
-%<obl%>: # ;
-%<inter%>:ee # ;
+%<count%>:a CMN-To-All ;
+%<abs%>:a CMN-To-All ;
+%<obl%>: CMN-To-All ;
+%<inter%>:ee CMN-To-All ;
 
 LEXICON NUM-11 !
 
@@ -11034,12 +11042,12 @@ LEXICON NUM-11 !
 
 LEXICON NUM-11-INFL
 
-%<count%>:o # ;
-%<abs%>:e # ;
-%<abs%>:o # ;
-%<obl%>:i # ;
-%<obl%>:e # ;
-%<inter%>:ee # ;
+%<count%>:o CMN-To-All ;
+%<abs%>:e CMN-To-All ;
+%<abs%>:o CMN-To-All ;
+%<obl%>:i CMN-To-All ;
+%<obl%>:e CMN-To-All ;
+%<inter%>:ee CMN-To-All ;
 
 LEXICON Punctuations
 
