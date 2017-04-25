@@ -35,6 +35,7 @@ Multichar_Symbols
 %<refl%>	! Reflexive
 %<nmlz%>	! Nominalizer
 %<inf%>		! Infinitive
+%<honplr%>	! Honorific, Pseudo-plural
 %>     		! Morpheme Boundary
 
 %<noncon%>    	! Non-concrete Noun form
@@ -79,13 +80,15 @@ LEXICON Root
 NounRoot ;
 VerbRoot ;
 Pronouns ;
-NumberRoot ;
-Punctuation ;
+Numerals ;
+Punctuations ;
 Interjections ;
 Adjectives ;
 Prepositions ;
 Connections ;
-Adverbs ;
+!Nmlz ;
+!POSTPOS ;
+Adverbs ;	
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!                          L E X I C O N                                  !!!
@@ -160,7 +163,7 @@ hammu:hammu ITJ ; ! "welcome"
 harddiidii:harddiidii ITJ ; ! "instigating word"
 hay:hay ITJ ;
 hay''ikka:hay''ikka ITJ ; ! "yes, of course"
-hay''i:hay''i ITJ ; ! "oh no (disapproval)"
+hay''i:hay''i ITJ ; ! "oh no"
 hayla:hayla ITJ ; ! "is that (negligence feeling)"
 aayyee'ana:aayyee'ana ITJ ;
 aayyee:aayyee ITJ ;
@@ -173,12 +176,12 @@ hi''i:hi''i ITJ ; ! "harassment word"
 hichchichchi:hichchichchi ITJ ; ! "brrr"
 hirkka:hirkka ITJ ; ! "order to its place (of cows)"
 hoddeshsho:hoddeshsho ITJ ; ! "why is it so"
-hoogee:hoogee ITJ ; ! "horror (expressing the feeling of horror)"
+hoogee:hoogee ITJ ; ! "horror"
 hoola:hoola ITJ ; ! "awesome"
 horro:horro ITJ ; ! "be quick"
 hurbbuti:hurbbuti ITJ ; ! "ok"
 demmakka:demmakka ITJ ; 
-ililili:ililili ITJ ; ! "thrilling sound (of jubilation)"
+ililili:ililili ITJ ; ! "thrilling sound"
 immeet:immeet ITJ ; ! "yes, yes"
 ishiki:ishiki ITJ ; ! "shoo away"
 ishsha:ishsha ITJ ; ! "stop"
@@ -191,14 +194,14 @@ kichchiki:kichchiki ITJ ;
 kuyi:kuyi ITJ ;
 tay:tay ITJ ;
 komppu:komppu ITJ ; ! "break"
-koshoshu:koshoshu ITJ ; ! "rustling (an expression of rustling sound)"
+koshoshu:koshoshu ITJ ; ! "rustling"
 kuyi:kuyi ITJ ;
 lichchi:lichchi ITJ ; ! "sit quickly"
 liphphi:liphphi ITJ ; ! "sudden taking"
 lo''uwan:lo''uwan ITJ ; ! "good-bye
 magani:magani ITJ ; ! "yes, absolutely"
 mayno:mayno ITJ ; ! "let stop"
-mishiraachcho:mishiraachcho ITJ ; ! "congratulations, hurrah, good news"
+mishiraachcho:mishiraachcho ITJ ; ! "congratulations, good news"
 naawa:naawa ITJ ; ! "swear, never"
 naw''asho:naw''asho ITJ ; ! "sorry"
 ye''e:ye''e ITJ ; ! ""
@@ -207,14 +210,14 @@ noore:noore ITJ ; ! "welcome"
 poora:poora ITJ ; ! ""
 haakko:haakko ITJ ; ! ""
 xeello:xeello ITJ ; ! ""
-piskki:piskki ITJ ; ! "scatter, an expression to say when something scattered suddenly"
+piskki:piskki ITJ ; ! "scatter"
 porqqu:porqqu ITJ ; ! "pull, pull forcefully"
-pozhzhu:pozhzhu ITJ ; ! "noise, the noise produced when something is torn away"
+pozhzhu:pozhzhu ITJ ; ! "noise"
 qayshe:qayshe ITJ ; ! "reply (of puzzle)"
 salqqi:salqqi ITJ ; ! "feel pain (of internal body)"
 saro:saro ITJ ; ! "hello"
-shinchchaalle:shinchchaalle ITJ ; ! "sorrow, be/sorry, sorrow for a loss"
-shukku:shukku ITJ ; ! "shoo way, a word to shoo away hens"
+shinchchaalle:shinchchaalle ITJ ; ! "sorrow"
+shukku:shukku ITJ ; ! "shoo way, "
 sirphphi:sirphphi ITJ ;
 taawulee:taawulee ITJ ; ! "my father"
 taayiloo:taayiloo ITJ ; ! "my mother"
@@ -299,27 +302,27 @@ ashkke:ashkke ADJ ; ! "humble, gentle, meek, good-mannered, polite, kind, long s
 asho:asho ADJ ; ! "fleshy"
 attenna:attenna ADJ ; ! "inevitable, obligatory"
 attida:attida ADJ ; ! "remaining"
-attuma:attuma ADJ ; ! "male, masculine"
-awaaqe:awaaqe ADJ ; ! "deceiving, pretending"
-axiraaro:axiraaro ADJ ; ! "prideful, conceited, boastful, arrogant, haughty, proud, fussy"
-axxo:axxo ADJ ; ! "big, great, huge, massive, large, tall, awesome, giant"
+attuma:attuma ADJ ; ! "male"
+awaaqe:awaaqe ADJ ; ! "deceiving"
+axiraaro:axiraaro ADJ ; ! "prideful"
+axxo:axxo ADJ ; ! "big"
 ayfe:ayfe ADJ ; ! "basic, vital"
 ayfettiya:ayfettiya ADJ ; ! "main"
 ayyaanawa:ayyaanawa ADJ ; ! "spiritual"
-azalla:azalla ADJ ; ! "weak, feeble, weary"
-azazettenna:azazettenna ADJ ; ! "disobedient, defiant"
+azalla:azalla ADJ ; ! "weak, feeble"
+azazettenna:azazettenna ADJ ; ! "disobedient"
 azazettiya:azazettiya ADJ ; ! "obedient"
-azzaniya:azzaniya ADJ ; ! "sorry, remorseful, repentant, sad, unhappy"
+azzaniya:azzaniya ADJ ; ! "sorry"
 azzanttiya:azzanttiya ADJ ; ! "sorrowful, sad, melancholy"
 ba'e:ba'e ADJ ; ! "successful"
-baa'ula:baa'ula ADJ ; ! "huge, large, fat, massive, big, great, tall, awesome"
-baaddiqeechchama:baaddiqeechchama ADJ ; ! "strong, not submissive (of men)"
+baa'ula:baa'ula ADJ ; ! "huge"
+baaddiqeechchama:baaddiqeechchama ADJ ; ! "strong (of men)"
 baadine:baadine ADJ ; ! "virgin, untouched"
 baadoochche:baadoochche ADJ ; ! ""
 baalige:baalige ADJ ; ! "rude, obscene"
 baalo:baalo ADJ ; ! "comfortable, luxurious"
 baara:baara ADJ ; ! "white (horse color)"
-baarigaara:baarigaara ADJ ; ! "adversary, hostile, antagonistic"
+baarigaara:baarigaara ADJ ; ! "adversary"
 baaso:baaso ADJ ; ! ""
 bacca:bacca ADJ ; ! "oval, spherical"
 baddo:baddo ADJ ; ! "prime (of number)"
@@ -327,50 +330,50 @@ bagga:bagga ADJ ; ! "half"
 bala:bala ADJ ; ! "mistaken, wrong"
 balanchcha:balanchcha ADJ ; ! "faulty, guilty"
 balase:balase ADJ ; ! "idle, lazy and unwilling to work"
-balettiya:balettiya ADJ ; ! "misleading, deceitful, mischievous, cheating, dishonest, fraudulent, untrustworthy, tricky, devious"
-balibakkiya:balibakkiya ADJ ; ! "deceitful, dishonest, fraudulent, untrustworthy, mischievous, cheating, tricky, devious, immoral"
-ban''a:ban''a ADJ ; ! "huge, big, great, massive, large, tall, awesome"
-banne:banne ADJ ; ! "huge, big, great, massive, large, awesome"
-banqqa:banqqa ADJ ; ! "comfortable, suitable, prosperous, convenient, well-to-do, opportune"
+balettiya:balettiya ADJ ; ! "misleading"
+balibakkiya:balibakkiya ADJ ; ! "deceitful"
+ban''a:ban''a ADJ ; ! "huge"
+banne:banne ADJ ; ! "huge"
+banqqa:banqqa ADJ ; ! "comfortable"
 bantta:bantta ADJ ; ! "their"
-baqe:baqe ADJ ; ! "clear, obvious, open, public"
+baqe:baqe ADJ ; ! "clear"
 baqettiya:baqettiya ADJ ; ! "mad, crazy"
 baqqo:baqqo ADJ ; ! "small, little"
 barjja:barjja ADJ ; ! "moderate light"
-bashino:bashino ADJ ; ! "black, solid black, extremely black"
-bashsha:bashsha ADJ ; ! "ruined, crumbling, invalid, destroyable, destructible"
+bashino:bashino ADJ ; ! "black"
+bashsha:bashsha ADJ ; ! "ruined, crumbling"
 baw'ida:baw'ida ADJ ; ! "heated (fire)"
 baxuuxa:baxuuxa ADJ ; ! "clingy, persistent"
-baylibayla:baylibayla ADJ ; ! "inconsistent, inconstant, unfaithful, changeable, flocculent"
+baylibayla:baylibayla ADJ ; ! "inconsistent"
 bayra:bayra ADJ ; ! "elder"
 baysa:baysa ADJ ; ! "deserted, empty"
 beceeccula:beceeccula ADJ ; ! "cunning, fraudulent, bogus"
 beegottida:beegottida ADJ ; ! "awake"
 beelibeela:beelibeela ADJ ; ! "inconspicuous, obscure"
 beettenna:beettenna ADJ ; ! "invisible"
-beettiya:beettiya ADJ ; ! "visible, magnificent, obvious"
+beettiya:beettiya ADJ ; ! "visible"
 beqeqqa:beqeqqa ADJ ; ! "abnormally big sized (of head)"
-besa:besa ADJ ; ! "much, many, a lot of, abundant, maximum, immense, innumerable, numerous, a great deal of, superabundant, plentiful"
-bese:bese ADJ ; ! "not twin, was born one (usually for sheep or goats)"
-bessenna:bessenna ADJ ; ! "unnecessary, not important, irrelevant"
-bessiya:bessiya ADJ ; ! "necessary, essential, desirable"
-biddanchcha:biddanchcha ADJ ; ! "talkative, verbose, garrulous, voluble"
-biiribiira:biiribiira ADJ ; ! "fidget, restless, edgy, overactive"
-biitta:biitta ADJ ; ! "dirty, filthy, stainable, garbagy, rubbishy"
-biixibiixa:biixibiixa ADJ ; ! "hasty, quick, restless"
+besa:besa ADJ ; ! "much, many"
+bese:bese ADJ ; ! "not twin (usually for sheep or goats)"
+bessenna:bessenna ADJ ; ! "unnecessary"
+bessiya:bessiya ADJ ; ! "necessary"
+biddanchcha:biddanchcha ADJ ; ! "talkative"
+biiribiira:biiribiira ADJ ; ! "fidget"
+biitta:biitta ADJ ; ! "dirty, filthy"
+biixibiixa:biixibiixa ADJ ; ! "hasty"
 bilcciina:bilcciina ADJ ; ! "fruitless, ineffective"
 bililintto:bililintto ADJ ; ! "smart, nice, tasty"
 binjjibinjja:binjjibinjja ADJ ; ! "fidgety"
 binjjilla:binjjilla ADJ ; ! "rigid, obstinate, stubborn, unyielding"
 birassa:birassa ADJ ; ! "an animal that has carried an offspring in its womb"
 bitaachcha:bitaachcha ADJ ; ! "naughty, bad-mannered"
-bixe:bixe ADJ ; ! "equal, the same age, belong to the same age, height, etc (of peer groups)"
+bixe:bixe ADJ ; ! "equal, the same age"
 biz''iya:biz''iya ADJ ; ! "stinging, painful"
 bizza:bizza ADJ ; ! "only child, a person who was born and brought up alone"
 bo''a:bo''a ADJ ; ! "bald, having little or no hair on the head"
 bobariya:bobariya ADJ ; ! "bolting"
-bobboxaama:bobboxaama ADJ ; ! "big, tall and big in size (of men or animals)"
-bodoojje:bodoojje ADJ ; ! "fierce, moody, hostile, bad-tempered, irritable, malicious"
+bobboxaama:bobboxaama ADJ ; ! "big"
+bodoojje:bodoojje ADJ ; ! "fierce, moody"
 boge:boge ADJ ; ! "quick, fast, hasty, restless, busy"
 bol''o:bol''o ADJ ; ! "warm, lukewarm"
 boljjojja:boljjojja ADJ ; ! "ripened yellow"
@@ -379,15 +382,15 @@ boncco:boncco ADJ ; ! "leafy"
 Bonchchettiya:Bonchchettiya ADJ ; ! "Excellency"
 bonchchiya:bonchchiya ADJ ; ! "respectful"
 bonchcho:bonchcho ADJ ; ! "decent, honourable, respected"
-bonddooshe:bonddooshe ADJ ; ! "ugly, discourteous, hideous, amorphous, shapeless"
+bonddooshe:bonddooshe ADJ ; ! "ugly"
 boocco:boocco ADJ ; ! "grassless, a place where no grass grows"
 booja:booja ADJ ; ! "sparkling, shiny"
 boolima:boolima ADJ ; ! "neat, tidy"
-boora:boora ADJ ; ! "big, giant, large, somebody or something larger than usual"
+boora:boora ADJ ; ! "big, giant"
 boore:boore ADJ ; ! "tan coloured (only for a horse)"
-booshiina:booshiina ADJ ; ! "brittle, fragile, breakable, delicate, weak"
+booshiina:booshiina ADJ ; ! "brittle"
 boosoolo:boosoolo ADJ ; ! "barren"
-booza:booza ADJ ; ! "slovenly, disrespectful, rude, careless, sloppy"
+booza:booza ADJ ; ! "slovenly"
 boqoqqa:boqoqqa ADJ ; ! "big-headed, moon-faced"
 boqoso:boqoso ADJ ; ! "shameful"
 borchchiborchcha:borchchiborchcha ADJ ; ! "rough, not smooth"
@@ -402,7 +405,7 @@ bulqqo:bulqqo ADJ ; ! "turbid, muddy, impure"
 bunjjibunjja:bunjjibunjja ADJ ; ! "ill-tempered"
 bunkkulaase:bunkkulaase ADJ ; ! "shot and fat"
 bunssuqa:bunssuqa ADJ ; ! "spoilt, dirty"
-buraaqiya:buraaqiya ADJ ; ! "gamboling, leaping playfully, leap or skip around playfully, skip like a calf"
+buraaqiya:buraaqiya ADJ ; ! "gamboling"
 burcce:burcce ADJ ; ! "piece, wee, lesser, slender, minute, tiny, diminutive, petite"
 burkkukka:burkkukka ADJ ; ! "fat, thick, chubby, obese, flabby"
 buruxo:buruxo ADJ ; ! "worthless, insignificant, useless"
@@ -486,9 +489,9 @@ dalalla:dalalla ADJ ; ! "level, with an even surface"
 dalbba:dalbba ADJ ; ! "A dalbba macaassa"
 dalgga:dalgga ADJ ; ! "wide"
 dallamma:dallamma ADJ ; ! "bland, tasteless"
-dallo:dallo ADJ ; ! "naughty, troublesome, mischievous, disobedient, difficult, obscure, notorious, awkward, crooked, obstinate, mulish, stubborn"
+dallo:dallo ADJ ; ! "naughty"
 dallumma:dallumma ADJ ; ! "dull, numb"
-dalqqidalqqa:dalqqidalqqa ADJ ; ! "lush, (of a plant or garden) growing thickly and strongly in a way that is attractive"
+dalqqidalqqa:dalqqidalqqa ADJ ; ! "lush"
 danaqa:danaqa ADJ ; ! "easy, comfortable, abundant, plentiful, luxurious"
 danddayanchcha:danddayanchcha ADJ ; ! "patient, placid, mild, tolerant, tough"
 danddayettenna:danddayettenna ADJ ; ! "impossible"
@@ -505,9 +508,9 @@ delphphephpha:delphphephpha ADJ ; ! "thick (of liquid)"
 dema:dema ADJ ; ! "a found thing"
 dembba:dembba ADJ ; ! "level"
 dere:dere ADJ ; ! "public"
-dere:dere ADJ ; ! "many, much, a lot of, a great deal of, numerous, plentiful, abundant, innumerable, large amount of things"
-desha:desha ADJ ; ! "naughty, troublesome, mischievous, disobedient"
-dibe:dibe ADJ ; ! "innumerable, many, much, a lot of, a great deal of, numerous, plentiful, abundant"
+dere:dere ADJ ; ! "many, much"
+desha:desha ADJ ; ! "naughty"
+dibe:dibe ADJ ; ! "innumerable"
 dicciya:dicciya ADJ ; ! "developing"
 digettida:digettida ADJ ; ! "forbidden (thing)"
 diidimaxe:diidimaxe ADJ ; ! "beautiful, handsome, charming, attractive"
@@ -517,7 +520,7 @@ dijitaale:dijitaale ADJ ; ! "dijitaale kaameeraa a digital camera"
 dijjaala:dijjaala ADJ ; ! "cunning, fraudulent, bogus, precocious"
 dilcciina:dilcciina ADJ ; ! "noisy, disputatious, talking and shouting with one another"
 dilica:dilica ADJ ; ! "pointless, pointless noisiness and playing (of small children)"
-diljjaawa:diljjaawa ADJ ; ! "naughty, defiant, disobedient, graceless, not appealing, not attractive"
+diljjaawa:diljjaawa ADJ ; ! "naughty"
 diljjo:diljjo ADJ ; ! "cunning, fraudulent, bogus"
 dillimma:dillimma ADJ ; ! "foolish"
 dimokiraase:dimokiraase ADJ ; ! "democratic"
@@ -575,9 +578,9 @@ ellelliya:ellelliya ADJ ; ! "hasty, quick, hurry"
 enkkekka:enkkekka ADJ ; ! "careless, reckless, not ready"
 enkkesheesha:enkkesheesha ADJ ; ! "careless, reckless, not ready, untidy"
 eqa:eqa ADJ ; ! "abnormally tall, ill proportioned"
-eranchcha:eranchcha ADJ ; ! "knowledgeable, hearty, wise, intelligent, competent, fit, capable, literate, educated, outstanding, understanding"
+eranchcha:eranchcha ADJ ; ! "knowledgeable"
 erettenna:erettenna ADJ ; ! "unknown, unclear"
-erettida:erettida ADJ ; ! "well-known, prominent, popular, noticeable, famous, noted, acquaintance"
+erettida:erettida ADJ ; ! "well-known"
 erisso:erisso ADJ ; ! "carbon-copy (of letters)"
 eta:eta ADJ ; ! "their (their person plural possessive ADJective)"
 ga'usha:ga'usha ADJ ; ! "massive, huge, big, great, large, tall, awesome"
@@ -606,7 +609,7 @@ gammaama:gammaama ADJ ; ! "furry"
 gaphigapha:gaphigapha ADJ ; ! "voracious, insatiable, unquenchable, unsatisfiable"
 garanttiya:garanttiya ADJ ; ! "amazing, marvelous, miraclous"
 garccigarcca:garccigarcca ADJ ; ! "gristly (of meat not easy for chewing)"
-garchchiya:garchchiya ADJ ; ! "disobedient, rebellious, defiant, resistant, fractious, quarrelsome, opposing, violent, moody, furious, bad-tempered, irritable"
+garchchiya:garchchiya ADJ ; ! "disobedient"
 gashaada:gashaada ADJ ; ! "skinny, thin, gaunt"
 gashe:gashe ADJ ; ! "deadly, incurable, serious"
 gashetiya:gashetiya ADJ ; ! "sick, fatigable, sufferable, ill, unwell"
@@ -2440,7 +2443,7 @@ baqqo:baqqo ADJ ;
 wunuqa:wunuqa ADJ ;
 teeshsho:teeshsho ADJ ;
 woocetta:woocetta ADJ ;
-qii:qii ADJ ;
+qii:qii ADJ ; ! "small"
 qeeri:qeeri ADJ ;
 xoyta:xoyta ADJ ;
 shaqa:shaqa ADJ ;
@@ -2478,10 +2481,14 @@ xiba:xiba ADJ ;
 makkala:makkala ADJ ;
 garchchiya:garchchiya ADJ ;
 miiqqiya:miiqqiya ADJ ;
-
+aappunaa:aappunaa ADJ ; ! "How much"
 
 LEXICON Prepositions
 
+aappunaa:aappunaa PREP ; ! "how many"
+aappunee:aappunee PREP ; ! "how many"
+diya:diya PREP ; ! "To be seen"
+diyo:diyo PREP ; ! "To be seen"
 giddon:giddon PREP ; ! "among"
 giddo:giddo PREP ; ! "between"
 giddoppe:giddoppe PREP ; ! "between, among"
@@ -2494,33 +2501,42 @@ hegaattoo:hegaattoo PREP ; ! ""
 hegaanne:hegaanne PREP ; ! ""
 hegaa:hegaa PREP ; ! ""
 malatiya:malatiya PREP ; ! ""
-ussi:ussi PREP ; ! "Ex Naatussi"
+
+!To be seen
+!ussi:ussi PREP ; ! "Ex Naatussi"
 
 LEXICON Connections
 
+attin:attin CONN ; ! Except
 woy:woy CONN ; ! "either, neither"
+woykko:woykko CONN ; ! "either, neither"
 gishshaw:gishshaw CONN ; ! "because"
 gishshawu:gishshawu CONN ; ! "because"
 gishshaassi:gishshaassi CONN ; ! "because"
-attin:attin  CONN ; ! " except"
-giikko:giikko  CONN ; ! " because"
-ayssiis:ayssiis  CONN ; ! " because"
-ayzziis:ayzziis  CONN ; ! " because"
-gakkanaashin:gakkanaashin  CONN ; ! " nutil"
-gakkanaassi:gakkanaassi  CONN ; ! " until"
-gakkanaayyoo:gakkanaayyoo  CONN ; ! " still"
-gishshaassi:gishshaassi  CONN ; ! ""
-gishshataw:gishshataw  CONN ; ! ""
-hagaatto:hagaatto  CONN ; ! " like this"
-kko:kko  CONN ; ! ""
-kkokka:kkokka  CONN ; ! ""
-nne:nne  CONN ; ! ""
-shin:shin  CONN ; ! ""
-xayikko:xayikko  CONN ; ! ""
-yye:yye  CONN ; ! "
+attin:attin CONN ; ! " except"
+giikko:giikko CONN ; ! " because"
+ayssiis:ayssiis CONN ; ! " because"
+ayzziis:ayzziis CONN ; ! " because"
+gakkanaashin:gakkanaashin CONN ; ! " nutil"
+gakkanaassi:gakkanaassi CONN ; ! " until"
+gakkanaayyoo:gakkanaayyoo CONN ; ! " still"
+gishshaassi:gishshaassi CONN ; ! "because, hence"
+gishshataw:gishshataw CONN ; ! "therefore Eg. haga gishshataw"
+gishshaw:gishshaw CONN ; ! "therefore Eg. haga gishshataw"
+hagaatto:hagaatto CONN ; ! " like this"
+naa''aappe:naa''aappe CONN ; ! "either or"
+shin:shin CONN ; ! "but"
+xayikko:xayikko CONN ; ! "Unless"
+hankkoode:hankkoode CONN ; ! "Unless"
+hinkkoode:hinkkoode CONN ; ! "otherwise"
+kko:kko CONN ; ! "even if eg. eriyakkonne, yiikko"
+kkokka:kkokka CONN ; ! ""
+yye:yye CONN ; ! "Eg. koyayiyye"
+nne:nne CONN ; ! "and"  !Attaches to any category...Reference WolDict
 
 LEXICON Adverbs
 
+hagee:hagee ADV ; ! "To be seen"
 qassi:qassi ADV ; ! "again"
 qa:qa ADV ; ! "again"
 milxxi:milxxi ADV ; ! "completely"
@@ -2905,6 +2921,7 @@ adab:adab N-M-CMN-A ; ! "abundance"
 adaraash:adaraash N-M-CMN-A ; ! "address"
 addaraash:addaraash N-M-CMN-A ; ! "hall"
 adum:adum N-M-CMN-A ; ! "village chief"
+adussas:adussas N-M-CMN-A ; ! "long distance"
 adussatett:adussatett N-M-CMN-A ; ! "length, height"
 afal:afal N-M-CMN-A ; ! "heavy cotton blanket or cloak"
 afarssaat:afarssaat N-M-CMN-A ; ! "investigation, identifying a criminal (for a community so as to identify or detect a wrongdoer)"
@@ -3310,6 +3327,7 @@ dambburss:dambburss N-M-CMN-A ; ! "small plant, a kind of small plant whose leav
 dambburss:dambburss N-M-CMN-A ; ! "caterpillar, caterpillar-like small animal which may cause swelling on people's skin when touched"
 damooz:damooz N-M-CMN-A ; ! "salary, wage"
 danaq:danaq N-M-CMN-A ; ! "comfort, abundance, plenty, luxury"
+danccett:danccett N-M-CMN-A ; ! ""
 dandday:dandday N-M-CMN-A ; ! "patience, tolerance, endurance"
 danddirett:danddirett N-M-CMN-A ; ! "a small plant"
 danggarss:danggarss N-M-CMN-A ; ! "elephant"
@@ -3362,7 +3380,6 @@ dir:dir N-M-CMN-A ; ! "place, area"
 dir:dir N-M-CMN-A ; ! "dialect"
 diraam:diraam N-M-CMN-A ; ! "drama"
 dirbb:dirbb N-M-CMN-A ; ! "I dirbban kariya dooyiis"
-dirbb:dirbb N-M-CMN-A ; ! ""
 dirimett:dirimett N-M-CMN-A ; ! "hitting hard, slugging"
 dirqqallett:dirqqallett N-M-CMN-A ; ! "mess, chaotic situation, deviation, manipulation"
 dirss:dirss N-M-CMN-A ; ! "fence"
@@ -3839,8 +3856,9 @@ itim:itim N-M-CMN-A ; ! "powder of false banana"
 ixaan:ixaan N-M-CMN-A ; ! "incense, bitter frankincense"
 jaakirett:jaakirett N-M-CMN-A ; ! "hurriedness, haste, rush, pace, speed, uproar"
 jaal:jaal N-M-CMN-A ; ! "friend (sponsor at circumcision) but honored and revered for life (male)"
+jaam:jaam N-M-CMN-A ; ! "" 
 jaban:jaban N-M-CMN-A ; ! "coffee pot, kettle"
-jabbijabb:jabbijabb N-M-CMN-A ; ! "syn: bogiya , dirbbaa, eesuwa, tama danccettaa, kiirikiiraa, kiirimettaa, kitikittuwa, jaakirettaa, jaamaa, palaadiya, dibilaa, kiirinttaa, bichchaarettaa"
+jabbijabb:jabbijabb N-M-CMN-A ; ! ""
 jam:jam N-M-CMN-A ; ! "association members, audience, legion"
 jawss:jawss N-M-CMN-A ; ! "gangister, raketeer, bandit, robber, kidnapper"
 jibb:jibb N-M-CMN-A ; ! "carpet"
@@ -3932,6 +3950,8 @@ kess:kess N-M-CMN-A ; ! "dispatch, act of sending out"
 kex:kex N-M-CMN-A ; ! "bird/family, a kind of bird  having very white feathers"
 kififf:kififf N-M-CMN-A ; ! "pride, conceit, boast, haughtiness, fuss"
 kiirikiir:kiirikiir N-M-CMN-A ; ! "haste, rushing, rush"
+kiirimett:kiirimett N-M-CMN-A ; ! "" 
+kiirintt:kiirintt N-M-CMN-A ; ! ""  
 kiishett:kiishett N-M-CMN-A ; ! "syn: harumaa, bul"iya"
 kiit:kiit N-M-CMN-A ; ! "message"
 kiitanchch:kiitanchch N-M-CMN-A ; ! "angel, a divine being who acts as a messenger of God"
@@ -4272,6 +4292,7 @@ muuruq:muuruq N-M-CMN-A ; ! "mucus, slime, snot"
 muuxett:muuxett N-M-CMN-A ; ! ""
 muxuxett:muxuxett N-M-CMN-A ; ! "hiss, loud continuous sound of  “s”"
 muyl:muyl N-M-CMN-A ; ! "upper grindstone"
+na':na' N-M-CMN-A ; ! "child"
 na'atett:na'atett N-M-CMN-A ; ! "childhood"
 naachch:naachch N-M-CMN-A ; ! "joke, humour, jest, gag, prank"
 naaganchch:naaganchch N-M-CMN-A ; ! "guard, keeper, custodian"
@@ -4511,6 +4532,7 @@ qit:qit N-M-CMN-A ; ! "Qitaara diya maayuwa maayada asa sinttan eqqoppa, hayyana
 qixett:qixett N-M-CMN-A ; ! "removal (of leaves)"
 qoc:qoc N-M-CMN-A ; ! "market, small market in a village"
 qodett:qodett N-M-CMN-A ; ! "scolding, rebuke, terror, scare, intimidiation"
+qof:qof N-M-CMN-A ; ! "remembering"
 qofissiyag:qofissiyag N-M-CMN-A ; ! "reminder"
 qohidaag:qohidaag N-M-CMN-A ; ! "attacker"
 qohiyag:qohiyag N-M-CMN-A ; ! "hurter, attacker"
@@ -7724,6 +7746,7 @@ danqq:danqq V-IV ; ! "be tick infested"
 dar:dar V-IV ; ! "increase, add"
 dec:dec V-IV ; ! "soothe"
 deddot:deddot V-IV ; ! "stutter"
+deʼ:deʼ V-IV ; ! "dwell, survive"
 deeʼʼ:deeʼʼ V-IV ; ! "fester Masunttay"
 deell:deell V-IV ; ! "puddle"
 deemaar:deemaar V-IV ; ! "be abundant"
@@ -10112,19 +10135,6 @@ g:geetett V-IV-PASS-ETT ; ! "to say"
 ep:ep%{V%} V-IV ; ! "to take"
 ep:epeetett V-IV-PASS-ETT ; ! "to take"
 
-LEXICON NumberRoot
-
-iss:iss NUM-1 ; ! "1"
-naʼʼ:naʼʼ NUM-2 ; ! "2"
-heezz:heezz NUM-2 ; ! "3"
-oydd:oydd NUM-2 ; ! "4"
-ichchash:ichchash NUM-2 ; ! "5"
-usuppun:usuppun NUM-6 ; ! "6"
-laappun:laappun NUM-6 ; ! "7"
-hospun:hospun NUM-6 ; ! "8"
-uddufun:uddufun NUM-6 ; ! "9"
-tamm:tamm NUM-2 ; ! "10"
-isiin:isiin NUM-11 ; ! "11"
 
 !LEXICON RegNounInfl
 
@@ -10169,28 +10179,28 @@ LEXICON N-F-PRSNAME ! Feminin common nouns
 
 LEXICON N-M-CMN-A-INFL
 
-%<noncon%>%<abs%>:aamaa # ;
-%<noncon%>%<abs%>:aacaa # ;
+%<noncon%>%<abs%>:aamaa CMN-To-All ;
+%<noncon%>%<abs%>:aacaa CMN-To-All ;
 %<noncon%>%<abs%>:ummaa # ;
 %<noncon%>%<abs%>:atettaa # ;
 %<noncon%>%<abs%>:otettaa # ;
 %<noncon%>%<abs%>:attuwa # ;
  
-%<noncon%>%<abs%>:a # ;
-%<noncon%>%<obl%>:a # ;
-%<noncon%>%<nom%>:i # ;
-%<noncon%>%<inter%>:ee # ;
-%<noncon%>%<voc%>:oo # ;
-%<con%>%<sing%>%<abs%>:aa # ;
-%<con%>%<sing%>%<obl%>:aa # ;
-%<con%>%<sing%>%<nom%>:ay # ;
-%<con%>%<sing%>%<inter%>:ay # ;
-%<con%>%<sing%>%<voc%>:aw # ;
-%<con%>%<plr%>%<abs%>:ata # ;
-%<con%>%<plr%>%<obl%>:atu # ;
-%<con%>%<plr%>%<nom%>:ati # ;
-%<con%>%<plr%>%<inter%>:atee # ;
-%<con%>%<plr%>%<voc%>:atoo # ;
+%<noncon%>%<abs%>:a CMN-To-All ;
+%<noncon%>%<obl%>:a CMN-To-All ;
+%<noncon%>%<nom%>:i CMN-To-All ;
+%<noncon%>%<inter%>:ee CMN-To-All ;
+%<noncon%>%<voc%>:oo CMN-To-All ;
+%<con%>%<sing%>%<abs%>:aa CMN-To-All ;
+%<con%>%<sing%>%<obl%>:aa CMN-To-All ;
+%<con%>%<sing%>%<nom%>:ay CMN-To-All ;
+%<con%>%<sing%>%<inter%>:ay CMN-To-All ;
+%<con%>%<sing%>%<voc%>:aw CMN-To-All ;
+%<con%>%<plr%>%<abs%>:ata CMN-To-All ;
+%<con%>%<plr%>%<obl%>:atu CMN-To-All ;
+%<con%>%<plr%>%<nom%>:ati CMN-To-All ;
+%<con%>%<plr%>%<inter%>:atee CMN-To-All ;
+%<con%>%<plr%>%<voc%>:atoo CMN-To-All ;
 
 LEXICON N-M-CMN-E-INFL
 
@@ -10338,6 +10348,11 @@ LEXICON N-F-PRSNAME-INFL
 %<nom%>:a # ;
 %<inter%>:ii # ;
 %<voc%>:ee # ;
+
+LEXICON CMN-To-All
+
+# ;
+%<and%>:nne # ;
 
 LEXICON V-TV
 
@@ -10534,8 +10549,10 @@ LEXICON VERB-LongCnvb
 LEXICON VERB-Simu            ! simu expresses while
 
 %<simu%>%<p1%>%<sing%>:aydaa # ;
+%<simu%>%<p1%>%<sing%>:aidda # ;
 %<simu%>%<p1%>%<plr%>:iiddi # ;
 %<simu%>%<p2%>%<sing%>:aydaa # ;
+%<simu%>%<p2%>%<sing%>:aidda # ;
 %<simu%>%<p2%>%<plr%>:iiddi # ;
 %<simu%>%<p3%>%<sing%>%<fem%>:aydaa # ;
 %<simu%>%<p3%>%<sing%>%<masc%>:iiddi # ;
@@ -10543,41 +10560,66 @@ LEXICON VERB-Simu            ! simu expresses while
 
 LEXICON VERB-Rel   			! how to direct to nmlz   -  Verbal Adjective <gpr>
 
-%<rel%>%<impf%>%<sub%>:iya Nmlz ; 
-%<rel%>%<prf%>%<sub%>:o Nmlz ;
-%<rel%>%<prf%>%<sub%>:ido Nmlz ;
-%<rel%>%<impf%>%<nsub%>:iyo Nmlz ;
-%<rel%>%<prf%>%<nsub%>:a Nmlz ;
-%<rel%>%<prf%>%<nsub%>:ida Nmlz ;
-%<rel%>%<fut%>:aanaa Nmlz ;
+%<rel%>%<impf%>%<sub%>:iya Nmlz ; ! Relative sub referes to subject oriented
+%<rel%>%<prf%>%<sub%>:a Nmlz ;
+%<rel%>%<prf%>%<sub%>:ida Nmlz ;
+%<rel%>%<impf%>%<nsub%>:iyo Nmlz ; ! Relative nsub referes to non-subject oriented
+%<rel%>%<prf%>%<nsub%>:o Nmlz ;
+%<rel%>%<prf%>%<nsub%>:ido Nmlz ;
+%<rel%>%<fut%>:ana Nmlz ;
+%<rel%>%<inter%>:enna Nmlz ;
+%<rel%>:abeenna Nmlz ;   ! To be seen
+%<rel%>:ibeenna Nmlz ;   ! To be seen
+
 
 LEXICON VERB-Inf
 
-%<inf%>%<abs%>:ana POSTPOS ; 
-%<inf%>%<abs%>%<sg%>:anaa POSTPOS ; 
-%<inf%>%<obl%>:ana POSTPOS ; 
-%<inf%>%<obl%>%<sg%>:anaa POSTPOS ; 
-%<inf%>%<nom%>%<sg%>:anai POSTPOS ; 
-%<inf%>%<inter%>:anee POSTPOS ; 
+%<inf%>%<noncon%>%<abs%>:ana POSTPOS ; 
+%<inf%>%<con%>%<abs%>%<sing%>:anaa POSTPOS ; 
+%<inf%>%<noncon%>%<obl%>:ana POSTPOS ; 
+%<inf%>%<con%>%<obl%>%<sing%>:anaa POSTPOS ; 
+%<inf%>%<con%>%<nom%>%<sing%>:anai POSTPOS ; 
+%<inf%>%<noncon%>%<inter%>:anee POSTPOS ; 
+%<inf%>%<noncon%>%<neg%>%<abs%>:enna POSTPOS ; 
+%<inf%>%<noncon%>%<neg%>%<obl%>:enna POSTPOS ;
+%<inf%>%<noncon%>%<neg%>%<inter%>:ennee POSTPOS ;
+%<inf%>%<con%>%<neg%>%<abs%>%<sing%>:ennaa POSTPOS ;
+%<inf%>%<con%>%<neg%>%<obl%>%<sing%>:ennaa POSTPOS ;
+%<inf%>%<con%>%<neg%>%<nom%>:ennai POSTPOS ;
 
-LEXICON Nmlz                      ! This is Gerund / Verbal Noun: <ger>
+
+LEXICON Nmlz       ! Nominalizers          This is Gerund / Verbal Noun: <ger>
 
 # ;
 %<nmlz%>%<sing%>%<masc%>%<abs%>:gaa # ;
 %<nmlz%>%<plr%>%<masc%>%<abs%>:geeta # ;
 %<nmlz%>%<sing%>%<fem%>%<abs%>:ro # ;
+
+%<nmlz%>%<honplr%>%<abs%>:nta # ;
+
 %<nmlz%>%<sing%>%<masc%>%<obl%>:gaa POSTPOS ;
 %<nmlz%>%<plr%>%<masc%>%<obl%>:geetu POSTPOS ;
 %<nmlz%>%<sing%>%<fem%>%<obl%>:ri POSTPOS ;
+
+%<nmlz%>%<honplr%>%<obl%>:nta # ;
+
 %<nmlz%>%<sing%>%<masc%>%<nom%>:gee # ;
 %<nmlz%>%<plr%>%<masc%>%<nom%>:geeti # ;
 %<nmlz%>%<sing%>%<fem%>%<nom%>:ra # ;
+
+%<nmlz%>%<honplr%>%<nom%>:nti # ;
+
 %<nmlz%>%<sing%>%<masc%>%<inter%>:gee # ;
 %<nmlz%>%<plr%>%<masc%>%<inter%>:geetee # ;
 %<nmlz%>%<sing%>%<fem%>%<inter%>:ri # ;
+
+%<nmlz%>%<honplr%>%<abs%>:ntee # ;
+
 %<nmlz%>%<sing%>%<masc%>%<voc%>:goo # ;
 %<nmlz%>%<plr%>%<masc%>%<voc%>:geetoo # ;
 %<nmlz%>%<sing%>%<fem%>%<voc%>:ree # ;
+
+%<nmlz%>%<honplr%>%<voc%>:ntoo # ;
 
 LEXICON VERB-Cau
 
@@ -10676,6 +10718,7 @@ LEXICON PRONOUN-1-P
 
 LEXICON PRONOUN-1-P-FORMS
 
+# ;
 %<abs%>:na INFL-ABS-PRONOUN ; ! "us"
 %<obl%>: INFL-OBL-PRONOUN-COMMON ; ! "we"
 %<obl%>:u INFL-OBL-PRONOUN-COMMON ; ! "we"
@@ -10749,103 +10792,151 @@ LEXICON PRONOUN-3-P-FORMS
 
 LEXICON PRONOUN-3-SG-A
 
-%<prn%>%<abs%>%<p3%>%<masc%>%<sing%>: # ;
+%<prn%>%<abs%>%<p3%>%<masc%>%<sing%>: CMN-To-All ;
+Nmlz ;
+POSTPOS ;
 
 LEXICON PRONOUN-3-SG-O
 
-%<prn%>%<obl%>%<p3%>%<masc%>%<sing%>: # ;
+%<prn%>%<obl%>%<p3%>%<masc%>%<sing%>: CMN-To-All ;
+Nmlz ;
+POSTPOS ;
 
 LEXICON PRONOUN-3-SG-N
 
-%<prn%>%<nom%>%<p3%>%<masc%>%<sing%>: # ;
+%<prn%>%<nom%>%<p3%>%<masc%>%<sing%>: CMN-To-All ;
+Nmlz ;
+POSTPOS ;
 
 LEXICON PRONOUN-3-SG-I
 
-%<prn%>%<inter%>%<p3%>%<masc%>%<sing%>: # ;
+%<prn%>%<inter%>%<p3%>%<masc%>%<sing%>: CMN-To-All ;
+Nmlz ;
+POSTPOS ;
 
 LEXICON PRONOUN-3-SGF-A
 
-%<prn%>%<abs%>%<p3%>%<fem%>%<sing%>: # ;
+%<prn%>%<abs%>%<p3%>%<fem%>%<sing%>: CMN-To-All ;
+Nmlz ;
+POSTPOS ;
 
 LEXICON PRONOUN-3-SGF-O
 
-%<prn%>%<obl%>%<p3%>%<fem%>%<sing%>: # ;
+%<prn%>%<obl%>%<p3%>%<fem%>%<sing%>: CMN-To-All ;
+Nmlz ;
+POSTPOS ;
 
 LEXICON PRONOUN-3-SGF-N
 
-%<prn%>%<nom%>%<p3%>%<fem%>%<sing%>: # ;
+%<prn%>%<nom%>%<p3%>%<fem%>%<sing%>: CMN-To-All ;
+Nmlz ;
+POSTPOS ;
 
 LEXICON PRONOUN-3-SGF-I
 
-%<prn%>%<inter%>%<p3%>%<fem%>%<sing%>: # ;
+%<prn%>%<inter%>%<p3%>%<fem%>%<sing%>: CMN-To-All ;
+Nmlz ;
+POSTPOS ;
 
 LEXICON PRONOUN-3-PL-A
 
-%<prn%>%<abs%>%<p3%>%<fem%>%<sing%>: # ;
+%<prn%>%<abs%>%<p3%>%<fem%>%<sing%>: CMN-To-All ;
+Nmlz ;
+POSTPOS ;
 
 LEXICON PRONOUN-3-PL-O
 
-%<prn%>%<obl%>%<p3%>%<fem%>%<sing%>: # ;
+%<prn%>%<obl%>%<p3%>%<fem%>%<sing%>: CMN-To-All ;
+Nmlz ;
+POSTPOS ;
 
 LEXICON PRONOUN-3-PL-N
 
-%<prn%>%<nom%>%<p3%>%<fem%>%<sing%>: # ;
+%<prn%>%<nom%>%<p3%>%<fem%>%<sing%>: CMN-To-All ;
+POSTPOS ;
 
 LEXICON PRONOUN-3-PL-I
 
-%<prn%>%<inter%>%<p3%>%<fem%>%<sing%>: # ;
+%<prn%>%<inter%>%<p3%>%<fem%>%<sing%>: CMN-To-All ;
+Nmlz ;
+POSTPOS ;
 
 LEXICON INFL-ABS-PRONOUN
 
-# ; 
+# ;
+Nmlz ; 
+POSTPOS ;
 
 LEXICON INFL-OBL-PRONOUN
 
 # ;
+Nmlz ;
 INFL-OBL-PRONOUN-COMMON ;
+POSTPOS ;
 
 LEXICON INFL-OBL-PRONOUN-COMMON
 
 # ; 
+Nmlz ;
 POSTPOS ;
 PRON-NOMINALIZERS-OBL ;
 
 LEXICON INFL-NOM-PRONOUN
 
 # ; 
+Nmlz ;
+POSTPOS ;
 
 LEXICON INFL-INTER-PRONOUN
 
 # ; 
+Nmlz ;
+POSTPOS ;
 
 LEXICON INFL-VOC-PRONOUN
 
 # ; 
+Nmlz ;
+POSTPOS ;
 
 LEXICON PRON-NOMINALIZERS-OBL
 
 # ;
 Nmlz ;
+POSTPOS ;
 
 LEXICON PRON-NOMINALIZERS-OBL-INFL
 
 # ;
+Nmlz ;
 POSTPOS ;
 
-LEXICON POSTPOS ! Postpositions that follow oblique case
+LEXICON POSTPOS    ! Postpositions that follow oblique case...There are Non-predicative, Predicative and Interrogative postpositions
 
 # ;
-%+ra%<post%>:%>ra # ;
-%+kko%<post%>:%>kko # ;
-%+ppe%<post%>:%>ppe # ;
-%+ssi%<post%>:%>ssi # ;
-%+ni%<post%>:%>ni # ;
+%+u%<post%>:%>u # ; ! "for, to"
+%+yyo%<post%>:%>yyo # ; ! "for, to"
+%+kko%<post%>:%>kko # ; ! "toward"
+%+kkoo%<post%>:%>kkoo # ; ! "toward"
+%+ppe%<post%>:%>ppe # ; ! "from"
+%+ppe%<post%>:%>ppee # ; ! "from"
+%+ra%<post%>:%>ra # ; ! "with"
+%+ree%<post%>:%>ree # ; ! "with"
+%+ssi%<post%>:%>ssi # ; ! "for, to"
+%+ssa%<post%>:%>ssa # ; ! "for, to"
+%+ssee%<post%>:%>ssee # ; ! "for, to"
+%+ni%<post%>:%>ni # ; ! "in, at, by"
 %+ni%<post%>:%>n # ; ! Dir/LR
-%+daani%<post%>:daani # ;
+!%+n%<post%>:%>n # ; ! "in, at, by"
+%+nee%<post%>:%>nee # ; ! "in, at, by"
+!%+daani%<post%>:daani # ; ! "like"
+%+daan%<post%>:daan # ; ! "like"
+!%+dani%<post%>:dani # ; ! "like"
+%+daana%<post%>:daana # ; ! "like"
+%+daanee%<post%>:daanee # ; ! "like"
 %+daani%<post%>:dan # ; ! Dir/LR
 
 ! To be seen again
-
 
 %+an%<post%>:%>an # ; ! "with, by means of"
 %+attin%<post%>:%>attin # ; ! ""
@@ -10854,24 +10945,20 @@ LEXICON POSTPOS ! Postpositions that follow oblique case
 %+awan%<post%>:%>awan	# ; ! "where (at what place)"
 %+baa%<post%>:%>baa # ; ! "about"
 %+bolla%<post%>:%>bolla # ; ! ""
-!bolli:bolli # ; ! "1 • over"
-!bolan:bolan # ; ! 
-!eessi:eessi # ; ! "na'eessi to the girl"
-!eessiis:eessiis	# ; ! ""
-!garssa:garssa # ; ! ""
-!garssaara:garssaara # ; !
-!garssan:garssan	# ; ! "under, underneath, beneath"
-!giddo:giddo	# ; ! "among, between"
-!giddon:giddon # ; ! ""
-!guye:guye # ; ! "behind, beyond"
-!huuphiyan:huuphiyan # ; ! "on, on the top"
+%+bolli%<post%>:%>bolli # ; ! "1 • over"
+%+bolan%<post%>:%>bolan # ; ! 
+%+eessi%<post%>:%>eessi # ; ! "na'eessi to the girl"
+%+eessiis%<post%>:%>eessiis	# ; ! ""
+%+garssa%<post%>:%>garssa # ; ! ""
+%+garssaara%<post%>:%>garssaara # ; !
+%+garssan%<post%>:%>garssan	# ; ! "under, underneath, beneath"
+%+giddo%<post%>:%>giddo	# ; ! "among, between"
+%+giddon%<post%>:%>giddon # ; ! ""
+%+guye%<post%>:%>guye # ; ! "behind, beyond"
+%+huuphiyan%<post%>:%>huuphiyan # ; ! "on, on the top"
 %+ppe%<post%>:%>ppe	# ; ! "except"
-%+ra%<post%>:%>ra # ; ! "with"
-%+ssi%<post%>:%>ssi # ; ! ""
 %+Y%<post%>:%>Y	# ; ! ""
 %+yyoo%<post%>:%>yyoo # ; ! "to, for"
-
-
 
 LEXICON ITJ !
 
@@ -10892,6 +10979,21 @@ LEXICON CONN !
 LEXICON ADV !
 
 %<adv%>: # ;
+
+LEXICON Numerals
+
+ist:ist NUM-1 ; ! "1" Only works for Num 1 inf count
+iss:iss NUM-1 ; ! "1"
+naʼʼ:naʼʼ NUM-2 ; ! "2"
+heezz:heezz NUM-2 ; ! "3"
+oydd:oydd NUM-2 ; ! "4"
+ichchash:ichchash NUM-2 ; ! "5"
+usuppun:usuppun NUM-6 ; ! "6"
+laappun:laappun NUM-6 ; ! "7"
+hospun:hospun NUM-6 ; ! "8"
+uddufun:uddufun NUM-6 ; ! "9"
+tamm:tamm NUM-2 ; ! "10"
+isiin:isiin NUM-11 ; ! "11"
 
 LEXICON NUM-1 ! 
 
@@ -10939,7 +11041,7 @@ LEXICON NUM-11-INFL
 %<obl%>:e # ;
 %<inter%>:ee # ;
 
-LEXICON Punctuation
+LEXICON Punctuations
 
 %.%<sent%>:%. # ;
 %.%.%<sent%>:%.%. # ;
@@ -10965,10 +11067,10 @@ LEXICON Punctuation
 %]%<rpar%>:%] # ;
 %[%<lpar%>:%[ # ;
 %)%<rpar%>:%) # ;
-%\%<sent%>:%\ # ;
 %/%<sent%>:%/ # ;
 
 	
+%\%<sent%>:%\ # ;
 
 
 
