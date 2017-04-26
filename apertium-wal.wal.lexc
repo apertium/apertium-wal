@@ -2550,6 +2550,7 @@ hagee:hagee ADV ; ! "To be seen"
 qassi:qassi ADV ; ! "again"
 qa:qa ADV ; ! "again"
 milxxi:milxxi ADV ; ! "completely"
+nuppu:nuppu ADV ; !
 woqqa:woqqa ADV ; ! ""
 hagaara:hagaara ADV ; ! "this way"
 gidiyo:gidiyo ADV ; ! ""
@@ -4197,6 +4198,7 @@ maqat:maqat N-M-CMN-A ; ! "residue (from dough of  'enset')"
 maqat:maqat N-M-CMN-A ; ! "sperm, semen"
 maqettiyag:maqettiyag N-M-CMN-A ; ! "conspirator"
 mar:mar N-M-CMN-A ; ! "calf, young of a cow"
+maarot:maarot N-M-CMN-A ; ! "execuse"
 marash:marash N-M-CMN-A ; ! "plow, plough, cultivator, plowshare"
 marggac:marggac N-M-CMN-A ; ! ""
 markk:markk N-M-CMN-A ; ! "witness, testification, testimony"
@@ -4219,6 +4221,7 @@ mazggab:mazggab N-M-CMN-A ; ! "ledger, a book containing credit and debit accoun
 mazggabiyag:mazggabiyag N-M-CMN-A ; ! "registrar, somebody who keeps official records"
 medhdhidaag:medhdhidaag N-M-CMN-A ; ! "creator"
 medoss:medoss N-M-CMN-A ; ! "animal"
+medooss:medooss N-M-CMN-A ; ! "animal confused with the above "medoss"
 meecciyag:meecciyag N-M-CMN-A ; ! "laundry man"
 meecciyog:meecciyog N-M-CMN-A ; ! "mop"
 meechch:meechch N-M-CMN-A ; ! "washing, laundry"
@@ -4556,6 +4559,7 @@ qonccett:qonccett N-M-CMN-A ; ! "revelation"
 qoncciss:qoncciss N-M-CMN-A ; ! "article (a, an, the)"
 qonxx:qonxx N-M-CMN-A ; ! "syn: boggiya"
 qood:qood N-M-CMN-A ; ! "count"
+qopp:qoppa N-M-CMN-A ; ! ""
 qoppennab:qoppennab N-M-CMN-A ; ! "unexpected incident"
 qorbb:qorbb N-M-CMN-A ; ! "eclipse"
 qoset:qoset N-M-CMN-A ; ! "hiding"
@@ -4869,9 +4873,10 @@ tuujjum:tuujjum N-M-CMN-A ; ! "group, group in order to attack (of people or ani
 tuulam:tuulam N-M-CMN-A ; ! "ambition"
 tuuqiyag:tuuqiyag N-M-CMN-A ; ! "supporter"
 tuuss:tuuss N-M-CMN-A ; ! "pillar, center pole (for a cottage)"
+ubb:ubb N-M-CMN-A ; ! "all"
 udob:udob N-M-CMN-A ; ! "importance, usefulness (often used with ''not of'')"
 udul:udul N-M-CMN-A ; ! "mortar"
-udulett:udulett N-M-CMN-A ; ! "syn: buhaa , waraa , shochchaa , kilppayettaa, deshettaa, warggettaa, paatettaa , kanaa mizzuwa, hariya henttuwa, biittaa mizzuwa, biittaa conchchuwa, gawhettaa"
+udulett:udulett N-M-CMN-A ; ! "syn: buhaa"
 udum:udum N-M-CMN-A ; ! "village leader"
 uf:uf N-M-CMN-A ; ! "blessing"
 ufayss:ufayss N-M-CMN-A ; ! "joy, merry, feeling of great happiness"
@@ -4886,7 +4891,7 @@ ulett:ulett N-M-CMN-A ; ! "accumulation, collection"
 ullatt:ullatt N-M-CMN-A ; ! "leech"
 umbbubulett:umbbubulett N-M-CMN-A ; ! "coming together, coming at once"
 uncc:uncc N-M-CMN-A ; ! "dough (of  'enset')"
-unddudett:unddudett N-M-CMN-A ; ! "complaint, reluctance, feeling or showing no willingness to do something"
+unddudett:unddudett N-M-CMN-A ; ! "complaint, reluctance"
 unddudiyag:unddudiyag N-M-CMN-A ; ! "complainer, whiner, grumbler"
 ur:ur N-M-CMN-A ; ! "servant, slave"
 urqq:urqq N-M-CMN-A ; ! "mud, clay"
@@ -5595,8 +5600,8 @@ guraar:guraar N-M-CMN-E ; ! "small gourd"
 guuc:guuc N-M-CMN-E ; ! "sucking"
 guuf:guuf N-M-CMN-E ; ! "cane, staff, walking stick"
 guugg:guugg N-M-CMN-E ; ! "mind, brain"
-gúúl:gúúl N-M-CMN-E ; ! "prolonged rain"
-Gúúl:Gúúl N-M-CMN-E ; ! "July"
+guul:guul N-M-CMN-E ; ! "prolonged rain"
+Guul:Guul N-M-CMN-E ; ! "July"
 guxun:guxun N-M-CMN-E ; ! "worm, maggot"
 haamool:haamool N-M-CMN-E ; ! "salt brick"
 hadiid:hadiid N-M-CMN-E ; ! "railway"
@@ -5760,6 +5765,7 @@ kolbb:kolbb N-M-CMN-E ; ! "syn: gordde mittaa, koriya"
 kolloojj:kolloojj N-M-CMN-E ; ! "college"
 kolzz:kolzz N-M-CMN-E ; ! "marrow"
 kombb:kombb N-M-CMN-E ; ! "horn, big horn of an ox"
+Komenttar:Komenttar N-M-CMN-E ; ! "commentary"
 konchch:konchch N-M-CMN-E ; ! "pipe"
 konddomiineem:konddomiineem N-M-CMN-E ; ! "condominium"
 konddomiineem:konddomiineem N-M-CMN-E ; ! ""
@@ -5930,6 +5936,7 @@ miqqayn:miqqayn N-M-CMN-E ; ! "jealousy"
 mirggaac:mirggaac N-M-CMN-E ; ! ""
 mirqq:mirqq N-M-CMN-E ; ! "sheaf"
 misil:misil N-M-CMN-E ; ! "picture, figure, image, model, artwork"
+Misimaar:Misimaar N-M-CMN-E ; ! ""
 mitir:mitir N-M-CMN-E ; ! "meter"
 miyy:miyy N-M-CMN-E ; ! "side, parallel path, flank"
 moc:moc N-M-CMN-E ; ! "baby"
@@ -6102,8 +6109,9 @@ quraynn:quraynn N-M-CMN-E ; ! "rope, a long thin piece of material used to faste
 qurss:qurss N-M-CMN-E ; ! "syn: bakkaa, qan''iya, bikkaa"
 qurunffud:qurunffud N-M-CMN-E ; ! "clove"
 quul:quul N-M-CMN-E ; ! "small jar, a small jar used to feed a newborn baby"
-Quuraan:Quuraan N-M-CMN-E ; ! "Koran, the holy book of the Islamic religion, written in Arabic, containing the word of Allah as revealed to the prophet Mohammad"
+Quuraan:Quuraan N-M-CMN-E ; ! "Koran"
 quxuqull:quxuqull N-M-CMN-E ; ! "mole"
+piqaad:piqaad N-M-CMN-E ; ! "permission"
 raazh:raazh N-M-CMN-E ; ! "spoke"
 renjj:renjj N-M-CMN-E ; ! "tar"
 rikkordd:rikkordd N-M-CMN-E ; ! "record"
@@ -6650,6 +6658,7 @@ eh:eh N-M-CMN-O ; ! "marriage"
 ek:ek N-M-CMN-O ; ! "receiving"
 elcc:elcc N-M-CMN-O ; ! "not appealing"
 elenjj:elenjj N-M-CMN-O ; ! "thorny plant"
+Inggillizett:Inggillizett N-M-CMN-O ; ! "English"
 eq:eq N-M-CMN-O ; ! "stance"
 eq:eq N-M-CMN-O ; ! "stand"
 eriss:eriss N-M-CMN-O ; ! "notice"
@@ -7327,6 +7336,7 @@ xambbarss:xambbarss N-M-CMN-O ; ! "manipulation"
 xanqq:xanqq N-M-CMN-O ; ! "cleft lip"
 xaph:xaph N-M-CMN-O ; ! "root"
 xaqqay:xaqqay N-M-CMN-O ; ! "division"
+xaar:xaar N-M-CMN-O ; ! "Jar"
 xayss:xayss N-M-CMN-O ; ! "disappearance"
 xay:xay N-M-CMN-O ; ! "disappearance"
 xeer:xeer N-M-CMN-O ; ! "new moon"
@@ -7403,6 +7413,7 @@ zoon:zoon N-M-CMN-O ; ! "gate"
 !LEXICON N-F-CMN
 
 aayy:aayy N-F-CMN ; ! "mother"
+aayiyy:aayiyy N-F-CMN ; ! "mother"
 amʼʼ:amʼʼ N-F-CMN ; ! "widow"
 ashkkar:ashkkar N-F-CMN ; ! "maidservant"
 as:as N-F-CMN ; ! "maid"
@@ -7578,6 +7589,7 @@ anjj:anjj V-IV ; ! "bless"
 ankkakk:ankkakk V-IV ; ! "be untidy"
 annaac:annaac V-IV ; ! "compete"
 anqqar:anqqar V-IV ; ! "be fat"
+aq:aq V-IV ; ! "passing night"
 aradd:aradd V-IV ; ! "become fertile"
 arggaac:arggaac V-IV ; ! "be tired"
 ar:ar V-IV ; ! "stink"
@@ -7922,6 +7934,7 @@ halaalet:halaalet V-IV ; ! "be famous"
 hallacc:hallacc V-IV ; ! "be conceited"
 hallixx:hallixx V-IV ; ! "be slippery"
 halqqum:halqqum V-IV ; ! "be partially-cooked"
+hambbalaash:hambbalaash V-IV ; ! "polluted"
 hanccaam:hanccaam V-IV ; ! "be strong"
 hanccaqarot:hanccaqarot V-IV ; ! "become strong"
 hanccet:hanccet V-IV ; ! "be satisfied for a long time (of food)"
@@ -9698,6 +9711,7 @@ qooq:qooq V-TV ; ! "be blind"
 qooroy:qooroy V-TV ; ! "grow grass"
 qoos:qoos V-TV ; ! "mimic scoff"
 qoox:qoox V-TV ; ! "pass gas"
+qopp:qopp V-TV ; ! "think"
 qoqoqay:qoqoqay V-TV ; ! "make sound"
 qoqqof:qoqqof V-TV ; ! "shake out"
 qor:qor V-TV ; ! "pick up"
@@ -10375,6 +10389,7 @@ LEXICON CMN-To-All
 %<about%>:anawnne # ;
 %<about_and%>:baanne # ;
 %<oy%>:oy # ;
+%<ikko%>:ikko # ;
 
 LEXICON V-TV
 
@@ -10822,80 +10837,70 @@ LEXICON PRONOUN-3-P-FORMS
 
 LEXICON PRONOUN-3-SG-A
 
-%<prn%>%<abs%>%<p3%>%<masc%>%<sing%>: CMN-To-All ;
+%<prn%>%<abs%>%<p3%>%<masc%>%<sing%>: POSTPOS ;
 Nmlz ;
-POSTPOS ;
+
 
 LEXICON PRONOUN-3-SG-O
 
-%<prn%>%<obl%>%<p3%>%<masc%>%<sing%>: CMN-To-All ;
+%<prn%>%<obl%>%<p3%>%<masc%>%<sing%>: POSTPOS ;
 Nmlz ;
-POSTPOS ;
 
 LEXICON PRONOUN-3-SG-N
 
-%<prn%>%<nom%>%<p3%>%<masc%>%<sing%>: CMN-To-All ;
+%<prn%>%<nom%>%<p3%>%<masc%>%<sing%>: POSTPOS ;
 Nmlz ;
-POSTPOS ;
 
 LEXICON PRONOUN-3-SG-I
 
-%<prn%>%<inter%>%<p3%>%<masc%>%<sing%>: CMN-To-All ;
+%<prn%>%<inter%>%<p3%>%<masc%>%<sing%>: POSTPOS ;
 Nmlz ;
-POSTPOS ;
 
 LEXICON PRONOUN-3-SGF-A
 
-%<prn%>%<abs%>%<p3%>%<fem%>%<sing%>: CMN-To-All ;
+%<prn%>%<abs%>%<p3%>%<fem%>%<sing%>: POSTPOS ;
 Nmlz ;
-POSTPOS ;
 
 LEXICON PRONOUN-3-SGF-O
 
-%<prn%>%<obl%>%<p3%>%<fem%>%<sing%>: CMN-To-All ;
+%<prn%>%<obl%>%<p3%>%<fem%>%<sing%>: POSTPOS ;
 Nmlz ;
-POSTPOS ;
 
 LEXICON PRONOUN-3-SGF-N
 
-%<prn%>%<nom%>%<p3%>%<fem%>%<sing%>: CMN-To-All ;
+%<prn%>%<nom%>%<p3%>%<fem%>%<sing%>: POSTPOS ;
 Nmlz ;
-POSTPOS ;
 
 LEXICON PRONOUN-3-SGF-I
 
-%<prn%>%<inter%>%<p3%>%<fem%>%<sing%>: CMN-To-All ;
+%<prn%>%<inter%>%<p3%>%<fem%>%<sing%>: POSTPOS ;
 Nmlz ;
-POSTPOS ;
 
 LEXICON PRONOUN-3-PL-A
 
-%<prn%>%<abs%>%<p3%>%<fem%>%<sing%>: CMN-To-All ;
+%<prn%>%<abs%>%<p3%>%<fem%>%<sing%>: POSTPOS ;
 Nmlz ;
-POSTPOS ;
 
 LEXICON PRONOUN-3-PL-O
 
-%<prn%>%<obl%>%<p3%>%<fem%>%<sing%>: CMN-To-All ;
+%<prn%>%<obl%>%<p3%>%<fem%>%<sing%>: POSTPOS ;
 Nmlz ;
-POSTPOS ;
 
 LEXICON PRONOUN-3-PL-N
 
-%<prn%>%<nom%>%<p3%>%<fem%>%<sing%>: CMN-To-All ;
-POSTPOS ;
+%<prn%>%<nom%>%<p3%>%<fem%>%<sing%>: POSTPOS ;
+Nmlz ;
 
 LEXICON PRONOUN-3-PL-I
 
-%<prn%>%<inter%>%<p3%>%<fem%>%<sing%>: CMN-To-All ;
+%<prn%>%<inter%>%<p3%>%<fem%>%<sing%>: POSTPOS ;
 Nmlz ;
-POSTPOS ;
 
 LEXICON INFL-ABS-PRONOUN
 
 # ;
+POSTPOS
 Nmlz ; 
-POSTPOS ;
 
 LEXICON INFL-OBL-PRONOUN
 
@@ -10945,11 +10950,11 @@ LEXICON POSTPOS    ! Postpositions that follow oblique case...There are Non-pred
 
 # ;
 %+u%<post%>:%>u CMN-To-All ; ! "for, to"
-%+yyo%<post%>:%>yyo CMN-To-All ; ! "for, to"
+%+yyoo%<post%>:%>yyoo CMN-To-All ; ! "for, to"
 %+kko%<post%>:%>kko CMN-To-All ; ! "toward"
 %+kkoo%<post%>:%>kkoo CMN-To-All ; ! "toward"
 %+ppe%<post%>:%>ppe CMN-To-All ; ! "from"
-%+ppe%<post%>:%>ppee CMN-To-All ; ! "from"
+%+ppee%<post%>:%>ppee CMN-To-All ; ! "from"
 %+ra%<post%>:%>ra CMN-To-All ; ! "with"
 %+ree%<post%>:%>ree CMN-To-All ; ! "with"
 %+ssi%<post%>:%>ssi CMN-To-All ; ! "for, to"
@@ -10957,7 +10962,7 @@ LEXICON POSTPOS    ! Postpositions that follow oblique case...There are Non-pred
 %+ssee%<post%>:%>ssee CMN-To-All ; ! "for, to"
 %+ni%<post%>:%>ni CMN-To-All ; ! "in, at, by"
 %+ni%<post%>:%>n CMN-To-All ; ! Dir/LR
-!%+n%<post%>:%>n CMN-To-All ; ! "in, at, by"
+%+n%<post%>:%>n CMN-To-All ; ! "in, at, by"
 %+nee%<post%>:%>nee CMN-To-All ; ! "in, at, by"
 !%+daani%<post%>:daani CMN-To-All ; ! "like"
 %+daan%<post%>:daan CMN-To-All ; ! "like"
@@ -11021,10 +11026,10 @@ LEXICON NUM-1 !
 
 LEXICON NUM-1-INFL
 
-%<count%>:a CMN-To-All ;
-%<abs%>:uwa CMN-To-All ;
-%<obl%>:i CMN-To-All ;
-%<inter%>:oo CMN-To-All ;
+%<count%>:a POSTPOS ;
+%<abs%>:uwa POSTPOS ;
+%<obl%>:i POSTPOS ;
+%<inter%>:oo POSTPOS ;
 
 LEXICON NUM-2 ! 
 
@@ -11032,10 +11037,10 @@ LEXICON NUM-2 !
 
 LEXICON NUM-2-INFL
 
-%<count%>:a CMN-To-All ;
-%<abs%>:a CMN-To-All ;
-%<obl%>:u CMN-To-All ;
-%<inter%>:ee CMN-To-All ;
+%<count%>:a POSTPOS ;
+%<abs%>:a POSTPOS ;
+%<obl%>:u POSTPOS ;
+%<inter%>:ee POSTPOS ;
 
 LEXICON NUM-6 ! 
 
@@ -11043,10 +11048,10 @@ LEXICON NUM-6 !
 
 LEXICON NUM-6-INFL
 
-%<count%>:a CMN-To-All ;
-%<abs%>:a CMN-To-All ;
-%<obl%>: CMN-To-All ;
-%<inter%>:ee CMN-To-All ;
+%<count%>:a POSTPOS ;
+%<abs%>:a POSTPOS ;
+%<obl%>: POSTPOS ;
+%<inter%>:ee POSTPOS ;
 
 LEXICON NUM-11 !
 
@@ -11054,12 +11059,12 @@ LEXICON NUM-11 !
 
 LEXICON NUM-11-INFL
 
-%<count%>:o CMN-To-All ;
-%<abs%>:e CMN-To-All ;
-%<abs%>:o CMN-To-All ;
-%<obl%>:i CMN-To-All ;
-%<obl%>:e CMN-To-All ;
-%<inter%>:ee CMN-To-All ;
+%<count%>:o POSTPOS ;
+%<abs%>:e POSTPOS ;
+%<abs%>:o POSTPOS ;
+%<obl%>:i POSTPOS ;
+%<obl%>:e POSTPOS ;
+%<inter%>:ee POSTPOS ;
 
 LEXICON Punctuations
 
