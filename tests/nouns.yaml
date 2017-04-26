@@ -13,9 +13,9 @@ Tests:
     kan<n><masc><noncon><voc> : kanoo
     kan<n><masc><con><sing><abs> : kanaa
     kan<n><masc><con><sing><obl> : kanaa
-    kan<n><masc><con><sing><nom> : kanai
-    kan<n><masc><con><sing><inter> : kanai
-    kan<n><masc><con><sing><voc> : kanau
+    kan<n><masc><con><sing><nom> : kanay
+    kan<n><masc><con><sing><inter> : kanay
+    kan<n><masc><con><sing><voc> : kanaw
     kan<n><masc><con><plr><abs> : kanata
     kan<n><masc><con><plr><obl> : kanatu
     kan<n><masc><con><plr><nom> : kanati
@@ -27,15 +27,6 @@ Tests:
    Hidaar<n><masc><noncon><nom> : Hidaaree
    Hidaar<n><masc><noncon><obl> : Hidaare
    Hidaar<n><masc><noncon><voc> : Hidaaree
-
- "noun tuus":  
-   tuus<n><masc><con><sing><obl> : tuusaa
-   tuus<n><masc><con><sing><voc> : tuusaw
-   tuus<n><masc><con><sing><inter> : tuusay
-   tuus<n><masc><con><sing><nom> : tuusay
-   tuus<n><masc><noncon><abs> : tuusa
-   tuus<n><masc><noncon><obl> : tuusa
-   tuus<n><masc><noncon><inter> : tuusee
 
  "noun udunxx":
    udunxx<n><masc><con><plr><abs> : udunxxeta
@@ -158,19 +149,3 @@ Tests:
     Wolayttatt<n><masc><con><sing><voc> : Wolayttattuwaw
     Wolayttatt<n><masc><noncon><abs> : Wolayttatto
     Wolayttatt<n><masc><noncon><inter> : Wolayttattoo
-
- "noun Xoos":
-    Xoos<n><masc><con><plr><voc> : Xoosatoo
-    Xoos<n><masc><con><sing><abs> : Xoosaa
-    Xoos<n><masc><con><sing><obl> : Xoosaa
-    Xoos<n><masc><con><sing><voc> : Xoosaw
-    Xoos<n><masc><con><sing><inter> : Xoosay
-    Xoos<n><masc><con><sing><nom> : Xoosay
-    Xoos<n><masc><noncon><abs> : Xoosa
-    Xoos<n><masc><noncon><obl> : Xoosa
-    Xoos<n><masc><noncon><inter> : Xoosee
-
-
-
-
-

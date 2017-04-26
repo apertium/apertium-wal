@@ -773,7 +773,7 @@ irxxa:irxxa ADJ ; ! "cold, cool"
 irzzo:irzzo ADJ ; ! "circular, round"
 ishalo:ishalo ADJ ; ! "Neeyyoo ishalobata demmanaassi daro miishshaa koshshees"
 issifetetta:issifetetta ADJ ; ! "social, relating to society"
-issuwa:issuwa ADJ ; ! "Issoy issuwara, naa''a"
+issoy:issoy ADJ ; ! "Issoy issuwara, naa''a"
 ixeta:ixeta ADJ ; ! "pregnant, carrying unborn offspring inside the body"
 ixettiya:ixettiya ADJ ; ! "hatred, refusal"
 ixo:ixo ADJ ; ! "hateful, very unkind or unpleasant"
@@ -2536,6 +2536,16 @@ nne:nne CONN ; ! "and"  !Attaches to any category...Reference WolDict
 
 LEXICON Adverbs
 
+bolla:bolla ADV ; ! ""
+bolli:bolli ADV ; ! "1 • over"
+bolan:bolan ADV ; ! 
+garssa:garssa ADV ; ! ""
+garssaara:garssaara ADV ; !
+garssan:garssan	ADV ; ! "under, underneath, beneath"
+giddo:giddo ADV ; ! "among, between"
+giddon:giddon ADV ; ! ""
+guye:guye ADV ; ! "behind, beyond"
+huuphiyan:huuphiyan ; ! "on, on the top"
 hagee:hagee ADV ; ! "To be seen"
 qassi:qassi ADV ; ! "again"
 qa:qa ADV ; ! "again"
@@ -3597,6 +3607,7 @@ gitatett:gitatett N-M-CMN-A ; ! "greatness (the state of being big, huge, respec
 gitett:gitett N-M-CMN-A ; ! "over consumption"
 gitt:gitt N-M-CMN-A ; ! "preparation"
 giy:giy N-M-CMN-A ; ! "market"
+giyog:giyog N-M-CMN-A ; ! "means To be seen"
 go'':go'' N-M-CMN-A ; ! "help, assistance, aid, importance"
 gobb:gobb N-M-CMN-A ; ! "dry stem of outer covering of false banana"
 goccill:goccill N-M-CMN-A ; ! "threshold, a piece of stone or hardwood that forms the bottom of a doorway"
@@ -6861,6 +6872,7 @@ kushett:kushett N-M-CMN-O ; ! "collaboration"
 kutt:kutt N-M-CMN-O ; ! "chicken"
 kutuut:kutuut N-M-CMN-O ; ! "seizing"
 kuyxaar:kuyxaar N-M-CMN-O ; ! "basin"
+iss:iss N-M-CMN-O ; ! "The one"
 laaʼantt:laaʼantt N-M-CMN-O ; ! "itch"
 laagott:laagott N-M-CMN-O ; ! "moistening"
 laagoxiss:laagoxiss N-M-CMN-O ; ! "lubrication"
@@ -8995,6 +9007,7 @@ gadull:gadull V-TV ; ! "overeat gobble"
 gagantt:gagantt V-TV ; ! "hustle push"
 gagg:gagg V-TV ; ! "come about"
 gagis:gagis V-TV ; ! "work forcefully"
+gakk:gakk V-TV ; ! "reach"
 galat:galat V-TV ; ! "thank praise"
 galluntt:galluntt V-TV ; ! "do something"
 gammat:gammat V-TV ; ! "estimate calculate"
@@ -9512,7 +9525,7 @@ osh:osh V-TV ; ! "defecate excrete"
 otor:otor V-TV ; ! "be conceited"
 otorss:otorss V-TV ; ! "make someone"
 oychch:oychch V-TV ; ! "ask inquire"
-oyq:oyq V-TV ; ! "be caught"
+oyqq:oyqq V-TV ; ! "be caught"
 oys:oys V-TV ; ! "abet cause"
 oytt:oytt V-TV ; ! "attach fasten"
 paacc:paacc V-TV ; ! "examine test"
@@ -10179,12 +10192,12 @@ LEXICON N-F-PRSNAME ! Feminin common nouns
 
 LEXICON N-M-CMN-A-INFL
 
-%<noncon%>%<abs%>:aamaa CMN-To-All ;
-%<noncon%>%<abs%>:aacaa CMN-To-All ;
-%<noncon%>%<abs%>:ummaa CMN-To-All ;
-%<noncon%>%<abs%>:atettaa CMN-To-All ;
-%<noncon%>%<abs%>:otettaa CMN-To-All ;
-%<noncon%>%<abs%>:attuwa CMN-To-All ;
+!%<noncon%>%<abs%>:aamaa CMN-To-All ;
+!%<noncon%>%<abs%>:aacaa CMN-To-All ;
+!%<noncon%>%<abs%>:ummaa CMN-To-All ;
+!%<noncon%>%<abs%>:atettaa CMN-To-All ;
+!%<noncon%>%<abs%>:otettaa CMN-To-All ;
+!%<noncon%>%<abs%>:attuwa CMN-To-All ;
  
 %<noncon%>%<abs%>:a CMN-To-All ;
 %<noncon%>%<obl%>:a CMN-To-All ;
@@ -10204,12 +10217,12 @@ LEXICON N-M-CMN-A-INFL
 
 LEXICON N-M-CMN-E-INFL
 
-%<noncon%>%<abs%>:aamaa CMN-To-All ;
-%<noncon%>%<abs%>:aacaa CMN-To-All ;
-%<noncon%>%<abs%>:ummaa CMN-To-All ;
-%<noncon%>%<abs%>:atettaa CMN-To-All ;
-%<noncon%>%<abs%>:otettaa CMN-To-All ;
-%<noncon%>%<abs%>:attuwa CMN-To-All ;
+!%<noncon%>%<abs%>:aamaa ;
+!%<noncon%>%<abs%>:aacaa ;
+!%<noncon%>%<abs%>:ummaa CMN-To-All ;
+!%<noncon%>%<abs%>:atettaa CMN-To-All ;
+!%<noncon%>%<abs%>:otettaa CMN-To-All ;
+!%<noncon%>%<abs%>:attuwa CMN-To-All ;
 
 %<noncon%>%<abs%>:e CMN-To-All ;
 %<noncon%>%<obl%>:e CMN-To-All ;
@@ -10230,12 +10243,12 @@ LEXICON N-M-CMN-E-INFL
 
 LEXICON N-M-CMN-O-INFL
 
-%<noncon%>%<abs%>:aamaa CMN-To-All ;
-%<noncon%>%<abs%>:aacaa CMN-To-All ;
-%<noncon%>%<abs%>:ummaa CMN-To-All ;
-%<noncon%>%<abs%>:atettaa CMN-To-All ;
-%<noncon%>%<abs%>:otettaa CMN-To-All ;
-%<noncon%>%<abs%>:attuwa CMN-To-All ;
+!%<noncon%>%<abs%>:aamaa CMN-To-All ;
+!%<noncon%>%<abs%>:aacaa CMN-To-All ;
+!%<noncon%>%<abs%>:ummaa CMN-To-All ;
+!%<noncon%>%<abs%>:atettaa CMN-To-All ;
+!%<noncon%>%<abs%>:otettaa CMN-To-All ;
+!%<noncon%>%<abs%>:attuwa CMN-To-All ;
 
 %<noncon%>%<abs%>:o CMN-To-All ;
 %<noncon%>%<obl%>:o CMN-To-All ;
@@ -10255,12 +10268,12 @@ LEXICON N-M-CMN-O-INFL
 
 LEXICON N-F-CMN-INFL
 
-%<noncon%>%<abs%>:aamaa CMN-To-All ;
-%<noncon%>%<abs%>:aacaa CMN-To-All ;
-%<noncon%>%<abs%>:ummaa CMN-To-All ;
-%<noncon%>%<abs%>:atettaa CMN-To-All ;
-%<noncon%>%<abs%>:otettaa CMN-To-All ;
-%<noncon%>%<abs%>:attuwa CMN-To-All ;
+!%<noncon%>%<abs%>:aamaa CMN-To-All ;
+!%<noncon%>%<abs%>:aacaa CMN-To-All ;
+!%<noncon%>%<abs%>:ummaa CMN-To-All ;
+!%<noncon%>%<abs%>:atettaa CMN-To-All ;
+!%<noncon%>%<abs%>:otettaa CMN-To-All ;
+!%<noncon%>%<abs%>:attuwa CMN-To-All ;
 
 %<noncon%>%<abs%>:o CMN-To-All ;
 %<noncon%>%<obl%>:e CMN-To-All ;
@@ -10358,9 +10371,10 @@ LEXICON CMN-To-All
 %<about%>:n # ;
 %<and%>:gee # ;
 %<about_and%>:baan # ;
-%<about%>:anaw # ;
+%<for%>:anaw # ;
 %<about%>:anawnne # ;
-%<about%>:baanne # ;
+%<about_and%>:baanne # ;
+%<oy%>:oy # ;
 
 LEXICON V-TV
 
@@ -10417,6 +10431,7 @@ VERB-Cau-endings ;	!Causative Endings
 
 LEXICON VERB-Imfr
 
+CMN-To-All ;
 %<p1%>%<sing%>%<imfr%>:ays CMN-To-All ;			
 %<p1%>%<plr%>%<imfr%>:eettees CMN-To-All ;
 %<p1%>%<plr%>%<imfr%>:oos CMN-To-All ;
@@ -10428,6 +10443,7 @@ LEXICON VERB-Imfr
 
 LEXICON VERB-NegImfr
 
+CMN-To-All ;
 %<p1%>%<sing%>%<neg%>%<imfr%>:ikke CMN-To-All ;
 %<p1%>%<plr%>%<neg%>%<imfr%>:okko CMN-To-All ;
 %<p1%>%<plr%>%<neg%>%<imfr%>:ettenna CMN-To-All ;
@@ -10439,6 +10455,7 @@ LEXICON VERB-NegImfr
 
 LEXICON VERB-IntrImfr
 
+CMN-To-All ;
 %<p1%>%<sing%>%<intr%>%<imfr%>:iyanaa CMN-To-All ;
 %<p1%>%<plr%>%<intr%>%<imfr%>:iyo CMN-To-All ;
 %<p1%>%<plr%>%<intr%>%<imfr%>:iyonii CMN-To-All ;
@@ -10450,6 +10467,7 @@ LEXICON VERB-IntrImfr
 
 LEXICON VERB-NegIntrImfr
 
+CMN-To-All ;
 %<p1%>%<sing%>%<neg%>%<intr%>%<imfr%>:ikkinaa CMN-To-All ;
 %<p1%>%<plr%>%<neg%>%<intr%>%<imfr%>:okkonii CMN-To-All ;
 %<p1%>%<plr%>%<neg%>%<intr%>%<imfr%>:ettennee CMN-To-All ;
@@ -10461,6 +10479,7 @@ LEXICON VERB-NegIntrImfr
 
 LEXICON VERB-Prf
 
+CMN-To-All ;
 %<p1%>%<sing%>%<prf%>:aas CMN-To-All ;
 %<p1%>%<sing%>%<prf%>:aasi CMN-To-All ;
 %<p1%>%<plr%>%<prf%>:ida CMN-To-All ;
@@ -10473,6 +10492,7 @@ LEXICON VERB-Prf
 
 LEXICON VERB-NegPrf
 
+CMN-To-All ;
 %<p1%>%<sing%>%<neg%>%<prf%>:abeikke CMN-To-All ;
 %<p1%>%<plr%>%<neg%>%<prf%>:ibeokko CMN-To-All ;
 %<p1%>%<plr%>%<neg%>%<prf%>:ibeettenna CMN-To-All ;
@@ -10484,6 +10504,7 @@ LEXICON VERB-NegPrf
 
 LEXICON VERB-IntrPrf
 
+CMN-To-All ;
 %<p1%>%<sing%>%<intr%>%<prf%>:idanaa CMN-To-All ;
 %<p1%>%<plr%>%<intr%>%<prf%>:ido CMN-To-All ;
 %<p1%>%<plr%>%<intr%>%<prf%>:idonii CMN-To-All ;
@@ -10495,6 +10516,7 @@ LEXICON VERB-IntrPrf
 
 LEXICON VERB-NegIntrPrf
 
+CMN-To-All ;
 %<p1%>%<sing%>%<neg%>%<intr%>%<prf%>:abeikkinaa CMN-To-All ;
 %<p1%>%<plr%>%<neg%>%<intr%>%<prf%>:ibeokkonii CMN-To-All ;
 %<p1%>%<plr%>%<neg%>%<intr%>%<prf%>:ibeettennee CMN-To-All ;
@@ -10952,18 +10974,8 @@ LEXICON POSTPOS    ! Postpositions that follow oblique case...There are Non-pred
 %+awa%<post%>:%>awa CMN-To-All ; ! ""
 %+awan%<post%>:%>awan	CMN-To-All ; ! "where (at what place)"
 %+baa%<post%>:%>baa CMN-To-All ; ! "about"
-%+bolla%<post%>:%>bolla CMN-To-All ; ! ""
-%+bolli%<post%>:%>bolli CMN-To-All ; ! "1 • over"
-%+bolan%<post%>:%>bolan CMN-To-All ; ! 
 %+eessi%<post%>:%>eessi CMN-To-All ; ! "na'eessi to the girl"
 %+eessiis%<post%>:%>eessiis CMN-To-All ; ! ""
-%+garssa%<post%>:%>garssa CMN-To-All ; ! ""
-%+garssaara%<post%>:%>garssaara CMN-To-All ; !
-%+garssan%<post%>:%>garssan	CMN-To-All ; ! "under, underneath, beneath"
-%+giddo%<post%>:%>giddo	CMN-To-All ; ! "among, between"
-%+giddon%<post%>:%>giddon CMN-To-All ; ! ""
-%+guye%<post%>:%>guye CMN-To-All ; ! "behind, beyond"
-%+huuphiyan%<post%>:%>huuphiyan CMN-To-All ; ! "on, on the top"
 %+ppe%<post%>:%>ppe	CMN-To-All ; ! "except"
 %+Y%<post%>:%>Y	CMN-To-All ; ! ""
 %+yyoo%<post%>:%>yyoo CMN-To-All ; ! "to, for"
