@@ -10199,21 +10199,21 @@ LEXICON N-M-CMN-A-INFL
 !%<noncon%>%<abs%>:otettaa CMN-To-All ;
 !%<noncon%>%<abs%>:attuwa CMN-To-All ;
  
-%<noncon%>%<abs%>:a CMN-To-All ;
-%<noncon%>%<obl%>:a CMN-To-All ;
-%<noncon%>%<nom%>:i CMN-To-All ;
-%<noncon%>%<inter%>:ee CMN-To-All ;
-%<noncon%>%<voc%>:oo CMN-To-All ;
+%<noncon%>%<abs%>:a POSTPOS ;
+%<noncon%>%<obl%>:a POSTPOS ;
+%<noncon%>%<nom%>:i POSTPOS ;
+%<noncon%>%<inter%>:ee POSTPOS ;
+%<noncon%>%<voc%>:oo POSTPOS ;
 %<con%>%<sing%>%<abs%>:aa CMN-To-All ;
 %<con%>%<sing%>%<obl%>:aa CMN-To-All ;
-%<con%>%<sing%>%<nom%>:ay CMN-To-All ;
-%<con%>%<sing%>%<inter%>:ay CMN-To-All ;
-%<con%>%<sing%>%<voc%>:aw CMN-To-All ;
-%<con%>%<plr%>%<abs%>:ata CMN-To-All ;
-%<con%>%<plr%>%<obl%>:atu CMN-To-All ;
-%<con%>%<plr%>%<nom%>:ati CMN-To-All ;
-%<con%>%<plr%>%<inter%>:atee CMN-To-All ;
-%<con%>%<plr%>%<voc%>:atoo CMN-To-All ;
+%<con%>%<sing%>%<nom%>:ay POSTPOS ;
+%<con%>%<sing%>%<inter%>:ay POSTPOS ;
+%<con%>%<sing%>%<voc%>:aw POSTPOS ;
+%<con%>%<plr%>%<abs%>:ata POSTPOS ;
+%<con%>%<plr%>%<obl%>:atu POSTPOS ;
+%<con%>%<plr%>%<nom%>:ati POSTPOS ;
+%<con%>%<plr%>%<inter%>:atee POSTPOS ;
+%<con%>%<plr%>%<voc%>:atoo POSTPOS ;
 
 LEXICON N-M-CMN-E-INFL
 
@@ -10224,22 +10224,22 @@ LEXICON N-M-CMN-E-INFL
 !%<noncon%>%<abs%>:otettaa CMN-To-All ;
 !%<noncon%>%<abs%>:attuwa CMN-To-All ;
 
-%<noncon%>%<abs%>:e CMN-To-All ;
-%<noncon%>%<obl%>:e CMN-To-All ;
-%<noncon%>%<nom%>:ee CMN-To-All ;
-%<noncon%>%<inter%>:ee CMN-To-All ;
-%<noncon%>%<voc%>:oo CMN-To-All ;
-%<noncon%>%<voc%>:ee CMN-To-All ;
-%<con%>%<sing%>%<abs%>:iya CMN-To-All ;
-%<con%>%<sing%>%<obl%>:iya CMN-To-All ;
-%<con%>%<sing%>%<nom%>:ee CMN-To-All ;
-%<con%>%<sing%>%<inter%>:ee CMN-To-All ;
-%<con%>%<sing%>%<voc%>:iyaw CMN-To-All ;
-%<con%>%<plr%>%<abs%>:eta CMN-To-All ;
-%<con%>%<plr%>%<obl%>:etu CMN-To-All ;
-%<con%>%<plr%>%<nom%>:eti CMN-To-All ;
-%<con%>%<plr%>%<inter%>:etee CMN-To-All ;
-%<con%>%<plr%>%<voc%>:etoo CMN-To-All ;
+%<noncon%>%<abs%>:e POSTPOS ;
+%<noncon%>%<obl%>:e POSTPOS ;
+%<noncon%>%<nom%>:ee POSTPOS ;
+%<noncon%>%<inter%>:ee POSTPOS ;
+%<noncon%>%<voc%>:oo POSTPOS ;
+%<noncon%>%<voc%>:ee POSTPOS ;
+%<con%>%<sing%>%<abs%>:iya POSTPOS ;
+%<con%>%<sing%>%<obl%>:iya POSTPOS ;
+%<con%>%<sing%>%<nom%>:ee POSTPOS ;
+%<con%>%<sing%>%<inter%>:ee POSTPOS ;
+%<con%>%<sing%>%<voc%>:iyaw POSTPOS ;
+%<con%>%<plr%>%<abs%>:eta POSTPOS ;
+%<con%>%<plr%>%<obl%>:etu POSTPOS ;
+%<con%>%<plr%>%<nom%>:eti POSTPOS ;
+%<con%>%<plr%>%<inter%>:etee POSTPOS ;
+%<con%>%<plr%>%<voc%>:etoo POSTPOS ;
 
 LEXICON N-M-CMN-O-INFL
 
@@ -10250,21 +10250,21 @@ LEXICON N-M-CMN-O-INFL
 !%<noncon%>%<abs%>:otettaa CMN-To-All ;
 !%<noncon%>%<abs%>:attuwa CMN-To-All ;
 
-%<noncon%>%<abs%>:o CMN-To-All ;
-%<noncon%>%<obl%>:o CMN-To-All ;
-%<noncon%>%<nom%>:oy CMN-To-All ;
-%<noncon%>%<inter%>:oo CMN-To-All ;
-%<noncon%>%<voc%>:oo CMN-To-All ;
-%<con%>%<sing%>%<abs%>:uwa CMN-To-All ;
-%<con%>%<sing%>%<obl%>:uwa CMN-To-All ;
-%<con%>%<sing%>%<nom%>:oy CMN-To-All ;
-%<con%>%<sing%>%<inter%>:oy CMN-To-All ;
-%<con%>%<sing%>%<voc%>:uwaw CMN-To-All ;
-%<con%>%<plr%>%<abs%>:ota CMN-To-All ;
-%<con%>%<plr%>%<obl%>:otu CMN-To-All ;
-%<con%>%<plr%>%<nom%>:oti CMN-To-All ;
-%<con%>%<plr%>%<inter%>:otee CMN-To-All ;
-%<con%>%<plr%>%<voc%>:otoo CMN-To-All ;
+%<noncon%>%<abs%>:o POSTPOS ;
+%<noncon%>%<obl%>:o POSTPOS ;
+%<noncon%>%<nom%>:oy POSTPOS ;
+%<noncon%>%<inter%>:oo POSTPOS ;
+%<noncon%>%<voc%>:oo POSTPOS ;
+%<con%>%<sing%>%<abs%>:uwa POSTPOS ;
+%<con%>%<sing%>%<obl%>:uwa POSTPOS ;
+%<con%>%<sing%>%<nom%>:oy POSTPOS ;
+%<con%>%<sing%>%<inter%>:oy POSTPOS ;
+%<con%>%<sing%>%<voc%>:uwaw POSTPOS ;
+%<con%>%<plr%>%<abs%>:ota POSTPOS ;
+%<con%>%<plr%>%<obl%>:otu POSTPOS ;
+%<con%>%<plr%>%<nom%>:oti POSTPOS ;
+%<con%>%<plr%>%<inter%>:otee POSTPOS ;
+%<con%>%<plr%>%<voc%>:otoo POSTPOS ;
 
 LEXICON N-F-CMN-INFL
 
@@ -10275,92 +10275,92 @@ LEXICON N-F-CMN-INFL
 !%<noncon%>%<abs%>:otettaa CMN-To-All ;
 !%<noncon%>%<abs%>:attuwa CMN-To-All ;
 
-%<noncon%>%<abs%>:o CMN-To-All ;
-%<noncon%>%<obl%>:e CMN-To-All ;
-%<noncon%>%<obl%>:i CMN-To-All ;
-%<noncon%>%<nom%>:a CMN-To-All ;
-%<noncon%>%<inter%>:oo CMN-To-All ;
-%<noncon%>%<voc%>:oo CMN-To-All ;
-%<con%>%<sing%>%<abs%>:iyo CMN-To-All ;
-%<con%>%<sing%>%<obl%>:ee CMN-To-All ;
-%<con%>%<sing%>%<nom%>:iya CMN-To-All ;
-%<con%>%<sing%>%<inter%>:ii CMN-To-All ;
-%<con%>%<sing%>%<voc%>:ee CMN-To-All ;
-%<con%>%<plr%>%<abs%>:eta CMN-To-All ;
-%<con%>%<plr%>%<obl%>:etu CMN-To-All ;
-%<con%>%<plr%>%<nom%>:eti CMN-To-All ;
-%<con%>%<plr%>%<inter%>:etee CMN-To-All ;
-%<con%>%<plr%>%<voc%>:etoo CMN-To-All ;
-%<con%>%<plr%>%<abs%>:ota CMN-To-All ;
-%<con%>%<plr%>%<obl%>:otu CMN-To-All ;
-%<con%>%<plr%>%<nom%>:oti CMN-To-All ;
-%<con%>%<plr%>%<inter%>:otee CMN-To-All ;
-%<con%>%<plr%>%<voc%>:otoo CMN-To-All ;
+%<noncon%>%<abs%>:o POSTPOS ;
+%<noncon%>%<obl%>:e POSTPOS ;
+%<noncon%>%<obl%>:i POSTPOS ;
+%<noncon%>%<nom%>:a POSTPOS ;
+%<noncon%>%<inter%>:oo POSTPOS ;
+%<noncon%>%<voc%>:oo POSTPOS ;
+%<con%>%<sing%>%<abs%>:iyo POSTPOS ;
+%<con%>%<sing%>%<obl%>:ee POSTPOS ;
+%<con%>%<sing%>%<nom%>:iya POSTPOS ;
+%<con%>%<sing%>%<inter%>:ii POSTPOS ;
+%<con%>%<sing%>%<voc%>:ee POSTPOS ;
+%<con%>%<plr%>%<abs%>:eta POSTPOS ;
+%<con%>%<plr%>%<obl%>:etu POSTPOS ;
+%<con%>%<plr%>%<nom%>:eti POSTPOS ;
+%<con%>%<plr%>%<inter%>:etee POSTPOS ;
+%<con%>%<plr%>%<voc%>:etoo POSTPOS ;
+%<con%>%<plr%>%<abs%>:ota POSTPOS ;
+%<con%>%<plr%>%<obl%>:otu POSTPOS ;
+%<con%>%<plr%>%<nom%>:oti POSTPOS ;
+%<con%>%<plr%>%<inter%>:otee POSTPOS ;
+%<con%>%<plr%>%<voc%>:otoo POSTPOS ;
 
 LEXICON N-PLNAME-A ! Place name noun class A inflection
 
-%<n%>%<abs%>:a CMN-To-All ;
-%<n%>%<obl%>:a CMN-To-All ;
-%<n%>%<nom%>:i CMN-To-All ;
-%<n%>%<inter%>:ee CMN-To-All ;
-%<n%>%<voc%>:aa CMN-To-All ;
-%<n%>%<adv%>:i CMN-To-All ;
+%<n%>%<abs%>:a POSTPOS ;
+%<n%>%<obl%>:a POSTPOS ;
+%<n%>%<nom%>:i POSTPOS ;
+%<n%>%<inter%>:ee POSTPOS ;
+%<n%>%<voc%>:aa POSTPOS ;
+%<n%>%<adv%>:i POSTPOS ;
 
 LEXICON N-PLNAME-E ! Place name noun class E inflection
 
-%<n%>%<abs%>:e CMN-To-All ;
-%<n%>%<obl%>:e CMN-To-All ;
-%<n%>%<nom%>:ee CMN-To-All ;
-%<n%>%<inter%>:ee CMN-To-All ;
-%<n%>%<voc%>:ee CMN-To-All ;
+%<n%>%<abs%>:e POSTPOS ;
+%<n%>%<obl%>:e POSTPOS ;
+%<n%>%<nom%>:ee POSTPOS ;
+%<n%>%<inter%>:ee POSTPOS ;
+%<n%>%<voc%>:ee POSTPOS ;
 
 LEXICON N-PLNAME-O ! Place name noun class O inflection
 
-%<n%>%<abs%>:o CMN-To-All ;
-%<n%>%<obl%>:o CMN-To-All ;
-%<n%>%<nom%>:oy CMN-To-All ;
-%<n%>%<inter%>:oo CMN-To-All ;
-%<n%>%<voc%>:oo CMN-To-All ;
+%<n%>%<abs%>:o POSTPOS ;
+%<n%>%<obl%>:o POSTPOS ;
+%<n%>%<nom%>:oy POSTPOS ;
+%<n%>%<inter%>:oo POSTPOS ;
+%<n%>%<voc%>:oo POSTPOS ;
 
 LEXICON N-M-PRSNAME-A-INFL ! Person name noun class A inflection
 
-%<abs%>:a CMN-To-All ;
-%<obl%>:a CMN-To-All ;
-%<nom%>:i CMN-To-All ;
-%<inter%>:ee CMN-To-All ;
-%<voc%>:aa CMN-To-All ;
+%<abs%>:a POSTPOS ;
+%<obl%>:a POSTPOS ;
+%<nom%>:i POSTPOS ;
+%<inter%>:ee POSTPOS ;
+%<voc%>:aa POSTPOS ;
 
 LEXICON N-M-PRSNAME-E-INFL ! Person name noun class E inflection
 	
-%<abs%>:a CMN-To-All ;
-%<obl%>:e CMN-To-All ;
-%<nom%>:ee CMN-To-All ;
-%<inter%>:ee CMN-To-All ;
-%<voc%>:ee CMN-To-All ;
+%<abs%>:a POSTPOS ;
+%<obl%>:e POSTPOS ;
+%<nom%>:ee POSTPOS ;
+%<inter%>:ee POSTPOS ;
+%<voc%>:ee POSTPOS ;
 
 LEXICON N-M-PRSNAME-O-INFL ! Person name noun class O inflection
 
-%<abs%>:a CMN-To-All ;
-%<obl%>:o CMN-To-All ;
-%<nom%>:oy CMN-To-All ;
-%<inter%>:ee CMN-To-All ;
-%<voc%>:oo CMN-To-All ;
+%<abs%>:a POSTPOS ;
+%<obl%>:o POSTPOS ;
+%<nom%>:oy POSTPOS ;
+%<inter%>:ee POSTPOS ;
+%<voc%>:oo POSTPOS ;
 
 LEXICON N-M-PRSNAME-U-INFL ! Person name noun class U inflection
 
-%<abs%>:a CMN-To-All ;
-%<obl%>:u CMN-To-All ;
-%<nom%>:u CMN-To-All ;
-%<inter%>:ee CMN-To-All ;
-%<voc%>:oo CMN-To-All ;
+%<abs%>:a POSTPOS ;
+%<obl%>:u POSTPOS ;
+%<nom%>:u POSTPOS ;
+%<inter%>:ee POSTPOS ;
+%<voc%>:oo POSTPOS ;
 
 LEXICON N-F-PRSNAME-INFL
 
-%<abs%>:o CMN-To-All ;
-%<obl%>:i CMN-To-All ;
-%<nom%>:a CMN-To-All ;
-%<inter%>:ii CMN-To-All ;
-%<voc%>:ee CMN-To-All ;
+%<abs%>:o POSTPOS ;
+%<obl%>:i POSTPOS ;
+%<nom%>:a POSTPOS ;
+%<inter%>:ii POSTPOS ;
+%<voc%>:ee POSTPOS ;
 
 LEXICON CMN-To-All
 
