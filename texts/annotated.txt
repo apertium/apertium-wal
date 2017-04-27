@@ -1636,8 +1636,11 @@
 	"kantt" v iv p3 sing masc prf
 
 
-"<ehaydde>"
-	"*ehaydde"
+"<qulppaasu>"
+	"qulpp" v iv p3 sing fem prf
+
+"<axisettees>"
+	"axis" v tv pass p3 sing masc imfr
 
 
 "<kallotiis>"
