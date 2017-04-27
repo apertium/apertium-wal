@@ -2557,6 +2557,7 @@ gidiyo:gidiyo ADV ; ! ""
 kare:kare ADV ; ! ""
 wozanan:wozanan ADV ; ! "semiconsciously"
 hagaa:hagaa ADV ; ! ""
+gaddabbi:gaddabbi ADV ; ! ""
 zino:zino ADV ; ! ""
 hagaappe:hagaappe ADV ; ! ""
 xiskko:xiskko ADV ; ! ""
@@ -3269,6 +3270,7 @@ ciirett:ciirett N-M-CMN-A ; ! "sharpening, carving, sculpting"
 ciishsh:ciishsh N-M-CMN-A ; ! "flower"
 Ciishsh:Ciishsh N-M-CMN-A ; ! "Tuesday"
 ciloosh:ciloosh N-M-CMN-A ; ! "dowry"
+cimat:cimat N-M-CMN-A ; ! "elders"
 cimatett:cimatett N-M-CMN-A ; ! "oldness"
 cimbb:cimbb N-M-CMN-A ; ! "hair (of a horse's tail)"
 cimmiyag:cimmiyag N-M-CMN-A ; ! "cheat, deceiver, mischief-maker, tricker"
@@ -3859,6 +3861,7 @@ irmat:irmat N-M-CMN-A ; ! "naturally existing pattern on the fleshy part of the 
 irxx:irxx N-M-CMN-A ; ! "coldness, moisture, wetness, dampness"
 irxxatett:irxxatett N-M-CMN-A ; ! "wetness, humidity, moisture"
 irxxiss:irxxiss N-M-CMN-A ; ! "fridge, refrigerator"
+Issippetett:Issippetett N-M-CMN-A ; ! "Unity"
 ish:ish N-M-CMN-A ; ! "brother"
 ishatett:ishatett N-M-CMN-A ; ! "solidarity, brotherhood, fraternity"
 ishett:ishett N-M-CMN-A ; ! "lying, reclination, sleep"
@@ -3979,6 +3982,7 @@ kirissinn:kirissinn N-M-CMN-A ; ! "Christianity"
 kiristtiloob:kiristtiloob N-M-CMN-A ; ! "chrysolite, jewel"
 kiristtin:kiristtin N-M-CMN-A ; ! ""
 kirssinn:kirssinn N-M-CMN-A ; ! ""
+Kristtoos:Kristtoos N-M-CMN-A ; ! "Christ"
 kitaaf:kitaaf N-M-CMN-A ; ! "medicine pouch"
 kitim:kitim N-M-CMN-A ; ! "blood sacrifice"
 kix:kix N-M-CMN-A ; ! "swelling, abscess, tumor, lump, growth"
@@ -5536,6 +5540,7 @@ gat:gat N-M-CMN-E ; ! "background, back history"
 gat:gat N-M-CMN-E ; ! "price, cost, value"
 gaxar:gaxar N-M-CMN-E ; ! "countryside, rural area"
 gaxx:gaxx N-M-CMN-E ; ! "page"
+gaay:gaay N-M-CMN-E ; ! "local ethnic pipe"
 gayll:gayll N-M-CMN-E ; ! "rib (side of  body)"
 gayy:gayy N-M-CMN-E ; ! "ladder"
 gazz:gazz N-M-CMN-E ; ! "play, song and dance of 'Meskel'"
@@ -6917,6 +6922,7 @@ liq:liq N-M-CMN-O ; ! "debt"
 liss:liss N-M-CMN-O ; ! "whip"
 litir:litir N-M-CMN-O ; ! "liter"
 loggom:loggom N-M-CMN-O ; ! "spicy food"
+loʼʼ:loʼʼ N-M-CMN-O ; ! ""
 loodd:loodd N-M-CMN-O ; ! "enlarged spleen"
 loohiss:loohiss N-M-CMN-O ; ! "train"
 looh:looh N-M-CMN-O ; ! "training"
@@ -9202,8 +9208,8 @@ isisay:isisay V-TV ; ! "do carefully"
 ixx:ixx V-TV ; ! "hate dislike"
 jaakir:jaakir V-TV ; ! "rush be"
 k:k V-TV ; ! "pocket put"
-kaa:kaa V-TV ; ! "be played"
-kaa:kaa V-TV ; ! "play"
+Ka'':Ka'' V-TV ; ! "cooked"
+kaa':kaa' V-TV ; ! "play"
 kaac:kaac V-TV ; ! "provide meal"
 kaachchifat:kaachchifat V-TV ; ! "threaten frighten"
 kaaf:kaaf V-TV ; ! "be supported"
@@ -10218,8 +10224,8 @@ LEXICON N-M-CMN-A-INFL
 %<noncon%>%<nom%>:i POSTPOS ;
 %<noncon%>%<inter%>:ee POSTPOS ;
 %<noncon%>%<voc%>:oo POSTPOS ;
-%<con%>%<sing%>%<abs%>:aa CMN-To-All ;
-%<con%>%<sing%>%<obl%>:aa CMN-To-All ;
+%<con%>%<sing%>%<abs%>:aa POSTPOS ;
+%<con%>%<sing%>%<obl%>:aa POSTPOS ;
 %<con%>%<sing%>%<nom%>:ay POSTPOS ;
 %<con%>%<sing%>%<inter%>:ay POSTPOS ;
 %<con%>%<sing%>%<voc%>:aw POSTPOS ;
@@ -10610,7 +10616,7 @@ LEXICON VERB-Rel   			! how to direct to nmlz   -  Verbal Adjective <gpr>
 %<rel%>%<prf%>%<sub%>:ida Nmlz ;
 %<rel%>%<impf%>%<nsub%>:iyo Nmlz ; ! Relative nsub referes to non-subject oriented
 %<rel%>%<prf%>%<nsub%>:o Nmlz ;
-%<rel%>%<prf%>%<nsub%>:ido Nmlz ;
+%<rel%>%<prf%>%<nsub%>:idoo Nmlz ;
 %<rel%>%<fut%>:ana Nmlz ;
 %<rel%>%<inter%>:enna Nmlz ;
 %<rel%>:abeenna Nmlz ;   ! To be seen
