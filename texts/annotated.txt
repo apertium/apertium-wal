@@ -130,10 +130,6 @@
 	"caan" v tv p3 sing masc prf
 
 
-"<ashidosona>"
-	"ashidosona" unknown ashshidosona
-
-
 "<Misimaaree>"
 	"Misimaar" n masc noncon nom
 
@@ -159,10 +155,6 @@
 	"dandday" v tv inf noncon neg abs
 	"dandday" v tv inf noncon neg obl
 	"dandday" v tv p3 sing masc neg imfr
-
-
-"<ukkaaredan>"
-	"*ukkaaredan" unknown
 
 
 "<eellees>"
@@ -201,10 +193,6 @@
 	"meeg" n masc noncon nom
 	"meeg" n masc con sing inter
 	"meeg" n masc con sing nom
-
-
-"<monolingual>"
-	"*monolingual" unknown English
 
 
 "<eriyakkonne>"
@@ -253,7 +241,10 @@
 
 
 "<Hiillaassi>"
-	"*Hiillaassi" unknown (aassi)
+	"ssi" post
+		"Hiill" n masc con sing abs
+	"ssi" post
+		"Hiill" n masc con sing obl
 
 
 "<Ashkketettay>"
@@ -388,10 +379,6 @@
 	"qamʼʼees"
 
 
-"<picy>"
-	"picy" unknown
-
-
 "<meegees>"
 	"meeg" v tv p3 sing masc imfr
 
@@ -422,10 +409,6 @@
 	"bombb" n masc con sing nom
 
 
-"<rectangular>"
-	"rectangular" unknown
-
-
 "<miyyees>"
 	"miyy" v tv p3 sing masc imfr
 
@@ -440,9 +423,6 @@
 	"goʼett" v iv longcnvb p3 plr
 	"goʼett" v iv longcnvb p3 sing masc
 
-
-"<huphiyan>"
-	"huph"  unknown huuphiyan
 
 
 "<dooya>"
@@ -490,9 +470,6 @@
 	"koy" v iv p1 plr intr imfr about
 	"koy" v tv p1 plr intr imfr about
 
-
-"<waretay>"
-	"*waretay" unknown warettay
 
 
 "<genttanaw>"
@@ -599,10 +576,6 @@
 	"danoy" v tv p3 sing masc prf
 
 
-"<ooruwa>"
-	"*ooruwa" unknown
-
-
 "<calliis>"
 	"call" v tv p3 sing masc prf
 
@@ -626,8 +599,6 @@
 	"koy" v tv p3 sing masc neg imfr
 
 
-"<paraqettaasu>"
-	"*paraqettaasu" unknown parraqqettaausu
 
 
 "<araddissiis>"
@@ -665,13 +636,6 @@
 	"kaa'" v tv p1 plr imfr
 
 
-"<ahettikko>"
-	"ahettikko" unknown
-
-
-"<lie>"
-	"lie" unknown english
-
 
 "<kaʼʼikko>"
 	"kaʼʼ" v tv ikko
@@ -682,10 +646,6 @@
 		"ayf" n masc con sing abs
 	"ni" post
 		"ayf" n masc con sing obl
-
-
-"<hoddiyogee>"
-	"*hoddiyogee" unknown
 
 
 "<Issitoo>"
@@ -725,17 +685,9 @@
 	"gogg" v iv p3 sing masc neg imfr
 
 
-"<aagibeenna>"
-	"aagibeenna" unknown
-
-
 "<code>"
 	"cod" n masc noncon abs
 	"cod" n masc noncon obl
-
-
-"<eedlings>"
-	"*eedlings" unknown
 
 
 "<Kafotu>"
@@ -808,10 +760,6 @@
 	"m" v tv simu p3 plr
 
 
-"<birddilibsiya>"
-	"*birddilibsiya" unkown wrong alphabet
-
-
 "<medhdhiis>"
 	"medhdh" v tv p3 sing masc prf
 
@@ -832,8 +780,6 @@
 	"almaaz" n masc con sing inter
 	"almaaz" n masc con sing nom
 
-"<ceremonies>"
-	"*ceremonies" unknown
 
 
 "<Azini>"
@@ -1047,9 +993,6 @@
 	"yummanna" adj
 
 
-"<Buuraayyo>"
-	"*Buuraayyo" Unknown
-
 
 "<moorettido>"
 	"moor" v tv pass p1 plr intr prf
@@ -1190,10 +1133,6 @@
 		"dugett" n masc noncon obl
 
 
-"<dangerously>"
-	"*dangerously" unknown english word
-
-
 "<muume>"
 	"muume" adj
 
@@ -1212,10 +1151,6 @@
 
 "<wudiis>"
 	"wud" v tv p3 sing masc prf
-
-
-"<oil>"
-	"*oil" unknown english word
 
 
 "<Ibaa>"
@@ -1271,10 +1206,6 @@
 		"balgg" n masc con sing abs
 	"ni" post
 		"balgg" n masc con sing obl
-
-
-"<article>"
-	"*article" unkown english
 
 
 "<worido>"
@@ -1614,11 +1545,6 @@
 	"azaz" n masc con sing abs
 	"azaz" n masc con sing obl
 
-
-"<ʼʼYihuday>"
-	"*ʼʼYihuday" unknown
-
-
 "<gaden>"
 	"ni" post
 		"gad" n masc noncon abs
@@ -1759,19 +1685,12 @@
 	"amaassal" v iv p3 plr prf
 
 
-"<South>"
-	"*South" Unknown
-
 
 "<Mino>"
 	"mino" adj
 	"min" n fem noncon abs
 	"min" n masc noncon abs
 	"min" n masc noncon obl
-
-
-"<talk>"
-	"*talk" Unknown
 
 
 "<taassa>"
