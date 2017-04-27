@@ -31,6 +31,7 @@ tests/verbs-ivtv.yaml -text
 tests/verbs-ms.yaml -text
 tests/verbs.yaml -text
 texts/annotated.txt -text
+texts/annotated2.txt -text
 texts/comm.txt -text
 texts/comm2.txt -text
 texts/kilikil.txt -text
