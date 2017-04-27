@@ -167,7 +167,7 @@
 
 
 "<nuppu>"
-	"nuppu" ADV
+	"nuppu" adv
 
 
 "<koliis>"
@@ -233,7 +233,7 @@
 
 
 "<aqiis>"
-	"aqiis" v iv p3 sing masc prf
+	"aq" v iv p3 sing masc prf
 
 
 "<biradhdhees>"
@@ -242,9 +242,9 @@
 
 "<Hiillaassi>"
 	"ssi" post
-		"Hiill" n masc con sing abs
+		"hiill" n masc con sing abs
 	"ssi" post
-		"Hiill" n masc con sing obl
+		"hiill" n masc con sing obl
 
 
 "<Ashkketettay>"
@@ -315,7 +315,7 @@
 
 
 "<qoppays>"
-	"qoppays" v tv p1 sing imf
+	"qopp" v tv p1 sing imf
 
 
 "<Zilaassay>"
@@ -712,10 +712,6 @@
 "<aadhdhibeenna>"
 	"aadhdh" v tv p3 sing masc neg prf
 	"aadhdh" v tv rel
-
-
-"<ocial>"
-	"*ocial" uknown
 
 
 "<ammanettees>"
