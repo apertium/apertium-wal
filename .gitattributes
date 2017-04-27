@@ -30,6 +30,7 @@ tests/verbs-iss.yaml -text
 tests/verbs-ivtv.yaml -text
 tests/verbs-ms.yaml -text
 tests/verbs.yaml -text
+texts/annotated.txt -text
 texts/comm.txt -text
 texts/comm2.txt -text
 texts/kilikil.txt -text
@@ -39,4 +40,5 @@ texts/scan0003.txt -text
 texts/testData.txt -text
 texts/wol-new.txt -text
 texts/wolaSent.txt -text
+texts/words.txt -text
 /wal.prob -text svneol=unset#unset
