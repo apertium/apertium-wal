@@ -1336,10 +1336,6 @@
 	"moor" n masc con sing nom
 
 
-"<ubbabaassi>"
-	"*ubbabaassi"
-
-
 "<Toophphe>"
 	"Toophph" n masc noncon abs
 	"Toophph" n masc noncon obl
@@ -1641,11 +1637,6 @@
 
 "<axisettees>"
 	"axis" v tv pass p3 sing masc imfr
-
-
-"<kallotiis>"
-	"*kallotiis"
-
 
 "<gitataasa>"
 	"gitat" v iv p2 sing imfr
