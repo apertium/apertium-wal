@@ -318,7 +318,7 @@ Wottanchchay
 bessiyogaa
 mara
 gasttida
-kerbbebiis
+kerbbebbiis
 hoʼʼanaw
 gallassata
 deʼana
@@ -577,7 +577,7 @@ buuqqiis
 yippiis
 qolaasu
 caala
-asaaa
+asaa
 Baquloti
 togay
 panqqees
@@ -740,7 +740,7 @@ Sooddon
 uyanaappe
 Xalahee
 hemettanaw
-keettaayee
+kelttiya
 gadiyassi
 xalaalaa
 pushaliiddi
@@ -869,7 +869,6 @@ paallidi
 hiraagees
 koottaappe
 haahuwa
-eerennan
 oosinne
 Sigaaraa
 oottiyogee
@@ -884,7 +883,6 @@ odida
 kawuwassi
 koottan
 Konttaale
-chair
 qonccissiyogee
 baqaa
 curqqay
