@@ -2346,12 +2346,11 @@
 
 
 "<Xuufee>"
-	"Xuuf"
-		"Xuuf" n masc noncon inter
-		"Xuuf" n masc noncon nom
-		"Xuuf" n masc noncon voc
-		"Xuuf" n masc con sing inter
-		"Xuuf" n masc con sing nom
+	"Xuuf" n masc noncon inter
+	"Xuuf" n masc noncon nom
+	"Xuuf" n masc noncon voc
+	"Xuuf" n masc con sing inter
+	"Xuuf" n masc con sing nom
 
 
 "<hafetiya>"
@@ -6313,11 +6312,10 @@
 
 
 "<Toophiya>"
-	"Tooph"
-		"Tooph" n masc con sing abs
-		"Tooph" n masc con sing obl
-		"Tooph" v iv rel impf sub
-		"Tooph" v tv rel impf sub
+	"Tooph" n masc con sing abs
+	"Tooph" n masc con sing obl
+	"Tooph" v iv rel impf sub
+	"Tooph" v tv rel impf sub
 
 
 "<oychchaasu>"
