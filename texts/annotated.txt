@@ -329,7 +329,7 @@
 
 
 "<iisiino>"
-	"*iisiino"
+	"iisiino" num
 
 
 "<miiloonentta>"
@@ -602,7 +602,7 @@
 
 
 "<araddissiis>"
-	"araddissiis" v iv cau p3 sing masc prf
+	"aradd" v iv cau p3 sing masc prf
 
 
 "<waammotenna>"
@@ -670,10 +670,6 @@
 	"qaac" v tv longcnvb p3 sing fem
 
 
-"<aayetuppe>"
-	"*aayetuppe"
-
-
 "<qachchosan>"
 	"qachch" v tv p1 plr imfr and
 
@@ -717,10 +713,6 @@
 "<ammanettees>"
 	"amman" v iv pass p3 sing masc imfr
 	"amman" v tv pass p3 sing masc imfr
-
-
-"<xayssaychchadasa>"
-	"*xayssaychchadasa"
 
 
 "<qumʼʼees>"
@@ -1095,7 +1087,12 @@
 
 
 "<Minixaafee>"
-	"*Minixaafee"
+	"Minixaafee"
+	"Minixaaf" n masc noncon inter
+	"Minixaaf" n masc noncon nom
+	"Minixaaf" n masc noncon voc
+	"Minixaaf" n masc con sing inter
+	"Minixaaf" n masc con sing nom
 
 
 "<buhiya>"
@@ -1667,9 +1664,6 @@
 	"qum" n masc con sing nom
 
 
-"<Intterneetee>"
-	"*Intterneetee"
-
 
 "<amaassalidosona>"
 	"amaassal" v iv p3 plr prf
@@ -1694,10 +1688,6 @@
 		"taa" prn p1 sing nom
 	"taass" n masc noncon abs
 	"taass" n masc noncon obl
-
-
-"<maadduuttee>"
-	"*maadduuttee"
 
 
 "<pittikkii>"
@@ -1726,14 +1716,6 @@
 	"buuchch" n masc con sing nom
 
 
-"<kaaʼido>"
-	"*kaaʼido"
-
-
-"<maanuwa>"
-	"*maanuwa"
-
-
 "<Xoossa>"
 	"Xooss" n masc noncon abs
 	"Xooss" n masc noncon obl
@@ -1749,34 +1731,14 @@
 	"kajjeel" v tv p3 sing masc prf
 
 
-"<essibeena>"
-	"*essibeena"
-
-
 "<morggetees>"
 	"morgget" v iv p3 sing masc imfr
-
-
-"<amottoos>"
-	"*amottoos"
-
-
-"<omʼʼo>"
-	"*omʼʼo"
-
-
-"<gayttanna>"
-	"*gayttanna"
 
 
 "<uunnoy>"
 	"uunn" n masc noncon nom
 	"uunn" n masc con sing inter
 	"uunn" n masc con sing nom
-
-
-"<chool>"
-	"*chool"
 
 
 "<yelin>"
@@ -1791,23 +1753,6 @@
 "<Wottanchchay>"
 	"wottanchch" n masc con sing inter
 	"wottanchch" n masc con sing nom
-
-
-"<xannaʼaas>"
-	"*xannaʼaas"
-
-
-"<aadhdhidoogaa>"
-	"*aadhdhidoogaa"
-
-
-"<ekkibeennabaadan>"
-	"*ekkibeennabaadan"
-
-
-"<heephetidi>"
-	"*heephetidi"
-
 
 "<bessiyogaa>"
 	"bess" v iv rel impf nsub nmlz sing masc abs
@@ -1828,25 +1773,8 @@
 	"gastt" v iv rel prf sub
 	"gastt" v tv rel prf sub
 
-
-"<ugana>"
-	"*ugana"
-
-
-"<ciishaynnetussi>"
-	"*ciishaynnetussi"
-
-
-"<kerbbebiis>"
-	"*kerbbebiis"
-
-
-"<haargge>"
-	"*haargge"
-
-
-"<ubbatoo>"
-	"*ubbatoo"
+"<kerbbebbiis>"
+	"kerbbebb" v iv p3 sing masc prf
 
 
 "<hoʼʼanaw>"
@@ -1855,10 +1783,6 @@
 
 "<gallassata>"
 	"gallass" n masc con plr abs
-
-
-"<Entte>"
-	"*Entte"
 
 
 "<deʼana>"
@@ -1885,14 +1809,6 @@
 	"geeshsh" v tv p3 sing masc neg imfr
 
 
-"<diyakko>"
-	"*diyakko"
-
-
-"<takkaasu>"
-	"*takkaasu"
-
-
 "<giigi>"
 	"giig" n masc noncon nom
 	"giig" v iv shortcnvb p1 plr
@@ -1917,11 +1833,7 @@
 
 
 "<namisettiis>"
-	"*namisettiis"
-
-
-"<zaʼʼanaw>"
-	"*zaʼʼanaw"
+	"namis" v iv pass p3 sing masc prf
 
 
 "<kobay>"
@@ -1933,10 +1845,6 @@
 "<Kafuwa>"
 	"kaf" n masc con sing abs
 	"kaf" n masc con sing obl
-
-
-"<irenna>"
-	"*irenna"
 
 
 "<gooshettidi>"
@@ -1957,13 +1865,6 @@
 	"gid" v iv rel impf nsub nmlz sing masc abs and
 
 
-"<woygiyakko>"
-	"*woygiyakko"
-
-
-"<doliyode>"
-	"*doliyode"
-
 
 "<wodoruwappe>"
 	"ppe" post
@@ -1976,18 +1877,10 @@
 	"laamm" v tv for
 
 
-"<kaallaawsu>"
-	"*kaallaawsu"
-
-
 "<uutta>"
 	"uutta" adj
 	"uutt" n masc noncon abs
 	"uutt" n masc noncon obl
-
-
-"<tamaarissidoogaa>"
-	"*tamaarissidoogaa"
 
 
 "<daanaw>"
@@ -2005,14 +1898,6 @@
 	"tamaar" v tv cau p3 sing masc opt
 	"tamaar" v iv cau rel prf nsub
 	"tamaar" v tv cau rel prf nsub
-
-
-"<uriyanne>"
-	"*uriyanne"
-
-
-"<biittaayyoo>"
-	"*biittaayyoo"
 
 
 "<xuussan>"
@@ -2072,11 +1957,6 @@
 	"ayf" n masc con sing inter
 	"ayf" n masc con sing nom
 
-
-"<woysu>"
-	"*woysu"
-
-
 "<imattata>"
 	"imatt" n masc con plr abs
 
@@ -2099,13 +1979,6 @@
 	"xuuqq" v iv p3 sing masc prf
 
 
-"<long>"
-	"*long"
-
-
-"<Sabaasagaleti>"
-	"*Sabaasagaleti"
-
 
 "<peerettay>"
 	"peerett" n masc con sing inter
@@ -2114,10 +1987,6 @@
 	"peer" v tv pass p2 sing intr imfr
 	"peerett" v iv p3 sing fem intr imfr
 	"peer" v tv pass p3 sing fem intr imfr
-
-
-"<ugiya>"
-	"*ugiya"
 
 
 "<ushshoppite>"
@@ -2152,12 +2021,8 @@
 		"masttoot" n masc con sing obl
 
 
-"<only>"
-	"*only"
-
-
 "<gallassiis>"
-	"*gallassiis"
+	"gallass" v iv p3 sing masc prf
 
 
 "<wombbaraanne>"
@@ -2183,17 +2048,9 @@
 	"bun" n masc con sing nom
 
 
-"<mooruwana>"
-	"*mooruwana"
-
-
 "<Koshaa>"
 	"kosh" n masc con sing abs
 	"kosh" n masc con sing obl
-
-
-"<Mattottida>"
-	"*Mattottida"
 
 
 "<Xiskkuwa>"
@@ -2207,10 +2064,6 @@
 	"zor" v tv rel impf sub
 
 
-"<haahettikko>"
-	"*haahettikko"
-
-
 "<koyidobaa>"
 	"koy" v iv p1 plr intr prf about
 	"koy" v tv p1 plr intr prf about
@@ -2221,16 +2074,9 @@
 	"galbb" n masc con sing obl
 
 
-"<ekkaydda>"
-	"*ekkaydda"
-
-
 "<toossiis>"
 	"tooss" v tv p3 sing masc prf
 
-
-"<paalliyanne>"
-	"*paalliyanne"
 
 
 "<ayfiyagee>"
@@ -2242,8 +2088,240 @@
 	"woraqat" n masc noncon nom
 
 
-"<Miimma>"
-	"*Miimma"
+
+"<gelays>"
+	"gel" v tv p1 sing imfr
+
+
+"<oydee>"
+	"oyd" n masc noncon inter
+	"oyd" n masc noncon nom
+	"oyd" n masc noncon voc
+	"oyd" n masc con sing inter
+	"oyd" n masc con sing nom
+
+
+"<uyiyogee>"
+	"uy" v tv rel impf nsub nmlz sing masc inter
+	"uy" v tv rel impf nsub nmlz sing masc nom
+	"uy" v tv p1 plr intr imfr and
+
+
+"<miziyo>"
+	"miz" v tv p1 plr intr imfr
+	"miz" v tv rel impf nsub
+
+
+"<gosiya>"
+	"gos" n masc con sing abs
+	"gos" n masc con sing obl
+
+
+"<baazzaappe>"
+	"ppe" post
+		"baazz" n masc con sing abs
+	"ppe" post
+		"baazz" n masc con sing obl
+
+
+"<mehee>"
+	"meh" n masc noncon inter
+	"meh" n masc noncon nom
+	"meh" n masc noncon voc
+	"meh" n masc con sing inter
+	"meh" n masc con sing nom
+
+
+"<eesoya>"
+	"eesoy" v tv p2 sing opt
+	"eesoy" v tv shortcnvb p1 sing
+	"eesoy" v tv shortcnvb p2 sing
+	"eesoy" v tv shortcnvb p3 sing fem
+	"eesoy" v tv rel prf sub
+
+
+"<dereqqiyogee>"
+	"dereqq" v tv rel impf nsub nmlz sing masc inter
+	"dereqq" v tv rel impf nsub nmlz sing masc nom
+	"dereqq" v tv p1 plr intr imfr and
+
+
+
+"<goynnees>"
+	"goynn" v iv p3 sing masc imfr
+
+
+"<woosaw>"
+	"woos" n masc con sing voc
+
+
+"<gooyi>"
+	"gooy" v iv shortcnvb p1 plr
+	"gooy" v iv shortcnvb p2 plr
+	"gooy" v iv shortcnvb p3 plr
+	"gooy" v iv shortcnvb p3 sing masc
+
+
+"<giddikkonne>"
+	"giddikkonne" adv
+
+
+"<denddaasu>"
+	"dendd" v iv p3 sing fem prf
+
+
+"<mizaas>"
+	"miz" v tv p1 sing prf
+
+
+"<arees>"
+	"ar" v iv p3 sing masc imfr
+	"ar" v tv p3 sing masc imfr
+
+
+"<aymottees>"
+	"aymott" v tv p3 sing masc imfr
+
+
+"<modhdho>"
+	"modhdho" adj
+	"modhdh" n masc noncon abs
+	"modhdh" n masc noncon obl
+	"modhdh" v iv p3 sing masc opt
+	"modhdh" v iv rel prf nsub
+
+
+
+"<tanggacciis>"
+	"tanggacc" v iv p3 sing masc prf
+
+
+
+"<xoqolliyogee>"
+	"xoqoll" v tv rel impf nsub nmlz sing masc inter
+	"xoqoll" v tv rel impf nsub nmlz sing masc nom
+	"xoqoll" v tv p1 plr intr imfr and
+
+
+"<alo>"
+	"al" n masc noncon abs
+	"al" n masc noncon obl
+	"al" v iv p3 sing masc opt
+	"al" v tv p3 sing masc opt
+	"al" v iv rel prf nsub
+	"al" v tv rel prf nsub
+
+
+
+"<cachchaa>"
+	"cachch" n masc con sing abs
+	"cachch" n masc con sing obl
+
+
+"<moorettida>"
+	"moor" v tv pass p1 plr prf
+	"moorettida" adj
+	"moor" v tv pass rel prf sub
+
+
+"<badalay>"
+	"badal" n masc con sing inter
+	"badal" n masc con sing nom
+
+
+"<baajiya>"
+	"baaj" n masc con sing abs
+	"baaj" n masc con sing obl
+
+
+"<dicciis>"
+	"dicc" v iv p3 sing masc prf
+
+
+"<iran>"
+	"n" post
+		"ir" n masc noncon abs
+	"n" post
+		"ir" n masc noncon obl
+	"ni" post
+		"ir" n masc noncon abs
+	"ni" post
+		"ir" n masc noncon obl
+	"ra" post about
+		"i" prn obl p3 fem sing
+	"ra" post about
+		"i" prn nom p3 masc sing
+	"i" nmlz sing fem nom about
+
+
+"<xumido>"
+	"xum" v iv p1 plr intr prf
+	"xum" v tv p1 plr intr prf
+
+
+"<xeeran>"
+	"n" post
+		"xeer" n masc noncon abs
+	"n" post
+		"xeer" n masc noncon obl
+	"ni" post
+		"xeer" n masc noncon abs
+	"ni" post
+		"xeer" n masc noncon obl
+	"xee" v tv nmlz sing fem nom about
+	"xeer" v iv p2 sing opt about
+	"xeer" v iv shortcnvb p1 sing about
+	"xeer" v iv shortcnvb p2 sing about
+	"xeer" v iv shortcnvb p3 sing fem about
+
+
+"<kiyennan>"
+	"n" post
+		"kiy" v iv inf noncon neg abs
+	"n" post
+		"kiy" v iv inf noncon neg obl
+	"ni" post
+		"kiy" v iv inf noncon neg abs
+	"ni" post
+		"kiy" v iv inf noncon neg obl
+	"kiy" v iv p3 sing masc neg imfr about
+
+
+"<oychchennaakko>"
+	"kko" post
+		"oychch" v tv inf con neg abs sing
+	"kko" post
+		"oychch" v tv inf con neg obl sing
+
+
+
+"<gishshaa>"
+	"gishsh" n masc con sing abs
+	"gishsh" n masc con sing obl
+
+
+"<xomoosuwassi>"
+	"ssi" post
+		"xomoos" n masc con sing abs
+	"ssi" post
+		"xomoos" n masc con sing obl
+
+
+"<Huuphessa>"
+	"ssa" post
+		"huuph" n masc noncon abs
+	"ssa" post
+		"huuph" n masc noncon obl
+
+
+
+"<gaddaduwa>"
+	"gaddad" n masc con sing abs
+	"gaddad" n masc con sing obl
+
+
+"<zaariis>"
+	"zaar" v tv p3 sing masc prf
 
 
 "<Care>"
@@ -2268,11 +2346,17 @@
 
 
 "<Xuufee>"
-	"*Xuufee"
+	"Xuuf"
+		"Xuuf" n masc noncon inter
+		"Xuuf" n masc noncon nom
+		"Xuuf" n masc noncon voc
+		"Xuuf" n masc con sing inter
+		"Xuuf" n masc con sing nom
 
 
 "<hafetiya>"
-	"*hafetiya"
+	"hafet" n masc con sing abs
+	"hafet" n masc con sing obl
 
 
 "<Shubay>"
@@ -2281,20 +2365,13 @@
 
 
 "<ahuwa>"
-	"*ahuwa"
-
-
-"<Ooninne>"
-	"*Ooninne"
+	"ah" n masc con sing abs
+	"ah" n masc con sing obl
 
 
 "<lambbaa>"
 	"lambb" n masc con sing abs
 	"lambb" n masc con sing obl
-
-
-"<aadhdhanaagaa>"
-	"*aadhdhanaagaa"
 
 
 "<manggaagan>"
@@ -2309,11 +2386,7 @@
 
 
 "<xitsʼʼissiis>"
-	"*xitsʼʼissiis"
-
-
-"<gakkiyode>"
-	"*gakkiyode"
+	"xitsʼʼ"  v tv cau p3 sing masc prf
 
 
 "<doonan>"
@@ -2352,15 +2425,8 @@
 
 
 "<akkamiis>"
-	"*akkamiis"
+	"akkam" v iv p3 sing masc prf
 
-
-"<Naagiyara>"
-	"*Naagiyara"
-
-
-"<aqaws>"
-	"*aqaws"
 
 
 "<Siriya>"
@@ -2379,10 +2445,6 @@
 	"y" v iv shortcnvb p3 sing fem and
 
 
-"<naatinne>"
-	"*naatinne"
-
-
 "<hoola>"
 	"hoola" ij
 
@@ -2399,10 +2461,6 @@
 "<zaassiyo>"
 	"zaass" v tv p1 plr intr imfr
 	"zaass" v tv rel impf nsub
-
-
-"<dooyarkkii>"
-	"*dooyarkkii"
 
 
 "<danuwappe>"
@@ -2428,13 +2486,6 @@
 	"tir" n masc noncon abs
 	"tir" n masc noncon obl
 
-
-"<tamaarenne>"
-	"*tamaarenne"
-
-
-"<qanttiyakko>"
-	"*qanttiyakko"
 
 
 "<gaashshiyan>"
@@ -2464,9 +2515,6 @@
 	"achch" v tv p3 sing masc prf
 
 
-"<gididaakko>"
-	"*gididaakko"
-
 
 "<Wobbiya>"
 	"wobb" n masc con sing abs
@@ -2474,17 +2522,9 @@
 	"wobb" v tv rel impf sub
 
 
-"<bukkenna>"
-	"*bukkenna"
-
-
 "<jinssiya>"
 	"jinss" n masc con sing abs
 	"jinss" n masc con sing obl
-
-
-"<ekkoosappe>"
-	"*ekkoosappe"
 
 
 "<inchche>"
@@ -2500,17 +2540,10 @@
 	"cashsh" n masc con sing voc
 
 
-"<meʼees>"
-	"*meʼees"
-
-
 "<pilggettaa>"
 	"pilggett" n masc con sing abs
 	"pilggett" n masc con sing obl
 
-
-"<hasty>"
-	"*hasty"
 
 
 "<qarxxan>"
@@ -2520,24 +2553,8 @@
 		"qarxx" n masc noncon obl
 
 
-"<xeegarkkii>"
-	"*xeegarkkii"
-
-
-"<oykkiyagee>"
-	"*oykkiyagee"
-
-
 "<kayriis>"
 	"kayr" v iv p3 sing masc prf
-
-
-"<voracious>"
-	"*voracious"
-
-
-"<transmit>"
-	"*transmit"
 
 
 "<boli>"
@@ -2561,10 +2578,6 @@
 	"buq" v tv pass p3 sing masc prf
 
 
-"<unity>"
-	"*unity"
-
-
 "<allaanatuppe>"
 	"ppe" post
 		"allaan" n masc con plr obl
@@ -2575,10 +2588,6 @@
 	"qorccay" v tv simu p2 plr
 	"qorccay" v tv simu p3 sing masc
 	"qorccay" v tv simu p3 plr
-
-
-"<Biittaappe>"
-	"*Biittaappe"
 
 
 "<hemetaa>"
@@ -2598,10 +2607,6 @@
 "<Bankke>"
 	"bankk" n masc noncon abs
 	"bankk" n masc noncon obl
-
-
-"<eettanaw>"
-	"*eettanaw"
 
 
 "<diyosaa>"
@@ -2624,18 +2629,6 @@
 	"bashsh" v tv p3 sing masc prf
 
 
-"<immidaagee>"
-	"*immidaagee"
-
-
-"<mi>"
-	"*mi"
-
-
-"<toskkayiyogee>"
-	"*toskkayiyogee"
-
-
 "<Harbbaynnoy>"
 	"harbbaynn" n masc noncon nom
 	"harbbaynn" n masc con sing inter
@@ -2646,9 +2639,6 @@
 	"daay" v iv p3 sing masc imfr
 
 
-"<merettanna>"
-	"*merettanna"
-
 
 "<Baysa>"
 	"baysa" adj
@@ -2656,19 +2646,11 @@
 	"bays" n masc noncon obl
 
 
-"<hosppunttaw>"
-	"*hosppunttaw"
-
-
 "<akeekidi>"
 	"akeek" v tv longcnvb p1 plr
 	"akeek" v tv longcnvb p2 plr
 	"akeek" v tv longcnvb p3 plr
 	"akeek" v tv longcnvb p3 sing masc
-
-
-"<ooyettiya>"
-	"*ooyettiya"
 
 
 "<anha>"
@@ -2681,13 +2663,6 @@
 	"qum" n masc noncon obl
 
 
-"<ignore>"
-	"*ignore"
-
-
-"<yeletaayyoo>"
-	"*yeletaayyoo"
-
 
 "<Ibraawe>"
 	"Ibraaw" n masc noncon abs
@@ -2697,10 +2672,6 @@
 "<ayyaanaa>"
 	"ayyaan" n masc con sing abs
 	"ayyaan" n masc con sing obl
-
-
-"<akkana>"
-	"*akkana"
 
 
 "<malddo>"
@@ -2777,7 +2748,7 @@
 
 
 "<qoppiis>"
-	"*qoppiis"
+	"qopp" v tv p3 sing masc prf
 
 
 "<taagaara>"
@@ -2810,14 +2781,6 @@
 	"geeshsh" v tv longcnvb p2 plr
 	"geeshsh" v tv longcnvb p3 plr
 	"geeshsh" v tv longcnvb p3 sing masc
-
-
-"<cause>"
-	"*cause"
-
-
-"<xeesi>"
-	"*xeesi"
 
 
 "<Malay>"
@@ -2858,10 +2821,6 @@
 	"muuss" n masc noncon nom
 	"muuss" n masc con sing inter
 	"muuss" n masc con sing nom
-
-
-"<heeshshaw>"
-	"*heeshshaw"
 
 
 "<helʼʼiiddi>"
@@ -2935,10 +2894,6 @@
 	"eesot" v iv p3 sing masc prf
 
 
-"<intti>"
-	"*intti"
-
-
 "<Wurssettan>"
 	"ni" post
 		"wurssett" n masc noncon abs
@@ -2948,15 +2903,6 @@
 	"wurss" v tv pass shortcnvb p1 sing about
 	"wurss" v tv pass shortcnvb p2 sing about
 	"wurss" v tv pass shortcnvb p3 sing fem about
-
-
-"<biichchin>"
-	"*biichchin"
-
-
-"<morkketetti>"
-	"*morkketetti"
-
 
 "<biiree>"
 	"biir" n masc noncon inter
@@ -2977,7 +2923,8 @@
 
 
 "<zooniya>"
-	"*zooniya"
+	"zoon" n masc con sing abs
+	"zoon" n masc con sing obl
 
 
 "<guufiya>"
@@ -2985,8 +2932,70 @@
 	"guuf" n masc con sing obl
 
 
-"<qanchcha>"
-	"*qanchcha"
+"<Isttooree>"
+	"isttoor" n masc noncon inter
+	"isttoor" n masc noncon nom
+	"isttoor" n masc noncon voc
+	"isttoor" n masc con sing inter
+	"isttoor" n masc con sing nom
+
+
+"<piridi>"
+	"pir" v tv longcnvb p1 plr
+	"pir" v tv longcnvb p2 plr
+	"pir" v tv longcnvb p3 plr
+	"pir" v tv longcnvb p3 sing masc
+
+
+"<yootada>"
+	"yoot" v tv longcnvb p1 sing
+	"yoot" v tv longcnvb p2 sing
+	"yoot" v tv longcnvb p3 sing fem
+
+
+"<meqettaw>"
+	"meqett" n masc con sing voc
+
+
+"<unkkotibeenna>"
+	"unkkot" v iv p3 sing masc neg prf
+	"unkkot" v iv rel
+
+
+"<giddon>"
+	"giddon" adv
+	"giddon" prep
+	"n" post
+		"gidd" n masc noncon abs
+	"n" post
+		"gidd" n masc noncon obl
+	"ni" post
+		"gidd" n masc noncon abs
+	"ni" post
+		"gidd" n masc noncon obl
+	"gidd" v tv p3 sing masc opt about
+
+
+
+"<paaxiis>"
+	"paax" v tv p3 sing masc prf
+
+
+"<Oydiya>"
+	"oyd" n masc con sing abs
+	"oyd" n masc con sing obl
+
+
+"<zaaretuwa>"
+	"zaaret" n masc con sing abs
+	"zaaret" n masc con sing obl
+
+
+"<bayzziiddi>"
+	"bayzz" v tv simu p1 plr
+	"bayzz" v tv simu p2 plr
+	"bayzz" v tv simu p3 sing masc
+	"bayzz" v tv simu p3 plr
 
 
 "<gagagattees>"
@@ -2994,7 +3003,7 @@
 
 
 "<aʼay>"
-	"*aʼay"
+	"aʼay" adv
 
 
 "<yanqqiyanqqiis>"
@@ -3017,9 +3026,6 @@
 	"godol" v iv p3 sing masc prf
 
 
-"<aadhdhas>"
-	"*aadhdhas"
-
 
 "<peeranaw>"
 	"peer" v tv for
@@ -3030,24 +3036,127 @@
 	"gid" v iv p3 sing masc neg intr imfr
 
 
-"<onnu>"
-	"*onnu"
-
 
 "<boohettiis>"
 	"booh" v tv pass p3 sing masc prf
 
 
 "<qanʼʼees>"
-	"*qanʼʼees"
+	"qanʼʼ" v tv p3 sing masc imfr
 
 
 "<Yelagati>"
 	"yelag" n masc con plr nom
 
 
-"<takkiyogaa>"
-	"*takkiyogaa"
+"<gelettekketii>"
+	"gel" v tv pass p2 plr neg intr imfr
+
+
+"<qakka>"
+	"qakk" v tv p2 sing opt
+	"qakk" v tv shortcnvb p1 sing
+	"qakk" v tv shortcnvb p2 sing
+	"qakk" v tv shortcnvb p3 sing fem
+	"qakk" v tv rel prf sub
+
+
+"<uluwan>"
+	"n" post
+		"ul" n masc con sing abs
+	"n" post
+		"ul" n masc con sing obl
+	"ni" post
+		"ul" n masc con sing abs
+	"ni" post
+		"ul" n masc con sing obl
+
+
+"<maccaasatu>"
+	"maccaas" n masc con plr obl
+
+
+"<aadhdhanaw>"
+	"aadhdh" v tv for
+
+
+"<barssidi>"
+	"barss" v tv longcnvb p1 plr
+	"barss" v tv longcnvb p2 plr
+	"barss" v tv longcnvb p3 plr
+	"barss" v tv longcnvb p3 sing masc
+
+
+
+"<Xiillee>"
+	"xiill" n masc noncon inter
+	"xiill" n masc noncon nom
+	"xiill" n masc noncon voc
+	"xiill" n masc con sing inter
+	"xiill" n masc con sing nom
+
+
+"<dooyettennan>"
+	"dooy" v tv p1 plr neg imfr about
+	"dooy" v tv pass p3 sing masc neg imfr about
+
+
+"<kichcha>"
+	"kichch" v iv p2 sing opt
+	"kichch" v iv shortcnvb p1 sing
+	"kichch" v iv shortcnvb p2 sing
+	"kichch" v iv shortcnvb p3 sing fem
+	"kichch" v iv rel prf sub
+
+
+"<masttootiyappe>"
+	"ppe" post
+		"masttoot" n masc con sing abs
+	"ppe" post
+		"masttoot" n masc con sing obl
+
+
+"<heregaa>"
+	"hereg" n masc con sing abs
+	"hereg" n masc con sing obl
+
+
+"<amaassaliis>"
+	"amaassal" v iv p3 sing masc prf
+
+
+
+"<Akataa>"
+	"akat" n masc con sing abs
+	"akat" n masc con sing obl
+
+
+"<eqqennan>"
+	"n" post
+		"eqq" v iv inf noncon neg abs
+	"n" post
+		"eqq" v iv inf noncon neg obl
+	"n" post
+		"eqq" v tv inf noncon neg abs
+	"n" post
+		"eqq" v tv inf noncon neg obl
+	"ni" post
+		"eqq" v iv inf noncon neg abs
+	"ni" post
+		"eqq" v iv inf noncon neg obl
+	"ni" post
+		"eqq" v tv inf noncon neg abs
+	"ni" post
+		"eqq" v tv inf noncon neg obl
+	"eqq" v iv p3 sing masc neg imfr about
+	"eqq" v tv p3 sing masc neg imfr about
+
+
+"<maataappe>"
+	"ppe" post
+		"maat" n masc con sing abs
+	"ppe" post
+		"maat" n masc con sing obl
 
 
 "<hano>"
@@ -3080,7 +3189,10 @@
 
 
 "<aawaappe>"
-	"*aawaappe"
+	 "ppe" post
+		"aaw" n masc con sing abs
+	"ppe" post
+		"aaw" n masc con sing obl
 
 
 "<Annaacee>"
@@ -3119,21 +3231,10 @@
 	"tamaar" v tv cau simu p3 plr
 
 
-"<Woggaata>"
-	"*Woggaata"
-
-
-"<haahuwan>"
-	"*haahuwan"
-
 
 "<Laaxaa>"
 	"laax" n masc con sing abs
 	"laax" n masc con sing obl
-
-
-"<merciful>"
-	"*merciful"
 
 
 "<xiiriis>"
@@ -3145,10 +3246,6 @@
 	"kool" v tv pass simu p2 plr
 	"kool" v tv pass simu p3 sing masc
 	"kool" v tv pass simu p3 plr
-
-
-"<wuyggiyappe>"
-	"*wuyggiyappe"
 
 
 "<maayanaassi>"
@@ -3164,18 +3261,6 @@
 	"gakk" v tv shortcnvb p2 sing
 	"gakk" v tv shortcnvb p3 sing fem
 	"gakk" v tv rel prf sub
-
-
-"<namisa>"
-	"*namisa"
-
-
-"<ekkanaasi>"
-	"*ekkanaasi"
-
-
-"<xeetaw>"
-	"*xeetaw"
 
 
 "<ulee>"
@@ -3195,10 +3280,6 @@
 
 "<bonccottees>"
 	"bonccott" v iv p3 sing masc imfr
-
-
-"<xoqqasaappe>"
-	"*xoqqasaappe"
 
 
 "<naqidi>"
@@ -3224,7 +3305,8 @@
 
 
 "<hospitaaliya>"
-	"*hospitaaliya"
+	"hospitaal" n masc con sing abs
+	"hospitaal" n masc con sing obl
 
 
 "<buuqqiis>"
@@ -3253,12 +3335,13 @@
 	"caal" v tv rel prf sub
 
 
-"<asaaa>"
-	"*asaaa"
+"<asaa>"
+	"as" n masc con sing abs
+	"as" n masc con sing obl
 
 
 "<Baquloti>"
-	"*Baquloti"
+	"Baqul" n masc con plr nom
 
 
 "<togay>"
@@ -3267,7 +3350,7 @@
 
 
 "<panqqees>"
-	"*panqqees"
+	"panqq" v iv p3 sing masc imfr
 
 
 "<timirtte>"
@@ -3296,7 +3379,7 @@
 
 
 "<nashettidosona>"
-	"*nashettidosona"
+	"nash" v iv pass p3 plr prf
 
 
 "<qashamiis>"
@@ -3317,17 +3400,10 @@
 	"ispponjj" n masc con sing obl
 
 
-"<haasayaasu>"
-	"*haasayaasu"
-
-
 "<beero>"
 	"beer" n masc noncon abs
 	"beer" n masc noncon obl
 
-
-"<hinchchaalle>"
-	"*hinchchaalle"
 
 
 "<koshshan>"
@@ -3345,20 +3421,8 @@
 	"xeell" v tv p3 plr prf
 
 
-"<laaccaydda>"
-	"*laaccaydda"
-
-
 "<Hiilliya>"
 	"hiill" n fem con sing nom
-
-
-"<gakkikko>"
-	"*gakkikko"
-
-
-"<bukkana>"
-	"*bukkana"
 
 
 "<xomoosiyageeta>"
@@ -3395,10 +3459,6 @@
 	"manqq" v iv rel prf nsub
 
 
-"<akaala>"
-	"*akaala"
-
-
 "<Boniyan>"
 	"ni" post
 		"bon" n masc con sing abs
@@ -3407,19 +3467,13 @@
 
 
 "<mallado>"
-	"*mallado"
-
-
-"<ooyettida>"
-	"*ooyettida"
-
-
-"<yelidaaro>"
-	"*yelidaaro"
+	"mallad" n masc noncon abs
+	"mallad" n masc noncon obl
 
 
 "<kayssuwa>"
-	"*kayssuwa"
+	"kayss" n masc con sing abs
+	"kayss" n masc con sing obl
 
 
 "<Uluwa>"
@@ -3439,10 +3493,6 @@
 	"kaabb" n masc con sing obl
 
 
-"<xayssidaagee>"
-	"*xayssidaagee"
-
-
 "<galatidosonanne>"
 	"galat" v tv p3 plr prf and
 
@@ -3453,10 +3503,6 @@
 
 "<aattuutee>"
 	"aatt" v tv p2 sing intrEnding
-
-
-"<cadettidi>"
-	"*cadettidi"
 
 
 "<Kolloojjiyan>"
@@ -3475,16 +3521,8 @@
 	"ifitt" n masc con sing obl
 
 
-"<immiyakko>"
-	"*immiyakko"
-
-
 "<hargganchchaw>"
 	"hargganchch" n masc con sing voc
-
-
-"<Shammiyobaassi>"
-	"*Shammiyobaassi"
 
 
 "<Mishiraanne>"
@@ -3513,10 +3551,6 @@
 	"kaameer" n masc con sing nom
 
 
-"<qulppidaakkonne>"
-	"*qulppidaakkonne"
-
-
 "<tamaari>"
 	"tamaar" v iv shortcnvb p1 plr
 	"tamaar" v iv shortcnvb p2 plr
@@ -3528,19 +3562,12 @@
 	"tamaar" v tv shortcnvb p3 sing masc
 
 
-"<qosettidosona>"
-	"*qosettidosona"
-
 
 "<xuussidi>"
 	"xuuss" v tv longcnvb p1 plr
 	"xuuss" v tv longcnvb p2 plr
 	"xuuss" v tv longcnvb p3 plr
 	"xuuss" v tv longcnvb p3 sing masc
-
-
-"<heeshshan>"
-	"*heeshshan"
 
 
 "<.>"
@@ -3553,18 +3580,6 @@
 		"og" n masc con sing abs
 	"ppe" post
 		"og" n masc con sing obl
-
-
-"<immid>"
-	"*immid"
-
-
-"<yegettideeyye>"
-	"*yegettideeyye"
-
-
-"<kaqettiis>"
-	"*kaqettiis"
 
 
 "<qofay>"
@@ -3581,10 +3596,6 @@
 		"giir" n masc noncon obl
 
 
-"<Gibitse>"
-	"*Gibitse"
-
-
 "<kaamiyan>"
 	"ni" post
 		"kaam" n masc con sing abs
@@ -3594,16 +3605,150 @@
 
 "<Bana>"
 	"ba" prn p3 ref sing abs
-	"ba" prn p3 ref sing obl
+	"ba" prn p3 ref sing obl 
 
 
-"<Naatussi>"
-	"*Naatussi"
+"<birshshada>"
+	"birshsh" v iv longcnvb p1 sing
+	"birshsh" v iv longcnvb p2 sing
+	"birshsh" v tv longcnvb p1 sing
+	"birshsh" v tv longcnvb p2 sing
+	"birshsh" v iv longcnvb p3 sing fem
+	"birshsh" v tv longcnvb p3 sing fem
 
 
-"<zalʼʼiyan>"
-	"*zalʼʼiyan"
 
+"<Naatiray>"
+	"naatir" n masc con sing inter
+	"naatir" n masc con sing nom
+
+
+"<tamaarissiyogaa>"
+	"tamaar" v iv cau rel impf nsub nmlz sing masc abs
+	"tamaar" v iv cau rel impf nsub nmlz sing masc obl
+	"tamaar" v tv cau rel impf nsub nmlz sing masc abs
+	"tamaar" v tv cau rel impf nsub nmlz sing masc obl
+
+
+"<Xiba>"
+	"xiba" adj
+	"xib" n masc noncon abs
+	"xib" n masc noncon obl
+	"xib" v iv p2 sing opt
+	"xib" v iv shortcnvb p1 sing
+	"xib" v iv shortcnvb p2 sing
+	"xib" v iv shortcnvb p3 sing fem
+	"xib" v iv rel prf sub
+
+
+"<burccukkuwan>"
+	"n" post
+		"burccukk" n masc con sing abs
+	"n" post
+		"burccukk" n masc con sing obl
+	"ni" post
+		"burccukk" n masc con sing abs
+	"ni" post
+		"burccukk" n masc con sing obl
+
+
+"<Wozannaama>"
+	"wozannaama" adj
+	"wozannaam" v iv p2 sing opt
+	"wozannaam" v iv shortcnvb p1 sing
+	"wozannaam" v iv shortcnvb p2 sing
+	"wozannaam" v iv shortcnvb p3 sing fem
+	"wozannaam" v iv rel prf sub
+
+"<gisa>"
+	"gisa" adj
+	"gis" n masc noncon abs
+	"gis" n masc noncon obl
+	"gis" v iv p2 sing opt
+	"gis" v iv shortcnvb p1 sing
+	"gis" v iv shortcnvb p2 sing
+	"gis" v iv shortcnvb p3 sing fem
+	"gis" v iv rel prf sub
+
+
+"<Ciishshay>"
+	"Ciishsh" n masc con sing inter
+	"Ciishsh" n masc con sing nom
+	"ciishsh" n masc con sing inter
+	"ciishsh" n masc con sing nom
+
+
+"<mereeriis>"
+	"mereer" v iv p3 sing masc prf
+
+
+"<qanxxoy>"
+	"qanxx" n masc noncon nom
+	"qanxx" n masc con sing inter
+	"qanxx" n masc con sing nom
+	"qanxx" v tv oy
+
+
+"<qucciyagee>"
+	"qucc" v tv rel impf sub nmlz sing masc inter
+	"qucc" v tv rel impf sub nmlz sing masc nom
+
+
+
+"<hiixxa>"
+	"hiixx" v tv p2 sing opt
+	"hiixx" v tv shortcnvb p1 sing
+	"hiixx" v tv shortcnvb p2 sing
+	"hiixx" v tv shortcnvb p3 sing fem
+	"hiixx" v tv rel prf sub
+
+
+"<doommi>"
+	"doomm" v tv shortcnvb p1 plr
+	"doomm" v tv shortcnvb p2 plr
+	"doomm" v tv shortcnvb p3 plr
+	"doomm" v tv shortcnvb p3 sing masc
+
+
+"<asttamaaree>"
+	"asttamaar" n masc noncon inter
+	"asttamaar" n masc noncon nom
+	"asttamaar" n masc noncon voc
+	"asttamaar" n masc con sing inter
+	"asttamaar" n masc con sing nom
+
+
+"<penggee>"
+	"pengg" n masc noncon inter
+	"pengg" n masc noncon nom
+	"pengg" n masc noncon voc
+	"pengg" n masc con sing inter
+	"pengg" n masc con sing nom
+
+
+"<maggulssiis>"
+	"maggulss" v iv p3 sing masc prf
+
+
+"<baalaw>"
+	"baal" n masc con sing voc
+
+
+"<taarike>"
+	"taarik" n masc noncon abs
+	"taarik" n masc noncon obl
+
+
+"<wuqaawuquwa>"
+	"wuqaawuq" n masc con sing abs
+	"wuqaawuq" n masc con sing obl
+
+
+"<menttettay>"
+	"menttett" n masc con sing inter
+	"menttett" n masc con sing nom
+	"mentt" v tv pass p2 sing intr imfr
+	"mentt" v tv pass p3 sing fem intr imfr
 
 "<oosuwan>"
 	"ni" post
@@ -3634,7 +3779,7 @@
 
 
 "<dawsu>"
-	"*dawsu"
+	"d" v tv p3 sing fem imfr
 
 
 "<dooruwa>"
@@ -3654,37 +3799,48 @@
 	"magaax" v tv p3 sing masc prf
 
 
-"<addiiqaa>"
-	"*addiiqaa"
-
-
-"<woytettidaagee>"
-	"*woytettidaagee"
-
 
 "<gasttaasu>"
 	"gastt" v iv p3 sing fem prf
 	"gastt" v tv p3 sing fem prf
 
 
-"<cultures>"
-	"*cultures"
+"<dogaasu>"
+	"dog" v tv p3 sing fem prf
 
 
-"<naa>"
-	"*naa"
+"<aqotaa>"
+	"aqot" n masc con sing abs
+	"aqot" n masc con sing obl
 
 
-"<zaarabaakka>"
-	"*zaarabaakka"
+"<yuushuwan>"
+	"n" post
+		"yuush" n masc con sing abs
+	"n" post
+		"yuush" n masc con sing obl
+	"ni" post
+		"yuush" n masc con sing abs
+	"ni" post
+		"yuush" n masc con sing obl
 
 
-"<ihettibeenna>"
-	"*ihettibeenna"
+"<hemettennan>"
+	"hem" v tv p1 plr neg imfr about
+	"hem" v tv pass p3 sing masc neg imfr about
+
+
+"<gidoppa>"
+	"gid" v iv p2 sing neg opt
+
+
+"<caccafaasu>"
+	"caccaf" v tv p3 sing fem prf
 
 
 "<massaariya>"
-	"*massaariya"
+	"massaar" n masc con sing abs
+	"massaar" n masc con sing obl
 
 
 "<Gaappoy>"
@@ -3741,10 +3897,6 @@
 	"doz" n masc con plr obl
 
 
-"<hayiyan>"
-	"*hayiyan"
-
-
 "<oottidosona>"
 	"oott" v tv p3 plr prf
 
@@ -3756,29 +3908,9 @@
 		"miix" n masc noncon obl
 
 
-"<Deree>"
-	"*Deree"
-
-
-"<hammada>"
-	"*hammada"
-
-
 "<achchaa>"
 	"achch" n masc con sing abs
 	"achch" n masc con sing obl
-
-
-"<oonakkonne>"
-	"*oonakkonne"
-
-
-"<deʼiyode>"
-	"*deʼiyode"
-
-
-"<alaafetettaappe>"
-	"*alaafetettaappe"
 
 
 "<mokkibeenna>"
@@ -3824,7 +3956,7 @@
 
 
 "<zilʼʼees>"
-	"*zilʼʼees"
+	"zilʼʼ" v iv p3 sing masc imfr
 
 
 "<likkiyappe>"
@@ -3844,10 +3976,6 @@
 	"zanan" n masc con sing obl
 
 
-"<Uunoy>"
-	"*Uunoy"
-
-
 "<dose>"
 	"dos" n masc noncon abs
 	"dos" n masc noncon obl
@@ -3859,32 +3987,16 @@
 	"habbeer" n masc con sing nom
 
 
-"<yexxiyode>"
-	"*yexxiyode"
-
-
-"<dooretiis>"
-	"*dooretiis"
-
-
-"<gaadeeyye>"
-	"*gaadeeyye"
-
-
 "<walalliis>"
 	"walall" v iv p3 sing masc prf
 
 
 "<lalʼʼees>"
-	"*lalʼʼees"
+	"lalʼʼ" v iv p3 sing masc imfr
 
 
 "<godariyaw>"
 	"godar" n masc con sing voc
-
-
-"<aybi>"
-	"*aybi"
 
 
 "<aymo>"
@@ -3895,10 +4007,6 @@
 "<Tire>"
 	"tir" n masc noncon abs
 	"tir" n masc noncon obl
-
-
-"<timishkki>"
-	"*timishkki"
 
 
 "<eesota>"
@@ -3917,19 +4025,11 @@
 		"nu" prn p1 plr nom
 
 
-"<xannaʼidabaa>"
-	"*xannaʼidabaa"
-
-
 "<maana>"
 	"m" v tv fut
 	"m" v tv rel fut
 	"m" v tv inf noncon abs
 	"m" v tv inf noncon obl
-
-
-"<xayidaagaa>"
-	"*xayidaagaa"
 
 
 "<gakkanaayyoo>"
@@ -3942,14 +4042,6 @@
 
 "<kaafiis>"
 	"kaaf" v tv p3 sing masc prf
-
-
-"<Sahoy>"
-	"*Sahoy"
-
-
-"<Machchiyanne>"
-	"*Machchiyanne"
 
 
 "<eqotaa>"
@@ -3971,22 +4063,10 @@
 	"qamm" v iv p3 sing masc prf
 
 
-"<harchchi>"
-	"*harchchi"
-
-
-"<team>"
-	"*team"
-
-
 "<oottiyagee>"
 	"oottiyag" n masc noncon inter
 	"oott" v tv rel impf sub nmlz sing masc inter
 	"oott" v tv rel impf sub nmlz sing masc nom
-
-
-"<aggaagada>"
-	"*aggaagada"
 
 
 "<bergguwan>"
@@ -3997,7 +4077,7 @@
 
 
 "<oniis>"
-	"*oniis"
+	"on" v iv p3 sing masc prf
 
 
 "<dere>"
@@ -4009,7 +4089,7 @@
 
 
 "<yeenna>"
-	"*yeenna"
+	"y" v tv p3 sing masc neg imfr
 
 
 "<Qayciya>"
@@ -4026,14 +4106,6 @@
 		"taa" prn p1 sing obl
 	"ppe" post
 		"taa" prn p1 sing nom
-
-
-"<data>"
-	"*data"
-
-
-"<dawwalettiyode>"
-	"*dawwalettiyode"
 
 
 "<xaafanaassi>"
@@ -4071,17 +4143,9 @@
 	"att" v iv shortcnvb p3 sing masc about
 
 
-"<hiiqana>"
-	"*hiiqana"
-
-
 "<xalatettaa>"
 	"xalatett" n masc con sing abs
 	"xalatett" n masc con sing obl
-
-
-"<takkabuliis>"
-	"*takkabuliis"
 
 
 "<qulppee>"
@@ -4117,26 +4181,10 @@
 	"akeek" v tv shortcnvb p3 sing fem about
 
 
-"<huphessa>"
-	"*huphessa"
-
-
-"<itti>"
-	"*itti"
-
-
 "<yeggiyogee>"
 	"yegg" v tv rel impf nsub nmlz sing masc inter
 	"yegg" v tv rel impf nsub nmlz sing masc nom
 	"yegg" v tv p1 plr intr imfr and
-
-
-"<wocammoppa>"
-	"*wocammoppa"
-
-
-"<Daare>"
-	"*Daare"
 
 
 "<kiyiyagee>"
@@ -4152,8 +4200,11 @@
 
 
 "<Gabireellee>"
-	"*Gabireellee"
-
+	"Gabireell" n masc noncon inter
+	"Gabireell" n masc noncon nom
+	"Gabireell" n masc noncon voc
+	"Gabireell" n masc con sing inter
+	"Gabireell" n masc con sing nom
 
 "<Mooho>"
 	"mooho" adj
@@ -4169,14 +4220,6 @@
 	"guxun" n masc con sing nom
 
 
-"<kiyiyoogee>"
-	"*kiyiyoogee"
-
-
-"<hoocattoppa>"
-	"*hoocattoppa"
-
-
 "<Tukkiyara>"
 	"ra" post
 		"tukk" n masc con sing abs
@@ -4185,24 +4228,13 @@
 	"tukk" v tv rel impf sub nmlz sing fem nom
 
 
-"<daahaa>"
-	"*daahaa"
-
-
-"<giiyees>"
-	"*giiyees"
-
-
-"<uqqees>"
-	"*uqqees"
-
-
 "<gaxi>"
 	"gax" n masc noncon nom
 
 
 "<wurssibeennaagaappe>"
-	"*wurssibeennaagaappe"
+		"ppe" post
+			"wurssi" v tv p3 sing masc neg prf nmlz sing masc abs
 
 
 "<laagganaw>"
@@ -4225,11 +4257,7 @@
 
 
 "<malatissees>"
-	"*malatissees"
-
-
-"<hoobbiis>"
-	"*hoobbiis"
+	"malat" v iv cau p3 sing masc imfr
 
 
 "<Sooddon>"
@@ -4258,10 +4286,6 @@
 	"hem" v tv pass for
 
 
-"<keettaayee>"
-	"*keettaayee"
-
-
 "<kelttiya>"
 	"keltt" n masc con sing abs
 	"keltt" n masc con sing obl
@@ -4273,17 +4297,9 @@
 	"ssi" post
 		"gad" n masc con sing obl
 
-
-"<univeristtiyappe>"
-	"*univeristtiyappe"
-
-
-"<ophiis>"
-	"*ophiis"
-
-
 "<xalaalaa>"
-	"*xalaalaa"
+	"xalaal" n masc con sing abs
+	"xalaal" n masc con sing obl
 
 
 "<pushaliiddi>"
@@ -4291,14 +4307,6 @@
 	"pushal" v tv simu p2 plr
 	"pushal" v tv simu p3 sing masc
 	"pushal" v tv simu p3 plr
-
-
-"<mataara>"
-	"*mataara"
-
-
-"<yedhdhoppa>"
-	"*yedhdhoppa"
 
 
 "<pattanaw>"
@@ -4326,11 +4334,6 @@
 	"od" v tv p1 plr intr imfr
 	"od" v tv rel impf nsub
 
-
-"<bolikka>"
-	"*bolikka"
-
-
 "<ekkoppa>"
 	"ekk" v tv p2 sing neg opt
 
@@ -4345,19 +4348,90 @@
 
 
 "<Hiyeesa>"
-	"*Hiyeesa"
-
+	"Hiyees" n masc noncon abs
+	"Hiyees" n masc noncon abs
 
 "<barjjiis>"
 	"barjj" v iv p3 sing masc prf
 
 
-"<Yaaʼaa>"
-	"*Yaaʼaa"
+"<woytoy>"
+	"woyt" n masc noncon nom
+	"woyt" n masc con sing inter
+	"woyt" n masc con sing nom
+	"woyt" v tv oy
 
 
-"<bukkiiddi>"
-	"*bukkiiddi"
+"<miyobaa>"
+	"baa" post
+		"miy" n masc noncon abs
+	"baa" post
+		"miy" n masc noncon obl
+
+
+"<coppiya>"
+	"copp" n masc con sing abs
+	"copp" n masc con sing obl
+
+
+"<Kawotay>"
+	"kawot" n masc con sing inter
+	"kawot" n masc con sing nom
+	"kawot" v iv p2 sing intr imfr
+	"kawot" v iv p3 sing fem intr imfr
+
+
+"<boggana>"
+	"bogg" v tv fut
+	"bogg" v tv rel fut
+	"bogg" v tv inf noncon abs
+	"bogg" v tv inf noncon obl
+
+
+"<palamaappe>"
+	"ppe" post
+		"palam" n masc con sing abs
+	"ppe" post
+		"palam" n masc con sing obl
+
+
+"<aggada>"
+	"agg" v tv longcnvb p1 sing
+	"agg" v tv longcnvb p2 sing
+	"agg" v tv longcnvb p3 sing fem
+
+
+"<diʼoy>"
+	"diʼ" n masc noncon nom
+	"diʼ" n masc con sing inter
+	"diʼ" n masc con sing nom
+	"diʼ" v iv oy
+
+
+"<qonccidi>"
+	"qoncc" v tv longcnvb p1 plr
+	"qoncc" v tv longcnvb p2 plr
+	"qoncc" v tv longcnvb p3 plr
+	"qoncc" v tv longcnvb p3 sing masc
+
+
+"<koyiiddi>"
+	"koy" v iv simu p1 plr
+	"koy" v iv simu p2 plr
+	"koy" v iv simu p3 sing masc
+	"koy" v iv simu p3 plr
+	"koy" v tv simu p1 plr
+	"koy" v tv simu p2 plr
+	"koy" v tv simu p3 sing masc
+	"koy" v tv simu p3 plr
+
+
+"<doommees>"
+	"doomm" v tv p3 sing masc imfr
+
+
+"<harati>"
+	"har" n masc con plr nom
 
 
 "<mahettidosona>"
@@ -4378,28 +4452,13 @@
 	"mal" v tv p3 sing masc prf
 
 
-"<giyoy>"
-	"*giyoy"
-
-
-"<meecettiyakko>"
-	"*meecettiyakko"
-
-
 "<wuuqqanaw>"
 	"wuuqq" v tv for
 
 
 "<mizziis>"
-	"*mizziis"
+	"m" v tv cau p3 sing masc prf
 
-
-"<iydi>"
-	"*iydi"
-
-
-"<hukki>"
-	"*hukki"
 
 
 "<naato>"
@@ -4408,7 +4467,10 @@
 
 
 "<daruwappe>"
-	"*daruwappe"
+	"ppe" post
+		"dar" n masc con sing abs
+	"ppe" post 
+		"dar" n masc con sing obl
 
 
 "<Kataman>"
@@ -4417,13 +4479,6 @@
 	"ni" post
 		"katam" n masc noncon obl
 
-
-"<fights>"
-	"*fights"
-
-
-"<Marashaappe>"
-	"*Marashaappe"
 
 
 "<munnuuqees>"
@@ -4442,8 +4497,74 @@
 	"att" v iv p2 sing imfr
 
 
-"<alutation>"
-	"*alutation"
+
+"<gutuchchaa>"
+	"gutuchch" n masc con sing abs
+	"gutuchch" n masc con sing obl
+
+
+"<tookkoosona>"
+	"tookk" v tv p3 plr imfr
+
+
+"<asaassi>"
+	"ssi" post
+		"as" n masc con sing abs
+	"ssi" post
+		"as" n masc con sing obl
+
+"<ashotiis>"
+	"ashot" v iv p3 sing masc prf
+
+
+"<zoriyagaara>"
+	"ra" post
+		"zor" v tv rel impf sub nmlz sing masc obl
+	"ra" post
+		"zoriyag" n masc con sing abs
+	"ra" post
+		"zoriyag" n masc con sing obl
+	"zor" v tv rel impf sub nmlz sing masc abs and
+
+
+"<hanqqettiis>"
+	"hanqq" v tv pass p3 sing masc prf
+
+
+
+
+"<oosanchcha>"
+	"oosanchch" n masc noncon abs
+	"oosanchch" n masc noncon obl
+
+
+"<baqqanaw>"
+	"baqq" v tv for
+
+
+"<Daraa>"
+	"dar" n masc con sing abs
+	"dar" n masc con sing obl
+
+
+"<mittaakko>"
+	"kko" post
+		"mitt" n masc con sing abs
+	"kko" post
+		"mitt" n masc con sing obl
+
+
+"<Parssoy>"
+	"parss" n masc noncon nom
+	"parss" n masc con sing inter
+	"parss" n masc con sing nom
+
+
+
+"<xeellaas>"
+	"xeell" v tv p1 sing prf
+
+
 
 
 "<zaarettidi>"
@@ -4458,10 +4579,6 @@
 	"kuw" n masc con sing obl
 
 
-"<Katama>"
-	"katam" n masc noncon abs
-	"katam" n masc noncon obl
-
 
 "<laalida>"
 	"laal" v tv p1 plr prf
@@ -4472,18 +4589,6 @@
 	"makkalanchch" n masc noncon abs
 	"makkalanchch" n masc noncon obl
 
-
-"<yiillo>"
-	"yiill" n masc noncon abs
-	"yiill" n masc noncon obl
-
-
-"<Gasuubi>"
-	"*Gasuubi"
-
-
-"<land>"
-	"*land"
 
 
 "<gidanaassi>"
@@ -4523,33 +4628,13 @@
 	"g" v iv cau p3 sing masc imfr
 
 
-"<oytama>"
-	"*oytama"
-
-
 "<wurssibeenna>"
 	"wurss" v tv p3 sing masc neg prf
 	"wurss" v tv rel
 
 
-"<ayssida>"
-	"*ayssida"
-
-
-"<goʼʼetidi>"
-	"*goʼʼetidi"
-
-
-"<Naaʼʼantta>"
-	"*Naaʼʼantta"
-
-
 "<miskkatees>"
 	"miskkat" v iv p3 sing masc imfr
-
-
-"<qooriyankka>"
-	"*qooriyankka"
 
 
 "<qohuwan>"
@@ -4603,16 +4688,8 @@
 	"baar" v tv simu p3 plr
 
 
-"<javelin>"
-	"*javelin"
-
-
 "<bikiliis>"
 	"bikil" v tv p3 sing masc prf
-
-
-"<payyatettaassi>"
-	"*payyatettaassi"
 
 
 "<dagaman>"
@@ -4623,15 +4700,11 @@
 
 
 "<dirbbiis>"
-	"*dirbbiis"
+	"dirbb" v iv p3 sing masc prf
 
 
 "<bogettiis>"
 	"bog" v iv pass p3 sing masc prf
-
-
-"<hoddiis>"
-	"*hoddiis"
 
 
 "<alettiyo>"
@@ -4642,7 +4715,7 @@
 
 
 "<qodiis>"
-	"*qodiis"
+	"qod" v tv p3 sing masc prf
 
 
 "<xoonees>"
@@ -4702,10 +4775,6 @@
 	"lacott" v iv longcnvb p3 sing masc
 
 
-"<Maxaafaassi>"
-	"*Maxaafaassi"
-
-
 "<moorettees>"
 	"moor" v tv pass p3 sing masc imfr
 
@@ -4741,10 +4810,6 @@
 	"liftt" n masc con sing obl
 
 
-"<naatuppe>"
-	"*naatuppe"
-
-
 "<awde>"
 	"awde" adv
 	"awd" n masc noncon abs
@@ -4756,14 +4821,6 @@
 	"dakkot" v iv inf noncon neg abs
 	"dakkot" v iv inf noncon neg obl
 	"dakkot" v iv p3 sing masc neg imfr
-
-
-"<Yaanisinne>"
-	"*Yaanisinne"
-
-
-"<ekettibeenna>"
-	"*ekettibeenna"
 
 
 "<bonqqidosona>"
@@ -4783,12 +4840,11 @@
 	"b" v iv p3 plr prf
 
 
-"<Taagaw>"
-	"*Taagaw"
-
-
 "<anaaciyaw>"
-	"*anaaciyaw"
+	"w" post
+		"kaam" n masc con sing abs
+	"w" post
+		"kaam" n masc con sing obl
 
 
 "<Kaamiya>"
@@ -4840,17 +4896,13 @@
 	"mandd" v tv p3 sing masc prf
 
 
-"<deʼʼiis>"
-	"*deʼʼiis"
-
-
 "<jabanay>"
 	"jaban" n masc con sing inter
 	"jaban" n masc con sing nom
 
 
 "<qaaqqees>"
-	"*qaaqqees"
+	"qaaqq" v tv pass p3 sing masc imfr
 
 
 "<Daqiiqay>"
@@ -4867,20 +4919,9 @@
 	"ac" n masc con sing obl
 
 
-"<dukkidosay>"
-	"*dukkidosay"
-
-
 "<oyshshaa>"
-	"*oyshshaa"
-
-
-"<tushaasu>"
-	"*tushaasu"
-
-
-"<woosanchchay>"
-	"*woosanchchay"
+	"oyshsh" : n masc con sing abs
+	"oyshsh" : n masc con sing obl
 
 
 "<woossin>"
@@ -4892,11 +4933,17 @@
 
 
 "<emereppe>"
-	"*emereppe"
+	"ppe" post
+		"emere" n masc con sing abs	
+	"ppe" post
+		"emere" n masc con sing obl
 
 
 "<goʼʼettidi>"
-	"*goʼʼettidi"
+	"goʼʼ" v iv pass longcnvb p1 plr
+	"goʼʼ" v iv longcnvb p2 plr
+	"goʼʼ" v iv longcnvb p3 plr
+	"goʼʼ" v iv longcnvb p3 sing masc 
 
 
 "<eeyyettoppa>"
@@ -4920,11 +4967,13 @@
 
 
 "<goday>"
-	"*goday"
+	"god" n masc con sing inter
+	"god" n masc con sing nom
 
 
-"<ʼʼXoossaa>"
-	"*ʼʼXoossaa"
+"<Xoossaa>"
+	"Xooss" : n masc con sing abs
+	"Xooss" : n masc con sing obl
 
 
 "<paallidi>"
@@ -4938,28 +4987,24 @@
 	"hiraag" v tv p3 sing masc imfr
 
 
-"<horooqoy>"
-	"*horooqoy"
-
-
 "<koottaappe>"
-	"*koottaappe"
+	"ppe" post 
+		"koott" n masc con sing abs
+	"ppe" post
+		"koott" n masc con sing obl
 
 
 "<haahuwa>"
-	"*haahuwa"
-
-
-"<eerennan>"
-	"*eerennan"
-
+	"haah" n masc con sing abs
+	"haah" n masc con sing obl
 
 "<oosinne>"
-	"*oosinne"
+	"oosinne" pro
 
 
 "<Sigaaraa>"
-	"*Sigaaraa"
+	"sigaar" : n masc con sing abs
+	"sigaar" : n masc con sing obl
 
 
 "<oottiyogee>"
@@ -4986,26 +5031,13 @@
 	"ppe" post
 		"toh" n masc con sing obl
 
-
-"<arbbuwa>"
-	"*arbbuwa"
-
-
-"<banana>"
-	"*banana"
-
-
-"<oodoomeninne>"
-	"*oodoomeninne"
-
-
 "<essida>"
 	"ess" v tv p1 plr prf
 	"ess" v tv rel prf sub
 
 
 "<pholqqu>"
-	"*pholqqu"
+	"pholqqu" adv
 
 
 "<Aattiya>"
@@ -5028,15 +5060,6 @@
 	"ssi" post
 		"kaw" n masc con sing obl
 
-
-"<hachchaa>"
-	"*hachchaa"
-
-
-"<axxiyogee>"
-	"*axxiyogee"
-
-
 "<koottan>"
 	"ni" post
 		"koott" n masc noncon abs
@@ -5044,21 +5067,13 @@
 		"koott" n masc noncon obl
 
 
-"<hananaagaa>"
-	"*hananaagaa"
-
-
 "<Konttaale>"
 	"konttaal" n masc noncon abs
 	"konttaal" n masc noncon obl
 
 
-"<chair>"
-	"*chair"
-
-
 "<qonccissiyogee>"
-	"*qonccissiyogee"
+	"qoncc" v tv cau nmlz sing masc nom and
 
 
 "<baqaa>"
@@ -5076,7 +5091,7 @@
 
 
 "<warqqallattiis>"
-	"*warqqallattiis"
+	"warqqallatt" v iv p3 sing masc prf
 
 
 "<xayssennaadan>"
@@ -5093,11 +5108,1631 @@
 	"pug" n masc con sing inter
 	"pug" n masc con sing nom
 
+"<Deskkiyan>"
+	"n" post
+		"deskk" n masc con sing abs
+	"n" post
+		"deskk" n masc con sing obl
+	"ni" post
+		"deskk" n masc con sing abs
+	"ni" post
+		"deskk" n masc con sing obl
 
-"<ick>"
-	"*ick"
-"<.>"
-	"." sent
+
+"<awaasidosona>"
+	"awaas" v tv p3 plr prf
+
+"<Gayroy>"
+	"gayr" n masc noncon nom
+	"gayr" n masc con sing inter
+	"gayr" n masc con sing nom
+	"gayr" v tv oy
 
 
 
+"<Boori>"
+	"boor" n masc noncon nom
+	"boo" v tv nmlz sing fem obl
+	"boo" v tv nmlz sing fem inter
+	"b" v iv rel prf nsub nmlz sing fem obl
+	"b" v iv rel prf nsub nmlz sing fem inter
+
+
+"<yedetaa>"
+	"yedet" n masc con sing abs
+	"yedet" n masc con sing obl
+
+
+"<qemʼʼelattees>"
+	"qemʼʼelatt" v iv p3 sing masc imfr
+
+"<harabaa>"
+	"baa" post
+		"har" n fem noncon nom
+	"baa" post
+		"har" n masc noncon abs
+	"baa" post
+		"har" n masc noncon obl
+	"harab" n masc con sing abs
+	"harab" n masc con sing obl
+
+
+"<wuygiyan>"
+	"n" post
+		"wuyg" n masc con sing abs
+	"n" post
+		"wuyg" n masc con sing obl
+	"ni" post
+		"wuyg" n masc con sing abs
+	"ni" post
+		"wuyg" n masc con sing obl
+
+"<uyada>"
+	"uy" v tv longcnvb p1 sing
+	"uy" v tv longcnvb p2 sing
+	"uy" v tv longcnvb p3 sing fem
+
+
+"<wora>"
+	"wora" adv
+	"wor" n masc noncon abs
+	"wor" n masc noncon obl
+	"wor" v tv p2 sing opt
+	"wor" v tv shortcnvb p1 sing
+	"wor" v tv shortcnvb p2 sing
+	"wor" v tv shortcnvb p3 sing fem
+	"wor" v tv rel prf sub
+
+
+"<gakkees>"
+	"gakk" v tv p3 sing masc imfr
+
+
+"<qatuwa>"
+	"qat" n masc con sing abs
+	"qat" n masc con sing obl
+
+
+"<qoodettoosona>"
+	"qood" v tv pass p3 plr imfr
+
+"<Yanchchay>"
+	"yanchch" n masc con sing inter
+	"yanchch" n masc con sing nom
+
+
+"<qottan>"
+	"n" post
+		"qott" n masc noncon abs
+	"n" post
+		"qott" n masc noncon obl
+	"ni" post
+		"qott" n masc noncon abs
+	"ni" post
+		"qott" n masc noncon obl
+
+
+"<oottanaadan>"
+	"daani" post
+		"oott" v tv inf con abs sing
+	"daani" post
+		"oott" v tv inf con obl sing
+
+
+"<nabbabaas>"
+	"nabbab" v tv p1 sing prf
+
+
+"<buuccaas>"
+	"buucc" v tv p1 sing prf
+
+"<luxiyageeta>"
+	"lux" v tv rel impf sub nmlz plr masc abs
+
+
+"<warettenna>"
+	"war" v tv p1 plr neg imfr
+	"warett" v tv rel inter
+	"warett" v tv inf noncon neg abs
+	"warett" v tv inf noncon neg obl
+	"war" v tv pass rel inter
+	"warett" v tv p3 sing masc neg imfr
+	"war" v tv pass p3 sing masc neg imfr
+
+
+"<loʼʼidi>"
+	"loʼʼ" v iv longcnvb p1 plr
+	"loʼʼ" v iv longcnvb p2 plr
+	"loʼʼ" v iv longcnvb p3 plr
+	"loʼʼ" v iv longcnvb p3 sing masc
+
+
+"<malʼʼibeenna>"
+	"malʼʼ" v iv p3 sing masc neg prf
+	"malʼʼ" v iv rel
+
+
+"<canccettaappe>"
+	"ppe" post
+		"canccett" n masc con sing abs
+	"ppe" post
+		"canccett" n masc con sing obl
+"<bollotiis>"
+	"bollot" v tv p3 sing masc prf
+
+
+"<ashshiyagaa>"
+	"ashsh" v tv rel impf sub nmlz sing masc abs
+	"ashsh" v tv rel impf sub nmlz sing masc obl
+	"att" v tv rel impf sub nmlz sing masc abs
+	"att" v tv rel impf sub nmlz sing masc obl
+	"ashshiyag" n masc con sing abs
+	"ashshiyag" n masc con sing obl
+
+
+"<gophphattiis>"
+	"gophphatt" v iv p3 sing masc prf
+
+
+"<ulettees>"
+	"ul" v tv pass p3 sing masc imfr
+
+
+"<maaddees>"
+	"maadd" v tv p3 sing masc imfr
+
+
+"<Erenna>"
+	"er" v tv rel inter
+	"er" v tv inf noncon neg abs
+	"er" v tv inf noncon neg obl
+	"erenna" adj
+	"er" v tv p3 sing masc neg imfr
+
+
+"<panggata>"
+	"pangg" n masc con plr abs
+
+
+
+"<pissee>"
+	"piss" n masc noncon inter
+	"piss" n masc noncon nom
+	"piss" n masc noncon voc
+	"piss" n masc con sing inter
+	"piss" n masc con sing nom
+
+
+"<keettaassi>"
+	"ssi" post
+		"keett" n masc con sing abs
+	"ssi" post
+		"keett" n masc con sing obl
+
+
+"<Xarqqimaallay>"
+	"xarqqimaall" n masc con sing inter
+	"xarqqimaall" n masc con sing nom
+
+
+"<maxaafay>"
+	"maxaaf" n masc con sing inter
+	"maxaaf" n masc con sing nom
+
+
+"<axxikko>"
+	"kko" post
+		"axx" n masc noncon nom
+
+
+"<qoriiddi>"
+	"qor" v tv simu p1 plr
+	"qor" v tv simu p2 plr
+	"qor" v tv simu p3 sing masc
+	"qor" v tv simu p3 plr
+
+"<layttatu>"
+	"laytt" n masc con plr obl
+
+
+"<giigissi>"
+	"ssi" post
+		"giig" n masc noncon nom
+	"giig" v iv cau shortcnvb p1 plr
+	"giig" v iv cau shortcnvb p2 plr
+	"giig" v iv cau shortcnvb p3 plr
+	"giig" v tv cau shortcnvb p1 plr
+	"giig" v tv cau shortcnvb p2 plr
+	"giig" v tv cau shortcnvb p3 plr
+	"giig" v iv cau shortcnvb p3 sing masc
+	"giig" v tv cau shortcnvb p3 sing masc
+
+
+"<qohettiis>"
+	"qohett" v iv p3 sing masc prf
+	"qoh" v tv pass p3 sing masc prf
+
+
+
+
+"<kaaran>"
+	"n" post
+		"kaar" n masc noncon abs
+	"n" post
+		"kaar" n masc noncon obl
+	"ni" post
+		"kaar" n masc noncon abs
+	"ni" post
+		"kaar" n masc noncon obl
+
+
+"<konttiyassi>"
+	"ssi" post
+		"kontt" n masc con sing abs
+	"ssi" post
+		"kontt" n masc con sing obl
+
+
+"<xaaxoppa>"
+	"xaax" v iv p2 sing neg opt
+	"xaax" v tv p2 sing neg opt
+
+
+"<kaarootiya>"
+	"kaaroot" n masc con sing abs
+	"kaaroot" n masc con sing obl
+
+
+"<bitettida>"
+	"bit" v iv pass p1 plr prf
+	"bit" v tv pass p1 plr prf
+	"bit" v iv pass rel prf sub
+	"bit" v tv pass rel prf sub
+
+
+"<perzza>"
+	"perzza" adj
+
+
+"<waaxi>"
+	"waax" v tv shortcnvb p1 plr
+	"waax" v tv shortcnvb p2 plr
+	"waax" v tv shortcnvb p3 plr
+	"waax" v tv shortcnvb p3 sing masc
+
+
+"<puuri>"
+	"puur" n masc noncon nom
+	"puur" v tv shortcnvb p1 plr
+	"puur" v tv shortcnvb p2 plr
+	"puur" v tv shortcnvb p3 plr
+	"puur" v tv shortcnvb p3 sing masc
+
+
+
+"<intteppe>"
+	"ppe" post
+		"intte" prn p2 plr obl
+	"ppe" post
+		"intte" prn p2 plr nom
+
+
+"<Kanaayyoo>"
+	"yyoo" post
+		"k" v tv inf con abs sing
+	"yyoo" post
+		"k" v tv inf con obl sing
+	"yyoo" post
+		"kan" n masc con sing abs
+	"yyoo" post
+		"kan" n masc con sing obl
+
+
+"<zokkoy>"
+	"zokk" n masc noncon nom
+	"zokk" n masc con sing inter
+	"zokk" n masc con sing nom
+	"zokk" v tv oy
+
+"<pittiis>"
+	"pitt" v tv p3 sing masc prf
+
+
+"<qatuwan>"
+	"n" post
+		"qat" n masc con sing abs
+	"n" post
+		"qat" n masc con sing obl
+	"ni" post
+		"qat" n masc con sing abs
+	"ni" post
+		"qat" n masc con sing obl
+
+
+"<bazziis>"
+	"bazz" v tv p3 sing masc prf
+
+
+"<galatan>"
+	"n" post
+		"galat" n masc noncon abs
+	"n" post
+		"galat" n masc noncon obl
+	"ni" post
+		"galat" n masc noncon abs
+	"ni" post
+		"galat" n masc noncon obl
+	"galat" v tv p2 sing opt about
+	"galat" v tv shortcnvb p1 sing about
+	"galat" v tv shortcnvb p2 sing about
+	"galat" v tv shortcnvb p3 sing fem about
+
+"<giida>"
+	"g" v iv p1 plr prf
+	"g" v iv rel prf sub
+
+
+"<Mirggoy>"
+	"mirgg" n masc noncon nom
+	"mirgg" n masc con sing inter
+	"mirgg" n masc con sing nom
+
+
+"<magalashuwan>"
+	"n" post
+		"magalash" n masc con sing abs
+	"n" post
+		"magalash" n masc con sing obl
+	"ni" post
+		"magalash" n masc con sing abs
+	"ni" post
+		"magalash" n masc con sing obl
+
+
+"<danccoy>"
+	"dancc" n masc noncon nom
+	"dancc" n masc con sing inter
+	"dancc" n masc con sing nom
+	"dancc" v tv oy
+
+
+"<anssoolaa>"
+	"anssool" n masc con sing abs
+	"anssool" n masc con sing obl
+
+"<orggee>"
+	"orgg" n masc noncon inter
+	"orgg" n masc noncon nom
+	"orgg" n masc noncon voc
+	"orgg" n masc con sing inter
+	"orgg" n masc con sing nom
+
+
+"<kaalettiyageetu>"
+	"kaal" v tv pass rel impf sub nmlz plr masc obl
+
+
+"<giirettanaw>"
+	"giirett" v iv for
+	"giir" v tv pass for
+
+
+"<baala>"
+	"baal" n masc noncon abs
+	"baal" n masc noncon obl
+
+
+"<wottadara>"
+	"wott" v tv longcnvb p1 sing and
+	"wott" v tv longcnvb p2 sing and
+	"wott" v tv longcnvb p3 sing fem and
+
+
+"<baanee>"
+	"ba" v tv inf noncon inter
+	"b" v iv inf noncon inter
+	"baan" n masc noncon inter
+	"nee" post
+		"ba" prn p3 ref sing obl
+	"nee" post
+		"b" n masc con sing abs
+	"nee" post
+		"b" n masc con sing obl
+
+
+"<likkiyan>"
+	"n" post
+		"likk" n masc con sing abs
+	"n" post
+		"likk" n masc con sing obl
+	"ni" post
+		"likk" n masc con sing abs
+	"ni" post
+		"likk" n masc con sing obl
+
+"<gadullidi>"
+	"gadull" v tv longcnvb p1 plr
+	"gadull" v tv longcnvb p2 plr
+	"gadull" v tv longcnvb p3 plr
+	"gadull" v tv longcnvb p3 sing masc
+
+
+"<machchee>"
+	"machch" n fem con sing obl
+	"machch" n fem con sing voc
+
+
+"<dagayanaw>"
+	"dagay" v tv for
+
+
+
+"<dubba>"
+	"dubba" adj
+
+
+"<boolimissiis>"
+	"boolim" v tv cau p3 sing masc prf
+
+
+"<yuuyees>"
+	"yuuy" v iv p3 sing masc imfr
+
+
+"<malee>"
+	"mal" n masc noncon inter
+
+
+"<Bombbaa>"
+	"bombb" n masc con sing abs
+	"bombb" n masc con sing obl
+
+
+
+"<doonay>"
+	"doon" n masc con sing inter
+	"doon" n masc con sing nom
+
+
+
+"<oyqqidosona>"
+	"oyqq" v tv p3 plr prf
+
+
+"<laammerettidosona>"
+	"laammer" v tv pass p3 plr prf
+
+
+"<miixaa>"
+	"miix" n masc con sing abs
+	"miix" n masc con sing obl
+
+
+"<direttido>"
+	"dir" v tv pass p1 plr intr prf
+
+
+
+
+"<Somʼʼuwan>"
+	"n" post
+		"somʼʼ" n masc con sing abs
+	"n" post
+		"somʼʼ" n masc con sing obl
+	"ni" post
+		"somʼʼ" n masc con sing abs
+	"ni" post
+		"somʼʼ" n masc con sing obl
+
+
+
+"<yelenna>"
+	"yel" v iv rel inter
+	"yel" v iv inf noncon neg abs
+	"yel" v iv inf noncon neg obl
+	"yel" v tv rel inter
+	"yel" v tv inf noncon neg abs
+	"yel" v tv inf noncon neg obl
+	"yel" v iv p3 sing masc neg imfr
+	"yel" v tv p3 sing masc neg imfr
+	"yelenn" n masc noncon abs
+	"yelenn" n masc noncon obl
+
+
+
+"<melennan>"
+	"n" post
+		"mel" v iv inf noncon neg abs
+	"n" post
+		"mel" v iv inf noncon neg obl
+	"n" post
+		"mel" v tv inf noncon neg abs
+	"n" post
+		"mel" v tv inf noncon neg obl
+	"ni" post
+		"mel" v iv inf noncon neg abs
+	"ni" post
+		"mel" v iv inf noncon neg obl
+	"ni" post
+		"mel" v tv inf noncon neg abs
+	"ni" post
+		"mel" v tv inf noncon neg obl
+	"mel" v iv p3 sing masc neg imfr about
+	"mel" v tv p3 sing masc neg imfr about
+
+
+
+"<Televizhiiniyan>"
+	"n" post
+		"televizhiin" n masc con sing abs
+	"n" post
+		"televizhiin" n masc con sing obl
+	"ni" post
+		"televizhiin" n masc con sing abs
+	"ni" post
+		"televizhiin" n masc con sing obl
+
+
+"<Dottoriya>"
+	"dottor" n masc con sing abs
+	"dottor" n masc con sing obl
+
+
+"<Usuppun>"
+	"usuppun" num obl
+
+
+"<peʼido>"
+	"peʼ" v iv p1 plr intr prf
+
+"<gamʼʼidi>"
+	"gamʼʼ" v iv longcnvb p1 plr
+	"gamʼʼ" v iv longcnvb p2 plr
+	"gamʼʼ" v iv longcnvb p3 plr
+	"gamʼʼ" v iv longcnvb p3 sing masc
+
+
+"<genttoy>"
+	"gentt" n masc noncon nom
+	"gentt" n masc con sing inter
+	"gentt" n masc con sing nom
+	"gentt" v tv oy
+
+
+"<hemettoos>"
+	"hem" v tv pass p1 plr imfr
+
+
+
+"<qaaday>"
+	"qaad" n masc con sing inter
+	"qaad" n masc con sing nom
+
+
+"<munniya>"
+	"munn" v iv rel impf sub
+
+
+"<yigga>"
+	"yigg" v tv p2 sing opt
+	"yigg" v tv shortcnvb p1 sing
+	"yigg" v tv shortcnvb p2 sing
+	"yigg" v tv shortcnvb p3 sing fem
+	"yigg" v tv rel prf sub
+
+
+
+"<qanxxuwappe>"
+	"ppe" post
+		"qanxx" n masc con sing abs
+	"ppe" post
+		"qanxx" n masc con sing obl
+
+
+"<aadhdhanaassi>"
+	"ssi" post
+		"aadhdh" v tv inf con abs sing
+	"ssi" post
+		"aadhdh" v tv inf con obl sing
+
+
+"<geettaa>"
+	"geett" n masc con sing abs
+	"geett" n masc con sing obl
+
+
+"<eraasu>"
+	"er" v tv p3 sing fem prf
+
+
+"<kumettaappe>"
+	"ppe" post
+		"kumett" n masc con sing abs
+	"ppe" post
+		"kumett" n masc con sing obl
+
+
+"<wontta>"
+	"wontta" adv
+	"wontt" n masc noncon abs
+	"wontt" n masc noncon obl
+	"wontt" v iv p2 sing opt
+	"wontt" v iv shortcnvb p1 sing
+	"wontt" v iv shortcnvb p2 sing
+	"wontt" v iv shortcnvb p3 sing fem
+	"wontt" v iv rel prf sub
+
+
+"<Madooshay>"
+	"madoosh" n masc con sing inter
+	"madoosh" n masc con sing nom
+
+
+"<tamaareta>"
+	"tamaar" n masc con plr abs
+
+
+"<tila>"
+	"til" v tv p2 sing opt
+	"til" v tv shortcnvb p1 sing
+	"til" v tv shortcnvb p2 sing
+	"til" v tv shortcnvb p3 sing fem
+	"til" v tv rel prf sub
+
+
+"<kutaa>"
+	"kut" n masc con sing abs
+	"kut" n masc con sing obl
+
+
+"<dentta>"
+	"dentt" v tv p2 sing opt
+	"dentt" v tv shortcnvb p1 sing
+	"dentt" v tv shortcnvb p2 sing
+	"dentt" v tv shortcnvb p3 sing fem
+	"dentt" v tv rel prf sub
+
+
+"<balakkoy>"
+	"balakk" n masc noncon nom
+	"balakk" n masc con sing inter
+	"balakk" n masc con sing nom
+
+"<Xomppiya>"
+	"xompp" n masc con sing abs
+	"xompp" n masc con sing obl
+	"xompp" v tv rel impf sub
+
+
+"<yeekkiya>"
+	"yeekkiya" adj
+	"yeekk" v tv rel impf sub
+
+
+"<yoogatu>"
+	"yoog" n masc con plr obl
+
+
+"<giddenna>"
+	"gidd" v tv rel inter
+	"gidd" v tv inf noncon neg abs
+	"gidd" v tv inf noncon neg obl
+	"gidd" v tv p3 sing masc neg imfr
+
+
+"<baʼuwa>"
+	"baʼ" n masc con sing abs
+	"baʼ" n masc con sing obl
+
+
+"<ulliis>"
+	"ull" v tv p3 sing masc prf
+
+
+"<leppiis>"
+	"lepp" v iv p3 sing masc prf
+
+
+"<xaaro>"
+	"xaar" n masc noncon abs
+	"xaar" n masc noncon obl
+	"xa" v iv rel prf sub nmlz sing fem abs
+	"xa" v tv rel prf sub nmlz sing fem abs
+
+
+"<gediya>"
+	"ged" n masc con sing abs
+	"ged" n masc con sing obl
+
+
+"<wayqiis>"
+	"wayq" v tv p3 sing masc prf
+
+
+"<boggiyageeti>"
+	"bogg" v tv rel impf sub nmlz plr masc nom
+
+
+
+"<kifileti>"
+	"kifil" n masc con plr nom
+
+
+"<immuutee>"
+	"imm" v tv p2 sing intrEnding
+
+
+"<tookkanaw>"
+	"tookk" v tv for
+
+
+"<buussaa>"
+	"buuss" n masc con sing abs
+	"buuss" n masc con sing obl
+
+
+"<taani>"
+	"ta" prn p1 sing nom
+	"ni" post
+		"ta" prn p1 sing obl
+	"ni" post
+		"ta" prn p1 sing nom
+	"ni" post
+		"taa" prn p1 sing obl
+	"ni" post
+		"taa" prn p1 sing nom
+
+
+"<qohuwappe>"
+	"ppe" post
+		"qoh" n masc con sing abs
+	"ppe" post
+		"qoh" n masc con sing obl
+
+
+"<yiillotido>"
+	"yiillot" v tv p1 plr intr prf
+
+
+"<ekkiyogee>"
+	"ekk" v tv rel impf nsub nmlz sing masc inter
+	"ekk" v tv rel impf nsub nmlz sing masc nom
+	"ekk" v tv p1 plr intr imfr and
+
+
+"<ayyaanaara>"
+	"ra" post
+		"ayyaan" n masc con sing abs
+	"ra" post
+		"ayyaan" n masc con sing obl
+
+
+"<xarzzay>"
+	"xarzz" n masc con sing inter
+	"xarzz" n masc con sing nom
+	"xarzz" v tv p2 sing intr imfr
+	"xarzz" v tv p3 sing fem intr imfr
+
+
+"<Woosay>"
+	"woos" n masc con sing inter
+	"woos" n masc con sing nom
+
+"<uyida>"
+	"uy" v tv p1 plr prf
+	"uy" v tv rel prf sub
+
+
+"<Qaadaa>"
+	"qaad" n masc con sing abs
+	"qaad" n masc con sing obl
+
+
+"<azalssiis>"
+	"azalss" v tv p3 sing masc prf
+
+
+"<oottiyogaa>"
+	"oott" v tv rel impf nsub nmlz sing masc abs
+	"oott" v tv rel impf nsub nmlz sing masc obl
+
+
+"<eqettiya>"
+	"eq" v tv pass rel impf sub
+
+
+"<Gifaataa>"
+	"Gifaat" n masc con sing abs
+	"Gifaat" n masc con sing obl
+	"gifaat" n masc con sing abs
+	"gifaat" n masc con sing obl
+
+
+"<pittabeykku>"
+	"pitt" v tv p3 sing neg fem prf
+
+
+"<woxxiya>"
+	"woxx" v tv rel impf sub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"<donoy>"
+	"don" n masc noncon nom
+	"don" n masc con sing inter
+	"don" n masc con sing nom
+
+
+"<eesotabeykku>"
+	"*eesot" v tv p3 sing neg fem prf
+
+
+"<gaddadettiis>"
+	"gaddad" v tv pass p3 sing masc prf
+
+
+"<geeyyenna>"
+	"geeyy" v iv rel inter
+	"geeyy" v iv inf noncon neg abs
+	"geeyy" v iv inf noncon neg obl
+	"geeyyenna" adj
+	"geeyy" v iv p3 sing masc neg imfr
+
+
+"<arajjaataa>"
+	"arajjaat" n masc con sing abs
+	"arajjaat" n masc con sing obl
+
+
+"<essaas>"
+	"ess" v tv p1 sing prf
+
+
+"<dipploomaa>"
+	"dipploom" n masc con sing abs
+	"dipploom" n masc con sing obl
+
+
+"<dooyanaappe>"
+	"ppe" post
+		"dooy" v tv inf con abs sing
+	"ppe" post
+		"dooy" v tv inf con obl sing
+
+
+"<deexuwa>"
+	"deex" n masc con sing abs
+	"deex" n masc con sing obl
+
+
+"<paramay>"
+	"param" v tv p2 sing intr imfr
+	"param" v tv p3 sing fem intr imfr
+
+
+
+"<qohettees>"
+	"qohett" v iv p3 sing masc imfr
+	"qoh" v tv pass p3 sing masc imfr
+
+
+"<oyqqanaadan>"
+	"daani" post
+		"oyqq" v tv inf con abs sing
+	"daani" post
+		"oyqq" v tv inf con obl sing
+
+
+"<xapho>"
+	"xapho" adj
+	"xaph" n masc noncon abs
+	"xaph" n masc noncon obl
+
+
+"<xoggees>"
+	"xogg" v tv p3 sing masc imfr
+
+
+
+"<geellattees>"
+	"geellatt" v iv p3 sing masc imfr
+
+
+"<dummataasu>"
+	"dummat" v iv p3 sing fem prf
+
+
+"<dichchaassi>"
+	"ssi" post
+		"dichch" n masc con sing abs
+	"ssi" post
+		"dichch" n masc con sing obl
+
+
+
+"<massiyagee>"
+	"mass" v tv rel impf sub nmlz sing masc inter
+	"mass" v tv rel impf sub nmlz sing masc nom
+
+
+
+"<meeccidi>"
+	"meecc" v tv longcnvb p1 plr
+	"meecc" v tv longcnvb p2 plr
+	"meecc" v tv longcnvb p3 plr
+	"meecc" v tv longcnvb p3 sing masc
+
+
+"<eesuwara>"
+	"ra" post
+		"ees" n masc con sing abs
+	"ra" post
+		"ees" n masc con sing obl
+
+
+"<heeraa>"
+	"heer" n masc con sing abs
+	"heer" n masc con sing obl
+
+
+
+"<dagammiis>"
+	"dagamm" v tv p3 sing masc prf
+
+
+"<Martteelliyan>"
+	"n" post
+		"martteell" n masc con sing abs
+	"n" post
+		"martteell" n masc con sing obl
+	"ni" post
+		"martteell" n masc con sing abs
+	"ni" post
+		"martteell" n masc con sing obl
+
+
+"<bullachchan>"
+	"n" post
+		"bullachch" n masc noncon abs
+	"n" post
+		"bullachch" n masc noncon obl
+	"ni" post
+		"bullachch" n masc noncon abs
+	"ni" post
+		"bullachch" n masc noncon obl
+	"bullachch" v tv p2 sing opt about
+	"bullachch" v tv shortcnvb p1 sing about
+	"bullachch" v tv shortcnvb p2 sing about
+	"bullachch" v tv shortcnvb p3 sing fem about
+
+
+"<yedetti>"
+	"yed" v tv pass shortcnvb p1 plr
+	"yed" v tv pass shortcnvb p2 plr
+	"yed" v tv pass shortcnvb p3 plr
+	"yed" v tv pass shortcnvb p3 sing masc
+
+
+"<tumbbiyan>"
+	"n" post
+		"tumbb" n masc con sing abs
+	"n" post
+		"tumbb" n masc con sing obl
+	"ni" post
+		"tumbb" n masc con sing abs
+	"ni" post
+		"tumbb" n masc con sing obl
+
+
+
+"<yeekkiyogaa>"
+	"yeekk" v tv rel impf nsub nmlz sing masc abs
+	"yeekk" v tv rel impf nsub nmlz sing masc obl
+
+
+"<ixxaasu>"
+	"ixx" v tv p3 sing fem prf
+
+
+"<hirattiis>"
+	"hiratt" v iv p3 sing masc prf
+
+
+"<baaxxoolee>"
+	"baaxxool" n masc noncon inter
+	"baaxxool" n masc noncon nom
+	"baaxxool" n masc noncon voc
+	"baaxxool" n masc con sing inter
+	"baaxxool" n masc con sing nom
+
+
+"<gamʼʼada>"
+	"gamʼʼ" v iv longcnvb p1 sing
+	"gamʼʼ" v iv longcnvb p2 sing
+	"gamʼʼ" v iv longcnvb p3 sing fem
+
+
+"<koosettaa>"
+	"koosett" n masc con sing abs
+	"koosett" n masc con sing obl
+
+
+"<Laappun>"
+	"laappun" num obl
+
+
+"<duuxxidosona>"
+	"duuxx" v iv p3 plr prf
+
+
+"<gececciis>"
+	"gececc" v iv p3 sing masc prf
+
+
+"<kessees>"
+	"kess" v tv p3 sing masc imfr
+
+
+"<Dottoreti>"
+	"dottor" n masc con plr nom
+
+
+"<wombbaraappe>"
+	"ppe" post
+		"wombbar" n masc con sing abs
+	"ppe" post
+		"wombbar" n masc con sing obl
+
+
+
+"<Kallo>"
+	"kall" n masc noncon abs
+	"kall" n masc noncon obl
+	"kall" v iv p3 sing masc opt
+	"kall" v iv rel prf nsub
+
+
+"<bilbbuwan>"
+	"n" post
+		"bilbb" n masc con sing abs
+	"n" post
+		"bilbb" n masc con sing obl
+	"ni" post
+		"bilbb" n masc con sing abs
+	"ni" post
+		"bilbb" n masc con sing obl
+
+
+"<gaanaassi>"
+	"ssi" post
+		"g" v iv inf con abs sing
+	"ssi" post
+		"g" v iv inf con obl sing
+
+
+"<Pattenna>"
+	"patt" v tv rel inter
+	"patt" v tv inf noncon neg abs
+	"patt" v tv inf noncon neg obl
+	"pattenna" adj
+	"patt" v tv p3 sing masc neg imfr
+
+
+"<Yelagatu>"
+	"yelag" n masc con plr obl
+
+
+"<heemmawsu>"
+	"heemm" v tv p3 sing fem imfr
+
+
+"<zorin>"
+	"n" post
+		"zo" v iv nmlz sing fem obl
+	"n" post
+		"z" v iv rel prf nsub nmlz sing fem obl
+	"ni" post
+		"zo" v iv nmlz sing fem obl
+	"ni" post
+		"z" v iv rel prf nsub nmlz sing fem obl
+	"zo" v iv nmlz sing fem inter about
+	"z" v iv rel prf nsub nmlz sing fem inter about
+	"zor" v tv shortcnvb p1 plr about
+	"zor" v tv shortcnvb p2 plr about
+	"zor" v tv shortcnvb p3 sing masc about
+
+
+"<Shugo>"
+	"shugo" adj
+	"shug" v tv p3 sing masc opt
+	"shug" v tv rel prf nsub
+
+
+"<qulppiya>"
+	"qulpp" n masc con sing abs
+	"qulpp" n masc con sing obl
+	"qulpp" v iv rel impf sub
+	"qulpp" v tv rel impf sub
+
+
+
+
+
+
+
+
+
+
+
+
+"<Jaramane>"
+	"Jaraman" n masc noncon abs
+	"Jaraman" n masc noncon obl
+
+
+"<pashkkenna>"
+	"pashkk" v tv rel inter
+	"pashkk" v tv inf noncon neg abs
+	"pashkk" v tv inf noncon neg obl
+	"pashkk" v tv p3 sing masc neg imfr
+
+
+"<aykkobaa>"
+	"aykkobaa" adv
+
+
+"<yeziyagaa>"
+	"yez" v tv rel impf sub nmlz sing masc abs
+	"yez" v tv rel impf sub nmlz sing masc obl
+	"yeziyag" n masc con sing abs
+	"yeziyag" n masc con sing obl
+
+
+
+"<heessoyo>"
+	"heessoy" n masc noncon abs
+	"heessoy" n masc noncon obl
+	"heessoy" v tv p3 sing masc opt
+	"heessoy" v tv rel prf nsub
+
+
+"<Toophiya>"
+	"Tooph"
+		"Tooph" n masc con sing abs
+		"Tooph" n masc con sing obl
+		"Tooph" v iv rel impf sub
+		"Tooph" v tv rel impf sub
+
+
+"<oychchaasu>"
+	"oychch" v tv p3 sing fem prf
+
+
+
+"<himppiis>"
+	"himpp" v iv p3 sing masc prf
+
+
+"<xeellanaw>"
+	"xeell" v tv for
+
+
+"<Kuttoti>"
+	"kutt" n fem con plr nom
+	"kutt" n masc con plr nom
+
+
+"<intteyyoo>"
+	"yyoo" post
+		"intte" prn p2 plr obl
+	"yyoo" post
+		"intte" prn p2 plr nom
+
+
+"<gara>"
+	"gar" n masc noncon abs
+	"gar" n masc noncon obl
+
+
+"<laalikko>"
+	"laal" v tv ikko
+
+
+"<gujo>"
+	"gujo" adj
+	"guj" n masc noncon abs
+	"guj" n masc noncon obl
+
+
+"<immennan>"
+	"n" post
+		"imm" v tv inf noncon neg abs
+	"n" post
+		"imm" v tv inf noncon neg obl
+	"ni" post
+		"imm" v tv inf noncon neg abs
+	"ni" post
+		"imm" v tv inf noncon neg obl
+	"imm" v tv p3 sing masc neg imfr about
+
+
+"<danddayays>"
+	"dandday" v tv p1 sing imfr
+
+
+"<Anhaa>"
+	"anh" n masc con sing abs
+	"anh" n masc con sing obl
+
+
+"<Shankkanchchati>"
+	"shankkanchch" n masc con plr nom
+
+
+"<xinggimaaliis>"
+	"xinggimaal" v iv p3 sing masc prf
+
+
+"<Shunchchiya>"
+	"shunchchiya" adj
+
+
+"<gayttaasa>"
+	"gaytt" v tv p2 sing imfr
+
+
+"<Wogaw>"
+	"wog" n masc con sing voc
+
+
+"<Xoossaassi>"
+	"ssi" post
+		"Xooss" n masc con sing abs
+	"ssi" post
+		"Xooss" n masc con sing obl
+	"ssi" post
+		"xooss" n masc con sing abs
+	"ssi" post
+		"xooss" n masc con sing obl
+
+
+"<Guttiya>"
+	"gutt" n fem con sing nom
+
+
+"<laggiyara>"
+	"ra" post
+		"lagg" n fem con sing nom
+	"ra" post
+		"lagg" n masc con sing abs
+	"ra" post
+		"lagg" n masc con sing obl
+
+
+
+"<iqawsu>"
+	"iq" v tv p3 sing fem imfr
+
+
+
+"<kulkkaa>"
+	"kulkk" n masc con sing abs
+	"kulkk" n masc con sing obl
+
+
+"<Sanddallee>"
+	"sanddall" n masc noncon inter
+	"sanddall" n masc noncon nom
+	"sanddall" n masc noncon voc
+	"sanddall" n masc con sing inter
+	"sanddall" n masc con sing nom
+
+
+"<yeletaayyoo>"
+	"yyoo" post
+		"yelet" n masc con sing abs
+	"yyoo" post
+		"yelet" n masc con sing obl
+
+
+"<exatana>"
+	"exat" v tv fut
+	"exat" v tv rel fut
+	"exat" v tv inf noncon abs
+	"exat" v tv inf noncon obl
+
+
+"<qacinaa>"
+	"qacin" n masc con sing abs
+	"qacin" n masc con sing obl
+
+
+
+"<ambbulanssee>"
+	"ambbulanss" n masc noncon inter
+	"ambbulanss" n masc noncon nom
+	"ambbulanss" n masc noncon voc
+	"ambbulanss" n masc con sing inter
+	"ambbulanss" n masc con sing nom
+
+
+"<kootiya>"
+	"koot" n masc con sing abs
+	"koot" n masc con sing obl
+
+
+"<tabaa>"
+	"baa" post
+		"ta" prn p1 sing obl
+	"baa" post
+		"ta" prn p1 sing nom
+	"t" v tv p2 sing opt about
+	"t" v tv shortcnvb p1 sing about
+	"t" v tv shortcnvb p2 sing about
+	"t" v tv shortcnvb p3 sing fem about
+
+
+
+"<Xaliya>"
+	"xal" n masc con sing abs
+	"xal" n masc con sing obl
+	"xal" v iv rel impf sub
+	"xal" v tv rel impf sub
+
+
+
+"<addiya>"
+	"add" n masc con sing abs
+	"add" n masc con sing obl
+	"add" v tv rel impf sub
+
+	"*teepiya"
+
+
+"<oyqqanaayyoo>"
+	"yyoo" post
+		"oyqq" v tv inf con abs sing
+	"yyoo" post
+		"oyqq" v tv inf con obl sing
+
+
+"<hegeeta>"
+	"hegeeta" adj
+
+
+
+"<Bambbariyan>"
+	"n" post
+		"bambbar" n masc con sing abs
+	"n" post
+		"bambbar" n masc con sing obl
+	"ni" post
+		"bambbar" n masc con sing abs
+	"ni" post
+		"bambbar" n masc con sing obl
+
+
+
+"<oottiis>"
+	"oottiis" adv
+	"oott" v tv p3 sing masc prf
+
+
+"<yexxaasu>"
+	"yexx" v tv p3 sing fem prf
+
+
+"<eqqettiya>"
+	"eqq" v iv pass rel impf sub
+	"eqq" v tv pass rel impf sub
+
+
+"<Gadaamee>"
+	"gadaam" n masc noncon inter
+	"gadaam" n masc noncon nom
+	"gadaam" n masc noncon voc
+	"gadaam" n masc con sing inter
+	"gadaam" n masc con sing nom
+
+
+"<urqqaa>"
+	"urqq" n masc con sing abs
+	"urqq" n masc con sing obl
+
+
+"<yeddidoogee>"
+	"yedd" v tv rel prf nsub nmlz sing masc inter
+	"yedd" v tv rel prf nsub nmlz sing masc nom
+
+
+"<wuuqqiiddi>"
+	"wuuqq" v tv simu p1 plr
+	"wuuqq" v tv simu p2 plr
+	"wuuqq" v tv simu p3 sing masc
+	"wuuqq" v tv simu p3 plr
+
+
+"<aggees>"
+	"agg" v tv p3 sing masc imfr
+
+
+"<yeddays>"
+	"yedd" v tv p1 sing imfr
+
+
+
+"<yaana>"
+	"yaan" v iv p2 sing opt
+	"yaan" v iv shortcnvb p1 sing
+	"yaan" v iv shortcnvb p2 sing
+	"yaan" v iv shortcnvb p3 sing fem
+	"yaan" v iv rel prf sub
+
+
+"<demmettiis>"
+	"demm" v tv pass p3 sing masc prf
+
+
+
+"<qaxaroy>"
+	"qaxar" n masc noncon nom
+	"qaxar" n masc con sing inter
+	"qaxar" n masc con sing nom
+	"qaxar" v tv oy
+
+
+
+"<qalamiyan>"
+	"n" post
+		"qalam" n masc con sing abs
+	"n" post
+		"qalam" n masc con sing obl
+	"ni" post
+		"qalam" n masc con sing abs
+	"ni" post
+		"qalam" n masc con sing obl
+
+
+"<michchiya>"
+	"michch" n fem con sing nom
+	"michch" n masc con sing abs
+	"michch" n masc con sing obl
+	"michch" v iv rel impf sub
+
+
+"<ammanuwa>"
+	"amman" n masc con sing abs
+	"amman" n masc con sing obl
+
+
+"<aysuwappe>"
+	"ppe" post
+		"ays" n masc con sing abs
+	"ppe" post
+		"ays" n masc con sing obl
+
+
+"<dicciya>"
+	"dicciya" adj
+	"dicc" v iv rel impf sub
+
+
+"<wodalla>"
+	"wodalla" adj
+	"wodalla" adv
+	"wodall" n masc noncon abs
+	"wodall" n masc noncon obl
+	"wodall" v iv p2 sing opt
+	"wodall" v iv shortcnvb p1 sing
+	"wodall" v iv shortcnvb p2 sing
+	"wodall" v iv shortcnvb p3 sing fem
+	"wodall" v iv rel prf sub
+
+
+"<xannaʼiis>"
+	"xannaʼiis" v iv p3 sing masc prf
+
+
+"<woxxees>"
+	"woxx" v tv p3 sing masc imfr
+
+
+
+"<Baqettaa>"
+	"baqett" n masc con sing abs
+	"baqett" n masc con sing obl
+
+
+"<gililaasu>"
+	"gilil" v tv p3 sing fem prf
+
+
+"<joyniyan>"
+	"n" post
+		"joyn" n masc con sing abs
+	"n" post
+		"joyn" n masc con sing obl
+	"ni" post
+		"joyn" n masc con sing abs
+	"ni" post
+		"joyn" n masc con sing obl
+
+
+
+"<durettees>"
+	"dur" v iv pass p3 sing masc imfr
+
+
+"<nuufayaasu>"
+	"nuufay" v tv p3 sing fem prf
+
+
+"<moodettibeenna>"
+	"mood" v tv pass p3 sing masc neg prf
+	"mood" v tv pass rel
+
+
+"<hirayso>"
+	"hirayso" adj
+	"hirays" v iv p3 sing masc opt
+	"hirays" v iv rel prf nsub
+
+
+"<mattoyees>"
+	"mattoy" v tv p3 sing masc imfr
+
+
+"<Duussay>"
+	"duuss" con sing nom
+	"duuss"	con sing inter 
+
+"<xaafettidi>"
+	"xaaf" v tv pass longcnvb p1 plr
+	"xaaf" v tv pass longcnvb p2 plr
+	"xaaf" v tv pass longcnvb p3 plr
+	"xaaf" v tv pass longcnvb p3 sing masc
+
+
+"<laaccawsu>"
+	"laacc" v tv p3 sing fem imfr
+
+
+"<mittiis>"
+	"mitt" v tv p3 sing masc prf
+
+
+"<Ashilaalo>"
+	"ashilaalo" adj
+	"ashilaal" v iv p3 sing masc opt
+	"ashilaal" v iv rel prf nsub
+
+
+"<zoʼʼuwa>"
+	"zoʼʼ" n masc con sing abs
+	"zoʼʼ" n masc con sing obl
+
+
+"<boshee>"
+	"bosh" n masc noncon inter
+
+
+"<Polise>"
+	"polis" n fem noncon obl
+	"polis" n masc noncon abs
+	"polis" n masc noncon obl
