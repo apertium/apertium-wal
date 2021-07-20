@@ -1,0 +1,42 @@
+{
+  "nouns": {
+    "input": "nouns-input.txt",
+    "mode": "wal-morph"
+  },
+  "nouns-gen": {
+    "input": "nouns-gen-input.txt",
+    "mode": "wal-gener"
+  },
+  "verbs": {
+    "input": "verbs-input.txt",
+    "mode": "wal-morph"
+  },
+  "verbs-gen": {
+    "input": "verbs-gen-input.txt",
+    "mode": "wal-gener"
+  },
+  "verbs-iss": {
+    "input": "verbs-iss-input.txt",
+    "mode": "wal-morph"
+  },
+  "verbs-iss-gen": {
+    "input": "verbs-iss-gen-input.txt",
+    "mode": "wal-gener"
+  },
+  "verbs-ivtv": {
+    "input": "verbs-ivtv-input.txt",
+    "mode": "wal-morph"
+  },
+  "verbs-ivtv-gen": {
+    "input": "verbs-ivtv-gen-input.txt",
+    "mode": "wal-gener"
+  },
+  "verbs-ms": {
+    "input": "verbs-ms-input.txt",
+    "mode": "wal-morph"
+  },
+  "verbs-ms-gen": {
+    "input": "verbs-ms-gen-input.txt",
+    "mode": "wal-gener"
+  }
+}

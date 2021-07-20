@@ -1,0 +1,127 @@
+# noun kan
+^kan<n><masc><noncon><abs>$
+^kan<n><masc><noncon><obl>$
+^kan<n><masc><noncon><nom>$
+^kan<n><masc><noncon><inter>$
+^kan<n><masc><noncon><voc>$
+^kan<n><masc><con><sing><abs>$
+^kan<n><masc><con><sing><obl>$
+^kan<n><masc><con><sing><nom>$
+^kan<n><masc><con><sing><inter>$
+^kan<n><masc><con><sing><voc>$
+^kan<n><masc><con><plr><abs>$
+^kan<n><masc><con><plr><obl>$
+^kan<n><masc><con><plr><nom>$
+^kan<n><masc><con><plr><inter>$
+^kan<n><masc><con><plr><voc>$
+# noun Hidaar
+^Hidaar<n><masc><noncon><nom>$
+^Hidaar<n><masc><noncon><obl>$
+^Hidaar<n><masc><noncon><voc>$
+# noun udunxx
+^udunxx<n><masc><con><plr><abs>$
+^udunxx<n><masc><con><plr><inter>$
+^udunxx<n><masc><con><plr><nom>$
+^udunxx<n><masc><con><plr><obl>$
+^udunxx<n><masc><con><plr><voc>$
+^udunxx<n><masc><con><sing><inter>$
+^udunxx<n><masc><con><sing><nom>$
+^udunxx<n><masc><con><sing><abs>$
+^udunxx<n><masc><con><sing><obl>$
+^udunxx<n><masc><con><sing><voc>$
+^udunxx<n><masc><noncon><abs>$
+^udunxx<n><masc><noncon><inter>$
+^udunxx<n><masc><noncon><nom>$
+# noun Abash
+^Abash<n><masc><con><sing><nom>$
+^Abash<n><masc><noncon><abs>$
+^Abash<n><masc><noncon><obl>$
+^Abash<n><masc><noncon><inter>$
+^Abash<n><masc><noncon><nom>$
+^Abash<n><masc><noncon><voc>$
+# noun Bullaal
+^Bullaal<n><masc><con><sing><voc>$
+^Bullaal<n><masc><con><sing><inter>$
+^Bullaal<n><masc><con><sing><nom>$
+^Bullaal<n><masc><noncon><abs>$
+^Bullaal<n><masc><noncon><obl>$
+^Bullaal<n><masc><noncon><inter>$
+^Bullaal<n><masc><noncon><nom>$
+# gaxar
+^gaxar<n><masc><con><plr><nom>$
+^gaxar<n><masc><con><plr><obl>$
+^gaxar<n><masc><con><plr><voc>$
+^gaxar<n><masc><con><sing><inter>$
+^gaxar<n><masc><con><sing><nom>$
+^gaxar<n><masc><con><sing><abs>$
+^gaxar<n><masc><con><sing><obl>$
+^gaxar<n><masc><con><sing><voc>$
+^gaxar<n><masc><noncon><abs>$
+^gaxar<n><masc><noncon><inter>$
+^gaxar<n><masc><noncon><nom>$
+^gaxar<n><masc><noncon><obl>$
+^gaxar<n><masc><noncon><voc>$
+# noun Giriik
+^Giriik<n><masc><con><sing><inter>$
+^Giriik<n><masc><con><sing><nom>$
+^Giriik<n><masc><con><sing><abs>$
+^Giriik<n><masc><con><sing><obl>$
+^Giriik<n><masc><con><sing><voc>$
+^Giriik<n><masc><noncon><abs>$
+# noun Hamil
+^Hamil<n><masc><con><sing><inter>$
+^Hamil<n><masc><con><sing><nom>$
+^Hamil<n><masc><con><sing><abs>$
+^Hamil<n><masc><con><sing><obl>$
+^Hamil<n><masc><con><sing><voc>$
+^Hamil<n><masc><noncon><abs>$
+^Hamil<n><masc><noncon><inter>$
+^Hamil<n><masc><noncon><nom>$
+^Hamil<n><masc><noncon><obl>$
+^Hamil<n><masc><noncon><voc>$
+^Hamuus<n><masc><con><plr><abs>$
+^Hamuus<n><masc><con><plr><inter>$
+^Hamuus<n><masc><con><plr><nom>$
+^Hamuus<n><masc><con><plr><obl>$
+^Hamuus<n><masc><con><plr><voc>$
+^Hamuus<n><masc><con><sing><abs>$
+^Hamuus<n><masc><con><sing><obl>$
+# noun Isiin
+^Isiin<n><masc><noncon><obl>$
+^Isiin<n><masc><noncon><voc>$
+# noun Jaapaan
+^Jaapaan<n><masc><con><plr><abs>$
+# noun Kuushs
+^Kuushs<n><masc><noncon><voc>$
+# noun Laappun
+^Laappun<n><masc><con><plr><abs>$
+^Laappun<n><masc><con><plr><inter>$
+^Laappun<n><masc><con><plr><nom>$
+^Laappun<n><masc><con><plr><obl>$
+^Laappun<n><masc><con><plr><voc>$
+# noun Toophph
+^Toophph<n><masc><con><plr><abs>$
+^Toophph<n><masc><con><plr><inter>$
+^Toophph<n><masc><con><plr><nom>$
+^Toophph<n><masc><con><plr><obl>$
+^Toophph<n><masc><con><plr><voc>$
+^Toophph<n><masc><con><sing><inter>$
+^Toophph<n><masc><con><sing><nom>$
+^Toophph<n><masc><con><sing><abs>$
+^Toophph<n><masc><con><sing><obl>$
+^Toophph<n><masc><con><sing><voc>$
+^Toophph<n><masc><noncon><abs>$
+^Toophph<n><masc><noncon><inter>$
+^Toophph<n><masc><noncon><nom>$
+^Toophph<n><masc><noncon><obl>$
+# noun Usuppun
+^Usuppun<n><masc><con><plr><voc>$
+^Usuppun<n><masc><con><sing><inter>$
+^Usuppun<n><masc><con><sing><nom>$
+# noun Wolayttatt
+^Wolayttatt<n><masc><con><sing><nom>$
+^Wolayttatt<n><masc><con><sing><abs>$
+^Wolayttatt<n><masc><con><sing><obl>$
+^Wolayttatt<n><masc><con><sing><voc>$
+^Wolayttatt<n><masc><noncon><abs>$
+^Wolayttatt<n><masc><noncon><inter>$

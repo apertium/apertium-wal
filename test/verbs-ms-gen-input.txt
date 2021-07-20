@@ -1,0 +1,5 @@
+# Verb b
+^b<v><iv><p1><sing><imfr>$
+^b<v><iv><p3><sing><masc><imfr>$
+# Verb ajab
+^ajab<v><tv><p1><sing><imfr>$

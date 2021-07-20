@@ -1,0 +1,147 @@
+# Verb aac
+^aac<v><iv><pass><shortcnvb><p1><sing>$
+# Verb arggaac
+^arggaac<v><iv><cau><fut>$
+# Verb aafot
+^aafot<v><iv><cau><p3><sing><masc><neg><intr><prf>$
+^aafot<v><iv><cau><p3><sing><masc><neg><prf>$
+^aafot<v><iv><cau><p3><sing><masc><intr><prf>$
+^aafot<v><iv><cau><p3><sing><masc><intr><imfr>$
+^aafot<v><iv><cau><p3><sing><masc><prf>$
+# Verb aakk
+^aakk<v><tv><rel><prf><nsub><nmlz><sing><fem><nom>$
+^aakk<v><tv><rel><prf><nsub><nmlz><sing><fem><voc>$
+^aakk<v><tv><rel><prf><nsub><nmlz><sing><fem><inter>$
+^aakk<v><tv><rel><prf><nsub><nmlz><sing><fem><obl>$
+^aakk<v><tv><rel><prf><nsub><nmlz><sing><fem><obl>+kko<post>$
+^aakk<v><tv><rel><prf><nsub><nmlz><sing><fem><obl>+ni<post>$
+^aakk<v><tv><rel><prf><nsub><nmlz><sing><fem><obl>+ppe<post>$
+^aakk<v><tv><rel><prf><nsub><nmlz><sing><fem><obl>+ra<post>$
+^aakk<v><tv><rel><prf><nsub><nmlz><sing><fem><obl>+ssi<post>$
+^aakk<v><tv><rel><prf><nsub><nmlz><sing><fem><obl>+daani<post>$
+# Verb aal
+^aal<v><iv><cau><rel><impf><nsub><nmlz><sing><masc><inter>$
+^aal<v><iv><cau><rel><impf><nsub><nmlz><sing><masc><nom>$
+^aal<v><iv><cau><rel><impf><nsub><nmlz><sing><masc><voc>$
+^aal<v><iv><cau><rel><impf><nsub><nmlz><sing><fem><nom>$
+^aal<v><iv><cau><rel><impf><nsub><nmlz><sing><fem><voc>$
+^aal<v><iv><cau><rel><impf><nsub><nmlz><sing><fem><inter>$
+^aal<v><iv><cau><rel><impf><nsub><nmlz><sing><fem><obl>$
+^aal<v><iv><cau><rel><impf><nsub><nmlz><sing><fem><obl>+kko<post>$
+^aal<v><iv><cau><rel><impf><nsub><nmlz><sing><fem><obl>+ni<post>$
+# Verb aammot
+^aammot<v><iv><rel><impf><nsub><nmlz><plr><masc><obl>$
+^aammot<v><iv><rel><impf><nsub><nmlz><plr><masc><obl>+kko<post>$
+^aammot<v><iv><rel><impf><nsub><nmlz><plr><masc><obl>+ni<post>$
+^aammot<v><iv><rel><impf><nsub><nmlz><plr><masc><obl>+ppe<post>$
+^aammot<v><iv><rel><impf><nsub><nmlz><plr><masc><obl>+ra<post>$
+^aammot<v><iv><rel><impf><nsub><nmlz><plr><masc><obl>+ssi<post>$
+# Verb aatt
+^aatt<v><tv><rel><prf><sub><nmlz><sing><masc><obl>+daani<post>$
+^aatt<v><tv><rel><prf><sub><nmlz><sing><masc><inter>$
+^aatt<v><tv><rel><prf><sub><nmlz><sing><masc><nom>$
+^aatt<v><tv><rel><prf><sub><nmlz><sing><masc><voc>$
+^aatt<v><tv><rel><prf><sub><nmlz><sing><fem><nom>$
+^aatt<v><tv><rel><prf><sub><nmlz><sing><fem><voc>$
+^aatt<v><tv><rel><prf><sub><nmlz><sing><fem><inter>$
+^aatt<v><tv><rel><prf><sub><nmlz><sing><fem><obl>$
+^aatt<v><tv><rel><prf><sub><nmlz><sing><fem><obl>+kko<post>$
+# Verb aawat
+^aawat<v><tv><rel><prf><nsub><nmlz><sing><masc><inter>$
+^aawat<v><tv><rel><prf><nsub><nmlz><sing><masc><nom>$
+^aawat<v><tv><rel><prf><nsub><nmlz><sing><masc><voc>$
+^aawat<v><tv><rel><prf><nsub><nmlz><sing><fem><nom>$
+^aawat<v><tv><rel><prf><nsub><nmlz><sing><fem><voc>$
+^aawat<v><tv><rel><prf><nsub><nmlz><sing><fem><inter>$
+^aawat<v><tv><rel><prf><nsub><nmlz><sing><fem><obl>$
+# Verb afuxx
+^afuxx<v><iv><cau><rel><impf><sub><nmlz><plr><masc><obl>+ni<post>$
+^afuxx<v><iv><cau><rel><impf><sub><nmlz><plr><masc><obl>+ppe<post>$
+^afuxx<v><iv><cau><rel><impf><sub><nmlz><plr><masc><obl>+ra<post>$
+^afuxx<v><iv><cau><rel><impf><sub><nmlz><plr><masc><obl>+ssi<post>$
+^afuxx<v><iv><cau><rel><impf><sub><nmlz><plr><masc><obl>+daani<post>$
+^afuxx<v><iv><cau><rel><impf><sub><nmlz><plr><masc><voc>$
+^afuxx<v><iv><cau><rel><impf><sub><nmlz><sing><masc><abs>$
+^afuxx<v><iv><cau><rel><impf><sub><nmlz><sing><masc><obl>$
+# Verb ag
+^ag<v><tv><p3><sing><masc><prf>$
+# Verb agg
+^agg<v><tv><longcnvb><p1><plr>$
+^agg<v><tv><longcnvb><p2><plr>$
+^agg<v><tv><longcnvb><p3><plr>$
+^agg<v><tv><longcnvb><p3><sing><masc>$
+^agg<v><tv><p1><sing><prf>$
+^agg<v><tv><p1><sing><neg><intr><prf>$
+^agg<v><tv><p1><sing><neg><prf>$
+^agg<v><tv><p1><sing><imfr>$
+^agg<v><tv><p1><plr><imfr>$
+^agg<v><tv><p1><plr><neg><imfr>$
+^agg<v><tv><p1><plr><neg><intr><imfr>$
+^agg<v><tv><p1><plr><neg><intr><prf>$
+# Verb ak
+^ak<v><iv><cau><rel><prf><nsub><nmlz><sing><fem><obl>+kko<post>$
+^ak<v><iv><cau><rel><prf><nsub><nmlz><sing><fem><obl>+ni<post>$
+^ak<v><iv><cau><rel><prf><nsub><nmlz><sing><fem><obl>+ppe<post>$
+^ak<v><iv><cau><rel><prf><nsub><nmlz><sing><fem><obl>+ra<post>$
+^ak<v><iv><cau><rel><prf><nsub><nmlz><sing><fem><obl>+ssi<post>$
+^ak<v><iv><cau><rel><prf><nsub><nmlz><sing><fem><obl>+daani<post>$
+^ak<v><iv><cau><rel><prf><nsub><nmlz><sing><fem><abs>$
+^ak<v><iv><cau><rel><impf><sub><nmlz><plr><masc><abs>$
+^ak<v><iv><cau><rel><impf><sub><nmlz><plr><masc><inter>$
+# Verb akkamm
+^akkamm<v><tv><cau><p3><plr><prf>$
+^akkamm<v><tv><cau><p3><plr><intr><imfr>$
+^akkamm<v><tv><cau><p3><sing><masc><neg><intr><prf>$
+^akkamm<v><tv><cau><p3><sing><masc><neg><prf>$
+^akkamm<v><tv><cau><p3><sing><masc><intr><prf>$
+^akkamm<v><tv><cau><p3><sing><masc><intr><imfr>$
+^akkamm<v><tv><cau><p3><sing><masc><prf>$
+^akkamm<v><tv><cau><p3><plr><neg><imfr>$
+^akkamm<v><tv><cau><p3><plr><neg><intr><imfr>$
+^akkamm<v><tv><cau><p3><plr><imfr>$
+# Verb anjj
+^anjj<v><tv><cau><rel><impf><nsub><nmlz><plr><masc><obl>+daani<post>$
+^anjj<v><tv><cau><rel><impf><nsub><nmlz><plr><masc><voc>$
+^anjj<v><tv><cau><rel><impf><nsub><nmlz><sing><masc><abs>$
+^anjj<v><tv><cau><rel><impf><nsub><nmlz><sing><masc><obl>$
+^anjj<v><tv><cau><rel><impf><nsub><nmlz><sing><masc><obl>+kko<post>$
+^anjj<v><tv><cau><rel><impf><nsub><nmlz><sing><masc><obl>+ni<post>$
+# Verb att
+^att<v><tv><rel><impf><sub><nmlz><plr><masc><obl>+ppe<post>$
+^att<v><tv><rel><impf><sub><nmlz><plr><masc><obl>+ra<post>$
+^att<v><tv><rel><impf><sub><nmlz><plr><masc><obl>+ssi<post>$
+^att<v><tv><rel><impf><sub><nmlz><plr><masc><obl>+daani<post>$
+^att<v><tv><rel><impf><sub><nmlz><plr><masc><voc>$
+^att<v><tv><rel><impf><sub><nmlz><sing><masc><abs>$
+^att<v><tv><rel><impf><sub><nmlz><sing><masc><obl>$
+# Verb awaajj
+^awaajj<v><tv><p3><sing><masc><prf>$
+^awaajj<v><tv><p3><plr><neg><imfr>$
+^awaajj<v><tv><p3><plr><neg><intr><imfr>$
+^awaajj<v><tv><p3><plr><imfr>$
+^awaajj<v><tv><p3><sing><masc><opt>$
+^awaajj<v><tv><p3><sing><opt>$
+^awaajj<v><tv><p3><sing><masc><neg><opt>$
+^awaajj<v><tv><p3><sing><neg><opt>$
+^awaajj<v><tv><p3><sing><fem><opt>$
+^awaajj<v><tv><p3><sing><fem><neg><imfr>$
+^awaajj<v><tv><p3><sing><fem><neg><opt>$
+# Verb awcaya
+^awcaya<v><iv><cau><rel><impf><nsub><nmlz><sing><masc><obl>+kko<post>$
+^awcaya<v><iv><cau><rel><impf><nsub><nmlz><sing><masc><obl>+ni<post>$
+^awcaya<v><iv><cau><rel><impf><nsub><nmlz><sing><masc><obl>+ppe<post>$
+^awcaya<v><iv><cau><rel><impf><nsub><nmlz><sing><masc><obl>+ra<post>$
+^awcaya<v><iv><cau><rel><impf><nsub><nmlz><sing><masc><obl>+ssi<post>$
+# Verb azalss
+^azalss<v><tv><fut>$
+^azalss<v><tv><inf><noncon><inter>$
+^azalss<v><tv><inf><obl>$
+^azalss<v><tv><intr><fut>$
+^azalss<v><tv><longcnvb><p1><sing>$
+^azalss<v><tv><longcnvb><p2><sing>$
+^azalss<v><tv><longcnvb><p3><sing><fem>$
+^azalss<v><tv><longcnvb><p1><plr>$
+^azalss<v><tv><longcnvb><p2><plr>$
+^azalss<v><tv><longcnvb><p3><plr>$
+^azalss<v><tv><longcnvb><p3><sing><masc>$
+^azalss<v><tv><p1><sing><prf>$

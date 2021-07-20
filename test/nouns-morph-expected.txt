@@ -1,0 +1,160 @@
+[1H8IPMF4cTZ0#0] ^Giriikiyaw/Giriik<n><masc><con><sing><voc>$
+[/1H8IPMF4cTZ0]
+[1mo-PhuLDdvr#0] ^Hidaare/Hidaar<n><masc><noncon><abs>/Hidaar<n><masc><noncon><obl>$
+[/1mo-PhuLDdvr]
+[1wLB7WvXl3AJ#0] ^Abasha/Abasha<adj>/Abash<n><masc><noncon><abs>/Abash<n><masc><noncon><obl>$
+[/1wLB7WvXl3AJ]
+[2of6nMTZMlKk#0] ^kanatoo/kan<n><masc><con><plr><voc>$
+[/2of6nMTZMlKk]
+[4IbM6GUlpUw_#0] ^Kuushsoo/*Kuushsoo$
+[/4IbM6GUlpUw_]
+[5byZYhCYk_Gd#0] ^Isiine/isiin\<num\><abs>/isiin\<num\><obl>/Isiin<n><masc><noncon><abs>/Isiin<n><masc><noncon><obl>$
+[/5byZYhCYk_Gd]
+[7H2JvEheHDdq#0] ^Isiinoo/Isiin<n><masc><noncon><voc>$
+[/7H2JvEheHDdq]
+[7pMNSocgxeIJ#0] ^Bullaali/Bullaal<n><masc><noncon><nom>/bullaal<v><iv><shortcnvb><p1><plr>/bullaal<v><iv><shortcnvb><p2><plr>/bullaal<v><iv><shortcnvb><p3><plr>/bullaal<v><iv><shortcnvb><p3><sing><masc>$
+[/7pMNSocgxeIJ]
+[9txwpY1SO6N2#0] ^Toophpheta/Toophph<n><masc><con><plr><abs>$
+[/9txwpY1SO6N2]
+[Bwu3XKZUjOyC#0] ^Hamuusata/Hamuus<n><masc><con><plr><abs>$
+[/Bwu3XKZUjOyC]
+[DAkCQo8H_Umg#0] ^kana/k<v><tv><fut>/k<v><tv><rel><fut>/k<v><tv><inf><noncon><abs>/k<v><tv><inf><noncon><obl>/kana<adj>/kan<n><fem><noncon><nom>/kan<n><masc><noncon><abs>/kan<n><masc><noncon><obl>$
+[/DAkCQo8H_Umg]
+[E2hUu4ZxtRRB#0] ^Giriike/Giriik<n><masc><noncon><abs>/Giriik<n><masc><noncon><obl>$
+[/E2hUu4ZxtRRB]
+[E8rq5KY6owI4#0] ^Laappunetoo/Laappun<n><masc><con><plr><voc>$
+[/E8rq5KY6owI4]
+[EEUqph3S5279#0] ^kanatu/kan<n><masc><con><plr><obl>$
+[/EEUqph3S5279]
+[FiXis1PcJ8O3#0] ^gaxareti/gaxar<n><masc><con><plr><nom>$
+[/FiXis1PcJ8O3]
+[Fok8B4RMOJAX#0] ^udunxxeta/udunxx<n><masc><con><plr><abs>$
+[/Fok8B4RMOJAX]
+[GqU1BpB5X6UC#0] ^Hamiloo/Hamil<n><masc><noncon><voc>$
+[/GqU1BpB5X6UC]
+[H53ahjvoJCQW#0] ^Hamilee/Hamil<n><masc><noncon><inter>/Hamil<n><masc><noncon><nom>/Hamil<n><masc><noncon><voc>/Hamil<n><masc><con><sing><inter>/Hamil<n><masc><con><sing><nom>$
+[/H53ahjvoJCQW]
+[JHLb5WbNWPQw#0] ^gaxare/gaxar<n><masc><noncon><abs>/gaxar<n><masc><noncon><obl>$
+[/JHLb5WbNWPQw]
+[KY_rNanqsstt#0] ^udunxxetoo/udunxx<n><masc><con><plr><voc>$
+[/KY_rNanqsstt]
+[KatfDxraKohI#0] ^Abashay/Abash<n><masc><con><sing><inter>/Abash<n><masc><con><sing><nom>$
+[/KatfDxraKohI]
+[LbhWz2IXlm_l#0] ^udunxxiya/udunxx<n><masc><con><sing><abs>/udunxx<n><masc><con><sing><obl>$
+[/LbhWz2IXlm_l]
+[LeiWQp59ZfSA#0] ^Giriikee/Giriik<n><masc><noncon><inter>/Giriik<n><masc><noncon><nom>/Giriik<n><masc><noncon><voc>/Giriik<n><masc><con><sing><inter>/Giriik<n><masc><con><sing><nom>$
+[/LeiWQp59ZfSA]
+[LrW9R5_gwnPs#0] ^Hamuusatoo/Hamuus<n><masc><con><plr><voc>$
+[/LrW9R5_gwnPs]
+[NFCCMqgHlQK0#0] ^Hamuusaa/Hamuus<n><masc><con><sing><abs>/Hamuus<n><masc><con><sing><obl>$
+[/NFCCMqgHlQK0]
+[NvSei577yB3l#0] ^Toophphiyaw/Toophph<n><masc><con><sing><voc>$
+[/NvSei577yB3l]
+[QdGOZKlldLYk#0] ^Hamiliya/Hamil<n><masc><con><sing><abs>/Hamil<n><masc><con><sing><obl>$
+[/QdGOZKlldLYk]
+[S0ISp1v_eGBy#0] ^udunxxeti/udunxx<n><masc><con><plr><nom>$
+[/S0ISp1v_eGBy]
+[SNLxPI4gGKWG#0] ^udunxxee/udunxx<n><masc><noncon><inter>/udunxx<n><masc><noncon><nom>/udunxx<n><masc><noncon><voc>/udunxx<n><masc><con><sing><inter>/udunxx<n><masc><con><sing><nom>$
+[/SNLxPI4gGKWG]
+[TPaRLIIAxYWp#0] ^Bullaalay/Bullaal<n><masc><con><sing><inter>/Bullaal<n><masc><con><sing><nom>/bullaal<v><iv><p2><sing><intr><imfr>/bullaal<v><iv><p3><sing><fem><intr><imfr>$
+[/TPaRLIIAxYWp]
+[VGChkTdPcxPR#0] ^gaxaretu/gaxar<n><masc><con><plr><obl>$
+[/VGChkTdPcxPR]
+[VN60_AcVs_14#0] ^Toophphiya/Toophph<n><masc><con><sing><abs>/Toophph<n><masc><con><sing><obl>/Toophphiya<adj>$
+[/VN60_AcVs_14]
+[WJBLNnZvaZl8#0] ^Toophpheti/Toophph<n><masc><con><plr><nom>$
+[/WJBLNnZvaZl8]
+[YqfW-tkr6ryX#0] ^udunxxiyaw/udunxx<n><masc><con><sing><voc>$
+[/YqfW-tkr6ryX]
+[_CSd7NiP5vek#0] ^udunxxetu/udunxx<n><masc><con><plr><obl>$
+[/_CSd7NiP5vek]
+[adJMz2zMpAUD#0] ^kani/kan<n><fem><noncon><obl>/kan<n><masc><noncon><nom>$
+[/adJMz2zMpAUD]
+[amtFJMBkaQRQ#0] ^Wolayttattuwaw/Wolayttatt<n><masc><con><sing><voc>$
+[/amtFJMBkaQRQ]
+[bNkzeV-7yp1X#0] ^gaxariyaw/gaxar<n><masc><con><sing><voc>$
+[/bNkzeV-7yp1X]
+[c-pPmMYXYULr#0] ^kanatee/kan<n><masc><con><plr><inter>$
+[/c-pPmMYXYULr]
+[c6gK4mIBDw2p#0] ^Giriikiya/Giriik<n><masc><con><sing><abs>/Giriik<n><masc><con><sing><obl>$
+[/c6gK4mIBDw2p]
+[d6-Km-9T4Bzn#0] ^gaxariya/gaxar<n><masc><con><sing><abs>/gaxar<n><masc><con><sing><obl>$
+[/d6-Km-9T4Bzn]
+[e2taRjoSTaRv#0] ^Abashoo/Abash<n><masc><noncon><voc>$
+[/e2taRjoSTaRv]
+[evrCYYMB6qoh#0] ^gaxaretoo/gaxar<n><masc><con><plr><voc>$
+[/evrCYYMB6qoh]
+[fW_2sBJhOWLH#0] ^Abashi/Abash<n><masc><noncon><nom>$
+[/fW_2sBJhOWLH]
+[g9jBY-wU8hWM#0] ^Wolayttattuwa/Wolayttatt<n><masc><con><sing><abs>/Wolayttatt<n><masc><con><sing><obl>$
+[/g9jBY-wU8hWM]
+[ghWMBKoyDE-R#0] ^Bullaalee/Bullaal<n><masc><noncon><inter>$
+[/ghWMBKoyDE-R]
+[h-AcIP0doAxS#0] ^kanata/kan<n><masc><con><plr><abs>$
+[/h-AcIP0doAxS]
+[i_tMxNGlKg7Y#0] ^Hamuusatu/Hamuus<n><masc><con><plr><obl>$
+[/i_tMxNGlKg7Y]
+[juElGgEA8eQt#0] ^Wolayttattoo/Wolayttatt<n><masc><noncon><voc>/Wolayttatt<n><masc><noncon><inter>$
+[/juElGgEA8eQt]
+[k0HGAFqNnX7S#0] ^kanoo/kan<n><fem><noncon><voc>/kan<n><fem><noncon><inter>/kan<n><masc><noncon><voc>$
+[/k0HGAFqNnX7S]
+[k51G0vEp4WnL#0] ^Laappunetee/Laappun<n><masc><con><plr><inter>$
+[/k51G0vEp4WnL]
+[lg1TauCqBwEb#0] ^Usuppunee/Usuppun<n><masc><noncon><inter>/Usuppun<n><masc><noncon><nom>/Usuppun<n><masc><noncon><voc>/usuppun\<num\><inter>/Usuppun<n><masc><con><sing><inter>/Usuppun<n><masc><con><sing><nom>$
+[/lg1TauCqBwEb]
+[n7pnmYE2ujR7#0] ^Toophphetoo/Toophph<n><masc><con><plr><voc>$
+[/n7pnmYE2ujR7]
+[nWcpWyhq7wgZ#0] ^Laappuneta/Laappun<n><masc><con><plr><abs>$
+[/nWcpWyhq7wgZ]
+[ngMxFj4AWHCR#0] ^Laappunetu/Laappun<n><masc><con><plr><obl>$
+[/ngMxFj4AWHCR]
+[p9lv7i_u-d5T#0] ^udunxxe/udunxx<n><masc><noncon><abs>/udunxx<n><masc><noncon><obl>$
+[/p9lv7i_u-d5T]
+[pS64iiowfwlV#0] ^Toophphe/Toophph<n><masc><noncon><abs>/Toophph<n><masc><noncon><obl>$
+[/pS64iiowfwlV]
+[qBa4DSZkRwt5#0] ^kanati/kan<n><masc><con><plr><nom>$
+[/qBa4DSZkRwt5]
+[qfgmGV3PVEI3#0] ^Bullaala/bullaala<adj>/Bullaal<n><masc><noncon><abs>/Bullaal<n><masc><noncon><obl>/bullaal<v><iv><p2><sing><opt>/bullaal<v><iv><shortcnvb><p1><sing>/bullaal<v><iv><shortcnvb><p2><sing>/bullaal<v><iv><shortcnvb><p3><sing><fem>/bullaal<v><iv><rel><prf>\<sub\>$
+[/qfgmGV3PVEI3]
+[qfgs5t9Dod8s#0] ^Hamiliyaw/Hamil<n><masc><con><sing><voc>$
+[/qfgs5t9Dod8s]
+[qj-MRLPnNjIq#0] ^gaxaree/gaxar<n><masc><noncon><inter>/gaxar<n><masc><noncon><nom>/gaxar<n><masc><noncon><voc>/gax<n><masc><noncon><abs>+ree<post>/gax<n><masc><noncon><obl>+ree<post>/gaxar<n><masc><con><sing><inter>/gaxar<n><masc><con><sing><nom>$
+[/qj-MRLPnNjIq]
+[r3s083riOmGe#0] ^Laappuneti/Laappun<n><masc><con><plr><nom>$
+[/r3s083riOmGe]
+[s5nKHIDmYMbr#0] ^kanaw/k<v><tv>\<for\>/kan<n><masc><con><sing><voc>$
+[/s5nKHIDmYMbr]
+[sFWqPhsDYrfM#0] ^Hamile/Hamil<n><masc><noncon><abs>/Hamil<n><masc><noncon><obl>$
+[/sFWqPhsDYrfM]
+[snkDYthbNZa6#0] ^Toophphetu/Toophph<n><masc><con><plr><obl>$
+[/snkDYthbNZa6]
+[tgbchtVEgviq#0] ^Wolayttatto/Wolayttatt<n><masc><noncon><abs>/Wolayttatt<n><masc><noncon><obl>$
+[/tgbchtVEgviq]
+[titvhMl-5JH-#0] ^Abashee/Abash<n><masc><noncon><inter>$
+[/titvhMl-5JH-]
+[u4vFQxVsmqCa#0] ^Hamuusatee/Hamuus<n><masc><con><plr><inter>$
+[/u4vFQxVsmqCa]
+[uNmMtQAiC1TM#0] ^kanee/k<v><tv><inf><noncon><inter>/kan<n><masc><noncon><inter>/kan<n><masc><noncon><nom>/kan<n><masc><noncon><voc>/kan<n><fem><con><sing><obl>/kan<n><fem><con><sing><voc>/kan<n><masc><con><sing><inter>/kan<n><masc><con><sing><nom>$
+[/uNmMtQAiC1TM]
+[uata27d1SV7P#0] ^Usuppunetoo/Usuppun<n><masc><con><plr><voc>$
+[/uata27d1SV7P]
+[v8pBEoB2X9Ac#0] ^kanaa/k<v><tv><inf><con><abs><sing>/k<v><tv><inf><con><obl><sing>/kan<n><masc><con><sing><abs>/kan<n><masc><con><sing><obl>$
+[/v8pBEoB2X9Ac]
+[vNdlhXZw6p1r#0] ^Toophphee/Toophph<n><masc><noncon><inter>/Toophph<n><masc><noncon><nom>/Toophph<n><masc><noncon><voc>/Toophph<n><masc><con><sing><inter>/Toophph<n><masc><con><sing><nom>$
+[/vNdlhXZw6p1r]
+[veR1JY7tJEOE#0] ^Bullaalaw/Bullaal<n><masc><con><sing><voc>$
+[/veR1JY7tJEOE]
+[vv75ykuM2Ovo#0] ^Wolayttattoy/Wolayttatt<n><masc><noncon><nom>/Wolayttatt<n><masc><con><sing><inter>/Wolayttatt<n><masc><con><sing><nom>$
+[/vv75ykuM2Ovo]
+[wFXINEfkORG7#0] ^Hidaaree/Hidaar<n><masc><noncon><inter>/Hidaar<n><masc><noncon><nom>/Hidaar<n><masc><noncon><voc>/Hidaar<n><masc><con><sing><inter>/Hidaar<n><masc><con><sing><nom>$
+[/wFXINEfkORG7]
+[wzh2V7OQSF_y#0] ^Toophphetee/Toophph<n><masc><con><plr><inter>$
+[/wzh2V7OQSF_y]
+[xKyOWHpQfHol#0] ^kanay/kan<n><masc><con><sing><inter>/kan<n><masc><con><sing><nom>$
+[/xKyOWHpQfHol]
+[ydXn0_2pZLP5#0] ^Hamuusati/Hamuus<n><masc><con><plr><nom>$
+[/ydXn0_2pZLP5]
+[zj0a26vxZy8k#0] ^Jaapaaneta/Jaapaan<n><masc><con><plr><abs>$
+[/zj0a26vxZy8k]
+[ztC-nCpn1aM8#0] ^udunxxetee/udunxx<n><masc><con><plr><inter>$
+[/ztC-nCpn1aM8]

@@ -1,0 +1,210 @@
+[--c6xy3Wucxs#0] ^azalssanee/azalss<v><tv><inf><noncon><inter>$
+[/--c6xy3Wucxs]
+[-oKjL6bzoE8F#0] ^akkamissibeennee/akkamm<v><tv>\<cau\><p3><sing><masc><neg><intr><prf>$
+[/-oKjL6bzoE8F]
+[06VydfsjHSmV#0] ^aassaree/aass<v><tv><rel><prf>\<sub\><nmlz><sing><fem><voc>/aakk<v><tv><rel><prf>\<sub\><nmlz><sing><fem><voc>$
+[/06VydfsjHSmV]
+[0rIhIV1KOk-s#0] ^aattidora/aatt<v><tv><p1><plr><intr><prf>\<and\>$
+[/0rIhIV1KOk-s]
+[2bOfTDMdWQus#0] ^ashshiyagaa/ashsh<v><tv><rel>\<impf\>\<sub\><nmlz><sing><masc><abs>/ashsh<v><tv><rel>\<impf\>\<sub\><nmlz><sing><masc><obl>/att<v><tv><rel>\<impf\>\<sub\><nmlz><sing><masc><abs>/att<v><tv><rel>\<impf\>\<sub\><nmlz><sing><masc><obl>/ashshiyag<n><masc><con><sing><abs>/ashshiyag<n><masc><con><sing><obl>$
+[/2bOfTDMdWQus]
+[2nLQAX9pvNBZ#0] ^aafotissii/aafot<v><iv>\<cau\><p3><sing><masc><intr><imfr>$
+[/2nLQAX9pvNBZ]
+[5aWffnvRME6t#0] ^aalissiyorini/aal<v><iv>\<cau\><rel>\<impf\>\<nsub\><nmlz><sing><fem><obl>+ni<post>$
+[/5aWffnvRME6t]
+[6R3ajai-SRju#0] ^aggettenna/agg<v><tv><p1><plr><neg><imfr>/agg<v><tv>\<pass\><rel><inter>/agg<v><tv>\<pass\><p3><sing><masc><neg><imfr>$
+[/6R3ajai-SRju]
+[6aKLuZRhWogu#0] ^aalissiyogee/aal<v><iv>\<cau\><rel>\<impf\>\<nsub\><nmlz><sing><masc><inter>/aal<v><iv>\<cau\><rel>\<impf\>\<nsub\><nmlz><sing><masc><nom>/aal<v><iv>\<cau\><p1><plr><intr><imfr>\<and\>$
+[/6aKLuZRhWogu]
+[73kTWLIh2r2N#0] ^awcayaissiy/*awcayaissiy$\$
+[/73kTWLIh2r2N]
+[7A6f6rYiGxuh#0] ^ashshiyageetudaani/*ashshiyageetudaani$
+[/7A6f6rYiGxuh]
+[7TKFivl1NQ4t#0] ^aafotissibeennee/aafot<v><iv>\<cau\><p3><sing><masc><neg><intr><prf>$
+[/7TKFivl1NQ4t]
+[8ATMxuhrDrWY#0] ^ashshiyageetuppe/ashsh<v><tv><rel>\<impf\>\<sub\><nmlz><plr><masc><obl>+ppe<post>/att<v><tv><rel>\<impf\>\<sub\><nmlz><plr><masc><obl>+ppe<post>$
+[/8ATMxuhrDrWY]
+[91ajZ1RE6r1O#0] ^aafotissidee/aafot<v><iv>\<cau\><p3><sing><masc><intr><prf>$
+[/91ajZ1RE6r1O]
+[9uJ4yi0JQRFT#0] ^aassarini/aass<v><tv><rel><prf>\<sub\><nmlz><sing><fem><obl>+ni<post>/aakk<v><tv><rel><prf>\<sub\><nmlz><sing><fem><obl>+ni<post>$
+[/9uJ4yi0JQRFT]
+[AJWOEVRk4trU#0] ^akkamissidosona/akkamm<v><tv>\<cau\><p3><plr><prf>$
+[/AJWOEVRk4trU]
+[BRB1EY15K9hW#0] ^aalissiyora/aal<v><iv>\<cau\><rel>\<impf\>\<nsub\><nmlz><sing><fem><nom>/aal<v><iv>\<cau\><p1><plr><intr><imfr>\<and\>$
+[/BRB1EY15K9hW]
+[BhnXgWCedQnO#0] ^aalissiyoree/aal<v><iv>\<cau\><rel>\<impf\>\<nsub\><nmlz><sing><fem><voc>$
+[/BhnXgWCedQnO]
+[BzqTACoZS-kk#0] ^aattidori/*aattidori$
+[/BzqTACoZS-kk]
+[DFO6o-h-f5H-#0] ^aammotiyogeetu/aammot<v><iv><rel>\<impf\>\<nsub\><nmlz><plr><masc><obl>$
+[/DFO6o-h-f5H-]
+[EHJG55qqAalI#0] ^aattidorikko/*aattidorikko$
+[/EHJG55qqAalI]
+[EcPLne2MF9tT#0] ^aissaro/ak<v><iv>\<cau\><rel><prf>\<sub\><nmlz><sing><fem><abs>$
+[/EcPLne2MF9tT]
+[EkKWhI1hmVVQ#0] ^aawatagoo/aawat<v><tv><rel><prf>\<sub\><nmlz><sing><masc><voc>$
+[/EkKWhI1hmVVQ]
+[F56qGGfPdVQN#0] ^awaajjoppona/awaajj<v><tv><p3><sing><neg><opt>$
+[/F56qGGfPdVQN]
+[FI8X5Qp_-Lao#0] ^afuxissiyagaa/afuxx<v><iv>\<cau\><rel>\<impf\>\<sub\><nmlz><sing><masc><abs>/afuxx<v><iv>\<cau\><rel>\<impf\>\<sub\><nmlz><sing><masc><obl>$
+[/FI8X5Qp_-Lao]
+[FZM5klqJvkZG#0] ^aggidi/agg<v><tv><longcnvb><p1><plr>/agg<v><tv><longcnvb><p2><plr>/agg<v><tv><longcnvb><p3><plr>/agg<v><tv><longcnvb><p3><sing><masc>$
+[/FZM5klqJvkZG]
+[FlXKfDFmPIZv#0] ^anjissiyogaani/anjj<v><iv>\<cau\><rel>\<impf\>\<nsub\><nmlz><sing><masc><obl>+ni<post>/anjj<v><tv>\<cau\><rel>\<impf\>\<nsub\><nmlz><sing><masc><obl>+ni<post>$
+[/FlXKfDFmPIZv]
+[FpZgwlRoK8x2#0] ^aammotiyogeetussi/aammot<v><iv><rel>\<impf\>\<nsub\><nmlz><plr><masc><obl>+ssi<post>$
+[/FpZgwlRoK8x2]
+[HLz-qJNXaJfP#0] ^aissarippe/ak<v><iv>\<cau\><rel><prf>\<sub\><nmlz><sing><fem><obl>+ppe<post>$
+[/HLz-qJNXaJfP]
+[HTlUHOQGobCv#0] ^aalissiyogoo/aal<v><iv>\<cau\><rel>\<impf\>\<nsub\><nmlz><sing><masc><voc>$
+[/HTlUHOQGobCv]
+[IFOOWMV9h8ss#0] ^aawatara/aaw<n><masc><con><plr><abs>+ra<post>/aawat<v><tv><rel><prf>\<sub\><nmlz><sing><fem><nom>/aawat<v><tv><p2><sing><opt>\<and\>/aawat<v><tv><shortcnvb><p1><sing>\<and\>/aawat<v><tv><shortcnvb><p2><sing>\<and\>/aawat<v><tv><shortcnvb><p3><sing><fem>\<and\>$
+[/IFOOWMV9h8ss]
+[IQPEqQVJbj8v#0] ^agiis/ag<v><tv><p3><sing><masc><prf>$
+[/IQPEqQVJbj8v]
+[JJVBY75FMWs7#0] ^awaajjo/awaajj<n><masc><noncon><abs>/awaajj<n><masc><noncon><obl>/awaajj<v><tv><p3><sing><masc><opt>/awaajj<v><tv><rel><prf>\<nsub\>$
+[/JJVBY75FMWs7]
+[JYrrSJitC1KM#0] ^aawataree/aaw<n><masc><con><plr><abs>+ree<post>/aawat<v><tv><rel><prf>\<sub\><nmlz><sing><fem><voc>$
+[/JYrrSJitC1KM]
+[K24g7AH0lBuu#0] ^awaajjokkonaa/awaajj<v><tv><p3><plr><neg><intr><imfr>$
+[/K24g7AH0lBuu]
+[KrLCGiNWaBen#0] ^aassarissi/aass<v><tv><rel><prf>\<sub\><nmlz><sing><fem><obl>+ssi<post>/aakk<v><tv><rel><prf>\<sub\><nmlz><sing><fem><obl>+ssi<post>$
+[/KrLCGiNWaBen]
+[KtUWnpT2JA21#0] ^anjissiyogeetoo/anjj<v><iv>\<cau\><rel>\<impf\>\<nsub\><nmlz><plr><masc><voc>/anjj<v><tv>\<cau\><rel>\<impf\>\<nsub\><nmlz><plr><masc><voc>$
+[/KtUWnpT2JA21]
+[LOP6_urx6eJm#0] ^awaajjoosona/awaajj<v><tv><p3><plr><imfr>$
+[/LOP6_urx6eJm]
+[LlYWVIB5k-2T#0] ^afuxissiyageetoo/afuxx<v><iv>\<cau\><rel>\<impf\>\<sub\><nmlz><plr><masc><voc>$
+[/LlYWVIB5k-2T]
+[LxtDumdlnSYK#0] ^aattidoree/*aattidoree$
+[/LxtDumdlnSYK]
+[MYfUSvX2ziD-#0] ^aissaridaani/*aissaridaani$
+[/MYfUSvX2ziD-]
+[N0Pi32x1L3uz#0] ^akkamissoosona/akkamm<v><tv>\<cau\><p3><plr><imfr>$
+[/N0Pi32x1L3uz]
+[NZHpycwqb7kQ#0] ^awaajjoppo/awaajj<v><tv><p3><sing><masc><neg><opt>$
+[/NZHpycwqb7kQ]
+[O22b3UXwVlUD#0] ^awaajjiisi/awaajj<v><tv><p3><sing><masc><prf>$
+[/O22b3UXwVlUD]
+[PoQV4XcCrSNB#0] ^aggabeikke/agg<v><tv><p1><sing><neg><prf>$
+[/PoQV4XcCrSNB]
+[Qm6Oks-eioAn#0] ^aawatari/aawat<v><tv><rel><prf>\<sub\><nmlz><sing><fem><obl>/aawat<v><tv><rel><prf>\<sub\><nmlz><sing><fem><inter>$
+[/Qm6Oks-eioAn]
+[RCxzqFZ82gUL#0] ^awaajjuppu/awaajj<v><tv><p3><sing><fem><neg><opt>$
+[/RCxzqFZ82gUL]
+[RRqFtVHrGhHt#0] ^aggaas/agg<v><tv><p1><sing><prf>$
+[/RRqFtVHrGhHt]
+[Rrw0LrPcX4Zf#0] ^aattidogee/aatt<v><tv><p1><plr><intr><prf>\<and\>$
+[/Rrw0LrPcX4Zf]
+[TrHw3wfAc9Eg#0] ^awaajju/awaajj<v><tv><p3><sing><fem><opt>$
+[/TrHw3wfAc9Eg]
+[UOcc4_XgGV99#0] ^akkamissii/akkamm<v><tv>\<cau\><p3><sing><masc><intr><imfr>$
+[/UOcc4_XgGV99]
+[VLaXmGBC4ZyR#0] ^aacetta/aac<v><iv>\<pass\><p2><sing><opt>/aac<v><iv>\<pass\><shortcnvb><p1><sing>/aac<v><iv>\<pass\><shortcnvb><p2><sing>/aac<v><iv>\<pass\><shortcnvb><p3><sing><fem>/aac<v><iv>\<pass\><rel><prf>\<sub\>$
+[/VLaXmGBC4ZyR]
+[WHjn68IfvMVv#0] ^aassarira/aass<v><tv><rel><prf>\<sub\><nmlz><sing><fem><obl>+ra<post>/aakk<v><tv><rel><prf>\<sub\><nmlz><sing><fem><obl>+ra<post>/aass<v><tv><rel><prf>\<sub\><nmlz><sing><fem><inter>\<and\>/aakk<v><tv><rel><prf>\<sub\><nmlz><sing><fem><inter>\<and\>$
+[/WHjn68IfvMVv]
+[WRECp3STcn-K#0] ^anjissiyogaa/anjj<v><iv>\<cau\><rel>\<impf\>\<nsub\><nmlz><sing><masc><abs>/anjj<v><iv>\<cau\><rel>\<impf\>\<nsub\><nmlz><sing><masc><obl>/anjj<v><tv>\<cau\><rel>\<impf\>\<nsub\><nmlz><sing><masc><abs>/anjj<v><tv>\<cau\><rel>\<impf\>\<nsub\><nmlz><sing><masc><obl>$\$
+[/WRECp3STcn-K]
+[WeoCxlhI87Zr#0] ^aafotissibeenna/aafot<v><iv>\<cau\><p3><sing><masc><neg><prf>/aafot<v><iv>\<cau\><rel>$
+[/WeoCxlhI87Zr]
+[WsioY3MJ8yW_#0] ^akkamissibeenna/akkamm<v><tv>\<cau\><p3><sing><masc><neg><prf>/akkamm<v><tv>\<cau\><rel>$
+[/WsioY3MJ8yW_]
+[XM2oDClldkj4#0] ^aggettennee/agg<v><tv><p1><plr><neg><intr><imfr>/agg<v><tv>\<pass\><p3><sing><masc><neg><intr><imfr>$
+[/XM2oDClldkj4]
+[Xh0vaFDIFg9R#0] ^aalissiyori/aal<v><iv>\<cau\><rel>\<impf\>\<nsub\><nmlz><sing><fem><obl>/aal<v><iv>\<cau\><rel>\<impf\>\<nsub\><nmlz><sing><fem><inter>$
+[/Xh0vaFDIFg9R]
+[YA3p62xzOhp2#0] ^aalissiyorikko/aal<v><iv>\<cau\><rel>\<impf\>\<nsub\><nmlz><sing><fem><obl>+kko<post>$
+[/YA3p62xzOhp2]
+[YV-okjOUHdNv#0] ^ashshiyageetussi/ashsh<v><tv><rel>\<impf\>\<sub\><nmlz><plr><masc><obl>+ssi<post>/att<v><tv><rel>\<impf\>\<sub\><nmlz><plr><masc><obl>+ssi<post>$
+[/YV-okjOUHdNv]
+[_TybjNQytuRt#0] ^aassaridaani/*aassaridaani$
+[/_TybjNQytuRt]
+[_gwgnS8s1K6V#0] ^awaajjona/awaajj<v><tv><p3><sing><opt>$
+[/_gwgnS8s1K6V]
+[aII57c3XGIGo#0] ^aawatagee/aawat<v><tv><rel><prf>\<sub\><nmlz><sing><masc><inter>/aawat<v><tv><rel><prf>\<sub\><nmlz><sing><masc><nom>/aawat<v><tv><p2><sing><opt>\<and\>/aawat<v><tv><shortcnvb><p1><sing>\<and\>/aawat<v><tv><shortcnvb><p2><sing>\<and\>/aawat<v><tv><shortcnvb><p3><sing><fem>\<and\>$
+[/aII57c3XGIGo]
+[cHCOVw0CzCgA#0] ^azalssidi/azalss<v><tv><longcnvb><p1><plr>/azalss<v><tv><longcnvb><p2><plr>/azalss<v><tv><longcnvb><p3><plr>/azalss<v><tv><longcnvb><p3><sing><masc>$
+[/cHCOVw0CzCgA]
+[cROcHZliiFPX#0] ^aassara/aass<v><tv><rel><prf>\<sub\><nmlz><sing><fem><nom>/aakk<v><tv><rel><prf>\<sub\><nmlz><sing><fem><nom>/aa<prn><obl><p3><masc><sing>+ssa<post>\<and\>/aass<v><tv><p2><sing><opt>\<and\>/aass<v><tv><shortcnvb><p1><sing>\<and\>/aass<v><tv><shortcnvb><p2><sing>\<and\>/aakk<v><tv><p2><sing><opt>\<and\>/aakk<v><tv><shortcnvb><p1><sing>\<and\>/aakk<v><tv><shortcnvb><p2><sing>\<and\>/aass<v><tv><shortcnvb><p3><sing><fem>\<and\>/aakk<v><tv><shortcnvb><p3><sing><fem>\<and\>$
+[/cROcHZliiFPX]
+[cTVUXVTXMJjg#0] ^arggaacissana/arggaac<v><iv>\<cau\><fut>/arggaac<v><iv>\<cau\><rel><fut>$
+[/cTVUXVTXMJjg]
+[dAS9CBeIgz19#0] ^aammotiyogeetukko/aammot<v><iv><rel>\<impf\>\<nsub\><nmlz><plr><masc><obl>+kko<post>$
+[/dAS9CBeIgz19]
+[dR98juU0vgXG#0] ^aattidogoo/*aattidogoo$
+[/dR98juU0vgXG]
+[eaWU7Jd3aRA4#0] ^aissarikko/ak<v><iv>\<cau\><rel><prf>\<sub\><nmlz><sing><fem><obl>+kko<post>$
+[/eaWU7Jd3aRA4]
+[fuaqvXo5us9X#0] ^akkamissiyonaa/akkamm<v><tv>\<cau\><p3><plr><intr><imfr>$
+[/fuaqvXo5us9X]
+[gsXpXIaOs51Y#0] ^ashshiyageetoo/ashsh<v><tv><rel>\<impf\>\<sub\><nmlz><plr><masc><voc>/att<v><tv><rel>\<impf\>\<sub\><nmlz><plr><masc><voc>$
+[/gsXpXIaOs51Y]
+[h0yBPvDXSUir#0] ^aammotiyogeetuni/aammot<v><iv><rel>\<impf\>\<nsub\><nmlz><plr><masc><obl>+ni<post>$
+[/h0yBPvDXSUir]
+[jdW-jVOX-lzX#0] ^anjissiyogaa/anjj<v><iv>\<cau\><rel>\<impf\>\<nsub\><nmlz><sing><masc><abs>/anjj<v><iv>\<cau\><rel>\<impf\>\<nsub\><nmlz><sing><masc><obl>/anjj<v><tv>\<cau\><rel>\<impf\>\<nsub\><nmlz><sing><masc><abs>/anjj<v><tv>\<cau\><rel>\<impf\>\<nsub\><nmlz><sing><masc><obl>$
+[/jdW-jVOX-lzX]
+[kO_7ZS2RzfkR#0] ^aassari/aass<v><tv><rel><prf>\<sub\><nmlz><sing><fem><obl>/aass<v><tv><rel><prf>\<sub\><nmlz><sing><fem><inter>/aakk<v><tv><rel><prf>\<sub\><nmlz><sing><fem><obl>/aakk<v><tv><rel><prf>\<sub\><nmlz><sing><fem><inter>$
+[/kO_7ZS2RzfkR]
+[lD6DRkSehpZB#0] ^azalssana/azalss<v><tv><fut>/azalss<v><tv><rel><fut>/azalss<v><tv><inf><noncon><abs>/azalss<v><tv><inf><noncon><obl>$
+[/lD6DRkSehpZB]
+[mieZUeCVtMj2#0] ^aammotiyogeetura/aammot<v><iv><rel>\<impf\>\<nsub\><nmlz><plr><masc><obl>+ra<post>$
+[/mieZUeCVtMj2]
+[nD5Bw5KAtxDj#0] ^aissarini/ak<v><iv>\<cau\><rel><prf>\<sub\><nmlz><sing><fem><obl>+ni<post>$
+[/nD5Bw5KAtxDj]
+[nGtVkANuF01R#0] ^azalssada/azalss<v><tv><longcnvb><p1><sing>/azalss<v><tv><longcnvb><p2><sing>/azalss<v><tv><longcnvb><p3><sing><fem>$
+[/nGtVkANuF01R]
+[nMBGjoiMBQ8X#0] ^aassarikko/aass<v><tv><rel><prf>\<sub\><nmlz><sing><fem><obl>+kko<post>/aakk<v><tv><rel><prf>\<sub\><nmlz><sing><fem><obl>+kko<post>$
+[/nMBGjoiMBQ8X]
+[nXnEkj-ZWVmd#0] ^aafotissiisi/aafot<v><iv>\<cau\><p3><sing><masc><prf>$
+[/nXnEkj-ZWVmd]
+[n_nuT4Izljcg#0] ^awaajjokkona/awaajj<v><tv><p3><plr><neg><imfr>$
+[/n_nuT4Izljcg]
+[otAm6Ikp_Giz#0] ^aassarippe/aass<v><tv><rel><prf>\<sub\><nmlz><sing><fem><obl>+ppe<post>/aakk<v><tv><rel><prf>\<sub\><nmlz><sing><fem><obl>+ppe<post>$
+[/otAm6Ikp_Giz]
+[oyP2yDJH3jSg#0] ^aissiyageetee/ak<v><iv>\<cau\><rel>\<impf\>\<sub\><nmlz><plr><masc><inter>$
+[/oyP2yDJH3jSg]
+[p45-ns9E5TX2#0] ^aattidogaadaani/*aattidogaadaani$
+[/p45-ns9E5TX2]
+[pAa_ZRuxHdII#0] ^awaajjukku/awaajj<v><tv><p3><sing><fem><neg><imfr>$
+[/pAa_ZRuxHdII]
+[qBoaW70eulCR#0] ^azalssaasi/azalss<v><tv><p1><sing><prf>$
+[/qBoaW70eulCR]
+[qRP0V1yXruFC#0] ^aammotiyogeetuppe/aammot<v><iv><rel>\<impf\>\<nsub\><nmlz><plr><masc><obl>+ppe<post>$
+[/qRP0V1yXruFC]
+[sTCWl9u5xGBy#0] ^aissarissi/ak<v><iv>\<cau\><rel><prf>\<sub\><nmlz><sing><fem><obl>+ssi<post>$
+[/sTCWl9u5xGBy]
+[szcC1OgZcYwY#0] ^anjissiyoge/*anjissiyoge$\$
+[/szcC1OgZcYwY]
+[tDCbuY-Zr6KT#0] ^aissiyageeta/ak<v><iv>\<cau\><rel>\<impf\>\<sub\><nmlz><plr><masc><abs>$
+[/tDCbuY-Zr6KT]
+[ue7kJSfsNYOe#0] ^afuxissiyageet/*afuxissiyageet$\$
+[/ue7kJSfsNYOe]
+[ulaRBrFJrbUz#0] ^aggibeokkonii/agg<v><tv><p1><plr><neg><intr><prf>$
+[/ulaRBrFJrbUz]
+[ur-xgyxkq5Zu#0] ^afuxissiyag/*afuxissiyag$\$
+[/ur-xgyxkq5Zu]
+[vGnh90liqQ4c#0] ^azalssanne/azalss<v><tv><intr><fut>/azalss<v><tv><p2><sing><opt>\<and\>/azalss<v><tv><shortcnvb><p1><sing>\<and\>/azalss<v><tv><shortcnvb><p2><sing>\<and\>/azalss<v><tv><shortcnvb><p3><sing><fem>\<and\>$
+[/vGnh90liqQ4c]
+[wrD8ZsxGzCeq#0] ^akkamissokkona/akkamm<v><tv>\<cau\><p3><plr><neg><imfr>$
+[/wrD8ZsxGzCeq]
+[x-iRDF8j1NWD#0] ^aggeettees/agg<v><tv><p1><plr><imfr>$
+[/x-iRDF8j1NWD]
+[xRNEjdnspBQS#0] ^aggays/agg<v><tv><p1><sing><imfr>$
+[/xRNEjdnspBQS]
+[y_zRMeuSSr54#0] ^awcayaissi/awcaya<v><iv>\<cau\><shortcnvb><p1><plr>/awcaya<v><iv>\<cau\><shortcnvb><p2><plr>/awcaya<v><iv>\<cau\><shortcnvb><p3><plr>/awcaya<v><iv>\<cau\><shortcnvb><p3><sing><masc>$\$
+[/y_zRMeuSSr54]
+[ykpZm2dmygZb#0] ^aissarira/ak<v><iv>\<cau\><rel><prf>\<sub\><nmlz><sing><fem><obl>+ra<post>/ak<v><iv>\<cau\><rel><prf>\<sub\><nmlz><sing><fem><inter>\<and\>$
+[/ykpZm2dmygZb]
+[ywgpJJloHXP9#0] ^akkamissidee/akkamm<v><tv>\<cau\><p3><sing><masc><intr><prf>$
+[/ywgpJJloHXP9]
+[z9WefJq5hXSy#0] ^akkamissokkonaa/akkamm<v><tv>\<cau\><p3><plr><neg><intr><imfr>$
+[/z9WefJq5hXSy]
+[zDx30c0BV84I#0] ^akkamissiisi/akkamm<v><tv>\<cau\><p3><sing><masc><prf>$
+[/zDx30c0BV84I]
+[zLtzVKwYErmw#0] ^aggabeikkinaa/agg<v><tv><p1><sing><neg><intr><prf>$
+[/zLtzVKwYErmw]
+[zenR_wdt2TIC#0] ^ashshiyageetura/ashsh<v><tv><rel>\<impf\>\<sub\><nmlz><plr><masc><obl>+ra<post>/att<v><tv><rel>\<impf\>\<sub\><nmlz><plr><masc><obl>+ra<post>$
+[/zenR_wdt2TIC]
+[zy-FfaTV12WZ#0] ^afuxissiyagee/afuxx<v><iv>\<cau\><rel>\<impf\>\<sub\><nmlz><sing><masc><inter>/afuxx<v><iv>\<cau\><rel>\<impf\>\<sub\><nmlz><sing><masc><nom>$\$
+[/zy-FfaTV12WZ]

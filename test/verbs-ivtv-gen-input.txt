@@ -1,0 +1,14 @@
+# [lexc] kk becomes ss when verb becomes transitive
+^aakk<v><iv><p3><sing><masc><prf>$
+^aakk<v><tv><p3><sing><masc><prf>$
+# [lexc] qq becomes ss when verb becomes transitive
+^aduqq<v><iv><p3><sing><masc><prf>$
+^aduqq<v><tv><p3><sing><masc><prf>$
+# [lexc] a few passive forms
+^imm<v><tv><p3><sing><masc><prf>$
+^imm<v><tv><pass><p3><sing><masc><prf>$
+^qachch<v><tv><p3><sing><masc><prf>$
+^qachch<v><tv><pass><p3><sing><masc><prf>$
+^m<v><tv><p3><sing><masc><prf>$
+^m<v><tv><cau><p3><sing><masc><prf>$
+^m<v><tv><pass><p3><sing><masc><prf>$

@@ -1,0 +1,11 @@
+# [twol] geminates reduce before -iss
+shamissikke
+# [twol] exceptional stems where geminate does not reduce before -iss
+azallissikke
+harummissikke
+# [twol] cc > sh before -iss
+kashissikke
+# [twol] loss of final consonant before -iss
+aissikke
+# [twol] mono-cononantal verbs double i in -iss
+giissikke
